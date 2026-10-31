@@ -1,0 +1,21 @@
+component                              eng shapes  hours  by name   by shape
+evaluation suite runner                 20      1   1200  platform  platform
+alert routes and runbook                20      2    480  platform  platform
+gateway adapter                         20      2    800  platform  platform
+estate adapter per cloud                20      4    600  platform  platform
+connector to the system of record       20     17   2400  platform  bespoke  <- differs
+audit log, hash-chained                 18      1    288  platform  platform
+gateway key refresh on 401              17      1    374  platform  platform
+shadow tap                              16      3    320  platform  platform
+sponsor dashboard                       14     13    420  platform  bespoke  <- differs
+upfront document quality gate           11      2    704  platform  platform
+permission-inheriting retrieval          9      3    360  platform  playbook  <- differs
+claims first-notice extraction           6      2    540  playbook  playbook
+referral packet intake, draft-only       5      2    550  playbook  playbook
+shipment document reconciliation         4      1    400  playbook  playbook
+KYC document review                      3      3    420  playbook  bespoke  <- differs
+claims-core write-back                   1      1    180  bespoke   bespoke
+permit rules engine                      1      1    160  bespoke   bespoke
+
+bespoke hours by class (shape rule): platform 4,766, playbook 1,850, bespoke 3,580
+rule: platform if built at >= 8 engagements with shapes/engagements <= 0.25; playbook if >= 3 and <= 0.50

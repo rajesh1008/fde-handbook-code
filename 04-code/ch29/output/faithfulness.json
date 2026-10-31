@@ -1,0 +1,32 @@
+{
+ "by": {
+  "procedure": [
+   165,
+   156
+  ],
+  "form or code": [
+   62,
+   62
+  ],
+  "version-sensitive": [
+   60,
+   59
+  ],
+  "cross-document": [
+   49,
+   48
+  ],
+  "not in the documents": [
+   0,
+   0
+  ]
+ },
+ "joan": {
+  "claims": 163,
+  "uns": 5,
+  "caught": 5,
+  "fa": 4
+ },
+ "rate": 0.9672619047619048,
+ "off": 0.8958333333333334
+}

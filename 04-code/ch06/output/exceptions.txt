@@ -1,0 +1,22 @@
+documents watched: 202 in 6 sessions, days 12 to 22
+left the happy path: 71 (35%)
+share of hands-on minutes spent on them: 65%
+by path (watched)   docs  exceptions  minutes on exceptions
+  P01 doc            74          20                    51%
+  P02 doc            13           2                    42%
+  P03 doc            32           9                    56%
+  P04 new            25           9                    68%
+  P05 new            13           9                    88%
+  P06 new            13           4                    54%
+  P07 new            17          10                    81%
+  P08 new             6           0                     0%
+  P09 new             2           2                   100%
+  P10 new             7           6                    95%
+exception kinds, most common first
+   23  existing claim, not new
+   15  policy number missing or unreadable
+    9  loss date missing
+    8  wrong line of business
+    7  duplicate via a second door
+    5  several claims in one envelope
+    4  not a claim

@@ -1,0 +1,24 @@
+disagreements by cause and band (adjudicated by Lena Ortiz, days 154 and 155)
+cause                               proceed  review  escal.  none  silent
+other agent error                        22      63      40     0       4
+equivalent format                        35      20       6     0       0
+clerk keying error, agent right          30      18       4     0       0
+broker template, date received           19      19       0     0      19
+rotated fax, no intake record             0       0       0    13      13
+
+silent agent errors by intake day (the ones that block exit)
+day   template  rotated  other  proceed-band docs
+142          0        2      0      144
+143          4        4      0      145
+144          1        2      1      152
+145          2        1      1      149
+146          4        0      0      155
+149          3        4      0      139
+150          5        0      0      164
+151          0        0      1      148
+152          0        0      0      161
+153          0        0      1      137
+clean intake days after fix: rotated fax, no intake record (fix day 150): 4
+clean intake days after fix: broker template, date received (fix day 151): 3
+silent on proceed, whole window: 23 of 1494 = 1.54% (1.03% to 2.30%)
+silent on proceed, days 151 to 153: 2 of 446 = 0.45% (0.12% to 1.62%)

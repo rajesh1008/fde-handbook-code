@@ -1,0 +1,31 @@
+LIVE-INCIDENT DRILL  Pennant  mode v0  (night of production day 38; deterministic stand-in; Memphis time)
+time   workers  calls   429s  docs done  exhausted  recon queue  reconciled
+02:00       4     80      0         26          0            0          26
+02:04       8    160     70        148          0            0         148
+02:05       8    160     70        164          0            0         164
+02:10      12    240    180        195         63           26         169
+02:15      12    240    180        220        148           46         174
+02:20      12    240    180        245        233           66         179
+02:25      12    240    180        270        318           86         184
+02:30      12    240    180        295        403          106         189
+02:35      12    240    180        320        488          126         194
+02:40      12    240    180        345        573          146         199
+02:45      12    240    180        370        658          166         204
+02:50      12    240    180        395        743          186         209
+02:55      12    240    180        420        828          206         214
+03:00      12    240    180        445        913          226         219
+03:04      12    240    180        465        981          242         223
+timeline:
+  02:04  start    first 429s: 70 of 160 calls rejected (8 workers)
+  02:10  detect   page: documents completed below 40% of plan for 5 minutes
+  02:14  ack      ack: Northlight support on-call (primary on the page route)
+  02:19  step     runbook step 1: check the provider status page (green)
+  02:24  step     runbook step 2: 'on 429, wait and retry'; no change
+  02:31  step     escalate to the FDE; FDE joins on the pseudonymized view
+  02:40  step     FDE finds the stall: reconciliation queue flat, error messages at the head of three carriers
+  02:49  step     rollback approval: runbook names Jenna Ruiz; no answer
+  02:58  step     Rosa Delgado reached, briefed, approves rollback to shadow
+  03:04  step     Andre Willis (Pennant platform) rolls back to shadow
+  03:04  mitigate mitigated by rollback to shadow; live writes stopped
+time to detect 6 min   time to acknowledge 4 min   time to mitigate 60 min
+documents not reconciled when live writes stopped: 1917 of 2140 (to the clerks at the 06:00 shift)

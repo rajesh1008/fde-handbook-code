@@ -1,0 +1,6 @@
+referrals 200  red flags routed to a clinician 13
+  draft_prior_auth   allowed     187
+  message_patient    boundary      1
+  set_urgency        boundary      4
+  submit_prior_auth  boundary      4
+queue timeouts retried 5  drafts in the coordinators' queue 187  duplicate drafts 0

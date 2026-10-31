@@ -1,0 +1,125 @@
+{
+ "stem": "fig12-06",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch12/fig12_06_fivemoves.py",
+ "source_sha1": "f95cce0b7bf8",
+ "data": "04-code/ch12 lab",
+ "png_px": [
+  1650,
+  1110
+ ],
+ "rendered": "2026-10-31 20:18 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.7,
+ "aspect": 1.486,
+ "min_font_pt": 9.0,
+ "label_words": 15,
+ "contrast_pairs": [
+  [
+   "47 s",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "12 s",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "seconds spoken at 150 words a ",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "weak",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "strong",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "position",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "evidence",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "example",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "boundary",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "proof",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

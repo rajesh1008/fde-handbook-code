@@ -1,0 +1,19 @@
+ESCALATION  level 1 (dated ask to owner)  Caldwell Mutual  day 47
+request:      claims-core-readonly (read-only service account on the claims core)
+waiting:      42 days on Daniel Reyes / architecture review slot; agreed response time 30 days
+blocks:       integration tests (planned day 40, 7 days late); shadow feed (planned day 70, starts costing in 23 days)
+ask:          a slot on the architecture board agenda by day 52
+to:           Daniel Reyes
+if not by day 52: level 2 (sponsor, owner copied)
+rule:         42 days on the customer's side against an agreed 30
+
+ESCALATION  level 1 (dated ask to owner)  Caldwell Mutual  day 47
+request:      sample-storage-decision (where the sample is stored and for how long)
+waiting:      0 days on Priya Natarajan / answer storage question today; agreed response time 21 days
+blocks:       eval set v1 (planned day 48, starts costing in 1 day)
+ask:          a storage location and retention period for the sample by day 48
+to:           Priya Natarajan
+if not by day 48: level 2 (sponsor, owner copied)
+rule:         blocked work starts within 3 days
+
+quiet     adjuster-sso-group: 17 days on the customer's side; agreed 30; level 1 due day 60

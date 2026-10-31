@@ -1,0 +1,24 @@
+{
+ "rows": {
+  "budget exhausted": [
+   30,
+   3,
+   30,
+   0
+  ],
+  "conflicting sources": [
+   7,
+   5,
+   2,
+   2
+  ],
+  "no evidence": [
+   12,
+   12,
+   4,
+   0
+  ]
+ },
+ "escaped_on": 20,
+ "escaped_off": 23
+}

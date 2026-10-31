@@ -1,0 +1,2 @@
+  H1   support-ticket-attachments   PHI held by HelpdeskSaaS with no BAA or clause
+a: one screenshot attached to a support ticket is a new hop; the map catches it

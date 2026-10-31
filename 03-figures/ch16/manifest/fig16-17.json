@@ -1,0 +1,155 @@
+{
+ "stem": "fig16-17",
+ "kind": "diagram",
+ "tool": "hand-laid SVG (signature7.py)",
+ "style": "style.md",
+ "source": "03-figures/src/ch16/fig16_17_signature7.py",
+ "source_sha1": "f3d57eff981b",
+ "data": "signature7.STATES['ch16']",
+ "png_px": [
+  1650,
+  1988
+ ],
+ "rendered": "2026-10-31 19:28 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 6.625,
+ "aspect": 0.83,
+ "min_font_pt": 9.5,
+ "label_words": 32,
+ "contrast_pairs": [
+  [
+   "fieldkit 0.1.0: built",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "dashed arrow: imports",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "access.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "readiness.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "fixtures.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "engagement.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "deployment.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "cadence.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "escalation.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "datareadiness.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "histories.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "synthetic.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "representativeness",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "deid.py",
+   "#1e2329",
+   "#f9deda",
+   12.42
+  ],
+  [
+   "attack tests",
+   "#1e2329",
+   "#f9deda",
+   12.42
+  ],
+  [
+   "shadow.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "tap, canaries",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "sampling.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "strata, manifest",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "labs that import fieldkit",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Ch 16 lab",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "represent.py",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 12.05
+}

@@ -1,0 +1,8 @@
+documents with no currency printed: 140
+guess (currency of the country): wrong on 36 (26%), face value misstated 266,792.41
+ask (request to sender): answered 113 (81%), wrong 0, median wait 25 h, still open 27
+example request:
+  To: ap@harborline.example
+  Re: document P00543 (held at intake, scorer pennant-qs-1.0)
+  - currency missing: the ISO currency code of the invoice total (the country does not tell us)
+  We have not processed this document and will not estimate the missing values.

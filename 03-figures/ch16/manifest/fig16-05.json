@@ -1,0 +1,161 @@
+{
+ "stem": "fig16-05",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch16/fig16_05_tags.py",
+ "source_sha1": "0d51695745d3",
+ "data": "04-code/ch16/output/failure_no_exceptions.txt",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-10-31 19:28 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 9.0,
+ "label_words": 35,
+ "contrast_pairs": [
+  [
+   "81%  (14 docs)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "77%  (3 docs)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "76%  (8 docs)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "72%  (16 docs)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "70%  (1 docs)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "70%  (158 docs)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "65%  (2 docs)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "60%  (47 docs)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "synthetic 94%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "field accuracy on the real sam",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "75",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "no exception",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Spanish-language",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "agent sender",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "short or written date",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "no policy number",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "not a first notice",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "forwarded chain",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "faded scan",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

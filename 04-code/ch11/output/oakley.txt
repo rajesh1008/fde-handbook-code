@@ -1,0 +1,24 @@
+Sam Oakley's questions, asked day 5
+  theme                        asked  design  answered d40
+  data flow and storage            9       7             3
+  access and identity              8       6             3
+  logging and audit                6       4             2
+  model behavior and output        6       4             1
+  incident and breach              4       1             1
+  retention and deletion           4       1             1
+  subprocessors and contracts      4       0             0
+  total                           41      23            11
+  23 of 41 answers can change the design; asked at sign-off, each one is rework
+
+Stand-in plan model, 23 design-changing questions
+  approvers at sign-off: pilot projected day 179
+    build             day  20 to 105
+    security review   day 105 to 135
+    rework            day 135 to 169
+    re-review         day 169 to 179
+  approvers at design: pilot projected day 140
+    build             day  20 to 112
+    security clinics  day  30 to  41
+    final review      day 112 to 126
+    buffer            day 126 to 140
+  difference: 39 days, about $306,150 at the slip cost of $235,500 a month

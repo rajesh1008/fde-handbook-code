@@ -1,0 +1,95 @@
+{
+ "stem": "fig08-08",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch08/fig08_08_cost.py",
+ "source_sha1": "68caf46ea785",
+ "data": "04-code/ch08 lab fixtures",
+ "png_px": [
+  1650,
+  1110
+ ],
+ "rendered": "2026-10-31 20:07 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.7,
+ "aspect": 1.486,
+ "min_font_pt": 9.5,
+ "label_words": 21,
+ "contrast_pairs": [
+  [
+   "$82,194",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "$4,498",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "$2,361",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "dollars a month, 11,244 in-sco",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "$\\mathdefault{10^{2}}$",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "$\\mathdefault{10^{3}}$",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "$\\mathdefault{10^{4}}$",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "$\\mathdefault{10^{5}}$",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "$\\mathdefault{10^{6}}$",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "manual intake, measured",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "model ceiling, target",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "model estimate, vendor",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

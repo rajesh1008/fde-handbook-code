@@ -1,0 +1,6 @@
+transaction sets 312: envelope errors 4, unknown codes 3, parsed 305
+  e.g. 0154: SE01 says 7 segments, counted 6; unknown status code ZZ
+legs with an intraday status: 304
+reconciled with the 02:00 export: {'matched': 293, 'held': 0, 'missing': 2, 'extra': 0, 'mismatched': 9}
+  mismatched example: PL30023491/2 EDI 'delivered' vs TMS 'arrived'
+agreement on legs both sides know: 97.0%

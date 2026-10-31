@@ -1,0 +1,77 @@
+{
+ "stem": "fig22-04",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch22/fig22_04_thumb.py",
+ "source_sha1": "ab3eb97b5b59",
+ "data": "04-code/ch22/output/thumb.txt",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-10-31 21:15 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 10.0,
+ "label_words": 32,
+ "contrast_pairs": [
+  [
+   "photo of bill\nof lading\nRBLU32",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vision reader\nfills RBLU322211",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "first key\nresolves",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "matched to\nsibling",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "OCR zone\nconfidence 0.14",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "qs-1.1 holds;\ntwo keys",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "clerk reads\nthe crop",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v1, as run",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v2, day 133",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

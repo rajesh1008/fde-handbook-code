@@ -1,0 +1,155 @@
+{
+ "stem": "fig09-07",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch09/fig09_07_pennant_strip.py",
+ "source_sha1": "23b252d8fa32",
+ "data": "04-code/ch09 lab",
+ "png_px": [
+  1650,
+  1101
+ ],
+ "rendered": "2026-10-31 19:54 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.67,
+ "aspect": 1.499,
+ "min_font_pt": 9.0,
+ "label_words": 11,
+ "contrast_pairs": [
+  [
+   "01",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "02",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "03",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "layout",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "04",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "05",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "handwritten",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "06",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "07",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "08",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "09",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "11",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "12",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "email draft",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "13",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "14",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "deterministic",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "rules + guardrails",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "small model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "frontier model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

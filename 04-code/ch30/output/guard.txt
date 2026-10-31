@@ -1,0 +1,12 @@
+familiarity = share of a document's words seen in training; hold below 0.95
+  history test split         n=1200  min 1.000  p5 1.000  median 1.000  below threshold 0
+  Anne's set, in scope       n=723   min 1.000  p5 1.000  median 1.000  below threshold 0
+  Anne's set, out of scope   n=177   min 0.877  p5 1.000  median 1.000  below threshold 5
+  legal-60                   n=60    min 0.877  p5 0.878  median 0.885  below threshold 59
+
+Anne's set           held   5 {('attorney', 'unfamiliar'): 1, ('attorney', 'legal registry'): 4}
+                     right (true class): c06-ft1 833/900 -> with guard 838/900
+legal-60             held  60 {('attorney', 'legal registry'): 51, ('attorney', 'unfamiliar'): 9}
+                     right (true class): c06-ft1 3/60 -> with guard 60/60
+history test split   held   0 {}
+                     right (true class): c06-ft1 1161/1200 -> with guard 1161/1200

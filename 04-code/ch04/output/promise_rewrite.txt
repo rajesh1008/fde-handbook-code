@@ -1,0 +1,20 @@
+PROMISE LINT  Graham Lowell's four promises
+  REJECT  accuracy above 95% on Caldwell's documents
+            - accuracy with no named scorer at the customer
+            - accuracy with no document set and count
+            - accuracy with no denominator (fields? documents? auto-routed only?)
+  REJECT  live in production in under five months
+            - a date with no gate
+            - a date with no dependencies and owners
+  REJECT  no integration work on Caldwell's side
+            - quantifies over an inventory nobody has made
+  REJECT  works on any document Caldwell receives
+            - quantifies over an inventory nobody has made
+rejected 4 of 4
+
+REWRITTEN AS DEPLOYMENT CLAIMS
+  [proposed design] pass  was: accuracy above 95% on Caldwell's documents
+  [proposed design] pass  was: live in production in under five months
+  [decision required] pass  was: no integration work on Caldwell's side
+  [proposed design] pass  was: works on any document Caldwell receives
+rewritten claims passing: 4 of 4

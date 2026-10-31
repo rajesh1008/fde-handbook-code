@@ -1,0 +1,131 @@
+{
+ "stem": "fig47-11",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch47/fig47_11_hours.py",
+ "source_sha1": "d8d58ff44335",
+ "data": "04-code/ch47/output/absorb_ttp.txt; world.py HOURS",
+ "png_px": [
+  1650,
+  1200
+ ],
+ "rendered": "2026-11-01 01:57 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.0,
+ "aspect": 1.375,
+ "min_font_pt": 9.0,
+ "label_words": 15,
+ "contrast_pairs": [
+  [
+   "2,900",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1,640",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1,050",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "first four",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "months 11 to 14",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "months 15 to 18",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "FDE hours, signature to Live S",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "500",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1500",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2500",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3500",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "bespoke",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "playbook",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "platform",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

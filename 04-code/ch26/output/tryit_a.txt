@@ -1,0 +1,6 @@
+judge_v1,  25 expert-labeled documents for calibration: 59.7% (41.5% to 70.5%, width 28.9 points)
+judge_v1,  50 expert-labeled documents for calibration: 63.7% (54.3% to 71.1%, width 16.9 points)
+judge_v1, 100 expert-labeled documents for calibration: 66.6% (60.2% to 71.4%, width 11.2 points)
+judge_v2,  25 expert-labeled documents for calibration: 65.2% (60.5% to 69.2%, width 8.8 points)
+judge_v2,  50 expert-labeled documents for calibration: 68.6% (65.6% to 71.3%, width 5.7 points)
+judge_v2, 100 expert-labeled documents for calibration: 67.9% (64.8% to 70.8%, width 6.0 points)

@@ -1,0 +1,20 @@
+v1, day 57: 4 answers, 10 findings
+  identity / pre-production: not answered
+  logs / pre-production: not answered
+  where / production: no evidence the customer can check
+  where / production: no region named
+  where / pre-production: evidence lives with the vendor
+  where / pre-production: answered for by Northlight, not Caldwell
+  where / pre-production: no region named
+  logs / production: evidence lives with the vendor
+  logs / production: answered for by Northlight, not Caldwell
+  logs / production: no named readers and retention
+v2, day 63: 6 answers, 0 findings
+
+v2 as signed (question / phase: evidence Caldwell can look up)
+  where    / production    : account 111122223333, VPC nl-shadow
+  where    / pre-production: account 111122223333, us-east-1
+  identity / production    : arn:aws:iam::111122223333:role/nl-shadow-runner; svc-nl-claims-ro
+  identity / pre-production: SSO group nl-shadow-readers
+  logs     / production    : log group /caldwell/nl-shadow/runner
+  logs     / pre-production: log group /caldwell/nl-shadow/runner

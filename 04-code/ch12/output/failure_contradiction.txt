@@ -1,0 +1,19 @@
+response v0.9 (week 5): 30 claims, 2 errors, 3 warnings
+  ERROR BC-04 D-01 [V] ESTATE CLAIM WITH VENDOR STATUS
+       "Harbourline's document store keeps a version history for every file."
+       a vendor position written as a fact about the customer's estate
+  WARN BC-07 D-05 [F] ORAL FACT
+       "Harbourline's model gateway supports streaming responses, so drafted text appears in the credit officer's pane as it is written."
+       the RFP says only the written clarification log binds
+  ERROR BC-07 D-05 [F] CONTRADICTED
+       "Harbourline's model gateway supports streaming responses, so drafted text appears in the credit officer's pane as it is written."
+       CL-17 (round 1): Not in the current release. It is on the gateway roadmap with no committed date.
+  WARN BC-27 H-06 [V] NUMBER DEPENDS ON CUSTOMER SYSTEM
+       "Traces will reach the bank's SIEM within 5 minutes of the event."
+       the number rests on the customer's SIEM; no customer source for it
+  WARN BC-08 D-05 [V] AT RISK
+       "Drafted sections will begin to appear within 2 seconds."
+       a number in D-05, an answer with a contradicted claim
+  submission BLOCKED
+response v1.0 (submitted, week 6): 32 claims, 0 errors, 2 warnings
+  submission allowed (warnings need a written reason)

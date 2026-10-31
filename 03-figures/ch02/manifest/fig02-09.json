@@ -1,0 +1,125 @@
+{
+ "stem": "fig02-09",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch02/fig02_09_pilot_month.py",
+ "source_sha1": "bc2b2975a308",
+ "data": "04-code/ch02 lab fixtures",
+ "png_px": [
+  1650,
+  1200
+ ],
+ "rendered": "2026-10-31 18:55 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.0,
+ "aspect": 1.375,
+ "min_font_pt": 9.0,
+ "label_words": 29,
+ "contrast_pairs": [
+  [
+   "$29.2k a month",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "$235.5k a month",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "$23.5k a month",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "US dollars, thousands per mont",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "150",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "250",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "300",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Caldwell Mutual",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Greystone Health",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Pennant Logistics",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "FDE burn",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "model and hosting",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "subscription not yet billing",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

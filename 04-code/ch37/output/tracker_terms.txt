@@ -1,0 +1,18 @@
+GATE TRACKER  Caldwell Mutual  mode terms  (deterministic stand-in; numbers from Ch31 lab output)
+Shadow Exit  signer Anne Kessler  decided day 157
+  S-1  all                    met        84.0% (1,689/2,010; 82.4% to 85.6%)
+  S-1  first notice, email    met        97.6% (166/170; 94.1% to 99.1%)
+  S-1  first notice, fax      excluded   74.4% (372/500; 70.4% to 78.0%); out of scope by Anne Kessler, day 157
+  S-1  first notice, mail     accepted   79.4% (389/490; 75.6% to 82.7%); accepted by Anne Kessler, day 157
+  S-1  police report          met        91.8% (156/170; 86.7% to 95.0%)
+  S-1  repair estimate        met        90.6% (154/170; 85.3% to 94.1%)
+  S-1  medical bill           met        89.4% (152/170; 83.9% to 93.2%)
+  S-1  adjuster note          met        88.8% (151/170; 83.2% to 92.7%)
+  S-1  photo log              met        87.6% (149/170; 81.9% to 91.8%)
+  S-2  all                    met        83.9% (506/603; 80.8% to 86.6%)
+  S-3  all                    met        88.0% (2,121/2,410; 86.7% to 89.2%)
+  S-4  all                    met        1.1% (44/4,000; 0.8% to 1.5%)
+  S-5  all                    met        0.0% (0/964; 0.0% to 0.4%)
+  condition: fax first notices route to review until a fresh gold sample meets 80% (Anne Kessler, day 190)
+  condition: mail first notices re-measured on a fresh gold sample (Lena Ortiz, day 190)
+  status: passed with conditions

@@ -1,0 +1,7 @@
+b. Schedule A excerpt: 7 sentences, 6 commitments, 1 marketing (no obligation)
+   HA-01.1 deliverable   clean
+   HA-02.1 data          clean
+   HA-03.1 deliverable   clean
+   HA-04.1 service level UNMEASURABLE: missing unit, scorer, sample, window, remedy
+   HA-05.1 change        UNCONTROLLED INPUT: the provider's withdrawal schedule (controlled by the model provider)
+   HA-06.1 notice        clean

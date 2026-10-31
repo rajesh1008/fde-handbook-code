@@ -1,0 +1,36 @@
+case rule engagement               v0    v1    anti-pattern
+S01  R01  Greystone (last vendor)  FLAG  FLAG  The endless pilot (Ch11, told day 11)
+          v1: pilot running since day 0 with no signed exit rule
+S02  R02  Pennant                  PASS  FLAG  The sponsor-only engagement (Ch11, day 28)
+          v1: Jenna Ruiz holds 4 of 5 roles
+S03  R03  Caldwell                 FLAG  FLAG  The vendor-owned alert (Ch41, day 176)
+          v1: 1 alert route(s) to a vendor address: nl-caldwell-alerts@northlight.example
+S04  R04  Caldwell                 FLAG  FLAG  The accuracy promise (Ch34, day 137)
+          v1: CA-01 lacks measurer, documents, computation, interval
+S05  R05  Caldwell                 FLAG  FLAG  The agent that did arithmetic (Ch9, discovery)
+          v1: W3 is a frontier model step that performs arithmetic
+S06  R06  Caldwell                 FLAG  FLAG  The proposal that became a fact (Ch8, day 24)
+          v1: OD-4 sentence rose V->F between day -34 and day 24 with no evidence event
+S07  R07  Caldwell                 FLAG  FLAG  The aggregate that passed (Ch37, day 156)
+          v1: Shadow Exit passed on aggregate 84.0% (1,689/2,010); fax first notice 74.4% (70.4% to 78.0%) is below 80%
+S08  R08  Caldwell                 FLAG  FLAG  The vendor-scored accuracy (Ch26)
+          v1: 91% scored by Northlight on Northlight documents
+S09  R09  Caldwell                 FLAG  FLAG  The key read once (Ch18)
+          v1: key read once at start-up
+S10  R10  Caldwell                 FLAG  FLAG  The threshold nobody chose (Ch27)
+          v1: threshold router.proceed=0.98 has no named chooser
+S11  R11  Pennant                  FLAG  FLAG  The floating model alias (Ch20)
+          v1: extract (europe-west4) requests 'latest'
+S12  R12  Greystone                FLAG  FLAG  The drawn data map (Ch35)
+          v1: data map drawn by hand (5 flows), not generated
+S13  R13  Pennant                  FLAG  FLAG  The runbook only the vendor can run (Ch43, day 272)
+          v1: 8 step(s) in 4 runbook(s) need a vendor login
+S14  R14  Caldwell                 FLAG  FLAG  The evidence that cannot be rebuilt (Ch40, day 166)
+          v1: 0 of 40 decision packs reconstructable
+S15  R15  Pennant                  FLAG  FLAG  The playbook that assumed an API (Ch10, day 23)
+          v1: P-A2 needs TMS status API, not in the estate
+INJ  R02  Greystone                PASS  FLAG  The sponsor-only engagement (Ch11, day 2)
+          v1: no observed operator other than the sponsor (gated 0.40)
+
+stories flagged: v0 14 of 15, v1 15 of 15
+injected Greystone day-2 map: v0 PASS (naive score 0.80, sponsor named); v1 FLAG (no observed operator other than the sponsor (gated 0.40))

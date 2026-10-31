@@ -1,0 +1,2 @@
+catalog without V-118, compensate=True: outbox {'held': 13, 'verified': 139}  orphan shells 0  screen steps 444
+catalog without V-118, compensate=False: outbox {'held': 13, 'verified': 139}  orphan shells 12  screen steps 444

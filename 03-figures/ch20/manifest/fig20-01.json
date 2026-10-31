@@ -1,0 +1,101 @@
+{
+ "stem": "fig20-01",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch20/fig20_01_identity.py",
+ "source_sha1": "55b5e040ea92",
+ "data": "04-code/ch20/estate_configs.py and adapters.py",
+ "png_px": [
+  1650,
+  1200
+ ],
+ "rendered": "2026-10-31 20:49 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.0,
+ "aspect": 1.375,
+ "min_font_pt": 10.0,
+ "label_words": 32,
+ "contrast_pairs": [
+  [
+   "Caldwell, AWS",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "task role",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gateway key,\nsecret store",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Greystone, Azure",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "managed identity",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "token per call",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Pennant, Google Cloud",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "service account",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "short-lived token",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no key files anywhere in the c",
+   "#5a6f9c",
+   "#ffffff",
+   5.01
+  ]
+ ],
+ "min_contrast": 5.01
+}

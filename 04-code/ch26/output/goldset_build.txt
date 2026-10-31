@@ -1,0 +1,22 @@
+gold-set-300: drawn by Natarajan (claims system query), plan signed by Kessler on day 59
+  medical bill           drawn  44  weight 1.19
+  adjuster note          drawn  44  weight 1.12
+  photo log              drawn  45  weight 1.10
+  police report          drawn  44  weight 1.02
+  repair estimate        drawn  40  weight 1.01
+  first notice, email    drawn  34  weight 1.01
+  first notice, fax      drawn  29  weight 0.67
+  first notice, mail     drawn  20  weight 0.45
+  split: 99 development (rubric and judge tuning), 201 held out (reported numbers)
+
+14-day rule on the claims record behind each document (age at labeling, days 66 to 83)
+  ready at labeling: 244   held until the record is 14 days old: 56
+  coded values that changed while held: 9 of 112 (8.0%); each would have been a wrong gold value
+
+expert hours (stand-in plan: 6 min to score one document's ten fields, 4 min to adjudicate one)
+  calibration, two rounds (40 docs, 3 people)    all three               24.0 h
+  labeling, one adjuster per document (300)      Whitfield, Ortiz        30.0 h
+  second label on every fifth document (60)      the other adjuster       6.0 h
+  adjudication of 36 disagreements               Kessler                  2.4 h
+  two rubric meetings (60 min, 3 people)         all three                6.0 h
+  total                                                                  68.4 h  over three weeks, about 7.6 h per person per week

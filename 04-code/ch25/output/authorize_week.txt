@@ -1,0 +1,7 @@
+documents 1190  calls proposed 1205
+  attach_document  denied:boundary         35
+  create_claim     denied:boundary          1
+  draft_claim      allowed               1151
+  draft_claim      denied:protected         8
+  draft_claim      denied:values           10
+denied 54  (4.5% of calls); allowed calls needing a person: 0 (drafts only in prod)

@@ -1,0 +1,12 @@
+{"author": "Graham Lowell", "closed_day": null, "day": 1, "kind": "promise", "source": "sales cycle, repeated at kickoff", "text": "Accuracy above 95% on Caldwell's documents.", "verifier": ""}
+{"author": "Graham Lowell", "closed_day": null, "day": 1, "kind": "promise", "source": "sales cycle, repeated at kickoff", "text": "Live in production in under five months.", "verifier": ""}
+{"author": "Graham Lowell", "closed_day": null, "day": 1, "kind": "promise", "source": "sales cycle, repeated at kickoff", "text": "No integration work on Caldwell's side.", "verifier": ""}
+{"author": "Graham Lowell", "closed_day": null, "day": 1, "kind": "promise", "source": "sales cycle, repeated at kickoff", "text": "Works on any document Caldwell receives.", "verifier": ""}
+{"author": "Daniel Reyes", "closed_day": null, "day": 1, "kind": "fact", "source": "kickoff", "text": "Two earlier pilots stopped at the security review.", "verifier": ""}
+{"author": "Anne Kessler", "closed_day": null, "day": 1, "kind": "fact", "source": "kickoff", "text": "First notice arrives by mail, fax and email; mail is scanned and stamped received in the mailroom.", "verifier": ""}
+{"author": "Northlight FDE", "closed_day": null, "day": 3, "kind": "ask", "source": "email", "text": "Email asking for 'a representative export of claims data'; forwarded six times.", "verifier": ""}
+{"author": "Priya Natarajan", "closed_day": null, "day": 4, "kind": "question", "source": "architecture review", "text": "Where does it run? Whose identity does it use? Who sees the logs?", "verifier": ""}
+{"author": "Priya Natarajan", "closed_day": null, "day": 4, "kind": "finding", "source": "architecture review", "text": "Ten Caldwell documents were processed on a Northlight laptop through Northlight's own model-provider account, outside Caldwell's gateway.", "verifier": ""}
+{"author": "Northlight FDE", "closed_day": null, "day": 5, "kind": "plan", "source": "", "text": "Answer Priya Natarajan's three questions in writing.", "verifier": ""}
+{"author": "Northlight FDE", "closed_day": null, "day": 5, "kind": "plan", "source": "", "text": "Agree the scoring rule and the gold-set owner with Anne Kessler.", "verifier": ""}
+{"author": "Northlight FDE", "closed_day": null, "day": 5, "kind": "plan", "source": "", "text": "Replace the day-3 email with named, tracked requests.", "verifier": ""}

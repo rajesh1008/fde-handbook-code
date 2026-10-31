@@ -1,0 +1,9 @@
+turn t1: Claim CL-2026-118204 is open, water loss; cause code not set, so V-118 blocks the reserve. Policy HO-7731-0442 in force, deductible $1,000. 1 prior loss in five years; 3 documents, 4 photos.
+    sources: claims-core, fnol-docs, loss-history, policy-admin, retrieval, rules-catalog | pass: 3 facts traced to source records | audit 3775054400bd
+turn t2: Claim status not available from claims-core within 2.5 s; shown as of the last sync. Policy HO-7731-0442 in force, deductible $1,000. 1 prior loss in five years; 3 documents, 4 photos. [partial: claims-core]
+    sources: fnol-docs, loss-history, policy-admin, retrieval, rules-catalog | pass: 3 facts traced to source records | audit 0f898c1b0c83
+turn t3: [shadow] Open claim in claims-core | Open policy | Ask a colleague
+calls across the boundary: 3 for 3 turns
+option D (orchestration in the suite) would make 14 crossings per turn, 42 for 3 turns
+broker: {'exchanged': 6, 'cache_hit': 12}
+audit record t3: {"audit_id": "7f864167ee4e", "turn": "t3", "user": "tom.whitfield@caldwellmutual.com", "mode": "shadow", "sources": {"policy-admin": "api://caldwell-policy", "claims-core": "api://caldwell-claims", "retrieval": "api://nl-retrieval", "loss-history": "api://caldwell-dw", "rules-catalog": "api://caldwell-rules", "fnol-docs": "api://caldwell-docs"}, "partial": [], "verification": "pass: 3 facts traced to source records", "ms": 2840}

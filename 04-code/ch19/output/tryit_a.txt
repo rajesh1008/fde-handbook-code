@@ -1,0 +1,2 @@
+low=0.6: night 23 (18,200 rows) -> refused ['volume 18200 is 0.48 of trailing median 38268']
+low=0.4: night 23 (18,200 rows) -> accepted []

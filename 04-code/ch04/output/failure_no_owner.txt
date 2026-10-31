@@ -1,0 +1,24 @@
+FAILURE INJECTION  owners removed from a system that is otherwise ready
+DEPLOYMENT READINESS  Caldwell Mutual, projected  day 140
+  naive weighted score   0.94  READY
+  gated score            0.94  READY
+  capability         0.90
+  workflow           0.90
+  controls           1.00
+  ownership          1.00
+  reconstructability 0.90
+
+DEPLOYMENT READINESS  Caldwell Mutual, projected, owners removed  day 140
+  naive weighted score   0.94  READY
+  gated score            0.78  NOT READY
+  capability         0.90
+  workflow           0.90
+  controls           1.00
+  ownership          0.20
+  reconstructability 0.90
+  BLOCKING own-exec (ownership): owner is not a named person (Claims Operations)
+  BLOCKING own-operations (ownership): owner is not a named person (TBD)
+  BLOCKING own-model-risk (ownership): owner is not a named person (Model Risk Committee)
+  discounted own-override: claimed held, owner is not a named person (blank)
+
+naive score moved +0.00; gated score moved -0.16; verdict READY -> NOT READY

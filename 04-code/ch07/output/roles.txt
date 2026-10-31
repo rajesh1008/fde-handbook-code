@@ -1,0 +1,4 @@
+data owner          40 questions   46.5 min planned  vendor or proposed expected answers 13  top: Is the claims mart one row per claim?
+security lead       10 questions   13.0 min planned  vendor or proposed expected answers  7  top: Which identity will the agent's claims-core reads run under?
+model-risk officer   8 questions    9.2 min planned  vendor or proposed expected answers  6  top: What evidence does model-risk review need before shadow mode?
+operator             8 questions   10.0 min planned  vendor or proposed expected answers  0  top: How do you tell a new claim from correspondence?

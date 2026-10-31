@@ -1,0 +1,28 @@
+person            disc decomp  build   eval  integ    gov   comm   judg
+lead FDE             3      3      2      2      3      3      3      3
+Callum Reid          2      3      2      1      3      2      3      2
+Sofia Brennan        1      2      3      3      1      1      2      2
+Jonah Webb           0      2      3      2      2      1      1      1
+Maya Brooks          3      2      2      2      2      2      3      3
+Aisha Rahman         3      2      1      2      1      3      2      2
+Leo Martens          3      2      2      2      2      1      3      2
+Imogen Clarke        2      3      3      2      2      2      2      2
+
+month 7 (six): level-3 holders per competency: disc 3, decomp 2, build 2, eval 1, integ 2, gov 2, comm 3, judg 2
+  single holder: evaluation -> Sofia Brennan (Northlight)
+  concentration: lead FDE (Northlight) holds 6 of 8 capabilities
+  concentration: Maya Brooks (Northlight) holds 3 of 8 capabilities
+  concentration: Callum Reid (Northlight) holds 3 of 8 capabilities
+
+month 11 (four): level-3 holders per competency: disc 2, decomp 2, build 1, eval 1, integ 2, gov 2, comm 2, judg 1
+  single holder: build -> Sofia Brennan (Northlight)
+  single holder: evaluation -> Sofia Brennan (Northlight)
+  single holder: judgment -> lead FDE (Northlight)
+  concentration: lead FDE (Northlight) holds 6 of 8 capabilities
+  concentration: Callum Reid (Northlight) holds 3 of 8 capabilities
+
+month 12 (six): level-3 holders per competency: disc 3, decomp 3, build 2, eval 1, integ 2, gov 2, comm 3, judg 1
+  single holder: evaluation -> Sofia Brennan (Northlight)
+  single holder: judgment -> lead FDE (Northlight)
+  concentration: lead FDE (Northlight) holds 6 of 8 capabilities
+  concentration: Callum Reid (Northlight) holds 3 of 8 capabilities

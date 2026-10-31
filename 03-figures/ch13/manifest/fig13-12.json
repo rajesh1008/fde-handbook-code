@@ -1,0 +1,89 @@
+{
+ "stem": "fig13-12",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch13/fig13_12_accept_vs_approve.py",
+ "source_sha1": "17871ec3cee0",
+ "data": "04-code/ch13 lab fixtures",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:22 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 10.0,
+ "label_words": 24,
+ "contrast_pairs": [
+  [
+   "sprint acceptance",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "production approval",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "item owner",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gate owner",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "item criteria",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "evidence pack",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "one increment",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "whole system",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "every two weeks",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "once per release",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not\nequal",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

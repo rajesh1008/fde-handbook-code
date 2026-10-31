@@ -1,0 +1,7 @@
+requirements 46, evidence records 406, chain head 791a7203eff1
+verify: intact
+uncovered requirements: 3
+  R-44 adjuster sees why a field was routed (UI)
+  R-45 evidence pack readable by audit
+  R-46 rollback drill each quarter
+after editing record 200's verdict: chain breaks at record 201

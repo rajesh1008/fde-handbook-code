@@ -1,0 +1,77 @@
+{
+ "stem": "fig47-12",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch47/fig47_12_pod_loop.py",
+ "source_sha1": "db1279c67de2",
+ "data": "04-code/ch47/output/pod_loops.json (FK-N1 v1)",
+ "png_px": [
+  1650,
+  1380
+ ],
+ "rendered": "2026-11-01 01:58 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.6,
+ "aspect": 1.196,
+ "min_font_pt": 10.0,
+ "label_words": 38,
+ "contrast_pairs": [
+  [
+   "cost bound $25.00 a night at t",
+   "#7b4b83",
+   "#ffffff",
+   6.61
+  ],
+  [
+   "trigger\ncloud API changed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "run\nregenerate adapter",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "independent verification\nnl-pl",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "stop condition met?\n46 of 46, ",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "persisted state\noutside the re",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "intervention points\nthree name",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 6.61
+}

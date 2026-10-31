@@ -1,0 +1,19 @@
+CONTRACT-COMMITMENT EXTRACTOR  caldwell AI production addendum v5 (signed, day 149)
+  clauses 16  vendor commitments 14  customer obligations 1  no obligation 1
+  by kind: deliverable 3, service level 3, change 2, data 2, audit 1, exit 1, liability 1, staffing 1
+  findings: 0
+  CA-01.1  service level $    1,093  computed  credits: P(breach) 2.3% a month at 0.9% error
+  CA-02.1  service level $        0  computed  credits: 99.93% at the vendor service boundary -> met
+  CA-03.1  service level $   21,000  estimated business-hours one-hour rota, four hours otherwise
+  CA-04.1  staffing      $   21,000  estimated one engineer on site for 30 days (140 h)
+  CA-05.1  deliverable   $    6,000  estimated data feed and runbook for Caldwell's own report (40 h)
+  CA-06.1  change        $        0  estimated notice within two days of the provider's announcement
+  CA-06.2  change        $   30,000  estimated revalidation under the Ch33 plan before a change
+  CA-07.1  audit         $   18,000  estimated one audit a year plus regulator requests (120 h)
+  CA-08.1  exit          $        0  estimated transition assistance billed at the T&M rate
+  CA-09.1  liability     $   15,000  assumed   capped indemnity: increment over standard cover
+  CA-10.1  data          $   12,000  estimated deletion of Northlight-held data, certificate (80 h)
+  CA-11.1  deliverable   $    8,000  estimated train three supervisors as trainers (53 h)
+  CA-12.1  deliverable   $   10,000  estimated knowledge transfer to the support desk, scoped (67 h)
+  CA-15.1  data          $        0  measured  in-account processing: already the design (Ch17)
+  year-one revenue $1,800,000  cost $922,884  gross margin 48.7%   (forecast)

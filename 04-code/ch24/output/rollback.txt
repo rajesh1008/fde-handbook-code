@@ -1,0 +1,13 @@
+turns after the decision (4 h): 1795
+client-side flag only: answers shown after decision  52, last at + 174.3 min, brain evaluated 0 in shadow
+flag enforced in brain: answers shown after decision   3, last at +   0.4 min, shadow turns 1792
+cumulative answers shown, client-side: 0.5m=3 1m=5 2m=13 5m=21 10m=22 30m=22 60m=28 120m=46 180m=52 240m=52
+cumulative answers shown, in brain: 0.5m=3 1m=3 2m=3 5m=3 10m=3 30m=3 60m=3 120m=3 180m=3 240m=3
+rehearsal log, day 117 (minutes after decision):
+  + 0.0  decision by Priya Natarajan (rehearsal script R-3)
+  + 1.5  pre-approved standard change CHG-24-117 opened
+  + 2.2  mode set to shadow in the brain's config
+  + 2.7  brain answers stop; surfaces render the fallback card
+  + 3.6  synthetic probe from a test surface returns mode=shadow
+  + 5.4  pilot adjusters notified in the team channel
+  +41.0  shadow agreement still being recorded; roll forward rehearsed at +41 min

@@ -1,0 +1,20 @@
+Caldwell adjuster turn, 500 turns, six sources (deterministic stand-in, seed 24)
+per-source latency, ms (p50 / p95 over 2,000 samples):
+  policy-admin      606 /    989
+  claims-core      1398 /   2699
+  retrieval         703 /   1158
+  loss-history      900 /   1603
+  rules-catalog     297 /    451
+  fnol-docs         647 /   1046
+sequential (injected)      fan-out p50   4899 p95   6456 | turn p50   6079 p95   7636 ms | over 4 s 500/500
+parallel                   fan-out p50   1519 p95   2728 | turn p50   2699 p95   3908 ms | over 4 s  23/500
+parallel, timeout 2500     fan-out p50   1519 p95   2504 | turn p50   2699 p95   3684 ms | over 4 s   0/500
+sequential / parallel fan-out at p50: 3.2x
+slowest source in the parallel turns: claims-core 372, loss-history 87, retrieval 22, fnol-docs 13, policy-admin 6
+turns with a marked partial answer at 2500 ms: 44 (8.8%): claims-core 44
+cdf sequential: 4007 4933 5127 5273 5424 5529 5635 5783 5912 5992 6079 6165 6281 6414 6550 6657 6789 6928 7182 7636 9739
+cdf parallel: 1883 2100 2223 2278 2339 2409 2455 2510 2565 2639 2699 2783 2857 2923 3010 3111 3205 3380 3590 3908 6644
+cdf timeout: 1883 2100 2223 2278 2339 2409 2455 2510 2565 2639 2699 2783 2857 2923 3010 3111 3205 3380 3590 3684 3775
+one turn (turn 1), start-end ms per source:
+  sequential: policy-admin 0-920; claims-core 920-2946; retrieval 2946-3869; loss-history 3869-5279; rules-catalog 5279-5564; fnol-docs 5564-5960; total 7140
+  parallel: policy-admin 0-920; claims-core 0-2025; retrieval 0-924; loss-history 0-1410; rules-catalog 0-284; fnol-docs 0-396; total 3205

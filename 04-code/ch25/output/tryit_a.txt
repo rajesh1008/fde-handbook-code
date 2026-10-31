@@ -1,0 +1,4 @@
+lost 1 in 50: duplicates key-per-call   4  key-per-intent 0
+lost 1 in 20: duplicates key-per-call  10  key-per-intent 0
+lost 1 in 10: duplicates key-per-call  19  key-per-intent 0
+lost 1 in  5: duplicates key-per-call  38  key-per-intent 0

@@ -1,0 +1,89 @@
+{
+ "stem": "fig17-01",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch17/fig17_01_tenancy.py",
+ "source_sha1": "a3c3e94578c4",
+ "data": "04-code/ch17/output/tenancy.txt",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-10-31 21:11 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 10.0,
+ "label_words": 26,
+ "contrast_pairs": [
+  [
+   "vendor's shared service",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0 of 6",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor-hosted, single tenant",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1 of 6",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer's account, vendor dep",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4 of 6",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Caldwell, Pennant",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer's account, customer d",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "6 of 6",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Greystone, Harbourline",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "controls the customer holds",
+   "#5a6f9c",
+   "#ffffff",
+   5.01
+  ]
+ ],
+ "min_contrast": 5.01
+}

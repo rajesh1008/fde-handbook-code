@@ -1,0 +1,2 @@
+design changes now: 8 (was 9); answers set aside as not from the owner: 1
+  Q14: answered by data platform lead (platform); owner is the data owner; question stays open

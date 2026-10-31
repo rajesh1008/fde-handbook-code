@@ -1,0 +1,47 @@
+{
+ "stem": "fig03-10",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch03/figures.py",
+ "source_sha1": "6bf27462d7f1",
+ "data": null,
+ "png_px": [
+  1650,
+  1711
+ ],
+ "rendered": "2026-10-31 19:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 5.704,
+ "aspect": 0.964,
+ "min_font_pt": 9.5,
+ "label_words": 37,
+ "contrast_pairs": [
+  [
+   "day 3, as sent",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "subject: data for the pilot\nto",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "as a tracked request",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "key:      claims-sample-200\nru",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

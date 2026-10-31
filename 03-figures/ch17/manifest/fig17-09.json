@@ -1,0 +1,59 @@
+{
+ "stem": "fig17-09",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch17/fig17_09_revocation.py",
+ "source_sha1": "0e5adcc65f09",
+ "data": "chapter text (Pennant)",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 21:11 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.5,
+ "label_words": 29,
+ "contrast_pairs": [
+  [
+   "Pennant disables\nkey version",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "decrypt\ndenied",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "runner stops\nreads, says why",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "alert: Pennant\nand Northlight",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "new version,\nrunner resumes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "the customer's key is its off ",
+   "#5a6f9c",
+   "#ffffff",
+   5.01
+  ]
+ ],
+ "min_contrast": 5.01
+}

@@ -1,0 +1,39 @@
+CALDWELL YEAR-ONE GROSS MARGIN (forecast) beside two-year renewal-weighted gross profit, renewal 80%
+  stage                                         margin   year-one GP    year-two GP    two-year weighted
+  Ch2 field estimate (day 0)                     62.4%   $  1,123,946   $  1,206,000   $  2,088,746
+  day 136, before the addendum                   56.6%   $  1,019,210   $  1,206,000   $  1,984,010
+  v3 priced by v0 extractor (day 137)            17.9%   $    322,776   $    700,229   $    882,959
+  v3 priced honestly (day 138)                   -8.0%   $   -143,890   $    -99,771   $   -223,708
+  v5 as signed (day 149)                         48.7%   $    877,116   $  1,124,840   $  1,776,989
+
+WATERFALL v3 (day 138): base margin, then each commitment in order of size
+  base, day 136                                          56.6%
+  CA-01.1  credits: 3 of 4 readings miss; Caldwell choose   30.7%   -$466,667
+  CA-04.1  two engineers on site for 90 days (840 h)        23.7%   -$126,000
+  CA-09.1  uncapped indemnity: liability cover for year o   17.0%   -$120,000
+  CA-03.1  24x7 one-hour Severity 1 rota, four engineers,   11.7%   -$96,000
+  CA-06.1  forced migration, revalidation and dual runnin    6.4%   -$94,500
+  CA-02.1  credits: 99.71% at the adjuster console -> mis    1.3%   -$93,333
+  CA-08.1  six months of free transition assistance, prov   -1.0%   -$40,000
+  CA-12.1  knowledge transfer to the support desk (216 h)   -2.8%   -$32,400
+  CA-10.1  deletion including provider copies, attestatio   -4.3%   -$27,000
+  CA-05.1  monthly monitoring report, 24 h a month for 7    -5.7%   -$25,200
+  CA-11.1  train 14 adjusters and supervisors, runbooks (   -7.0%   -$24,000
+  CA-07.1  two audits with ten days' notice (120 h)         -8.0%   -$18,000
+
+WHAT LAURA FINCH TRADED (v3 -> v5, year-one cost)
+  CA-01.1  $  466,667 -> $    1,093   credits: P(breach) 2.3% a month at 0.9% error
+  CA-02.1  $   93,333 -> $        0   credits: 99.93% at the vendor service boundary -> met
+  CA-03.1  $   96,000 -> $   21,000   business-hours one-hour rota, four hours otherwise
+  CA-04.1  $  126,000 -> $   21,000   one engineer on site for 30 days (140 h)
+  CA-05.1  $   25,200 -> $    6,000   data feed and runbook for Caldwell's own report (40 h)
+  CA-06.1  $   94,500 -> $        0   notice within two days of the provider's announcement
+  CA-06.2  $        0 -> $   30,000   revalidation under the Ch33 plan before a change
+  CA-07.1  $   18,000 -> $   18,000   one audit a year plus regulator requests (120 h)
+  CA-08.1  $   40,000 -> $        0   transition assistance billed at the T&M rate
+  CA-09.1  $  120,000 -> $   15,000   capped indemnity: increment over standard cover
+  CA-10.1  $   27,000 -> $   12,000   deletion of Northlight-held data, certificate (80 h)
+  CA-11.1  $   24,000 -> $    8,000   train three supervisors as trainers (53 h)
+  CA-12.1  $   32,400 -> $   10,000   knowledge transfer to the support desk, scoped (67 h)
+  CA-15.1  $        0 -> $        0   in-account processing: already the design (Ch17)
+  total    $1,163,100 -> $  142,093

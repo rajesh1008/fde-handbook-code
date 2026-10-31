@@ -1,0 +1,4 @@
+60 min: 40 asked,  0 dropped, design changes lost: 0 
+45 min: 38 asked,  2 dropped, design changes lost: 0 
+30 min: 25 asked, 15 dropped, design changes lost: 0 
+20 min: 19 asked, 21 dropped, design changes lost: 3 Q14 Q15 Q16

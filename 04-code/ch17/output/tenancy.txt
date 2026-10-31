@@ -1,0 +1,10 @@
+options, least customer burden first:
+  vendor-shared      vendor's shared service                customer holds: nothing
+  vendor-dedicated   vendor-hosted, single tenant           customer holds: keys
+  customer-account   customer's account, vendor deploys     customer holds: network, identity, keys, logs
+  customer-operated  customer's account, customer deploys   customer holds: network, identity, keys, logs, change, incident
+
+Caldwell Mutual    requires 4 -> customer-account   vendor-shared would leave 4 with the vendor
+Greystone Health   requires 6 -> customer-operated  vendor-shared would leave 6 with the vendor
+Pennant Logistics  requires 3 -> customer-account   vendor-shared would leave 3 with the vendor
+Harbourline Bank   requires 6 -> customer-operated  vendor-shared would leave 6 with the vendor

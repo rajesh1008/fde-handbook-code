@@ -1,0 +1,22 @@
+system                 dir   surface                              kind            score  unknown
+caldwell claims-core   read  reporting replica view               db_view         0.82   -
+caldwell claims-core   read  nightly warehouse extract            file_export     0.61   change_notice
+caldwell claims-core   write first-notice screens FNOL-1/2        screen_robotic  0.39   -
+caldwell claims-core   write vendor bulk loader (fixed width)     batch_loader    0.23   owner,sample,failure_contact,change_notice
+caldwell intake        read  fax server folder                    file_export     0.59   failure_contact,change_notice
+caldwell intake        read  claims intake mailbox                mail            0.52   change_notice
+caldwell intake        read  scanning vendor SFTP drop            file_export     0.51   owner,failure_contact,change_notice
+greystone ehr          read  EHR print-to-file                    file_export     0.61   sample
+greystone ehr          read  EHR referral screens                 screen_robotic  0.23   sample,failure_contact
+greystone ehr          write EHR inbound document interface       queue           0.59   sample
+greystone intake       read  fax server drop                      file_export     0.59   sample,change_notice
+greystone payers       read  payer portals (status only)          screen_agent    0.00   owner,sample,failure_contact,change_notice
+pennant intake         read  scanned and photographed forms share file_export     0.59   failure_contact,change_notice
+pennant tms            read  nightly status CSV via MFT           file_export     0.61   change_notice
+pennant tms            read  carrier EDI 214 via VAN              queue           0.61   -
+pennant tms            write status update screen                 screen_robotic  0.18   sample,failure_contact,change_notice
+
+surfaces 16; open facts 27; surfaces with no named owner 3; with no failure contact 7
+best write path into caldwell claims-core: first-notice screens FNOL-1/2 (0.39)
+best read  path into pennant tms         : nightly status CSV via MFT (0.61)
+best write path into greystone ehr       : EHR inbound document interface (0.59)

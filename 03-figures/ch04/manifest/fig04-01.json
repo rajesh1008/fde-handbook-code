@@ -1,0 +1,257 @@
+{
+ "stem": "fig04-01",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch04/fig04_01_day2_scored_twice.py",
+ "source_sha1": "bd1271d935db",
+ "data": "04-code/ch03/output/day2_demo_score.txt (Chapter 3 lab; scorer Anne Kessler)",
+ "png_px": [
+  1650,
+  1380
+ ],
+ "rendered": "2026-10-31 19:17 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.6,
+ "aspect": 1.196,
+ "min_font_pt": 9.0,
+ "label_words": 29,
+ "contrast_pairs": [
+  [
+   "4",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "7",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "7",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "7",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "7",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "fields right, of 10 documents",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "intake_channel",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "other_party",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "police_report_ref",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "injury_reported",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "loss_location",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "loss_type",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "date_received",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "loss_date",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "claimant_name",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "policy_number",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "demo set, self-scored",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Caldwell, scored by Anne Kessl",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "72%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "53%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "43%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "demo set 98%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "email",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "fax",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "mail",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "fields right, %",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "75",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

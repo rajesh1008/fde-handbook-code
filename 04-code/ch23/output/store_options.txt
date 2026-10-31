@@ -1,0 +1,12 @@
+library: 713 files, 6,452 passages, 2,451,760 tokens at 380 per passage
+vectors: 1536 dimensions, 39.6 MB; embedding the whole library once: USD 0.05 (stand-in rate)
+re-embed event (pin replaced at most every 90 days): compute USD 0.05 + revalidation 6 h x USD 46 = USD 276.05
+
+option                               where vectors live       key holder  USD/month  USD/year incl. 4 re-embeds  status
+A vendor-hosted store                Northlight cloud         Northlight     450.00                     6504.20  refused (security, day 86); documents leave Caldwell's account
+B new managed vector service         Caldwell AWS us-east-1   Caldwell       700.00                     9504.20  deferred; new platform: architecture board, about six weeks
+C pgvector on approved PostgreSQL    Caldwell AWS us-east-1   Caldwell        38.00                     1560.20  chosen (signed day 86); extension added to an approved runtime
+
+embedding model: Caldwell gateway deployment embed-2026-02, pinned day 86 under app identity nl-index
+rule: vectors from two embedding versions never share an index; a new pin means a full re-embed into a second
+      index, Anne's question set re-run on it, and a switch only if recall at ten does not fall

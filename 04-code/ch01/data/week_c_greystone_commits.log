@@ -1,0 +1,5 @@
+328226f409|day 40|fde|Evaluation harness skeleton|evals/harness.py
+d5e1927123|day 41|fde|Harness: clinical rubric|evals/rubric.py
+b53409ec09|day 42|fde|De-identification checks|intake/deid.py
+190eb34449|day 43|fde|Run harness on sampled notes|evals/run_sampled.py
+6808d85ae0|day 44|fde|Runbook outline|docs/runbook/outline.md

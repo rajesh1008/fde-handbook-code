@@ -1,0 +1,10 @@
+floor 0.41, proceed 0.95; 3,000 fields
+ calibrated score fields model right error, shown error, keyed
+   0.00 to 0.20    134        5.2%        10.4%         0.7%
+   0.20 to 0.41     34       23.5%        14.7%         0.0%
+   0.41 to 0.70     91       58.2%         2.2%         0.0%
+   0.70 to 0.95    474       83.3%         1.5%         1.7%
+   0.95 to 1.00  2,267       99.3%         0.2%         0.4%
+
+below the floor a shown value is wrong more often than right, and reviewers on poor pages accept it;
+above the floor the suggestion is about as safe as keying and needs only a check

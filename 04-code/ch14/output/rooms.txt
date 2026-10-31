@@ -1,0 +1,21 @@
+Michael's room: 18 questions, 11 blocking
+Sam's room: 16 questions, 12 blocking
+
+M05 Who scores a draft as acceptable?
+   why:      an accuracy number needs a scorer
+   expected: two coordinators from different clinics, Hart breaks ties
+   edge:     coordinators who disagree on local rules
+   answer:   two coordinators from different clinics, Hart breaks ties (Michael Hart, day 16; direct customer fact)
+S05 When does the privacy board meet?
+   why:      the date we project depends on it
+   expected: monthly, complete submissions ten days ahead
+   edge:     a board that defers incomplete items
+   answer:   monthly, complete submissions ten days ahead (Sam Oakley, day 16; direct customer fact)
+M14 Can patients be identified without a record number?
+   why:      decides if matching is deterministic
+   expected: always via the record number
+   edge:     outside referrals with name and birth date only
+   answer:   no: faxed referrals often carry only name and birth date (referral coordinator, day 19; direct customer fact)
+
+Not answered by day 19: M16 How long should a draft take to review?; S12 Can drafts be stored, and for how long?
+Statuses of answers: direct customer fact 24, reconstructed from an artifact 5, vendor position 1, proposed design 2, decision required 0

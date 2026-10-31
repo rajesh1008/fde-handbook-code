@@ -1,0 +1,7 @@
+Your design adds a web console our standards prohibit. Why should we accept a deviation in year one?
+strong: 47 seconds spoken; problems: 0
+weak: 12 seconds spoken; problems: 4
+  missing example
+  missing boundary
+  proof names no artifact the panel can keep
+  evidence has no number

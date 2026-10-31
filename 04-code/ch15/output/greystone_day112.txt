@@ -1,0 +1,88 @@
+ACCESS STATUS  Greystone Health  day 40
+request                   rung      status          days  owner / next action
+synthetic-referrals       synthetic granted            7  Northlight (us)
+azure-subscription        synthetic in review         37  Sam Oakley / Northlight answers 26 onboarding security items
+referral-sample           sampled   requested         30  Michael Hart / privacy officer sign-off
+ladder: none (0 of 4)   open requests: 2   longest wait: azure-subscription (37 days, Sam Oakley)
+blocked work: deploy, eval set v1, referral pipeline in tenant
+OUR MOVE  azure-subscription: Northlight answers 26 onboarding security items (open 37 days; not escalated)
+ESCALATION  level 1 (dated ask to owner)  Greystone Health  day 40
+request:      referral-sample (de-identified referral packets)
+waiting:      30 days on Michael Hart / privacy officer sign-off; agreed response time 21 days
+blocks:       eval set v1 (planned day 60, starts costing in 20 days)
+ask:          a named approver and a review date for the referral sample by day 45
+to:           Michael Hart
+if not by day 45: level 2 (sponsor, owner copied)
+
+ACCESS STATUS  Greystone Health  day 61
+request                   rung      status          days  owner / next action
+synthetic-referrals       synthetic granted            7  Northlight (us)
+azure-subscription        synthetic in review         58  Sam Oakley / Sam Oakley reviews the 26 answers
+referral-sample           sampled   in review         51  privacy officer / privacy officer review (sponsor Michael Hart)
+ladder: none (0 of 4)   open requests: 2   longest wait: azure-subscription (58 days, Sam Oakley)
+blocked work: deploy, eval set v1, referral pipeline in tenant
+ESCALATION  level 1 (dated ask to owner)  Greystone Health  day 61
+request:      azure-subscription (Azure subscription with private endpoints)
+waiting:      17 days on Sam Oakley / Sam Oakley reviews the 26 answers; agreed response time 10 days (58 days open, 41 of them on our side)
+blocks:       deploy (planned day 30, 31 days late); referral pipeline in tenant (planned day 45, 16 days late)
+ask:          a date in the architecture clinic to review the 26 answers by day 66
+to:           Sam Oakley
+if not by day 66: level 2 (sponsor, owner copied)
+ESCALATION  level 1 (dated ask to owner)  Greystone Health  day 61
+request:      referral-sample (300 de-identified referral packets with a study key)
+waiting:      51 days on privacy officer / privacy officer review (sponsor Michael Hart); agreed response time 21 days
+blocks:       eval set v1 (planned day 60, 1 day late)
+ask:          a named approver and a review date for the referral sample by day 66
+to:           privacy officer
+if not by day 66: level 2 (sponsor, owner copied)
+
+AUDIT of escalations already sent:
+  day 40: azure-subscription level 2 sent to Michael Hart with no level 1 on record
+  day 40: azure-subscription escalated while the next action was ours
+
+day 104 delivery:
+READINESS  greystone-referral-sample  rows=300  score=0.71  NOT READY
+  FAIL key column 'study_key' present
+  FAIL OCR confidence >= 0.80 (58.0%)
+  pass row count >= 250
+  pass 'specialty' present and >= 98% filled (100.0%)
+  pass 'urgency' present and >= 98% filled (100.0%)
+  pass 'pages' present and >= 98% filled (100.0%)
+  pass no do-not-deliver field present
+  pass every delivered field registered
+  pass every registered field has a meaning and an owner
+  pass delivery age 5 days <= 45
+FIELDS  delivered=7  registered=9  unregistered=0
+  study_key       MISSING                 owner privacy officer
+  specialty       present                 owner Michael Hart
+  urgency         present                 owner Michael Hart
+  pages           present                 owner health-records team
+  fax_cover       present                 owner health-records team
+  handwritten     present                 owner health-records team
+  ocr_confidence  present                 owner health-records team
+  received_year   present                 owner privacy officer
+  mrn             withheld, as registered owner privacy officer
+CANNOT YET: join to clinician labels (needs study_key); deletion proof by key (needs study_key); re-identification by Greystone (needs study_key)
+
+day 112 redelivery:
+READINESS  greystone-referral-sample  rows=300  score=0.94  READY
+  FAIL OCR confidence >= 0.80 (58.0%)
+  pass row count >= 250
+  pass key column 'study_key' present
+  pass key 'study_key' unique
+  pass 'specialty' present and >= 98% filled (100.0%)
+  pass 'urgency' present and >= 98% filled (100.0%)
+  pass 'pages' present and >= 98% filled (100.0%)
+  pass no do-not-deliver field present
+  pass every delivered field registered
+  pass every registered field has a meaning and an owner
+  pass delivery age 5 days <= 45
+
+ACCESS STATUS  Greystone Health  day 112
+request                   rung      status          days  owner / next action
+synthetic-referrals       synthetic granted            7  Northlight (us)
+azure-subscription        synthetic granted           73  Sam Oakley
+referral-sample           sampled   granted          102  privacy officer
+ladder: sampled (2 of 4)   open requests: 0
+azure-subscription: 73 days open, 32 on Greystone's side
+rungs reached: {'synthetic': 76, 'sampled': 112}

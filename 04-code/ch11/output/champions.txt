@@ -1,0 +1,14 @@
+Champion register, day 12: 2 champions
+  Keisha Monroe: wants it because her coordinators retype the same referral fields into three screens
+    can:    introduce us to coordinators at other clinics; explain the fax queue; test drafts on real cases
+    cannot: approve a workflow change; speak for the downtown clinics; accept clinical risk
+    day  6 introduce introduce us to coordinators at two clinics
+    day  9 explain   walk us through the fax queue at 7 am
+    day 12 approve   confirm coordinators may send draft letters without clinician review
+  Ravi Shah: wants it because he has wanted to retire the referral interface scripts for two years
+    can:    explain the interface engine; relay questions to the managed-service provider
+    cannot: grant access; change a firewall rule; answer for security
+    day  7 explain   explain how referrals arrive from the EHR
+    day 10 decide    get us read access to the interface engine this week
+  BLOCK bypass   day 12: asked Keisha Monroe to confirm coordinators may send draft letters without clinician review; that is Michael Hart's call
+  BLOCK bypass   day 10: asked Ravi Shah to get us read access to the interface engine this week; that is Sam Oakley's call

@@ -1,0 +1,18 @@
+PLAN A  ordering rule (P0 > P1 > P2 > P3), capacity 20
+  in   P-01 P0  5 pts  service account scoped to the reconciliation buckets only
+  in   P-02 P0  8 pts  EU-shipment documents processed and stored only in the EU region
+  in   P-03 P1  5 pts  reconcile bills of lading against EDI for the top six layouts
+  out  P-04 P2  3 pts  layout registry shared by parser and scorer
+  out  P-05 P3  5 pts  cut parse time from 11 s to 4 s per document for the operations review
+  points 18 of 20; displacements: 0
+PLAN B  as run: sponsor pins P-05 and P-03, no decision record
+  in   P-03 P1  5 pts  reconcile bills of lading against EDI for the top six layouts
+  in   P-05 P3  5 pts  cut parse time from 11 s to 4 s per document for the operations review
+  in   P-01 P0  5 pts  service account scoped to the reconciliation buckets only
+  in   P-04 P2  3 pts  layout registry shared by parser and scorer
+  out  P-02 P0  8 pts  EU-shipment documents processed and stored only in the EU region
+  points 18 of 20; displacements: 1
+  DISPLACED  P-05 (P3, 5 pts) displaced P-02 (P0 control and safety, 8 pts); entry evidence for Architecture Review
+ARCHITECTURE REVIEW ENTRY CHECK  day 46  FAIL
+  missing  P-02 EU-shipment documents processed and stored only in the EU region: proposed
+sprint 2 review: accepted 3 of 4 planned items (P-01, P-03, P-05)

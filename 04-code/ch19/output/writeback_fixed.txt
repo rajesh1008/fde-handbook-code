@@ -1,0 +1,6 @@
+after first pass : {'held': 13, 'unknown': 3, 'verified': 136}
+after retry pass : {'held': 13, 'verified': 139}
+held, by reason  : {'preflight V-118': 11, 'rejected V-127': 1, 'readback differs': 1}
+  CS200-013: rejected V-127; shell CC-20260009 voided
+  CS200-032: readback differs on ['claimant']
+claims in system 141  by status {'OPEN': 140, 'VOID': 1}  duplicate claims 0  screen steps 422

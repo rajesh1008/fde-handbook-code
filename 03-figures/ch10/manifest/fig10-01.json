@@ -1,0 +1,149 @@
+{
+ "stem": "fig10-01",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch10/fig10_01_pennant_estimates.py",
+ "source_sha1": "8467ee9ce8ca",
+ "data": "04-code/ch10 lab fixtures",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 19:59 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.0,
+ "label_words": 18,
+ "contrast_pairs": [
+  [
+   "0.50",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2.00",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2.10",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "3.00",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P90 3.72",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P10 2.90",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "deal sheet",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "field estimate\n(Chapter 2)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "day 21\n(API assumed)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "day 24\n(CSV priced)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "integration hours per model ho",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

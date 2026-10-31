@@ -1,0 +1,22 @@
+ACCESS STATUS  Caldwell Mutual  day 47
+request                   rung      status          days  owner / next action
+synthetic-claims-set      synthetic granted            5  Northlight (us)
+aws-sandbox-account       synthetic granted           17  Daniel Reyes
+gateway-key               sampled   granted           29  Priya Natarajan / rotates day 54
+claims-sample-200         sampled   granted           38  Anne Kessler
+sample-storage-decision   sampled   requested          0  Priya Natarajan / answer storage question today
+claims-core-readonly      shadowed  in review         42  Daniel Reyes / architecture review slot
+adjuster-sso-group        shadowed  requested         17  Anne Kessler / name the twelve adjusters
+prod-change-window        live      not requested      -  Daniel Reyes
+ladder: synthetic (1 of 4)   open requests: 3   longest wait: claims-core-readonly (42 days, Daniel Reyes)
+blocked work: eval set v1, integration tests, shadow feed
+
+READINESS  caldwell-claims-sample  rows=200  score=0.82  READY
+  FAIL 'policy_number' present and >= 98% filled (97.5%)
+  FAIL OCR confidence >= 0.80 (76.5%)
+  pass row count >= 150
+  pass key column 'claim_id' present
+  pass key 'claim_id' unique
+  pass 'loss_date' present and >= 98% filled (100.0%)
+  pass 'doc_type' present and >= 98% filled (100.0%)
+  pass 'pages' present and >= 98% filled (100.0%)

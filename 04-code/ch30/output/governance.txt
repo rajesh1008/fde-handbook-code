@@ -1,0 +1,8 @@
+day 135 draft, missing: purpose, permitted_uses, retention, derived_artifacts, excluded, dedupe_against, signature of data_owner, signature of label_owner, signed_day
+day 138 signed, missing: nothing
+
+model-risk classification of C06
+  before (prompted vendor model): third-party model use: vendor due diligence and use-case review
+  after (fine-tuned on Caldwell data): model developed with customer data: full scope (validation before use, retrain is a model change)
+
+switch gate on day 150: closed; waiting on: 10 shadow days behind the router; model-risk validation signed

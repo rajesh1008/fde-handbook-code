@@ -1,0 +1,6 @@
+alert rules: 4   customer domains: pennant.example
+P-01  TMS CSV not arrived by 02:15        nl-pennant-oncall@northlight.example      VENDOR
+P-02  file drop volume outside band       nl-pennant-oncall@northlight.example      VENDOR
+P-03  exception queue over 400            freight-audit@pennant.example             ok
+P-04  FX table stale                      treasury@pennant.example                  ok
+routed outside the customer: 2 (P-01, P-02)

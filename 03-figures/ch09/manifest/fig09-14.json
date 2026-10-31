@@ -1,0 +1,137 @@
+{
+ "stem": "fig09-14",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch09/fig09_14_accuracy.py",
+ "source_sha1": "4b37e0781dce",
+ "data": "04-code/ch09 lab",
+ "png_px": [
+  1650,
+  1200
+ ],
+ "rendered": "2026-10-31 19:54 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.0,
+ "aspect": 1.375,
+ "min_font_pt": 9.0,
+ "label_words": 37,
+ "contrast_pairs": [
+  [
+   "21 caught, 0 silent",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "14 caught, 0 silent",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "21 caught, 5 silent",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "30 caught, 9 silent",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "16 caught, 17 silent",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0 caught, 0 silent",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "documents (axis starts at 300)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "300",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "350",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "400",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "det: policy number",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "det: received date",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "small: document type",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "small: loss cause",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "frontier: summary statements",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "rules: fast-track routing",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "correct",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "caught",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "silent",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

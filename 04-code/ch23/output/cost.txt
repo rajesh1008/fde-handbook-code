@@ -1,0 +1,16 @@
+first meter, day 98: unattributed lines -> ['question-set runs'] (evaluation calls ran under nl-shadow and landed in production spend)
+after moving evaluation to nl-eval: 0 unattributed
+
+line                                 payer      cost center                kind            USD
+embed library                        Caldwell   CC-CLM-OPS via nl-index    one-time       0.05
+re-embed + revalidate per pin        Caldwell   CC-CLM-OPS via nl-index    per-event    276.05
+query embeddings                     Caldwell   CC-CLM-OPS via nl-shadow   monthly        0.00
+retrieved context in drafting calls  Caldwell   CC-CLM-OPS via nl-shadow   monthly       38.95
+PostgreSQL share (pgvector)          Caldwell   CC-ARCH-PLATFORM           monthly       38.00
+nightly ACL sync job                 Caldwell   CC-ARCH-PLATFORM           monthly        9.00
+question-set runs                    Caldwell   CC-CLM-OPS via nl-eval     monthly       11.49
+index maintenance engineering        Northlight NL-DELIVERY                monthly      570.00
+
+k=10: Caldwell USD   97.44 a month, context share 40%, USD 0.0238 per retrieval, recall at 10 0.86
+k= 5: Caldwell USD   72.27 a month, context share 27%, USD 0.0176 per retrieval, recall at 5 0.79
+Northlight engineering USD 570.00 a month (its own delivery cost, never on Caldwell's bill)

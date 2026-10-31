@@ -1,0 +1,8 @@
+INCIDENTS AFTER MONTH SIX  (deterministic stand-in)
+  incident                                                       month    detect     ack  mitigate
+  INC-C-014 Caldwell storm surge, review band overflows             10     50.0h    25m     56.0h
+  INC-P-071 Pennant EU lane client certificate expires              10      0.1h     5m      5.7h
+  INC-G-009 Greystone drafts cite superseded payer criteria          7    278.0h    30m    281.5h
+  INC-G-011 Greystone change freeze blocks a critical parser fix (v1)     9      0.0h    20m      2.5h
+  detect and mitigate are hours from start; ack is minutes from detect
+  what detected each: a person reading a queue (C), a page (P), the customer's monthly sample (G-009), the conflict check (G-011)

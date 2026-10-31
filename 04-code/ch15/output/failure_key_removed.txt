@@ -1,0 +1,35 @@
+v1 register (Chapter 3):
+READINESS  caldwell-claims-sample  rows=200  score=0.44  NOT READY
+  FAIL key column 'claim_id' present
+  FAIL 'policy_number' present and >= 98% filled (97.5%)
+  FAIL OCR confidence >= 0.80 (76.5%)
+  pass row count >= 150
+  pass 'loss_date' present and >= 98% filled (100.0%)
+  pass 'doc_type' present and >= 98% filled (100.0%)
+  pass 'pages' present and >= 98% filled (100.0%)
+
+v2 register (this chapter):
+READINESS  caldwell-claims-sample  rows=200  score=0.67  NOT READY
+  FAIL key column 'claim_id' present
+  FAIL 'policy_number' present and >= 98% filled (97.5%)
+  FAIL OCR confidence >= 0.80 (76.5%)
+  pass row count >= 150
+  pass 'loss_date' present and >= 98% filled (100.0%)
+  pass 'doc_type' present and >= 98% filled (100.0%)
+  pass 'pages' present and >= 98% filled (100.0%)
+  pass no do-not-deliver field present
+  pass every delivered field registered
+  pass every registered field has a meaning and an owner
+  pass delivery age 6 days <= 30
+FIELDS  delivered=6  registered=8  unregistered=0
+  claim_id        MISSING                 owner Anne Kessler
+  policy_number   present                 owner Anne Kessler
+  loss_date       present                 owner Tom Whitfield
+  doc_type        present                 owner Tom Whitfield
+  pages           present                 owner Priya Natarajan
+  ocr_confidence  present                 owner Priya Natarajan
+  claimant        present                 owner Anne Kessler
+  bank_account    withheld, as registered owner Anne Kessler
+CANNOT YET: join to gold labels (needs claim_id); deletion proof by key (needs claim_id); duplicate check (needs claim_id)
+
+blocking: key column 'claim_id' present

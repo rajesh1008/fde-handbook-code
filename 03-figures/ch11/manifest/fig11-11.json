@@ -1,0 +1,107 @@
+{
+ "stem": "fig11-11",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch11/fig11_11_reported_computed.py",
+ "source_sha1": "eff38109420e",
+ "data": "04-code/ch11 lab",
+ "png_px": [
+  1650,
+  1110
+ ],
+ "rendered": "2026-10-31 20:09 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.7,
+ "aspect": 1.486,
+ "min_font_pt": 9.5,
+ "label_words": 14,
+ "contrast_pairs": [
+  [
+   "7 weeks reported better than c",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "week (circle green, triangle a",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "9",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "computed",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "reported",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

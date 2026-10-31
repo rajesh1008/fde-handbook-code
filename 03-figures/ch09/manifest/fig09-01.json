@@ -1,0 +1,197 @@
+{
+ "stem": "fig09-01",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch09/fig09_01_headline.py",
+ "source_sha1": "f7990c0db9a9",
+ "data": "04-code/ch09 lab",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 19:53 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.5,
+ "label_words": 22,
+ "contrast_pairs": [
+  [
+   "17.1\u00a2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4.9\u00a2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "demo agent",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "pipeline",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "cents per document",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "17.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "22.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "cost falls 71%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "20.6 s",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "6.5 s",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "demo agent",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "pipeline",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "median seconds per document",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "wait falls by two thirds",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

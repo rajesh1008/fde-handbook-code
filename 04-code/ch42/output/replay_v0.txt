@@ -1,0 +1,21 @@
+NINETY-DAY REPLAY  Pennant production  mode v0  (deterministic stand-in; production day 0 = engagement day 168)
+day 28  monthly sample read by Northlight: 168/200 matched, 6 silently wrong
+day 36  fix: BRF-INV v2 fingerprint shipped through the weekly change board (threshold unchanged, no signed record)
+(PSI columns computed in hindsight for comparison; nobody computed them in v0)
+week  days   docs  PSI fp  PSI mix  scored matched  silent  silent (all docs)
+   1   1-7  10497   0.001   0.003     (not scored)    -      10
+   2   8-14 10464   0.000   0.002     (not scored)    -       6
+   3  15-21 10501   0.307   0.002     (not scored)    -     125
+   4  22-28 10522   1.135   0.002  168/200  84.0%    6     329
+   5  29-35 10460   1.159   0.003     (not scored)    -     322
+   6  36-42 10429   0.001   0.002     (not scored)    -      12
+   7  43-49 14677   0.019   0.026     (not scored)    -      15
+   8  50-56 16905   0.031   0.045  168/200  84.0%    0      13
+   9  57-63 16893   0.030   0.044     (not scored)    -      12
+  10  64-70 16998   0.035   0.050     (not scored)    -      12
+  11  71-77 15451   0.034   0.046     (not scored)    -      10
+  12  78-84 10492   0.018   0.028  162/200  81.0%    0      10
+  13  85-90  8667   0.001   0.003     (not scored)    -       7
+silently wrong documents in 90 days: 883
+drift starts day 19; first alarm day 28 (four-weekly sample, read by Northlight)
+monitor running on day 90: no (never read by a customer person)

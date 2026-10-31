@@ -1,0 +1,26 @@
+coverage report: Caldwell Mutual, day 26
+paths known: 11 (documented 3, found 8)
+path  doc  vol/mo  seen  arrive touch decide except land   status
+P01   yes   4,100    74    O      O      O      O      O    covered
+P02   yes   2,300    14    O      O      O      O      O    covered
+P03   yes   2,900    33    O      O      O      O      O    covered
+P04   no    2,450    25    O      O      O      O      O    covered
+P05   no      610    14    O      O      O      O      O    covered
+P06   no      540    13    O      O      O      O      O    covered
+P07   no      980    17    O      O      O      O      O    covered
+P08   no      420     6    O      O      O      O      O    covered
+P09   no      160     2    O      O      s      .      .    open
+P10   no      230     7    O      O      O      O      O    covered
+P11   no      110     0    O      a      .      .      .    open
+covered: 9 of 11 paths, 14,530 of 14,800 documents a month (98.2%)
+answers stated but not observed: 1
+open contradictions: 0
+
+day  known  covered  known vol/mo  covered vol/mo
+  9      3        0             0               0
+ 12      7        3         9,300           2,300
+ 14      7        6         9,910           7,010
+ 16      8        7        12,780          12,360
+ 19      9        8        13,760          13,760
+ 22     10        9        14,690          14,530
+ 26     11        9        14,800          14,530

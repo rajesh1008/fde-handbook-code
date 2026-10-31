@@ -1,0 +1,14 @@
+approved at pass 2 (day 121): 37 answers
+naive carry-forward on day 129: 37 approved + 4 re-reviewed = 41 of 41, nothing to reread  (the SQ-28 edit is invisible here)
+change-aware on day 129: 9 approved answers changed since approval
+   words or claim changed: SQ-02, SQ-14, SQ-20, SQ-26, SQ-28, SQ-33, SQ-38
+   same words, evidence changed: SQ-18, SQ-24
+falsifiers rerun against the deployment:
+   SQ-02 false if an outbound destination the answer does not name: day 103 FAILS, day 121 FAILS, day 129 holds
+   SQ-14 false if the provider keeps stored requests: day 103 FAILS, day 121 FAILS, day 129 holds
+   SQ-18 false if prompt attributes in exported traces: day 103 FAILS, day 121 FAILS, day 129 holds
+   SQ-26 false if prompt text in any log or trace: day 103 FAILS, day 121 FAILS, day 129 holds
+   SQ-03 false if full prompts kept by any trace sampler: day 103 FAILS, day 121 FAILS, day 129 holds
+approved at pass 2 although the falsifier failed that day: SQ-02, SQ-14, SQ-18, SQ-26, SQ-03
+   same words, same evidence, truth changed: SQ-03 (no fingerprint catches this)
+reread list for pass 3: 14 of 41 -> SQ-02, SQ-03, SQ-09, SQ-14, SQ-18, SQ-20, SQ-24, SQ-26, SQ-28, SQ-30, SQ-31, SQ-33, SQ-35, SQ-38

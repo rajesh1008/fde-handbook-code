@@ -1,0 +1,227 @@
+{
+ "stem": "fig50-01",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch50/fig50_01_formats.py",
+ "source_sha1": "d1c318a8f578",
+ "data": "04-code/ch50/world.py FORMATS, PACKAGES",
+ "png_px": [
+  1650,
+  1380
+ ],
+ "rendered": "2026-11-01 00:35 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.6,
+ "aspect": 1.196,
+ "min_font_pt": 9.5,
+ "label_words": 44,
+ "contrast_pairs": [
+  [
+   "638",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1,240",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "638",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "57",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "280",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "611",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "204",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "312",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "590",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "65",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "171",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "402",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "packages by standard\nIFRS 331\n",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "documents in the 638 packages",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "400",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "600",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "800",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1400",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "prior credit memo",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "relationship manager call note",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "facility agreement",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "appraisal report",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "corporate tax schedules",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "covenant compliance certificat",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "borrowing base certificate",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "receivables aging",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "interim management accounts",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "compilation statements",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "review engagement statements",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "audited financial statements",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

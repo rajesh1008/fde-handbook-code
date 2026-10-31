@@ -1,0 +1,17 @@
+template-v1.tf.json: 1 literal secret(s)
+  line 202: vendor-format key
+main.tf.json: 0 literal secret(s)
+
+keys v1: 3 keys, 7 findings
+  gateway sandbox key: key material held by Northlight
+  tracing ingest token: owned by Northlight, not Caldwell
+  tracing ingest token: key material held by Northlight
+  tracing ingest token: no rotation
+  results bucket key: owned by AWS (default key), not Caldwell
+  results bucket key: key material held by AWS (default key)
+  results bucket key: no rotation
+
+keys v2: 3 keys, 0 findings
+  gateway key          holder Caldwell rotation   7 d  Secrets Manager, written by Caldwell's rotation job
+  data key             holder Caldwell rotation 365 d  KMS customer-managed key
+  claims-core access   holder Caldwell rotation   1 d  IAM database authentication, 15-minute tokens

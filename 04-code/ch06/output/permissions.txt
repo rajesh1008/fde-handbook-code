@@ -1,0 +1,6 @@
+automation runs as: intake clerk; steps checked: 7; gaps: 4
+  GAP find the policy when the number is missing: needs policy search by name and address; held by underwriting service desk; about 1,099 documents a month
+  GAP attach papers to an existing claim: needs attach to existing claim; held by senior adjuster; about 1,685 documents a month
+  GAP read attorney letters: needs read legal mail; held by legal mail coordinator; about 230 documents a month
+  GAP read mail held by finance: needs read finance mail; held by finance cage; about 160 documents a month
+documents a month that need a step the service account cannot take: about 3,174 of 14,800 (21%)

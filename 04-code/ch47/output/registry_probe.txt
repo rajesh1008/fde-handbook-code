@@ -1,0 +1,5 @@
+v5.4 lint with the assumption probe (P5) over the month-15 registry
+  P5 PB-1.S4  step text needs 'gateway' but does not declare it
+  P5 PB-2.S1  step text needs 'object_store' but does not declare it
+  P5 PB-3.S1  step text needs 'fhir' but does not declare it
+fixed versions: PB-1@1.4, PB-2@1.2, PB-3@0.9.1 declare gateway, object_store and fhir

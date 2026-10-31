@@ -1,0 +1,24 @@
+NORTHLIGHT PLAYBOOK v1  (run by: Product vendor)
+  OK      configure-first      assets present
+  OK      gap-to-backlog       assets present
+  OK      defend-roadmap       assets present
+  OK      absorb-tax           assets present
+  OK      keep-it-short        assets present
+  OK      release-train        assets present
+  OK      handover-support     assets present
+  OK      deterministic-first  assets present
+  OK      in-boundary          assets present
+  OK      price-from-ledger    assets present
+  tally: OK 10  BENT 0  BREAKS 0  INVERTS 0
+NORTHLIGHT PLAYBOOK v1  (run by: Model lab)
+  BENT    configure-first      no product, use reference_impls
+  BENT    gap-to-backlog       no product_backlog, use research_team
+  BREAKS  defend-roadmap       no product
+  BREAKS  absorb-tax           no subscription
+  OK      keep-it-short        assets present
+  BREAKS  release-train        no release_train
+  BENT    handover-support     no support_org, use partner_network
+  OK      deterministic-first  assets present
+  BENT    in-boundary          no in_boundary_deploy, use partner_network
+  OK      price-from-ledger    assets present
+  tally: OK 3  BENT 4  BREAKS 3  INVERTS 0

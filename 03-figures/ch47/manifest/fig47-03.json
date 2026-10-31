@@ -1,0 +1,71 @@
+{
+ "stem": "fig47-03",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch47/fig47_03_platform_team.py",
+ "source_sha1": "e3bdf6d32e06",
+ "data": "04-code/ch47/world.py pods; Chapter 44 pods",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-11-01 01:57 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 9.0,
+ "label_words": 22,
+ "contrast_pairs": [
+  [
+   "pod A\ninsurance, banking",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pod B\nhealth, logistics",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "platform team\nintake, registry",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "product\nroadmap",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "twenty\ncustomers",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "field reports with code",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "releases",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "playbooks",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

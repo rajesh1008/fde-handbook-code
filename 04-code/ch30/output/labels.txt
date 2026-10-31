@@ -1,0 +1,10 @@
+clerk labels   c06-ft (no guard)   with guard
+         100          716  79.6%    463  51.4%
+         200          759  84.3%    683  75.9%
+         400          773  85.9%    776  86.2%
+         800          791  87.9%    796  88.4%
+        1600          816  90.7%    821  91.2%
+        3200          829  92.1%    834  92.7%
+        4800          833  92.6%    838  93.1%
+c06-p4 reference: 88.4%; fine-tuned arm first matches it at 1600 labels
+labels here are the clerks' existing type codes: zero new labeling hours; Anne's set is never trained on

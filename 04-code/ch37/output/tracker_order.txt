@@ -1,0 +1,15 @@
+EFFECTIVE GATES  Caldwell Mutual  day 156, aggregate packet
+  Architecture Review  passed with conditions   day 67   
+  Build Complete       passed                   day 141  
+  Shadow Exit          blocked                           
+  Model-Risk Approval  held                              decided day 153; waits on Shadow Exit
+  Live Stable          not started                       
+EFFECTIVE GATES  Caldwell Mutual  day 157, exit terms signed
+  Architecture Review  passed with conditions   day 67   
+  Build Complete       passed                   day 141  
+  Shadow Exit          passed with conditions   day 157  
+  Model-Risk Approval  passed with conditions   day 157  decided day 153; effective with the earlier gate
+  Live Stable          not started                       
+PROPOSAL  let live monitoring stand in for the fax class
+  Shadow Exit          blocked                  
+  Live Stable          held                     decided day 158; waits on Shadow Exit

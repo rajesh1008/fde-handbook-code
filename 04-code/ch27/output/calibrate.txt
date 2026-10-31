@@ -1,0 +1,26 @@
+cal-600: 600 shadow documents, days 124 to 131, every field scored by Tom Whitfield and adjuster B,
+disagreements settled by Anne Kessler
+  6,000 fields, 90.7% right; fitted on even-numbered documents (3,000 fields), checked on odd (3,000)
+  largest weights in the correctness model (logistic regression, ridge 1.0, Newton steps):
+    quality                  +9.77
+    intercept                -7.91
+    system check failed      -3.02
+    second pass agrees       +1.91
+    system check passed      +1.52
+    field=date_received      -0.99
+    found in source          +0.88
+
+calibration error on the checked half (ECE, lower is better):
+  router v0 (stated confidence, synthetic calibration)  0.082
+  correctness model before isotonic step               0.018
+  correctness model after isotonic step                0.008
+
+accuracy by stratum (cal-600, all fields):
+  first notice, fax      71 documents  76.5%
+  first notice, mail     46 documents  81.3%
+  police report          70 documents  88.7%
+  medical bill           61 documents  90.8%
+  adjuster note          63 documents  91.1%
+  photo log              63 documents  94.4%
+  repair estimate        69 documents  95.7%
+  first notice, email   157 documents  97.0%

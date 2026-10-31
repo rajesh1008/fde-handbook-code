@@ -1,0 +1,149 @@
+{
+ "stem": "fig09-11",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch09/fig09_11_cost_by_class.py",
+ "source_sha1": "f2fe9b175e3d",
+ "data": "04-code/ch09 lab",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:54 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 23,
+ "contrast_pairs": [
+  [
+   "17.1\u00a2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4.9\u00a2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "frontier step\n87% of it",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "demo agent",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "pipeline",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "cents per document, volume wei",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "17.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "22.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "demo agent",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "frontier model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "small model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "deterministic + rules",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "platform per document",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

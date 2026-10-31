@@ -1,0 +1,34 @@
+V0 PACK, DAY 177 (prompt resolved through the code commit)
+EVIDENCE PACK D-169-0013  claim CW-26-1690013  decided day 169 00:49  generated day 177
+  document              verified      sha256 1078bb48d55b76c7 matches claim file
+  lineage               verified      source > page > extraction > claim
+  retrieval             verified      nl-index@embed-2026-02@410e4809aa1c; CM-WL-07 v3 §8.4, CM-WL-07 v3 §9.4, CM-WL-07 v3 §6.4
+  prompt and model      contradicted  intake-summary at commit c7e41a2 (trace 1432 tokens, rebuilt 1397); model gm-2026-05-14
+  confidence and route  verified      score 0.661 -> review under router-v1.1@a3784e73f723
+  decision              verified      fields digest ed97a8e1cef9
+  review                verified      A-119 accepted in 365 s
+  action                verified      AL-01fa08d0 draft write to claims-core intake, read-back ok
+  pack digest 31e672f75043   verdict: NOT RECONSTRUCTABLE
+
+REBUILT PACK, DAY 181 (prompt resolved from the parameter-store history by timestamp)
+EVIDENCE PACK D-169-0013  claim CW-26-1690013  decided day 169 00:49  generated day 181
+  document              verified      sha256 1078bb48d55b76c7 matches claim file
+  lineage               verified      source > page > extraction > claim
+  retrieval             verified      nl-index@embed-2026-02@410e4809aa1c; CM-WL-07 v3 §8.4, CM-WL-07 v3 §9.4, CM-WL-07 v3 §6.4
+  prompt and model      reconstructed parameter-store version 2 in force at day 169 00:49; model gm-2026-05-14
+  confidence and route  verified      score 0.661 -> review under router-v1.1@a3784e73f723
+  decision              verified      fields digest ed97a8e1cef9
+  review                verified      A-119 accepted in 365 s
+  action                verified      AL-01fa08d0 draft write to claims-core intake, read-back ok
+  pack digest 3f31e774d0ed   verdict: RECONSTRUCTABLE
+
+WHAT THE AGENT WROTE AND WHY
+  recorded loss_location      Sigourney St at Babcock St, Hartford CT
+  claimant letter address     721 Wethersfield Ave, Hartford CT
+  police report address       Sigourney St at Babcock St, Hartford CT  (HPD-26-48613)
+  rule in the commit (text A) loss_location: the address where the loss occurred as stated by the claimant.
+  rule in force (text B)      loss_location: if a police report is attached, use the incident address on the police report; otherwise use the address where the loss occurred as stated by the claimant. Never use the claimant's mailing address unless the claimant states the loss happened there.
+  rerun under text A          721 Wethersfield Ave, Hartford CT  -> DOES NOT MATCH the record
+  rerun under text B          Sigourney St at Babcock St, Hartford CT  -> matches the record
+  prompt tokens: text A 72, text B 107, difference 35
+  gateway trace input tokens 1432 = document 1325 + 107

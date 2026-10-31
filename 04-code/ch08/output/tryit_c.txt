@@ -1,0 +1,3 @@
+   G-01 NO SCORER scorer 'clinical reviewers' is not a named person
+   G-a FACT WITHOUT A PERSON source 'Greystone Health' (customer)
+   G-a UPGRADED BY REPETITION G-0 vendor position -> G-a direct customer fact (Thursday draft, day 18) with no evidence event

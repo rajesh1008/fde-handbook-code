@@ -1,0 +1,20 @@
+Greystone architecture review, day 103: 41 questions, 29 passed, 12 findings -> returned with findings
+agenda (90 minutes): scope 10, data flow walk 20, threat model 25, contested answers 25, owners and dates 10
+accepted from the pre-read: 27; discussed in the room: 14 (12 findings, 2 cleared: SQ-12, SQ-20)
+findings by kind:     evidence 7, design 5
+findings by severity: high 2, medium 6, low 4
+findings by theme:    incident and breach 4, model behavior and output 3, data flow and storage 3, logging and audit 1, access and identity 1
+
+  F-01 SQ-09 medium evidence Laura Finch    due 125  penetration test expired day 55
+  F-02 SQ-31 medium evidence Laura Finch    due 125  tool allow-list evidence is the expired test
+  F-03 SQ-35 medium evidence Laura Finch    due 125  independent assessment expired day 55
+  F-04 SQ-16 low    evidence Callum Reid    due 106  region evidence describes an AWS reference design
+  F-05 SQ-18 low    evidence Callum Reid    due 106  telemetry evidence describes an AWS reference design
+  F-06 SQ-33 low    evidence Sofia Brennan  due 118  outage behavior assumed, never tested
+  F-07 SQ-10 low    evidence Laura Finch    due 106  incident plan owned by a team, not a person
+  F-08 SQ-26 high   design   Callum Reid    due 114  prompt text reaches a diagnostics workspace the provider runs
+  F-09 SQ-30 high   design   Sofia Brennan  due 128  instructions inside documents reach the drafting step unchecked
+  F-10 SQ-14 medium design   Marcus Bell    due 120  provider may retain prompts for abuse monitoring
+  F-11 SQ-34 medium design   Callum Reid    due 112  no tested way to stop the agent
+  F-12 SQ-03 medium design   Erin Walsh     due 115  Northlight engineers can read traces with patient text
+plan lint: 0 problems

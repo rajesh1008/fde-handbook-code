@@ -1,0 +1,11 @@
+RB-01 quality monitor alarm              quality      shadow      owner Anne Kessler    4 steps  ok
+RB-02 reconciliation unexplained count   data         off         owner Ruth Calloway   4 steps  1 finding
+    RB6  off returns via shadow, never directly to live
+RB-03 gateway key rotation failure       availability fail-closed owner Priya Natarajan 5 steps  1 finding
+    RB5  step 2 needs the vendor: page Callum Reid at Northlight for the new key
+RB-04 audit log chain break              security     off         owner Priya Natarajan 3 steps  ok
+RB-05 intake backlog or latency          availability fail-closed owner Tom Whitfield   2 steps  1 finding
+    RB2  step 1 has no verify line
+RB-06 pinned model deprecation notice    quality      shadow      owner Sofia Brennan   3 steps  1 finding
+    RB1  owner 'Sofia Brennan' is not a customer person
+runbooks: 6   findings: 4

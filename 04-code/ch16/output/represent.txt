@@ -1,0 +1,45 @@
+representativeness report: synthetic v1 vs the 200 (day 53)
+  synthetic documents 600   sample documents 200
+  feature              psi    status
+  channel               0.01  ok
+  date style            1.75  FAIL
+  document kind         4.33  FAIL
+  forwarded             0.03  ok
+  language              0.05  ok
+  length band           1.16  FAIL
+  ocr band              2.75  FAIL
+  policy number         3.63  FAIL
+  sender                1.97  FAIL
+  exception               sample  synthetic  status
+  not a first notice        79%       0%    MISSING
+  faded scan                24%       0%    MISSING
+  short or written date      8%       0%    MISSING
+  agent sender               4%       0%    MISSING
+  Spanish-language           2%       0%    below floor
+  forwarded chain            1%       0%    below floor
+  no policy number           0%       0%    below floor
+  two-sample classifier auc 0.96  (FAIL)
+  verdict: NOT REPRESENTATIVE: plumbing only
+
+representativeness report: synthetic v2 vs the 200 (day 58)
+  synthetic documents 600   sample documents 200
+  feature              psi    status
+  channel               0.00  ok
+  date style            0.00  ok
+  document kind         0.01  ok
+  forwarded             0.00  ok
+  language              0.00  ok
+  length band           0.00  ok
+  ocr band              0.01  ok
+  policy number         0.00  ok
+  sender                0.00  ok
+  exception               sample  synthetic  status
+  not a first notice        79%      79%    ok
+  faded scan                24%      21%    ok
+  short or written date      8%       7%    ok
+  agent sender               4%       3%    ok
+  Spanish-language           2%       1%    below floor
+  forwarded chain            1%       1%    below floor
+  no policy number           0%       0%    below floor
+  two-sample classifier auc 0.41  (ok)
+  verdict: REPRESENTATIVE: regression use

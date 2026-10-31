@@ -1,0 +1,13 @@
+Caldwell drill 1 (day 176): gateway key rotation failure; Northlight observes, hands off
+02:00 key rotates; adapter keeps the old key; 03:00 grace ends, gateway returns 401
+03:02  A-07 fires, routed to nl-caldwell-alerts@northlight.example
+03:02  page reaches Northlight on-call (observer, hands off): vendor touch
+04:51  A-03 fires, routed to claims-oncall@caldwellmutual.example
+04:55  Caldwell platform on-call acknowledges
+05:01  verified: 401s confirmed, documents fail closed
+05:10  verified: new key loaded, adapter restarted
+05:14  verified: smoke test passes
+05:22  verified: dead-letter queue replayed
+05:27  verified: reconciled, record closed
+time to detect 115 min; time to mitigate 147 min; vendor touches 1
+drill FAILED (criteria: detect <= 15 min, mitigate <= 60 min, no vendor touch)

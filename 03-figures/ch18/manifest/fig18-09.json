@@ -1,0 +1,59 @@
+{
+ "stem": "fig18-09",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch18/fig18_09_inside.py",
+ "source_sha1": "1b8756abd991",
+ "data": "chapter text (Section 18.5)",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:25 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 10.0,
+ "label_words": 30,
+ "contrast_pairs": [
+  [
+   "no new hosting platform",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Caldwell's container\nservice, ",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no new model gateway",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Caldwell's gateway,\nthrough th",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no new audit store",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Caldwell's audit store;\nNorthl",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

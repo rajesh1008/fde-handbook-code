@@ -1,0 +1,1 @@
+{'dups': 11, 'guessed': 5, 'lost': 11, 'docs': 231, 'calls': 247}

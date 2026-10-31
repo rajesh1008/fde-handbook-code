@@ -1,0 +1,11 @@
+stratum                docs  p7 d94 rc-1 d156     95% interval  verdict at 80%
+first notice, email      17   94.7%    97.6%   94.1% to 99.1%  met
+first notice, fax        50   62.8%    74.4%   70.4% to 78.0%  below
+first notice, mail       49   69.2%    79.4%   75.6% to 82.7%  not shown
+police report            17   87.6%    91.8%   86.7% to 95.0%  met
+repair estimate          17   87.1%    90.6%   85.3% to 94.1%  met
+medical bill             17   86.5%    89.4%   83.9% to 93.2%  met
+adjuster note            17   84.1%    88.8%   83.2% to 92.7%  met
+photo log                17   82.9%    87.6%   81.9% to 91.8%  met
+all fields              201   76.7%    84.0%   82.4% to 85.6%  met
+classes never at the bar in any scored release: first notice, fax (62.8% p7, 74.4% rc-1)

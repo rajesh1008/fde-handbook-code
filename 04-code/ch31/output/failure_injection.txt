@@ -1,0 +1,53 @@
+shadow days 142 to 149: 13 faxes arrived rotated; 9 were first notices, 4 repair estimates
+
+what the pre-fix build did with the first three (C01 and C06 only):
+  S142-052  1 pages OCR, rotated 90, not detected, legibility 0.11  | type none, confidence 0.96  | correspondence queue
+  S142-200  1 pages OCR, rotated 90, not detected, legibility 0.20  | type none, confidence 0.99  | correspondence queue
+  S143-063  1 pages OCR, rotated 90, not detected, legibility 0.10  | type none, confidence 0.96  | correspondence queue
+
+run A  pre-fix build, suite as it was on day 142
+  L1 unit        pass     C03 policy pattern and check digit, 40 cases: 40 of 40
+  L1 unit        pass     C02 fax header and stamp dates, V-127, 36 cases: 36 of 36
+  L1 unit        pass     claimant 30-character rule, 12 cases: 12 of 12
+  L1 unit        pass     C01 orientation detector: no detector in this build: test absent
+  L2 component   pass     C06 slices, clean scans (T1 to T4, none), 250 docs: accuracy 0.952, no slice below 0.90
+  L2 component   pass     C06 slice: fax rotated 90/180/270, 24 docs: slice not in the suite
+  L2 component   pass     cw-rules v1 rules as tests, 8 cards x 2 cases: 16 of 16
+  L3 integration pass     gateway key rotation drill (Sunday 02:00 Eastern): refresh before expiry
+  L3 integration pass     claims-core screens FNOL-1, FNOL-2 fingerprint: fingerprints match
+  L3 integration pass     state store: scope, retention and erasure drill: 3 of 3 drills
+  L4 system      pass     gold-heldout through Anne's gate, 2,010 fields: 84.0%, no stratum below main
+  L5 operational fail     shadow reconciliation, intake records vs keyed claims: 9 first notices keyed by clerks with no agent intake record
+  caught at: L5 operational; gate: block
+
+run B  pre-fix build, rotated-fax slice injected
+  L1 unit        pass     C03 policy pattern and check digit, 40 cases: 40 of 40
+  L1 unit        pass     C02 fax header and stamp dates, V-127, 36 cases: 36 of 36
+  L1 unit        pass     claimant 30-character rule, 12 cases: 12 of 12
+  L1 unit        pass     C01 orientation detector: no detector in this build: test absent
+  L2 component   pass     C06 slices, clean scans (T1 to T4, none), 250 docs: accuracy 0.952, no slice below 0.90
+  L2 component   fail     C06 slice: fax rotated 90/180/270, 24 docs: 0 typed right, 0 to a clerk as illegible, 24 typed none
+  L2 component   pass     cw-rules v1 rules as tests, 8 cards x 2 cases: 16 of 16
+  L3 integration skipped  gateway key rotation drill (Sunday 02:00 Eastern): earlier layer failed
+  L3 integration skipped  claims-core screens FNOL-1, FNOL-2 fingerprint: earlier layer failed
+  L3 integration skipped  state store: scope, retention and erasure drill: earlier layer failed
+  L4 system      skipped  gold-heldout through Anne's gate, 2,010 fields: earlier layer failed
+  L5 operational skipped  shadow reconciliation, intake records vs keyed claims: earlier layer failed
+  caught at: L2 component; gate: block
+
+run C  orientation detection + CW-I-01, slice kept
+  L1 unit        pass     C03 policy pattern and check digit, 40 cases: 40 of 40
+  L1 unit        pass     C02 fax header and stamp dates, V-127, 36 cases: 36 of 36
+  L1 unit        pass     claimant 30-character rule, 12 cases: 12 of 12
+  L1 unit        pass     C01 orientation detector: 48 of 48 pages, 4 angles
+  L2 component   pass     C06 slices, clean scans (T1 to T4, none), 250 docs: accuracy 0.952, no slice below 0.90
+  L2 component   pass     C06 slice: fax rotated 90/180/270, 24 docs: 22 typed right, 2 to a clerk as illegible, 0 typed none
+  L2 component   pass     cw-rules v1 rules as tests, 8 cards x 2 cases: 16 of 16
+  L3 integration pass     gateway key rotation drill (Sunday 02:00 Eastern): refresh before expiry
+  L3 integration pass     claims-core screens FNOL-1, FNOL-2 fingerprint: fingerprints match
+  L3 integration pass     state store: scope, retention and erasure drill: 3 of 3 drills
+  L4 system      pass     gold-heldout through Anne's gate, 2,010 fields: 84.0%, no stratum below main
+  L5 operational pass     shadow reconciliation, intake records vs keyed claims: 0 first notices keyed by clerks with no agent intake record
+  caught at: nothing; gate: merge
+
+after the merge on day 150: 6 rotated faxes on days 150 to 153, 0 typed none

@@ -1,0 +1,6 @@
+BROKEN run. Released on day 66: USD 412.50 over-billed
+chain: source -> page -> extraction -> calculation -> claim -> release (9 nodes)
+day 81, examiner asks how USD 412.50 was produced
+verify: 2 problems
+  calculation:89cba2165997: reference 'fx_rates' cited by path (file:/pennant-finance/shared/fx_rates.csv), not by version
+  calculation:89cba2165997: recomputed 397.70, recorded 412.50

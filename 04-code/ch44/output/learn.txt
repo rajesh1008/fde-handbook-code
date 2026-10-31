@@ -1,0 +1,14 @@
+skill                                    half-life  used  value
+structured discovery interviewing              15y  100%   1.00
+writing for a sponsor                          20y  100%   1.00
+SQL and data modeling                          20y   90%   0.90
+identity and access patterns                   10y   90%   0.90
+evaluation design with domain experts           8y  100%   0.80
+one regulated domain in depth                  12y   50%   0.50
+answering a security questionnaire              6y   80%   0.48
+cloud infrastructure as code                    4y   50%   0.20
+one agent framework's API                       1y   40%   0.04
+one model's quirks                            0.5y   70%   0.03
+prompt phrasing tricks                        0.5y   60%   0.03
+
+value >= 0.50: 6 skills; tool-specific skills in that group: 1

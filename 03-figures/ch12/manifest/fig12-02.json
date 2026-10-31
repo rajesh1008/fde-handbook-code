@@ -1,0 +1,143 @@
+{
+ "stem": "fig12-02",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch12/fig12_02_crosswalk.py",
+ "source_sha1": "9706392b4ad3",
+ "data": "04-code/ch12 lab",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:18 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 15,
+ "contrast_pairs": [
+  [
+   "standards",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "model risk",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "surface",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "network",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "change",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "logging",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "gateway",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "data",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "identity",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "comply",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "configure",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "deviation",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not applicable",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

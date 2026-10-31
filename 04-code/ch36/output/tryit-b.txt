@@ -1,0 +1,4 @@
+v3 rules, prompt plain    : reached 1  blocked 15  refused 1  ignored 3  action escapes 0
+v3 rules, prompt spotlight: reached 1  blocked 2  refused 1  ignored 16  action escapes 0
+v2 rules, prompt plain    : reached 14  blocked 2  refused 1  ignored 3  action escapes 8
+v2 rules, prompt spotlight: reached 3  blocked 0  refused 1  ignored 16  action escapes 0

@@ -1,0 +1,31 @@
+{
+ "ready": 244,
+ "held": 56,
+ "changed": 9,
+ "rows": [
+  [
+   "calibration, two rounds (40 docs, 3 people)",
+   24.0
+  ],
+  [
+   "labeling, one adjuster per document (300)",
+   30.0
+  ],
+  [
+   "second label on every fifth document (60)",
+   6.0
+  ],
+  [
+   "adjudication of 36 disagreements",
+   2.4
+  ],
+  [
+   "two rubric meetings (60 min, 3 people)",
+   6.0
+  ]
+ ],
+ "split": {
+  "test": 201,
+  "dev": 99
+ }
+}

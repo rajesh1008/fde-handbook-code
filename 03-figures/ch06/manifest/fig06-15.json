@@ -1,0 +1,155 @@
+{
+ "stem": "fig06-15",
+ "kind": "diagram",
+ "tool": "hand-laid SVG (signature7.py)",
+ "style": "style.md",
+ "source": "03-figures/src/ch06/fig06_15_signature7.py",
+ "source_sha1": "ba83f00beada",
+ "data": "signature7.STATES['ch06']",
+ "png_px": [
+  1650,
+  1262
+ ],
+ "rendered": "2026-10-31 19:38 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.208,
+ "aspect": 1.307,
+ "min_font_pt": 9.5,
+ "label_words": 40,
+ "contrast_pairs": [
+  [
+   "fieldkit 0.1.0: built",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "dashed arrow: imports",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "access.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "access ladder tracker",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "readiness.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "data-readiness register",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "fixtures.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "the four customers",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "engagement.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "deployment.py",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "discovery.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "notes and coverage",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "labs that import fieldkit",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Ch 6 lab",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "run_coverage.py",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "still to come",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v1.1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Ch 7",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Part III",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v3+",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Parts IV\u2013VI",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 12.05
+}

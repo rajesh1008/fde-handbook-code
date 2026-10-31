@@ -1,0 +1,12 @@
+day  edi scan photo
+124  135  147    66
+125  147  160    63
+126  154  150    51
+127  147  156    66
+128  139  146    60
+129   69   79    34
+130   53   56    22
+door by channel: accept request reject
+edi      837     7     0
+scan     838    56     0
+photo    274    24    64

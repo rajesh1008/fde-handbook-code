@@ -1,0 +1,35 @@
+v0 POOLED GATE  extract-2027-01 vs extract-2026-04 on 1328 pooled documents: HOLD
+    critical field: 0.972 worse than incumbent 0.98
+
+MODEL UPGRADE REPLAY  three customers x three model versions  (deterministic stand-in)
+
+Caldwell: gold set 628; floors fully 0.875, critical fields 0.97, silent-wrong upper 0.02, cost 0.06, p95 8.0
+  extract-2026-04: fully 0.895  critical fields 0.981  silent-wrong upper 0.019  cost 0.0556  p95 6.1
+  extract-2027-01: fully 0.909  critical fields 0.984  silent-wrong upper 0.016  cost 0.0521  p95 5.4
+  extract-2027-04: fully 0.914  critical fields 0.986  silent-wrong upper 0.016  cost 0.0589  p95 5.2
+
+Pennant: gold set 400; floors fully 0.85, customs code 0.95, silent-wrong upper 0.035, cost 0.04, p95 6.0
+  extract-2026-04: fully 0.880  customs code 0.978  silent-wrong upper 0.032  cost 0.0358  p95 4.1
+  extract-2027-01: fully 0.902  customs code 0.965  silent-wrong upper 0.032  cost 0.0331  p95 3.9
+  extract-2027-04: fully 0.912  customs code 0.980  silent-wrong upper 0.029  cost 0.0329  p95 3.8
+
+Greystone: gold set 300; floors fully 0.8, criteria citation 0.97, silent-wrong upper 0.04, cost 0.3, p95 20.0
+  extract-2026-04: fully 0.847  criteria citation 0.983  silent-wrong upper 0.034  cost 0.2673  p95 16.0
+  extract-2027-01: fully 0.873  criteria citation 0.957  silent-wrong upper 0.034  cost 0.2410  p95 14.0
+  extract-2027-04: fully 0.887  criteria citation 0.990  silent-wrong upper 0.029  cost 0.2490  p95 15.0
+
+VERDICTS (candidate against the incumbent the customer is running at the time)
+  Caldwell  extract-2027-01 vs extract-2026-04: PROMOTE
+  Caldwell  extract-2027-04 vs extract-2027-01: HOLD
+      cost per document: 0.0589 worse than incumbent 0.0521
+  Pennant   extract-2027-01 vs extract-2026-04: HOLD -> PROMOTE
+      customs code: 0.965 worse than incumbent 0.978
+      after acceptance: PROMOTE
+  Pennant   extract-2027-04 vs extract-2027-01: PROMOTE
+  Greystone extract-2027-01 vs extract-2026-04: ROLLBACK
+      criteria citation: 0.957 misses floor 0.97
+      9 lost critical items without an owner's sign-off
+  Greystone extract-2027-04 vs extract-2026-04: PROMOTE
+
+Greystone: extract-2026-04 retirement on Azure westus3 read against the change calendar
+  notice=470  read=470  retire=590  retire_in_freeze=False  last_safe_normal_day=589  earliest_ready=500  freeze_exception=False  action=change in a normal window by day 589  slack_days=89

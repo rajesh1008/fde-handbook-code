@@ -1,0 +1,83 @@
+{
+ "stem": "fig20-03",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch20/fig20_03_ports.py",
+ "source_sha1": "aed8f65bb018",
+ "data": "04-code/ch20/output/loc.txt and adapters.py",
+ "png_px": [
+  1650,
+  1200
+ ],
+ "rendered": "2026-10-31 20:49 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.0,
+ "aspect": 1.375,
+ "min_font_pt": 10.0,
+ "label_words": 28,
+ "contrast_pairs": [
+  [
+   "core: evaluation suite, gatewa",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "identity",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "secrets",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "logs",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "network",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "AWS adapter\n16 lines",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Azure adapter\n11 lines",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Google Cloud\nadapter, 10 lines",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "the core never imports a cloud",
+   "#5a6f9c",
+   "#ffffff",
+   5.01
+  ]
+ ],
+ "min_contrast": 5.01
+}

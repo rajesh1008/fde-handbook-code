@@ -1,0 +1,17 @@
+queue            documents  owner
+sender request         151  Dana Whitaker (freight audit)
+clerk read              39  document clerks
+reconciliation         154  reconciliation team
+escalation              13  rule owner
+total routed           357  of 2100 (17.0%)
+reconciliation exceptions by rule: R1 7 (Kofi Mensah), R2 53 (Dana Whitaker), R3 66 (Dana Whitaker), R4 35 (billing manager), R5 18 (compliance manager), R6 11 (Jenna Ruiz)
+sender requests by cause: {'X12 envelope': 7, 'completeness or consistency': 80, 'legibility': 64}
+clerk reads by step: {'N03': 14, 'N05': 25}  escalations by step: {'N09': 9, 'N11': 4}
+
+packet for W00066
+  queue: reconciliation   owner of the rule: Dana Whitaker   day 126
+  document: edi freight invoice from Iron Range Carriers, linked PN-48044 by container
+  rule R3 disagrees: EUR 2,162.00 = USD 2,346.42, contract 2,308.22
+  references: fx_rates@3f1b0e048aa3 (owner Marisol Vega); rate card lane contract
+  lineage claim: claim:90f38098a153
+  the person decides: dispute with carrier / accept and note / correct the TMS booking

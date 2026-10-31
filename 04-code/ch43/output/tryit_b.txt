@@ -1,0 +1,3 @@
+unlimited rollover         month 4 (33 h used, 21 h carried): margin -10.0%
+rollover capped at 12 h    month 4 (33 h used, 12 h carried): margin 43.2%
+no rollover                month 4 (33 h used, 0 h carried): margin 65.5%

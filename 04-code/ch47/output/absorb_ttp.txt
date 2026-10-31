@@ -1,0 +1,8 @@
+PB-1 claims intake: Caldwell 158, N05 96, N08 71, N10 55, N15 44, N17 58
+PB-2 document reconciliation: N09 88, N19 61
+N17 includes 9 days lost to the undeclared gateway step; without them 49
+
+FDE hours per engagement by layer (signature to Live Stable):
+  first four (N01 to N04)        bespoke 2,900  playbook    0  platform    0  total 2,900
+  months 11 to 14 (N05 to N12)   bespoke   980  playbook  520  platform  140  total 1,640
+  months 15 to 18 (N13 to N20)   bespoke   610  playbook  330  platform  110  total 1,050

@@ -1,0 +1,143 @@
+{
+ "stem": "fig45-04",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch45/fig45_04_discovery.py",
+ "source_sha1": "294d36c082fa",
+ "data": "04-code/ch45/output/discovery_c214.txt, discovery_c231.txt; 04-code/ch45/world.py",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-11-01 00:03 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 9.5,
+ "label_words": 21,
+ "contrast_pairs": [
+  [
+   "first solution\nminute 31",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "first solution\nminute 6",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "minute of the 60-minute exerci",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "hidden facts surfaced (of 11)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "candidate 231: 10 of 11 facts",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "candidate 214: 3 of 11 facts",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

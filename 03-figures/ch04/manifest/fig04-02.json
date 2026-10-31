@@ -1,0 +1,101 @@
+{
+ "stem": "fig04-02",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch04/fig04_02_auditor_chain.py",
+ "source_sha1": "5fcf19903853",
+ "data": "none (concept diagram; Section 4.2 lists the chain)",
+ "png_px": [
+  1650,
+  1500
+ ],
+ "rendered": "2026-10-31 19:17 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 5.0,
+ "aspect": 1.1,
+ "min_font_pt": 10.0,
+ "label_words": 35,
+ "contrast_pairs": [
+  [
+   "a deployment keeps",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "a demo leaves",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "source page",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "extracted field",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "prompt, model,\ncode versions",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "reviewer correction",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer-owned\ngateway log",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "evidence pack",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "screen recording",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "slide saying 98%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor's own log",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "salesperson's\nmemory",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no link to any output",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

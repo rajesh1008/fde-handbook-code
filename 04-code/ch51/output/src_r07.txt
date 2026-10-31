@@ -1,0 +1,15 @@
+def r07(m, gated=True):
+    g = m.get("gate")
+    if not g:
+        return "N/A", "no gate read yet"
+    k = sum(a for a, _ in g["slices"].values())
+    n = sum(b for _, b in g["slices"].values())
+    below = [(s, a, b) for s, (a, b) in g["slices"].items() if wilson(a, b)[1] < g["bar"]]
+    if g["judged_on"] == "aggregate" and below and k / n >= g["bar"]:
+        s, a, b = below[0]
+        lo, hi = wilson(a, b)
+        return "FLAG", (f"{g['gate']} passed on aggregate {k/n:.1%} ({k:,}/{n:,}); {s} {a/b:.1%} "
+                        f"({lo:.1%} to {hi:.1%}) is below {g['bar']:.0%}")
+    if g["judged_on"] == "aggregate":
+        return "PASS", f"{g['gate']} on aggregate; no slice's interval lies wholly below {g['bar']:.0%}"
+    return "PASS", f"{g['gate']} judged per slice; {len(below)} slice(s) below the bar handled by name"

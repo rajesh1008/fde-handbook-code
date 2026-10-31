@@ -1,0 +1,13 @@
+Provider stored-request export, Greystone deployment, days 115-119 (deterministic stand-in)
+patterns only
+  entries scanned 600   entries with personal data 95   found by patterns alone 95
+  by class: DOB 95, MRN 95
+patterns + known values (Greystone's roster of the 200 sandbox-week patients)
+  entries scanned 600   entries with personal data 187   found by patterns alone 95
+  by class: DOB 95, MRN 95, NAME 122
+  referrals with at least one fragment retained: 126 of 200
+  masked examples:
+    NAME=H***6fb9
+    NAME=H***6fb9
+    DOB=D***5431, MRN=M***7414
+verdict: PHI retained by the provider outside GA-06; stop PHI traffic, open privacy finding P-01

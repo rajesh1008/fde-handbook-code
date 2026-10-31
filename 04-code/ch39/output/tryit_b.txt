@@ -1,0 +1,17 @@
+Exercise B: after the holiday injection, how many normal intake days until G-2 and G-3 pass?
++ 1 normal days (to day 157): G-2 pass  lowest: first notice, fax n=63     G-3 FAIL  raw 88.1%, mix distance 0.22, reweighted 81.0%
++ 2 normal days (to day 158): G-2 pass  lowest: first notice, fax n=91     G-3 FAIL  raw 87.2%, mix distance 0.19, reweighted 81.5%
++ 3 normal days (to day 159): G-2 pass  lowest: first notice, fax n=119    G-3 FAIL  raw 86.5%, mix distance 0.16, reweighted 81.5%
++ 4 normal days (to day 160): G-2 pass  lowest: photo log n=140            G-3 FAIL  raw 86.2%, mix distance 0.14, reweighted 82.1%
++ 5 normal days (to day 163): G-2 pass  lowest: photo log n=159            G-3 FAIL  raw 85.8%, mix distance 0.13, reweighted 81.9%
++ 6 normal days (to day 164): G-2 pass  lowest: photo log n=176            G-3 FAIL  raw 85.5%, mix distance 0.12, reweighted 82.0%
++ 7 normal days (to day 165): G-2 pass  lowest: photo log n=194            G-3 FAIL  raw 85.5%, mix distance 0.11, reweighted 82.5%
++ 8 normal days (to day 166): G-2 pass  lowest: photo log n=209            G-3 FAIL  raw 85.4%, mix distance 0.10, reweighted 82.6%
++ 9 normal days (to day 167): G-2 pass  lowest: photo log n=225            G-3 FAIL  raw 85.2%, mix distance 0.09, reweighted 82.7%
++10 normal days (to day 170): G-2 pass  lowest: photo log n=244            G-3 FAIL  raw 84.9%, mix distance 0.09, reweighted 82.4%
++11 normal days (to day 171): G-2 pass  lowest: photo log n=260            G-3 FAIL  raw 84.6%, mix distance 0.08, reweighted 82.3%
++12 normal days (to day 172): G-2 pass  lowest: photo log n=278            G-3 FAIL  raw 84.5%, mix distance 0.08, reweighted 82.2%
++13 normal days (to day 173): G-2 pass  lowest: photo log n=293            G-3 FAIL  raw 84.3%, mix distance 0.07, reweighted 82.2%
++14 normal days (to day 174): G-2 pass  lowest: photo log n=311            G-3 FAIL  raw 84.1%, mix distance 0.07, reweighted 82.1%
++15 normal days (to day 177): G-2 pass  lowest: photo log n=327            G-3 FAIL  raw 84.0%, mix distance 0.06, reweighted 82.1%
+note: G-3 stays FAIL while the paper regression is real; more days only make the evidence firmer

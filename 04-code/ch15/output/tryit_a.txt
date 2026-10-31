@@ -1,0 +1,8 @@
+ESCALATION  level 2 (owner is the sponsor: steering, owner copied)  Caldwell Mutual  day 60
+request:      claims-core-readonly (read-only service account on the claims core)
+waiting:      55 days on Daniel Reyes / architecture review slot; agreed response time 30 days
+blocks:       integration tests (planned day 40, 20 days late); shadow feed (planned day 70, starts costing in 10 days)
+ask:          a slot on the architecture board agenda by day 65
+to:           Tuesday steering (Daniel Reyes, Anne Kessler, Priya Natarajan)   copied: Daniel Reyes
+if not by day 65: level 3 (steering agenda item)
+rule: 55 days on the customer's side, two weeks past the agreed 30, and blocking planned work

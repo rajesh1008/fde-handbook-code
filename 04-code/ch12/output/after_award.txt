@@ -1,0 +1,34 @@
+32 claims in the submitted response; 18 moved to the register (P 9, D 4, V with a number 5)
+BC-29 Martin Shaw "Traces will reach the bank's SIEM within 5 minutes of the event."
+   at submission: NUMBER DEPENDS ON CUSTOMER SYSTEM
+   decided day 33: hourly batch into the SIEM, as the bank ingests third-party sources; a 90-day buffer in the Canadian tenant; alerts through the bank's alert hook within 5 minutes
+   impact: H-06 renegotiated; no fee change
+BC-16 Helen Marsh "Before Shadow Exit, Harbourline's credit officers will score 400 drafted memos against Harbourline's credit review rubric."
+   at submission: no flag
+   decided day 45: 600 scored memos before Shadow Exit
+   impact: F-02 renegotiated; about 83 more credit-officer hours at 25 minutes a memo
+held as written by their due day: 12
+DECISIONS  Harbourline  day 46
+key       kind          owner                age   due  state
+BC-06     bid           David Okafor          46   120  open
+BC-30     bid           Laura Finch           46    90  open
+BC-31     bid           Laura Finch           46    90  open
+BC-16     bid           Laura Finch           45    45  decided
+BC-19     bid           Helen Marsh           45    45  decided
+BC-03     bid           Laura Finch           40    40  decided
+BC-08     bid           Laura Finch           40    40  decided
+BC-09     bid           Laura Finch           40    40  decided
+BC-10     bid           Laura Finch           40    40  decided
+BC-26     bid           Laura Finch           40    40  decided
+BC-29     bid           Laura Finch           33    40  decided
+BC-12     bid           Helen Marsh           30    30  decided
+BC-20     bid           Laura Finch           14    14  decided
+BC-21     bid           Laura Finch           14    14  decided
+BC-22     bid           Laura Finch           14    14  decided
+BC-23     bid           Laura Finch           14    14  decided
+BC-24     bid           Laura Finch           14    14  decided
+BC-25     bid           David Okafor          14    14  decided
+open: 3  decided: 15  alerts: 3  oldest open: BC-06 (46 days, David Okafor)
+  ALERT STALE       BC-06     open 46 days, due day 120
+  ALERT STALE       BC-30     open 46 days, due day 90
+  ALERT STALE       BC-31     open 46 days, due day 90

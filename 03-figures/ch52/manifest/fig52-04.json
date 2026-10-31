@@ -1,0 +1,119 @@
+{
+ "stem": "fig52-04",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch52/fig52_04_absorb.py",
+ "source_sha1": "5027422ea2fd",
+ "data": "04-code/ch52/output/absorb.txt",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-11-01 00:26 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.5,
+ "label_words": 13,
+ "contrast_pairs": [
+  [
+   "product 1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "playbook 7",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "FDE 22",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "product 11",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "playbook 8",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "FDE 11",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Work items in the Caldwell eng",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2026",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2029 forecast",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,4 @@
+RR-01 with residual 2x3= 6: acceptable
+RR-01 with residual 3x3= 9: acceptable
+RR-01 with residual 3x4=12: RR-01: residual score 12 is high; fix, do not accept
+RR-01 with residual 4x4=16: RR-01: residual score 16 is high; fix, do not accept

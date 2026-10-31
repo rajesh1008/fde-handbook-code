@@ -1,0 +1,143 @@
+{
+ "stem": "fig50-15",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch50/fig50_15_samplesize.py",
+ "source_sha1": "59337864fc44",
+ "data": "04-code/ch50/output/shadow.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-11-01 00:34 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 26,
+ "contrast_pairs": [
+  [
+   "7.5 pts",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "9.4 pts",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "21.5 pts",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "6.1 pts",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "7.6 pts",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "15.9 pts",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "95% interval on agreement, % (",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "70",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "75",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "85",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "90",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "95",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "IFRS, 208 of 400",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "ASPE, 151 of 400",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "US GAAP, 41 of 400",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "IFRS, 312 of 600",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "ASPE, 226 of 600",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "US GAAP, 62 of 600",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

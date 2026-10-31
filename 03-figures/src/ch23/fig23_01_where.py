@@ -1,0 +1,16 @@
+"""Figure 23.1: where each piece of Caldwell's retrieval lives (store_options.txt); everything inside Caldwell's account."""
+from _common import S, save, blank
+fig, ax = S.figure(height=3.9); blank(ax, (0, 10), (0, 6.2))
+S.box(ax, 0.2, 0.3, 9.6, 5.0, "", role="system", fs=9)
+S.label(ax, 0.45, 4.95, "Caldwell AWS us-east-1", fs=10, ha="left")
+S.box(ax, 0.6, 3.3, 2.4, 1.1, "claims policy\nlibrary + ACLs", role="data", fs=9.5)
+S.box(ax, 3.8, 3.3, 2.4, 1.1, "ingest\nnl-index", role="system", fs=9.5)
+S.box(ax, 7.0, 3.3, 2.4, 1.1, "pgvector on\napproved PostgreSQL", role="system", fs=9.5)
+S.box(ax, 3.8, 1.0, 2.4, 1.1, "gateway\nembed-2026-02", role="model", fs=9.5)
+S.box(ax, 7.0, 1.0, 2.4, 1.1, "filter, then rank\nnl-shadow", role="evidence", fs=9.5)
+S.box(ax, 0.6, 1.0, 2.4, 1.1, "review screen\nadjuster", role="approval", fs=9.5)
+S.arrow(ax, 3.0, 3.85, 3.8, 3.85); S.arrow(ax, 6.2, 3.85, 7.0, 3.85)
+S.arrow(ax, 5.0, 3.3, 5.0, 2.1); S.arrow(ax, 8.2, 3.3, 8.2, 2.1)
+S.arrow(ax, 7.0, 1.55, 6.2, 1.55); S.arrow(ax, 3.8, 1.55, 3.0, 1.55)
+S.label(ax, 5.0, 5.75, "Northlight ships code only", fs=10)
+save(fig, 1, kind="diagram", data="04-code/ch23/output/store_options.txt")

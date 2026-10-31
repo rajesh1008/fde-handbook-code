@@ -1,0 +1,8 @@
+CA-01 v3: 'Northlight warrants that the System will be 98% accurate, as determined by Caldwell.'
+  reading                                        value   vs 98%   source
+  post-review document error, 4,000 documents    99.1%   met      Ch27: 36 errors in 4,000 after review
+  field accuracy on the gold set                 88.2%   missed   Ch27: Anne Kessler's gold set, router v0
+  shadow agreement with adjusters                88.0%   missed   Ch31: shadow agreement
+  pilot accuracy scored by Anne Kessler          84.0%   missed   Ch31: pilot
+  1 of 4 readings meet the clause; the clause does not say which reading counts, and 'as determined by Caldwell' gives Caldwell the choice
+  missing to compute it the same way twice: unit, scorer, sample (window only in the credit sentence)

@@ -1,0 +1,89 @@
+{
+ "stem": "fig12-04",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch12/fig12_04_contracts.py",
+ "source_sha1": "7854cd48bc01",
+ "data": "04-code/ch12 lab",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-10-31 20:18 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 9.0,
+ "label_words": 23,
+ "contrast_pairs": [
+  [
+   "drafting service",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "productivity\nsuite add-in",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "single sign-on",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "model gateway",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no streaming",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "document store",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "list every\n10 min",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "origination\nsystem",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "read only",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "bank SIEM",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "hourly",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

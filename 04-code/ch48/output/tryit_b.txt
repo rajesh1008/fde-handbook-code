@@ -1,0 +1,4 @@
+B. Loosen Greystone's criteria-citation floor and replay extract-2027-01
+  floor 0.97: ROLLBACK; criteria citation: 0.957 misses floor 0.97; 9 lost critical items without an owner's sign-off
+  floor 0.95: HOLD; criteria citation: 0.957 worse than incumbent 0.983; 9 lost critical items without an owner's sign-off
+  floor 0.94: HOLD; criteria citation: 0.957 worse than incumbent 0.983; 9 lost critical items without an owner's sign-off

@@ -1,0 +1,20 @@
+id,opened_day,closed_day,title,owner,tag
+NL-400,87,88,Refactor stage 1 into plugin,fde@northlight.ai,build
+NL-401,87,89,Async worker for stage 2,fde@northlight.ai,build
+NL-402,87,90,Raise coverage of module 3,fde@northlight.ai,build
+NL-403,87,91,Speed up CI job 4,fde@northlight.ai,build
+NL-404,87,92,Template 5 for prompt library,fde@northlight.ai,build
+NL-405,87,88,Docs page 6 for plugin API,fde@northlight.ai,build
+NL-406,87,89,Refactor stage 7 into plugin,fde@northlight.ai,build
+NL-407,87,90,Async worker for stage 8,fde@northlight.ai,build
+NL-408,87,91,Raise coverage of module 9,fde@northlight.ai,build
+NL-409,87,92,Speed up CI job 10,fde@northlight.ai,build
+NL-410,87,88,Template 11 for prompt library,fde@northlight.ai,build
+NL-411,87,89,Docs page 12 for plugin API,fde@northlight.ai,build
+NL-412,87,90,Refactor stage 13 into plugin,fde@northlight.ai,build
+NL-413,87,91,Async worker for stage 14,fde@northlight.ai,build
+NL-414,87,92,Raise coverage of module 15,fde@northlight.ai,build
+NL-415,87,88,Speed up CI job 16,fde@northlight.ai,build
+NL-416,87,89,Template 17 for prompt library,fde@northlight.ai,build
+NL-417,87,90,Docs page 18 for plugin API,fde@northlight.ai,build
+NL-418,87,91,Refactor stage 19 into plugin,fde@northlight.ai,build

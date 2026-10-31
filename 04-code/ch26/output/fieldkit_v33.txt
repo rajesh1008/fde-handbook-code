@@ -1,0 +1,10 @@
+test_fourteen_day_rule PASSED
+test_kappa_perfect_chance_and_opposite PASSED
+test_calibration_lines_depend_on_field_kind PASSED
+test_adjudication_needs_named_owner_reason_and_closure PASSED
+test_judge_validation_catches_a_lenient_judge PASSED
+test_corrected_rate_and_interval PASSED
+test_flip_rate_and_wilson PASSED
+test_four_cells_and_customer_gate_blocks_lost_critical PASSED
+test_repeat_runs_count_against_validity PASSED
+============================== 9 passed in 0.11s ===============================

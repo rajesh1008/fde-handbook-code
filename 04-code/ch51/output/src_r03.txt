@@ -1,0 +1,18 @@
+def r03(m, gated=True):
+    if m["phase"] not in HANDED + ("managed service",):
+        return "N/A", "not handed over"
+    man = dict(id=m["id"], playbook=None, deviations=[dict(what="playbook", reason="catalog run", owner="FDE",
+               review_by=99)], adapter="fieldkit.gateway", eval_suite=True, gold_owner="customer",
+               phase="handed over", alert_routes=m["alert_routes"], customer_domain=m["domain"],
+               secrets_owner="customer")
+    bad = [f for f in lint_engagement(man, Registry(), month=1) if f[0] == "E5"]
+    fwd = {r: t for r, t in m.get("forwards", {}).items() if not t.endswith(m["domain"])}
+    if not bad and not fwd:
+        return "PASS", f"{len(m['alert_routes'])} alert routes, all customer-owned"
+    if m.get("alert_deviation"):
+        return "DEV", m["alert_deviation"]
+    if fwd:
+        r, t = next(iter(fwd.items()))
+        return "FLAG", f"{r} looks customer-owned but forwards to {t}"
+    vendor = [r for r in m["alert_routes"] if not r.endswith(m["domain"])]
+    return "FLAG", f"{len(vendor)} alert route(s) to a vendor address: {vendor[0]}"

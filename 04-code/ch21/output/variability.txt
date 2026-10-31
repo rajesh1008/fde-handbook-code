@@ -1,0 +1,18 @@
+documents 2000, layouts 41, kinds 5, countries 11
+top 12 layouts carry 1520 documents (76.0%); the last 20 carry 257
+channels: {'scan': 1732, 'photo': 229, 'edi': 39}
+amounts, one parser for every layout:
+  US:  569 docs, silently wrong    0, failed loudly   0
+  MX:   70 docs, silently wrong    0, failed loudly   0
+  CA:  114 docs, silently wrong    0, failed loudly   0
+  DE:  262 docs, silently wrong  262, failed loudly   0
+  NL:   52 docs, silently wrong   52, failed loudly   0
+  BE:   64 docs, silently wrong   64, failed loudly   0
+  FR:  207 docs, silently wrong  207, failed loudly   0
+  IT:  294 docs, silently wrong  294, failed loudly   0
+  PL:   39 docs, silently wrong   39, failed loudly   0
+  CN:  111 docs, silently wrong    0, failed loudly   0
+  VN:  218 docs, silently wrong    0, failed loudly   0
+  total silently wrong 918 (45.9%), loud 0
+amounts, parser chosen by the layout's registered locale: silently wrong 0
+dates in day-first layouts read month-first: 490 silently wrong, 687 rejected as impossible

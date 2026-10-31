@@ -1,0 +1,20 @@
+FAILURE INJECTION · year-end intake mix replayed through a build that regressed on paper channels
+stratum                 ref mix  holiday     n   agree
+first notice, email         24%      50%   603   93.9%
+first notice, fax           12%       3%    34   52.9%
+first notice, mail          14%       4%    50   60.0%
+police report                8%       6%    68   91.2%
+repair estimate             14%      12%   143   90.9%
+medical bill                12%      11%   135   91.1%
+adjuster note                9%       8%    99   86.9%
+photo log                    7%       6%    73   89.0%
+daily agreement after the change: 149 90.5%, 150 92.5%, 151 91.3%, 152 85.9%, 153 88.0%
+naive rule (five consecutive intake days >= 85% since the change): GO
+Shadow Exit checks G-1 to G-4 on the same ten days:
+check what                                       verdict    measured  |  needed
+G-1   window length                              pass       10 intake days, 2 calendar weeks, 1 logged changes  |  >= 10 days, >= 2 weeks
+G-2   coverage per stratum since its last change FAIL       lowest: first notice, fax n=34  |  >= 60 each
+G-3   agreement at the reference mix             FAIL       raw 88.3%, mix distance 0.13, reweighted 82.3%  |  >= 85% reweighted
+G-4   stability, last five intake days           FAIL       89.6% vs window 86.9% to 89.5%  |  inside the window interval
+decision: HOLD
+holiday week raw 89.6%; at the reference mix 82.3%; fax+mail documents 84 of 1205

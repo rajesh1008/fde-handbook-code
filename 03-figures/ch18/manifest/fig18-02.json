@@ -1,0 +1,101 @@
+{
+ "stem": "fig18-02",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch18/fig18_02_four_jobs.py",
+ "source_sha1": "cd64cdad1f73",
+ "data": "chapter text (Section 18.1)",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:25 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 10.0,
+ "label_words": 30,
+ "contrast_pairs": [
+  [
+   "policy",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "who calls what",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "rotating key",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "cost",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "quota, chargeback",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "429s",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "audit",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "their log",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "logs not yours",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "safety filters",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "inputs refused",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "filtered 400s",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "top: customer reason; bottom: ",
+   "#5a6f9c",
+   "#ffffff",
+   5.01
+  ]
+ ],
+ "min_contrast": 5.01
+}

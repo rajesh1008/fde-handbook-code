@@ -1,0 +1,4 @@
+run 1 (as first written): observed 203 documents, canary tokens 9, hits 5 in ['debug.log']  -> FAIL
+run 2 (debug line removed): observed 203 documents, canary tokens 9, hits 0 in no file  -> PASS
+  kept per document: keyed hash, field agreement, 9 profile features; no text, no values
+  agreement with adjusters (development, stand-in): claimant_name 83%, date_received 80%, injury_reported 84%, intake_channel 100%, loss_date 80%

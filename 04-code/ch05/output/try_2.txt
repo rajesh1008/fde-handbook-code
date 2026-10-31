@@ -1,0 +1,5 @@
+TRY 2: one new play, three homes
+  vendor     OK      assets present
+  integrator INVERTS assumes one more month costs; here it earns
+  lab        BREAKS  no subscription
+  vendor playbook v1 + bundle-fde at the lab: OK 3  BENT 4  BREAKS 4  INVERTS 0

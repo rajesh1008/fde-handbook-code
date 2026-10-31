@@ -1,0 +1,24 @@
+a. porting the agent to a second insurer: what each step needs
+  C01 capture text (OCR for fax, mail and portal pages)   reuse (re-measure legibility on their scanners)
+  C02 date received from stamp or fax header              re-derive (their fax header layout)
+  C03 policy number pattern and check digit               re-derive (their policy pattern and check digit)
+  C04 coverage lookup in claims-core                      re-derive (their policy system read)
+  C05 match to an existing claim                          re-derive (their claim match rule)
+  C06 document type: four signed types or none            re-sign label set, re-train on their documents
+  C07 loss cause code from the narrative                  re-sign code list with their owner
+  C08 fixed zones on Caldwell and agency forms            re-derive (their forms)
+  C09 fast-track and adjuster routing                     re-sign: rules need their named owner
+  C10 special-investigation indicators                    re-sign: rules need their named owner
+  C11 cited first-notice summary and free-text fields     reuse model, re-run gold set
+  C12 write the claim record and queue item               re-derive write path and boundary
+  router thresholds: not ported; re-fit on their gold set (0.95 / 0.47 are Caldwell's)
+
+b. an example store shared across claims
+  guards 8 cards, failed: CW-O-03 block
+  C12    blocked by CW-O-03: foreign values [('other_party', 'IK-142-0017')]
+  store: other_party for IK-147-0052 was read from IK-142-0017: cross-claim write
+
+c. a legal hold arrives before an erasure request
+  erase on day 160: refused: legal hold matter CM-L-0102 (synthetic)
+  retention on day 240: {'deleted': 0, 'items': 0, 'held': 1, 'kept': 0}
+  hold released day 250, retention on day 251: {'deleted': 1, 'items': 12, 'held': 0, 'kept': 0}

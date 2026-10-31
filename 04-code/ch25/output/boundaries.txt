@@ -1,0 +1,23 @@
+== Caldwell Mutual
+read       prod,preprod           Daniel Reyes     day 104  svc-nl-claims-ro
+draft      prod                   Anne Kessler     day 104  shown in the review surface only
+write      preprod                Daniel Reyes     day 104  after an adjuster accepts
+background not granted
+memory     not granted
+refused    set_reserve            Anne Kessler: reserves are an adjuster's decision
+refused    set_status             Anne Kessler: claim status belongs to claims-core
+refused    assign_adjuster        Anne Kessler: assignment rules run in claims-core
+== Greystone Health
+read       sandbox                Sam Oakley       day 113  sandbox feed
+draft      sandbox                Michael Hart     day 113  coordinator work queue
+write      not granted
+background not granted
+memory     not granted
+refused    submit_prior_auth      Michael Hart: a person submits
+refused    set_urgency            Michael Hart: urgency is a clinical call
+refused    message_patient        Michael Hart: no automated patient contact
+check create_claim       preprod  -> ALLOW write granted by Daniel Reyes, day 104
+check create_claim       prod     -> DENY  no grant for create_claim in prod
+check set_reserve        preprod  -> DENY  refused: Anne Kessler: reserves are an adjuster's decision
+check draft_prior_auth   sandbox  -> ALLOW draft granted by Michael Hart, day 113
+check submit_prior_auth  sandbox  -> DENY  refused: Michael Hart: a person submits

@@ -1,0 +1,34 @@
+PER-CUSTOMER EVIDENCE CONVENTIONS (one model, four homes)
+  Caldwell
+    home       claim file and model inventory entry
+    reader     internal audit; model risk (Catherine Doyle)
+    retention  2,555 days
+    ids        claim number; adjuster IDs A-1xx
+    text       fields in pack (validation recomputes)
+    anchor     Caldwell log account, daily chain head
+    config digest 80df05f292e3
+  Greystone
+    home       prior-authorization case record
+    reader     compliance; CMIO office (Michael Hart)
+    retention  2,190 days
+    ids        keyed referral token, never MRN
+    text       minimum necessary: field names and hashes
+    anchor     Greystone Azure immutable blob, daily chain head
+    config digest f685eae84998
+  Pennant
+    home       freight-audit file per invoice
+    reader     Dana Whitaker; internal audit
+    retention  365 days
+    ids        invoice and shipment numbers; consignee keyed
+    text       hash-only run records; subject fields keyed store
+    anchor     Pennant log store, daily chain head
+    config digest fab0c01234aa
+  Harbourline
+    home       model inventory and credit memo file (bid stage)
+    reader     Helen Marsh (model risk)
+    retention  not yet agreed
+    ids        to be set with the bank
+    text       to be set with the bank
+    anchor     to be set with the bank
+    config digest 8a474640b78e
+  elements identical across customers: 8 of 8

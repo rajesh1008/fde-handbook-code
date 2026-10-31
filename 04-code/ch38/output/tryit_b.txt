@@ -1,0 +1,4 @@
+words      SQ-07: evidence check passes; fingerprint CHANGED -> reread
+claim      SQ-21: evidence check passes; fingerprint CHANGED -> reread
+evidence   SQ-23: evidence check passes; fingerprint CHANGED -> reread
+whitespace SQ-29: evidence check passes; fingerprint CHANGED -> reread

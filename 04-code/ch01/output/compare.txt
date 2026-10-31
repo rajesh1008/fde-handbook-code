@@ -1,0 +1,8 @@
+measure                        week_a_caldwell   week_b_injected
+calendar hours                            36.0              33.0
+hours with customer                       10.5               0.0
+commits                                     12                41
+tickets closed                               6                19
+customer-owned items moved                   8                 0
+verbs touched (of 6)                         6                 2
+

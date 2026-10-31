@@ -1,0 +1,113 @@
+{
+ "stem": "fig52-05",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch52/fig52_05_escape.py",
+ "source_sha1": "3cd066a4a7c9",
+ "data": "04-code/ch52/output/escape.txt",
+ "png_px": [
+  1650,
+  1200
+ ],
+ "rendered": "2026-11-01 00:26 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.0,
+ "aspect": 1.375,
+ "min_font_pt": 9.5,
+ "label_words": 15,
+ "contrast_pairs": [
+  [
+   "212 tokens",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "190 tokens",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "131 tokens",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pin",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "n+1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "n+2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Summaries with a dispute state",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "dispute statement kept",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "dropped",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

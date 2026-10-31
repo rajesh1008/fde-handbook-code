@@ -1,0 +1,82 @@
+THE TWELVE-MONTH CALENDAR  one engagement-day calendar, 30-day production months  (deterministic stand-in)
+
+Caldwell: go-live day 158, month 12 ends day 517, renewal day 365 (production month 7), subscription from signature
+  m 1 days 158-187
+        158 go-live: production day 0, ~520 documents a day, router v1.1
+        183 people: hand-over drill 2, readiness 0.60 to 0.90
+  m 2 days 188-217
+  m 3 days 218-247
+  m 4 days 248-277
+        248 contract: Live Stable; retainer signed, 12-hour band
+  m 5 days 278-307
+  m 6 days 308-337
+        331 renewal: rollback drill alone fails at step 4
+  m 7 days 338-367
+        339 renewal: rollback drill alone passes
+        358 renewal: subscription renewal signed (due day 365)
+  m 8 days 368-397
+        370 model: upgrade dry run alone; observer duty ends
+  m 9 days 398-427  <- month nine
+        402 model: extract-2027-01 promoted by Caldwell staff
+  m10 days 428-457
+        430 incident: storm surge, review queue past 48 hours
+  m11 days 458-487
+  m12 days 488-517
+        488 people: Owen Pryce leaves; sole holder of T3
+
+Pennant: go-live day 168, month 12 ends day 527, renewal day 365 (production month 7), subscription from signature
+  m 1 days 168-197
+        168 go-live: production day 0, ~2,100 documents a weekday
+  m 2 days 198-227
+        223 model: EU lane migrated to extract-2026-04
+  m 3 days 228-257
+  m 4 days 258-287
+        258 contract: Live Stable
+  m 5 days 288-317
+        290 contract: managed service starts
+  m 6 days 318-347
+        344 people: Dana Whitaker on twelve weeks' leave
+  m 7 days 348-377
+        358 renewal: subscription renewal signed (due day 365)
+  m 8 days 378-407
+  m 9 days 408-437  <- month nine
+        422 model: extract-2027-01 promoted under MC-EU-03
+  m10 days 438-467
+        465 contract: second exit drill due
+        467 incident: EU lane client certificate expires 02:10
+  m11 days 468-497
+  m12 days 498-527
+
+Greystone: go-live day 196, month 12 ends day 555, renewal day 561 (production month 13), subscription from production
+  m 1 days 196-225
+        196 go-live: draft-only at two clinics
+  m 2 days 226-255
+  m 3 days 256-285
+        256 contract: four clinics live (wave 2)
+  m 4 days 286-315
+  m 5 days 316-345
+        316 contract: nine clinics live (wave 4)
+  m 6 days 346-375
+        346 people: managed-service provider rotates its account team
+  m 7 days 376-405
+        384 incident: payer criteria revision; drafts cite old criteria
+  m 8 days 406-435
+        410 model: extract-2027-01 replay: ROLLBACK, stays on extract-2026-04
+  m 9 days 436-465  <- month nine
+        440 freeze: EHR upgrade change freeze, days 440 to 461
+        443 incident: critical advisory in the attachment parser
+  m10 days 466-495
+  m11 days 496-525
+  m12 days 526-555
+
+MONTH MAPPING
+  Caldwell retainer month k  = production month k + 3 (retainer month 1 starts day 248)
+  Pennant service month k    = production month k + 4 (service month 1 starts day 290)
+  Northlight function month n = engagement days 30(n-1)+1 to 30n
+  day 301: Maya Brooks leaves Northlight (function month 11); Caldwell m5, Pennant m5, Greystone m4
+  day 331: lead FDE moves to lead Harbourline; Sofia Brennan leads Caldwell, Callum Reid Greystone, Leo Martens Pennant (function month 12); Caldwell m6, Pennant m6, Greystone m5
+
+MONTH NINE AT ALL THREE
+  Caldwell  days 398-427: extract-2027-01 promoted by Caldwell staff
+  Pennant   days 408-437: extract-2027-01 promoted under MC-EU-03
+  Greystone days 436-465: EHR upgrade change freeze, days 440 to 461; critical advisory in the attachment parser

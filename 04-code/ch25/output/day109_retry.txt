@@ -1,0 +1,6 @@
+documents 231  tool calls 247  lost responses 11 on 9 documents
+open claims 242  for documents 231
+reconcile by key: matched 231  unexplained 11
+business-key duplicates (policy, loss date, claimant): 11
+V-118 rejections resubmitted with a guessed cause code: 5
+model narrative lines saying 'Created claim': 231  mentioning a retry or duplicate: 0

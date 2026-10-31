@@ -1,0 +1,4 @@
+c) Pennant overnight rota depth 2 instead of 3 (Maya Brooks, policy on)
+   depth 1: peak 4.30; red months [9, 10]
+   depth 2: peak 2.55; red months []
+   depth 3: peak 1.97; red months []

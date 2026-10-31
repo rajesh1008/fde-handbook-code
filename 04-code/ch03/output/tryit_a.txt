@@ -1,0 +1,3 @@
+documents with every field right: 0/10
+documents needing exactly one correction: 1/10 ['C05']
+field score for comparison: 58/100

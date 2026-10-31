@@ -1,0 +1,101 @@
+{
+ "stem": "fig08-09",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch08/fig08_09_routes.py",
+ "source_sha1": "ad76ab54d107",
+ "data": "04-code/ch08 lab fixtures",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-10-31 20:07 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 9.0,
+ "label_words": 34,
+ "contrast_pairs": [
+  [
+   "attorney letters",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "legal mail coordinator",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "finance-cage mail",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "finance cage",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "administrator files",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "nightly import",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "medical records",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "claim, unread",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "police, fire reports",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "claim, unread",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "photos, other mail",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "claim or adjuster inbox",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "OD-6 may bring one in",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

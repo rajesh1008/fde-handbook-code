@@ -1,0 +1,137 @@
+{
+ "stem": "fig43-03",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch43/fig43_03_margin.py",
+ "source_sha1": "965cdb5602f6",
+ "data": "04-code/ch43/output/model_pennant.txt, model_caldwell.txt (year 1 rows)",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-11-01 00:05 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 9.0,
+ "label_words": 20,
+ "contrast_pairs": [
+  [
+   "target",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "floor",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "margin, %",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "penn. hybrid",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "penn. managed v0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "penn. managed with retention",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "cald. hybrid",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "cald. managed (not chosen)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "FDE share",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

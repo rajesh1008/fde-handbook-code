@@ -1,0 +1,21 @@
+proposals 1155 (231 a day)  with an extraction error 134
+escalate  reviewed/day  load  catch  missed errors per 1,000
+     0%            0  0.00   0.92     116.0
+    10%           23  0.12   0.92      49.9
+    20%           46  0.24   0.92      26.8
+    30%           69  0.36   0.92      19.6
+    40%           92  0.48   0.92      15.7
+    50%          116  0.60   0.92      11.0
+    60%          139  0.72   0.88      14.2
+    70%          162  0.84   0.84      19.1
+    80%          185  0.96   0.79      24.0
+    90%          208  1.08   0.75      28.9
+   100%          231  1.20   0.71      33.8
+description disagrees with payload: 25  of which the description looks right and the payload is wrong: 12
+model says: Create claim for Susan Lopez, policy CM-978317, loss 2026-09-03.
+  policy_no   document=CM-978317      will write=CM-978317
+! claimant    document=Susan Lopez    will write=Susan
+  loss_date   document=2026-09-03     will write=2026-09-03
+  loss_type   document=WATER          will write=WATER
+  cause_code  document=WTR-01         will write=WTR-01
+  zip         document=06642          will write=06642

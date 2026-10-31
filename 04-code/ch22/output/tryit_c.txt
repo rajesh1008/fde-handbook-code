@@ -1,0 +1,5 @@
+c: tighten or loosen the R3 tolerance (USD 1.00 or this share of the contract)
+  R3 0.0%                            matched  45.9%  person  52  exceptions 930 (false 789)  wrong 3
+  R3 0.5%                            matched  82.8%  person  52  exceptions 154 (false 13)  wrong 4
+  R3 2.0%                            matched  82.8%  person  52  exceptions 146 (false 13)  wrong 12
+  R3 5.0%                            matched  82.8%  person  52  exceptions 137 (false 13)  wrong 21

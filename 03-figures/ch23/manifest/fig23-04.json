@@ -1,0 +1,173 @@
+{
+ "stem": "fig23-04",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch23/fig23_04_leaks.py",
+ "source_sha1": "dfb640e53182",
+ "data": "04-code/ch23/output/acl_inherit.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 21:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 16,
+ "contrast_pairs": [
+  [
+   "165",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "167",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "22",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no filter",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "filter after\nranking",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "filter before\nranking",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "of 450 searches",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "75",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "125",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "150",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "175",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "searches leaking",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "short lists",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "empty lists",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

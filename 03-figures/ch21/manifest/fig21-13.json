@@ -1,0 +1,161 @@
+{
+ "stem": "fig21-13",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch21/fig21_13_granularity.py",
+ "source_sha1": "e5f1067b0fd2",
+ "data": "04-code/ch21/output/granularity.txt",
+ "png_px": [
+  1650,
+  1110
+ ],
+ "rendered": "2026-10-31 20:44 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.7,
+ "aspect": 1.486,
+ "min_font_pt": 9.5,
+ "label_words": 13,
+ "contrast_pairs": [
+  [
+   "46",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "every\noutput",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "decisions\nonly",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "MB per month",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40/40",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "24/40",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "every\noutput",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "decisions\nonly",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "questions answerable (%)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "120",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

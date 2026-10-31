@@ -1,0 +1,19 @@
+== naive adapter ==
+rotations: day 73 Sun 02:00; old key valid one hour after
+  day 73 Sun 03:00  document failed: classify-small: HTTP 401 invalid_or_expired_key
+  day 73 Sun 03:10  document failed: classify-small: HTTP 401 invalid_or_expired_key
+  day 73 Sun 03:20  document failed: classify-small: HTTP 401 invalid_or_expired_key
+  day 73 Sun 03:20  runner exited after 3 consecutive failures (no restart policy)
+  day 74 Mon 09:10  restarted by hand; key re-read at start
+  shadow runner down from day 73 Sun 03:00 to day 74 Mon 09:10: 30 h 10 min
+documents mirrored 360, scored 177, missed 183, routed to a person 0
+gateway 401s 12; secret-store reads 2
+
+== fieldkit adapter ==
+rotations: day 73 Sun 02:00; old key valid one hour after
+  day 72 Sat 00:00  key read (start:key-10)
+  day 73 Sun 02:10  key read (scheduled:key-11)
+documents mirrored 360, scored 356, missed 0, routed to a person 4
+gateway 401s 0; secret-store reads 2
+cost (stand-in rates, USD): total 6.32, per successful call 0.0059, per scored document 0.0178 over 1076 calls
+

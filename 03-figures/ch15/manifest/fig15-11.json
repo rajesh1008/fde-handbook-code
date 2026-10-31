@@ -1,0 +1,143 @@
+{
+ "stem": "fig15-11",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch15/fig15_11_greystone.py",
+ "source_sha1": "3c45ed429ebe",
+ "data": "04-code/fieldkit histories.greystone_history()",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:48 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 23,
+ "contrast_pairs": [
+  [
+   "day 8",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 76",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 112",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no owner, days 10 to 61",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 40: email over Oakley's he",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "key removed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "engagement day",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "120",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "140",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "referral-sample",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "azure-subscription",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "synthetic-referrals",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Greystone's move",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "our move",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

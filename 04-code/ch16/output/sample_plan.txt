@@ -1,0 +1,17 @@
+stratum                    population   drawn  weight
+  medical bill                 2,485      44   1.19
+  adjuster note                2,343      44   1.12
+  photo log                    2,343      45   1.10
+  police report                2,130      44   1.02
+  repair estimate              1,917      40   1.01
+  first notice, email          1,633      34   1.01
+  first notice, fax              923      29   0.67
+  first notice, mail             426      20   0.45
+  total                       14,200     300
+stratum accuracies applied to the plan: unweighted 86.2%, weighted 86.6%
+manifest gold-set-300 (draw plan): 5 files  drawn by Natarajan (claims system query)  signed for by Kessler
+  location Caldwell AWS account, bucket claims-eval, prefix gold/  delete on engagement end + 90 days
+  D0000  police report          sha256 7a490aa771642497...
+  D0001  police report          sha256 2248676be5593c05...
+  D0002  first notice, fax      sha256 9ffcb4b4a3abc0ea...
+verify after a one-space edit to D0002: changed ['D0002']

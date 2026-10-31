@@ -1,0 +1,35 @@
+threshold sweep on cal-600's checked half (fields with a calibrated score at or above t):
+    t  share  right Wilson low
+ 0.81  85.1%  98.4%      97.8%
+ 0.83  84.2%  98.5%      97.9%
+ 0.85  84.0%  98.5%      97.9%
+ 0.87  83.8%  98.4%      97.9%
+ 0.89  83.5%  98.4%      97.9%
+ 0.91  83.3%  98.5%      98.0%
+ 0.93  78.9%  98.9%      98.3%
+ 0.95  75.6%  99.3%      98.9%
+ 0.97  68.8%  99.6%      99.2%
+ 0.99  61.6%  99.8%      99.4%
+
+chosen: Thresholds(proceed=0.95, floor=0.41, target=0.98, lower_bound=0.9891112142752618, checked_n=2267)
+  proceed at 0.95: the lowest t at or above the 0.95 field minimum whose band clears 98% at the Wilson lower bound (98.9% on 2,267 fields)
+  floor at 0.41: below it fewer than half of fields are right, so no value is suggested
+  proceed   75.6% of fields,  99.3% right
+  review    18.8% of fields,  79.3% right
+  below      5.6% of fields,   8.9% right
+
+ThresholdRecord, day 132:
+  proceed            0.950
+  floor              0.410
+  target             at least 98% right on proceed fields, scored by Anne Kessler's adjusters
+  calibration_set    cal-600: 600 shadow documents, days 124-131, Tom Whitfield and adjuster B
+  checked_on         odd-numbered half, 300 documents, not used to fit
+  lower_bound        0.989
+  routing            expected 60-65% proceed by document; to be confirmed on audit-400
+  post_review_error  to be measured: audit-400, days 136-140, Anne Kessler's team
+  owner              Anne Kessler
+  signed_by          ('Anne Kessler', 'Daniel Reyes')
+  day                132
+  review_trigger     weekly proceed-band audit lower bound above 2%; PSI above 0.2; any model, prompt or form change
+  missing: nothing
+router v0's record, day 120, missing: ['calibration_set', 'checked_on', 'routing', 'post_review_error', 'owner', 'review_trigger', 'signed_by']

@@ -1,0 +1,20 @@
+hours ledger frozen at day 190 (deterministic stand-in), US dollars at $150 an hour
+bucket                    caldwell             greystone               pennant
+discovery       260 /    220           270 /    260           160 /    200       
+access          430 /    260           480 /    420           190 /    160       
+model           720 /    700           530 /    900           520 /    500       
+integration     700 /    585         1,060 /    803         1,020 /    886       
+gates           620 /    380           560 /    560 open      300 /    200 open  
+handover        380 /    200            20 /    240 open      150 /    160 open  
+blocked         340 /    262           380 /    630 open      120 /     70 open  
+total         3,450 /  2,608         3,300 /  3,813         2,460 /  2,176       
+integration tax (actual)  caldwell 0.97   greystone 2.00   pennant 1.96
+
+calibration factor = median(actual / estimate) over closed buckets only
+  discovery     1.04  from 3  (1.18, 1.04, 0.80)
+  access        1.19  from 3  (1.65, 1.14, 1.19)
+  model         1.03  from 3  (1.03, 0.59, 1.04)
+  integration   1.20  from 3  (1.20, 1.32, 1.15)  <- priced with the reserve, not the median
+  gates         1.63  from 1  (1.63)  <- one engagement only
+  handover      1.90  from 1  (1.90)  <- one engagement only
+  blocked       1.30  from 1  (1.30)  <- one engagement only

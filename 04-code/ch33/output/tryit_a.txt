@@ -1,0 +1,5 @@
+Try 1: route on the model's stated confidence instead of a fitted router (router v0 style).
+  fitted router      RT -> full scope                 plan items 71
+  stated confidence  RT -> registered, not validated  plan items 70
+  Chapter 27: stated confidence put 14.8% errors in the proceed band (152 of 1,029); post-review error with the fitted router 0.9%
+  (audit-400). One fewer validation item is not worth that.

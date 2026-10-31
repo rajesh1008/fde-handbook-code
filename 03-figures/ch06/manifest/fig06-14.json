@@ -1,0 +1,185 @@
+{
+ "stem": "fig06-14",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch06/fig06_14_permissions.py",
+ "source_sha1": "1702eec70074",
+ "data": "04-code/ch06 lab",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-10-31 19:38 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 9.0,
+ "label_words": 42,
+ "contrast_pairs": [
+  [
+   "holds",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "holds",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "holds",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "holds",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "holds",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gap",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "holds",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gap",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "holds",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gap",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "holds",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gap",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "holds",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "holds",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "holds",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "intake\nclerk",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "senior\nadjuster",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "underwriting\ndesk",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "legal\nmail",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "finance\ncage",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "read document",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "policy by number",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "policy by name",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "attach to claim",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "attorney letters",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "finance mail",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "create claim",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

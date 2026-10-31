@@ -1,0 +1,4 @@
+v1 (whole packet)  fields read 16   needed 7   beyond need  9 (56%)
+   beyond need: address, dob, full_history, insurance_member_id, mrn, patient_name, phone, referring_provider, ssn_last4
+v2 (allowlist)     fields read  7   needed 7   beyond need  0 (0%)
+drafts identical between v1 and v2 inputs: 200 of 200 sandbox-week referrals

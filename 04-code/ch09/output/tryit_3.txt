@@ -1,0 +1,4 @@
+TRY 3: C07 loss cause sent to the frontier model
+  as classified    classes [7, 2, 2, 1]  $/doc 0.0521  p50 6.9s  p95 13.7s
+  C07 to frontier  classes [7, 2, 1, 2]  $/doc 0.0975  p50 12.7s  p95 21.2s
+  the closed output and its check do not change; only the bill and the wait do

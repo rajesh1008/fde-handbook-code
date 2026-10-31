@@ -1,0 +1,36 @@
+LINT  66 questions: 0 errors, 18 warnings
+  warning x12: expected answer came from a non-owner
+  warning x6: expected answer is a vendor position
+
+PREP SHEET  data owner, 60 minutes, 40 questions planned (46.5 min), 0 dropped
+ 1. R01 [data] Which system is the system of record for a claim's first notice?
+      why: decides where gold values and the duplicate check read from
+      expect: claims-core  (direct customer fact, from architect)
+      listen for: record keyed before any document arrives; document with no claim
+      if different, changes: source of gold values
+ 2. R02 [data] How often is the claims mart refreshed?
+      why: decides whether any check may read the mart instead of claims-core
+      expect: nightly, at 02:00  (direct customer fact, from platform)
+      listen for: refresh that fails silently; partial loads at month end
+      if different, changes: read path for checks
+ 3. R03 [data] Is the claims mart one row per claim?
+      why: decides the join key between documents and claim records
+      expect: yes, one row per claim  (vendor position, from Northlight)
+      listen for: claims with several coverage lines; reopened claims
+      if different, changes: join key and counts
+    ...
+11. R11 [data] Which field holds the date Caldwell received a first notice?
+      why: the date-received field is extracted, checked and reported against it
+      expect: the document store's received_at ingest timestamp  (vendor position, from Northlight)
+      listen for: mail scanned the next business day; forwarded faxes; papers following a phone report
+      if different, changes: date-received source and its check
+14. Q34 [identity] Can the agent find a policy by name and address while acting for an adjuster?
+      why: decides the fallback for documents with no readable policy number
+      expect: yes, with name search added to its service account  (proposed design, from Northlight)
+      listen for: purpose limits on name search; the service desk's queue
+      if different, changes: policy fallback design
+20. Q14 [data] Can a duplicate check against the mart catch a claim opened the same day?
+      why: decides whether the duplicate check may read the nightly mart
+      expect: yes, the mart is current enough for duplicates  (direct customer fact, from platform)
+      listen for: phone report then papers the same day; two doors on one morning
+      if different, changes: duplicate-check read path

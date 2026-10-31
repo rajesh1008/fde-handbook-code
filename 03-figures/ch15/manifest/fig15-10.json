@@ -1,0 +1,143 @@
+{
+ "stem": "fig15-10",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch15/fig15_10_claims_core_clock.py",
+ "source_sha1": "f0ea2181b2ed",
+ "data": "04-code/fieldkit histories (caldwell_history, caldwell_policy)",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 19:48 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.5,
+ "label_words": 32,
+ "contrast_pairs": [
+  [
+   "level 1 due\nday 35",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "level 2 due\nday 49",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "level 3 due\nday 65",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "dated ask\nto Reyes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "board\nbooked",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "board\napproves",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "integration tests, day 40",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "eval set v1, day 48",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "shadow feed, day 70",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "claims-core read-only request",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "engagement day",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "70",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

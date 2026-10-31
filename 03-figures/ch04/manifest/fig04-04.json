@@ -1,0 +1,179 @@
+{
+ "stem": "fig04-04",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch04/fig04_04_naive_vs_gated.py",
+ "source_sha1": "d2b841842644",
+ "data": "04-code/ch04/run_readiness.py and failure_no_owner.py via checklists.py",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-10-31 19:17 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 9.0,
+ "label_words": 26,
+ "contrast_pairs": [
+  [
+   "0.08",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0.00",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "DEMO ONLY",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0.10",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0.08",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "NOT READY",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0.94",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0.94",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "READY",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0.94",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0.78",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "NOT READY",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gate line 0.8",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "demo as sold",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Caldwell\nday 10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "projected,\nshadow exit",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "projected,\nowners removed",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "readiness score",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "naive score",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gated score",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

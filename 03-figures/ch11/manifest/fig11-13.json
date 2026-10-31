@@ -1,0 +1,101 @@
+{
+ "stem": "fig11-13",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch11/fig11_13_pennant_map.py",
+ "source_sha1": "ebea863e8bd3",
+ "data": "04-code/ch11 lab",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 20:09 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 10.0,
+ "label_words": 14,
+ "contrast_pairs": [
+  [
+   "sponsor",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Ruiz",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "operator",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Ruiz",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "clerks (14)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "blocker",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "compliance",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "approver",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Ruiz",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "owner",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Ruiz",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "champion network",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "nobody",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

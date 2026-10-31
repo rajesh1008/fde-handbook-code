@@ -1,0 +1,3 @@
+A-09 rerouted to nl-caldwell-alerts@northlight.example
+routing check: A-09
+runbook lint RB-02: ok (lint checks the trigger exists, not where it goes)

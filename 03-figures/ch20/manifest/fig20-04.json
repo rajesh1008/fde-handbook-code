@@ -1,0 +1,149 @@
+{
+ "stem": "fig20-04",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch20/fig20_04_loc.py",
+ "source_sha1": "b8abaac200c6",
+ "data": "04-code/ch20/output/loc.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:49 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 14,
+ "contrast_pairs": [
+  [
+   "29",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "112",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "219",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "19",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "16",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "11",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "code lines (teal shared, navy ",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "150",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "250",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "suite.py",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "estates.py",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "gateway.py",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "adapters.Port",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "CaldwellAws",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "GreystoneAzure",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "PennantGcp",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

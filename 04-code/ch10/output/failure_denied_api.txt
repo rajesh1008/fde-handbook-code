@@ -1,0 +1,18 @@
+DAY 21  estimate as sent to Laura Finch: 1,050 integration h / 500 model h = tax 2.10  (Chapter 2 field estimate 2.0)
+  TMS line: P-A2 pull shipment status from the TMS REST API (v2), 40 h, rests on: vendor documentation
+
+DAY 23  Kofi Mensah, integration architect: 'There is no status API. The module is not licensed here.
+        Status leaves the TMS once a night, as a CSV, at 02:00 Central.'
+  ValueError: P-A2 denied by Kofi Mensah on day 23, and no alternative was priced
+
+DAY 24  re-estimated with the CSV path priced: 1,500 h, tax 3.00  (+450 h, +0.90)
+    P-T1  access          60 h  parse the 02:00 CSV drop, schema-drift guard
+    P-T2  exceptions     190 h  rebuild intraday status from EDI, reconcile with CSV
+    P-T3  environments   120 h  30 days of CSV and EDI replayed (no TMS sandbox)
+    P-T4  gateways        70 h  MFT route, firewall rule, two change-board cycles
+    P-T5  identity        50 h  service identity and key rotation for the SFTP pull
+  cost of the surprise: 450 h x $150 = $67,500; 7.0 weeks at 2 FDEs
+
+GUARD  the same day-21 inventory through lint, alternative unpriced:
+  REFUSED  P-A2: 40 h on a vendor position with no priced alternative
+  P-A2 is 3.8% of the estimate; its denial was worth 450 h. Estimate not sent.

@@ -1,0 +1,77 @@
+{
+ "stem": "fig17-04",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch17/fig17_04_freshness.py",
+ "source_sha1": "5ca4a43a017e",
+ "data": "chapter text; 04-code/ch17/obo_recheck.py (flag times)",
+ "png_px": [
+  1650,
+  1110
+ ],
+ "rendered": "2026-10-31 21:11 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.7,
+ "aspect": 1.486,
+ "min_font_pt": 9.0,
+ "label_words": 14,
+ "contrast_pairs": [
+  [
+   "00:00",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "06:00",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "12:00",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "18:00",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "24:00",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "02:00 replica\nview built",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "11:40 claim\nflagged litigated",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "14:05 search\nreturns it",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "recheck asks claims-core\nat 14",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

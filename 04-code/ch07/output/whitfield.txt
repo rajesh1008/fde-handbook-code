@@ -1,0 +1,8 @@
+agent acting for Tom Whitfield (senior adjuster): 6 actions needed, 2 not permitted
+  GAP policy search by name and address: owner underwriting service desk, under a purpose rule (Q34); about 1,099 documents a month
+  GAP search claims across units: owner information security lead and privacy office (Q35); about 459 documents a month
+
+design after day 24:
+  name search -> agent drafts a request to the service desk queue; it does not search
+  cross-unit duplicate check -> purpose-bound service identity returns claim number and unit only,
+                                every read stamped with the adjuster it serves

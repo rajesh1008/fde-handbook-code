@@ -1,0 +1,4 @@
+Try 2: let Northlight's annotators label the weekly audit sample for M1.
+  M1 computable by Caldwell alone: yes
+  M1 computable by Caldwell alone: no
+     - weekly audit labels owned by Northlight (Northlight annotation team)

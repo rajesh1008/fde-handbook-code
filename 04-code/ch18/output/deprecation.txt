@@ -1,0 +1,7 @@
+day 68 Tue 10:00  fieldkit 200                naive 200                          register: no headers
+day 69 Wed 10:00  fieldkit 200                naive 200                          register: 48 days left, level info, successor /v2/deployments/extract-standard/chat
+day 70 Thu 10:00  fieldkit 200                naive 200                          register: 47 days left, level info, successor /v2/deployments/extract-standard/chat
+day 88 Mon 10:00  fieldkit 200                naive 200                          register: 29 days left, level warn, successor /v2/deployments/extract-standard/chat
+day 100 Sat 10:00  fieldkit 200                naive 200                          register: 17 days left, level warn, successor /v2/deployments/extract-standard/chat
+day 112 Thu 10:00  fieldkit 200                naive 200                          register: 5 days left, level page, successor /v2/deployments/extract-standard/chat
+day 118 Wed 10:00  fieldkit stopped (retired)  naive HTTP 410 endpoint_retired    register: -1 days left, level retired, successor /v2/deployments/extract-standard/chat

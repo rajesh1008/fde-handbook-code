@@ -1,0 +1,161 @@
+{
+ "stem": "fig04-08",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch04/fig04_08_oversight.py",
+ "source_sha1": "235b0e4a6a15",
+ "data": "04-code/ch04/oversight.py seeded stand-in (400 documents x 10 fields; not Caldwell data)",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-10-31 19:17 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 9.0,
+ "label_words": 25,
+ "contrast_pairs": [
+  [
+   "pipeline A",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pipeline B\nstops at 96%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "reliability target on fields s",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "88",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "90",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "92",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "94",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "96",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "98",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "fields sent to review, %",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "70",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "pipeline A",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pipeline B",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "fails on held-out half",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

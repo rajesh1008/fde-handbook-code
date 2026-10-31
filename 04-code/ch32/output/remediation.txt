@@ -1,0 +1,12 @@
+day 106, F-08 fix deployed, close attempted: F-08: a finding closes with retest evidence, not with a fix
+closed with retest evidence:
+  F-07 day 104: incident plan v2, owner Laura Finch, 24-hour notice to Sam Oakley
+  F-04 day 105: EV-01 and backup policy export, westus3 and paired region
+  F-05 day 105: EV-06 and diagnostic settings export, error codes only
+  F-11 day 111: stop switch drill: run desk disabled the agent in 4 minutes
+open on day 112: F-01 (medium, due 125), F-02 (medium, due 125), F-03 (medium, due 125), F-06 (low, due 118), F-08 (high, due 114), F-09 (high, due 128), F-10 (medium, due 120), F-12 (medium, due 115)
+compensating controls on open high findings:
+  F-08: diagnostic setting removed day 104
+  F-09: draft only, no write tools, sandbox read only
+burn-down: d103 12  d104 11  d105 9  d108 9  d111 8  d112 8
+plan if every retest lands on its date: d112 8  d114 7  d115 6  d117 5  d120 4  d125 1  d128 0

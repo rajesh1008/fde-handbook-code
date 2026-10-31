@@ -1,0 +1,2 @@
+60 documents: 11 of 14 exact; below 0.80: time_of_loss 0.74, injury_reported 0.78, cause_of_loss 0.68
+20 documents: 11 of 14 exact; below 0.80: police_report_number 0.58, vehicle_or_property_id 0.76, cause_of_loss 0.60

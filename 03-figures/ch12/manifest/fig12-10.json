@@ -1,0 +1,167 @@
+{
+ "stem": "fig12-10",
+ "kind": "diagram",
+ "tool": "hand-laid SVG (signature7.py)",
+ "style": "style.md",
+ "source": "03-figures/src/ch12/fig12_10_signature7.py",
+ "source_sha1": "27f4a7c2526e",
+ "data": "signature7.STATES['ch12']",
+ "png_px": [
+  1650,
+  1896
+ ],
+ "rendered": "2026-10-31 20:18 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 6.319,
+ "aspect": 0.87,
+ "min_font_pt": 9.5,
+ "label_words": 36,
+ "contrast_pairs": [
+  [
+   "fieldkit v1.5: built",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "dashed arrow: imports",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "access.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "readiness.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "fixtures.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "engagement.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "deployment.py",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "discovery.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "questionbank.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "scoping.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "autonomy.py",
+   "#1e2329",
+   "#d2d8df",
+   11.02
+  ],
+  [
+   "integration.py",
+   "#1e2329",
+   "#e5dbe6",
+   11.76
+  ],
+  [
+   "bid.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "commitments",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "labs that import fieldkit",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Ch 12 lab",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "extract_run.py",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "still to come",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v1.6",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Ch 13",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Part III",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v3+",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Parts IV\u2013VI",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 11.02
+}

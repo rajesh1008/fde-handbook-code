@@ -1,0 +1,149 @@
+{
+ "stem": "fig20-08",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch20/fig20_08_flips.py",
+ "source_sha1": "60e4de56ff98",
+ "data": "04-code/ch20/output/region_drift.txt",
+ "png_px": [
+  1650,
+  1200
+ ],
+ "rendered": "2026-10-31 20:49 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.0,
+ "aspect": 1.375,
+ "min_font_pt": 9.0,
+ "label_words": 18,
+ "contrast_pairs": [
+  [
+   "fields changed (left: lost, ri",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u221215.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u221212.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u221210.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u22127.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u22125.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u22122.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "shipper",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "consignee",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "origin",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "destination",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "pieces",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "weight_kg",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "incoterm",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "ship_date",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "lost on 2026-01",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gained on 2026-01",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

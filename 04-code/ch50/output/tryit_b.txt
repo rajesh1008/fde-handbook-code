@@ -1,0 +1,3 @@
+H10 risk-factor summary marked supporting use (core_decision False)
+  changed: [('H10', 'full scope', 'registered, not validated')] plan items 75 -> 74
+  who may make that change: Helen Marsh, in writing, with the reason; the FDE may only propose it

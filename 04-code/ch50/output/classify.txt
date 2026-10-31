@@ -1,0 +1,19 @@
+id   component                              Northlight day 22          Harbourline E-23 reading   tier
+H01  package intake from the document store not a model                not a model                
+H02  format detection and text capture      not a model                not a model                
+H03  statement table capture                registered, not validated  full scope                 high
+H04  chart-of-accounts mapping table        not a model                not a model                
+H05  unseen-label mapping suggestion        registered, not validated  full scope                 high
+H06  cross-footing and quarantine           not a model                not a model                
+H07  ratio and covenant calculation         not a model                not a model                
+H08  covenant term extraction               registered, not validated  full scope                 high
+H09  policy and prior-memo retrieval        registered, not validated  registered, not validated  
+H10  risk-factor summary                    registered, not validated  full scope                 medium
+H11  memo narrative drafting                registered, not validated  full scope                 medium
+H12  development judge (offline)            registered, not validated  registered, not validated  
+H13  numeric gate and lineage check         not a model                not a model                
+H14  suite add-in surface                   not a model                not a model                
+Northlight day 22: registered, not validated 7, not a model 7; plan items 70; register ba3f0737e2ab
+Harbourline E-23 reading: full scope 5, registered, not validated 2, not a model 7; plan items 75; register d69fc73a3d5e
+changed by the bank's reading: 5 components: H03, H05, H08, H10, H11
+full scope tiers: high 3, medium 2; agreed day 40, Helen Marsh

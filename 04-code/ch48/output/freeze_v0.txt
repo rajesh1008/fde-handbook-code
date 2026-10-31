@@ -1,0 +1,10 @@
+FREEZE v0  Greystone, production month 9  (deterministic stand-in)
+  freeze days 440-461 (EHR upgrade, managed-service provider calendar)
+  day 443 09:10  critical advisory: attachment parser on the fax-referral path
+  day 445        fix built; evaluation suite passes; filed as a STANDARD change
+  day 445        provider calendar: REJECTED, window frozen until day 461; requeued
+  day 457        policy due (critical within 14 days): fix not live
+  day 458        Sam Oakley's weekly report shows the breach; the request is still queued
+  day 463        first change board after the freeze approves it
+  day 466        fix live
+  exposure 23 days, 9 days past policy; fax path open throughout

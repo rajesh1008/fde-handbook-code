@@ -1,0 +1,3 @@
+mean score >= 0.80: passes 1880, of which defective 130
+mean score >= 0.90: passes 1852, of which defective 102
+minimum (hard gates): passes 1778, of which defective 28

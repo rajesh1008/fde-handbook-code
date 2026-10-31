@@ -1,0 +1,17 @@
+loop v0 (before): 5 rounds
+round  discov  decomp   build  judgme  commun  minutes
+R1          .       .    self       .    self    30
+R2          .       .     obs       .       .    60
+R3          .       .     obs       .       .   480 take-home
+R4          .     obs     obs       .       .    60
+R5       self       .       .    self    self    45
+observed in rounds: discovery 0, decomposition 1, build 3, judgment 0, communication 0
+most observed: build (75% of observed probes); candidate time live 195 min, take-home 480 min
+L1 discovery never observed (self-report only in R5)
+L2 decomposition observed in 1 round, needs 2
+L1 judgment never observed (self-report only in R5)
+L1 communication never observed (self-report only in R1,R5)
+L3 build observed in 3 of 5 rounds (75% of observed probes): the rounds test the same competency
+L5 R3 take-home is 480 min, cap 180
+L4 R5 probes 3 competencies in 45 min, max 2
+findings: 7

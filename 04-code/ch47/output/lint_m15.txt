@@ -1,0 +1,28 @@
+engagement lint, month 15: 17 findings at 14 of 20 engagements
+  E1  3  playbook declared and in the registry, or bespoke with a registered reason
+  E2  1  playbook version not deprecated past its migrate-by month
+  E3  4  model calls through the platform gateway adapter, or a registered deviation
+  E4  3  evaluation suite present with a named customer gold-set owner
+  E5  1  after hand-over, every alert route owned by a customer address
+  E6  2  every deviation has a reason, an owner and an unexpired review month
+  E7  2  fieldkit pinned to the book layer the playbook needs
+  E8  1  secrets held in the customer's vault
+findings:
+  E2 N05         PB-1@1.1 deprecated; migrate-by month 14 passed
+  E5 N05         an alert route goes to a non-customer address after hand-over
+  E1 N06         no playbook and no registered reason for bespoke
+  E6 N07         deviation 'adapter' lacks reason/owner or its review month passed
+  E3 N08         model calls through 'copy of gateway.py (N08)', no registered deviation
+  E4 N09         evaluation suite has no named customer gold-set owner
+  E7 N10         fieldkit layer 4.5 below the 5.0 the playbook needs
+  E6 N11         deviation 'retrieval' lacks reason/owner or its review month passed
+  E3 N12         model calls through 'copy of gateway.py (N12)', no registered deviation
+  E1 N13         no playbook and no registered reason for bespoke
+  E3 N13         model calls through 'direct, vendor SDK', no registered deviation
+  E8 N13         secrets held by 'northlight'
+  E4 N14         no evaluation suite
+  E7 N15         fieldkit layer 4.7 below the 5.0 the playbook needs
+  E3 N16         model calls through 'copy of gateway.py (N16)', no registered deviation
+  E4 N18         evaluation suite has no named customer gold-set owner
+  E1 N20         playbook PB-3@0.8 is not in the registry
+registered deviations: 6 (Harbourline playbook review month 19; N07 playbook review month 19; N07 adapter review month 18; N11 retrieval review month 12; N12 playbook review month 19; N18 playbook review month 19)

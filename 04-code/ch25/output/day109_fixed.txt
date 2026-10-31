@@ -1,0 +1,7 @@
+documents 231  executor calls 240  action records 245
+action states {'denied': 6, 'held': 5, 'unknown': 9, 'verified': 225}
+open claims 225  duplicates 0  voided shells 5
+denied resubmits 6  stage ['finality', 'values']
+an unknown, then its retry:
+  A00008 unknown   target=None raw=['timeout after submit'] hash=0a92d61185e1
+  A00009 verified  target=CC-20263108 raw=['timeout after submit'] hash=0a92d61185e1

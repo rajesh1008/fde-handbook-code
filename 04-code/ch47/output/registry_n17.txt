@@ -1,0 +1,8 @@
+N17 estate: cloud=onprem, gateway=none, vault=hashicorp, egress_proxy=yes, object_store=none, edi=none, fhir=none
+adopted PB-1@1.3 on day 0 (form lint: 0 findings)
+  day  1 to 9  PB-1.S1 done: Map first-notice fields to the claims system's intake schema
+  day 10 to 18 PB-1.S2 done: Load the 300-claim gold set with the customer's claims data owner
+  day 19 to 22 PB-1.S3 done: Store the model key in the customer's vault and grant the runner read
+  day 23       PB-1.S4 FAILED: route registration endpoint not found; estate has no model gateway
+  days 23 to 31 lost: a change request for a customer gateway that does not exist; PB-4 direct mode set up instead
+preconditions declared by PB-1@1.3 that N17 fails: none (that is the bug)

@@ -1,0 +1,7 @@
+RESIDUAL RISK  Caldwell Mutual  signed, day 157
+  fax first notices below the 80% bar          Anne Kessler     day 157  review 190  control: route to review
+  mail first notices: interval spans the bar   Anne Kessler     day 157  review 190  control: weekly per-class audit sample
+  S-4 interval upper end 1.47% above 1.2%      Anne Kessler     day 157  review 190  control: audit sample
+  C06-ft1 unvalidated (R1)                     Catherine Doyle  day 153  review 190  control: component switched off
+  fine-tuned weights retention open            Elaine Porter    day 157  review 190  control: no new fine-tune runs
+lint: 0 problem(s)

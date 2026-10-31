@@ -1,0 +1,15 @@
+theme                        asked  design  evidence kinds cited
+data flow and storage            9       7  inventory 4, design 3, config export 3
+access and identity              8       6  config export 4, procedure 3, test output 2
+model behavior and output        6       4  design 3, procedure 1, decision 1
+logging and audit                6       4  test output 4, procedure 2, inventory 1
+subprocessors and contracts      4       0  contract 3, terms 1, attestation 1
+retention and deletion           4       1  schedule 2, procedure 2
+incident and breach              4       1  assessment 2, plan 1, contract 1
+total                           41      23
+claims: measured 6, configured 10, documented 24, assumed 1
+
+questionnaire size at three customers (asked, applicable, design-changing)
+  Caldwell     58    44   17   applicable 76%
+  Greystone    41    41   23   applicable 100%
+  Pennant     112    63   19   applicable 56%

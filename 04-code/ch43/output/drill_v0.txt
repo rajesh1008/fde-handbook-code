@@ -1,0 +1,6 @@
+EXIT DRILL  MS-RB-01 TMS feed late or missing  runbooks v0  by Nadia Brooks, Northlight hands off  (deterministic stand-in)
+02:00  feed due; injected: file not delivered
+02:31  step 1: workaround for ops.northlight.example: Pennant cloud console, loader job history (+31 min)
+02:37  step 1: open ops.northlight.example and read the feed status for the 02:00 file
+02:37  step 2: blocked: nl-bastion-02 belongs to Northlight
+result: FAILED, blocked at step 2; deadline 03:30 missed

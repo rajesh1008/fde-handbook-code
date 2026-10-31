@@ -1,0 +1,3 @@
+permission-inheriting retrieval: playbook to platform (9 engagements, 3 shapes)
+claims first-notice extraction: playbook to platform (6 engagements, 2 shapes)
+each move is a component the platform team must own, version and support at every customer

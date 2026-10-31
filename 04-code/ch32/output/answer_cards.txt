@@ -1,0 +1,36 @@
+v1, as sent on day 100 (link check: every answer cites evidence)
+  SQ-09 [documented] Yes; the agent and image were tested by an independent firm.
+      EV-07  assessment   owner Laura Finch    scope any              expires day 55
+      check day 100: FAIL: EV-07 expired day 55
+      finding at review day 103: F-01 medium evidence
+  SQ-26 [configured] Audit records carry identifiers, not text; readers are named.
+      EV-05  test output  owner Sofia Brennan  scope greystone-azure  expires day 188
+      EV-06  inventory    owner Sofia Brennan  scope greystone-azure  expires day 190
+      check day 100: PASS
+      finding at review day 103: F-08 high design
+  SQ-30 [documented] The system prompt tells the model to ignore instructions in documents.
+      EV-19  design       owner Sofia Brennan  scope any              expires day 276
+      check day 100: PASS
+      finding at review day 103: F-09 high design
+
+v2, as it stood for the pilot on day 131
+  SQ-09 [measured] Yes. An independent firm tested this deployment on days 116 to 118, scoped to the agent and its tools.
+      EV-20  assessment   owner Laura Finch    scope greystone-azure  expires day 490
+      check day 131: PASS
+      false if: a report whose scope is not greystone-azure, or a finding in it with no owner
+  SQ-26 [measured] Audit records carry identifiers, not text; readers are named; reconciled with your exports.
+      EV-05  test output  owner Sofia Brennan  scope greystone-azure  expires day 188
+      EV-06  inventory    owner Sofia Brennan  scope greystone-azure  expires day 190
+      EV-22  test output  owner Erin Walsh     scope greystone-azure  expires day 144
+      check day 131: PASS
+      false if: a pair in the flow logs that the inventory does not declare
+  SQ-30 [measured] Drafts cite source spans; uncited text is blocked; the agent has no write tools.
+      EV-21  test output  owner Sofia Brennan  scope greystone-azure  expires day 218
+      EV-20  assessment   owner Laura Finch    scope greystone-azure  expires day 490
+      EV-03  config export owner Callum Reid    scope greystone-azure  expires day 189
+      check day 131: PASS
+      false if: a red-team case whose injected instruction reaches a draft without a block
+
+next expiry among the three cards: day 144 (EV-22, SQ-26)
+answer words v1 -> v2: SQ-09 11->19, SQ-26 9->13, SQ-30 11->14
+claim types v1 -> v2: SQ-09 documented->measured, SQ-26 configured->measured, SQ-30 documented->measured

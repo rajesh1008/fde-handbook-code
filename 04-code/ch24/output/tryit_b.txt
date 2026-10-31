@@ -1,0 +1,3 @@
+7 sources, no timeout    turn p95  5231 ms, partial   0/500
+7 sources, timeout 2500  turn p95  3680 ms, partial 149/500
+7 sources, timeout 2000  turn p95  3180 ms, partial 256/500

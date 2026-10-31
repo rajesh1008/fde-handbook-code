@@ -1,0 +1,5 @@
+Pennant now: 0.40
++ customer on-call rota from 01:30     0.45  without Jenna Ruiz 0.35
++ alerts rerouted to the rota          0.50  without Jenna Ruiz 0.40
++ drill passed alone                   0.53  without Jenna Ruiz 0.42
++ second person can switch modes       0.53  without Jenna Ruiz 0.47

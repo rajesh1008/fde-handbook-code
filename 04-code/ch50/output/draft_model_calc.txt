@@ -1,0 +1,10 @@
+[1] Northgate Fabrication Ltd reported revenue of C$48.2 million for fiscal 2025 under ASPE.
+[2] Debt service coverage is 1.74x against a covenant of >= 1.25x.
+[3] Funded debt to EBITDA is 3.20x against a covenant of <= 3.50x.
+[4] The current ratio is 1.52x against a covenant of >= 1.20x.
+[5] Tangible net worth is C$11.1 million against a covenant of >= C$10.0 million.
+numeric gate: pass
+currency lint: pass
+lineage check: FAILS
+  calculation:af60d3bfaa49: recomputed 1.27, recorded 1.74
+draft reaches the credit officer: no; regenerated, then routed for review if it fails twice

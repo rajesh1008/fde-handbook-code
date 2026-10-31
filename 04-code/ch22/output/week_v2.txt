@@ -1,0 +1,16 @@
+shadow week days 124-130, 2100 documents (deterministic stand-in); scorer pennant-qs-1.1, linkage: two keys
+fx table fx_rates@3f1b0e048aa3 (owner Marisol Vega, as of day 123 close)
+by channel: edi 844, scan 894, photo 362
+by day:     124 348, 125 370, 126 355, 127 369, 128 345, 129 182, 130 131
+system outcome: matched 1739, exception 147, held 158, person 56
+  matched               1739   82.8%
+  exception confirmed    137    6.5%
+  false exception         10    0.5%
+  held, confirmed        158    7.5%
+  held, not needed         0    0.0%
+  to a person             56    2.7%
+  silently wrong           0    0.0%
+matched as scored by the reconciliation team: 1739 of 2100 = 82.8%
+  edi      844 docs  matched  90.5%  silently wrong 0
+  scan     894 docs  matched  82.9%  silently wrong 0
+  photo    362 docs  matched  64.6%  silently wrong 0

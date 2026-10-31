@@ -1,0 +1,17 @@
+TRACE  SD-15 back to its origin
+  day -34  DS-07 vendor position                 deal sheet            Graham Lowell
+           "Northlight auto-routes every document above 0.90 confidence, no review"  (evidence event: none)
+  day   1  KO-12 proposed design                 kickoff deck          Graham Lowell
+           "Documents above 0.90 confidence go straight to the claims core"  (evidence event: none)
+  day  10  SR-03 reconstructed from an artifact  week-2 status report  Northlight FDE
+           "Caldwell requires auto-routing above 0.90 confidence"  (evidence event: none)
+  day  24  SD-15 direct customer fact            scope draft v0.3      Caldwell Mutual
+           "Customer requirement: documents above 0.90 confidence are sent without review"  (evidence event: none)
+origin: DS-07, vendor position, Graham Lowell (vendor), day -34
+status written in v0.3: direct customer fact (rank 3); status it may carry: vendor position (rank 1)
+
+REPAIR  day 26, asked in the scope working session
+  Anne Kessler: "Nothing goes to the claims core unreviewed until I have seen the curve on our documents."
+  SD-15 rewritten as OD-4: decision required, owner Anne Kessler, due day 90
+  lineage note: supersedes SR-03 (week-2 status report corrected the same day); origin DS-07, vendor position
+  findings on the rewritten claim: 0

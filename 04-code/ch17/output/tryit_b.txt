@@ -1,0 +1,2 @@
+delegation 0.25 h: released 0, withheld 40 ['delegation expired']
+delegation    8 h: released 39, withheld 1 ['user may not read']

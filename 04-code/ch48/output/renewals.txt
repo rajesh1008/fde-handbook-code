@@ -1,0 +1,31 @@
+RENEWAL EVIDENCE  (deterministic stand-in)
+v0, the pack Northlight planned on day 300: uptime over 99.5%; volume growth; monthly service review held. Every line green at all three.
+v1, the customer's list, checked against the evidence log:
+
+Caldwell renewal evidence on day 333 (after the first drill); renewal due day 365
+  PASS Exhibit E inside the line every month            owner Anne Kessler     5 closed months; at or over the line in month(s) none
+  FAIL rollback run alone by Caldwell staff (R-46)      owner Catherine Doyle  day 331: RB-D2 step 4: rollback target extract-2026-01 returned 404 model_not_found
+  OPEN model-risk annual review opened                  owner Catherine Doyle  no evidence yet
+  OPEN cost per document under the budget line          owner Daniel Reyes     no evidence yet
+  -> 1 of 4 pass
+
+Caldwell renewal evidence on day 346 (before signature); renewal due day 365
+  PASS Exhibit E inside the line every month            owner Anne Kessler     6 closed months; at or over the line in month(s) none
+  PASS rollback run alone by Caldwell staff (R-46)      owner Catherine Doyle  day 339: RB-D2 passed in 41 minutes; Priya Natarajan ran it, Owen Pritchard refereed
+  PASS model-risk annual review opened                  owner Catherine Doyle  day 342: Catherine Doyle opened the annual review
+  PASS cost per document under the budget line          owner Daniel Reyes     day 345: USD 0.0556 a document against 0.0600
+  -> 4 of 4 pass
+
+Pennant renewal evidence on day 352 (before signature); renewal due day 365
+  FAIL matched-definition sample read every week        owner Rosa Delgado     day 351: weeks starting day 344 and day 351 unread: Dana Whitaker on leave, no deputy
+  PASS exit drill passed in the last six months         owner Grant Holloway   day 283: MS-RB-01 passed at 03:00, day 283
+  PASS every model change recorded and approved         owner Joanne Pruitt    day 350: one model change in the year, MC-EU-02, recorded and approved by Joanne Pruitt
+  PASS cost per document under the budget line          owner Joanne Pruitt    day 352: USD 0.0358 a document against 0.0400
+  -> 3 of 4 pass
+
+Greystone renewal evidence on day 466 (after month 9); renewal due day 561
+  FAIL material errors inside the line every month      owner Michael Hart     9 closed months; at or over the line in month(s) [7]
+  PASS critical patches inside 14 days                  owner Sam Oakley       day 446: attachment-parser fix live 3 days after the advisory, by emergency change
+  OPEN clinic coordinators' acceptance                  owner Denise Alvarez   no evidence yet
+  OPEN cost per referral under the budget line          owner Denise Alvarez   no evidence yet
+  -> 1 of 4 pass

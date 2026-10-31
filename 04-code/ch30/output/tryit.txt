@@ -1,0 +1,7 @@
+== tryit a
+T2p removed from training: Anne's T2p docs answered {'T1': 44}, held by guard 0
+familiar words, unfamiliar convention: the familiarity check cannot see it; only a labeled slice can
+== tryit b
+volume 60,000/month: prompted $670, fine-tuned $518; crossover 45,978
+== tryit c
+police reports removed from training: answers {'T3': 45, 'none': 9}; held by guard 54 of 54

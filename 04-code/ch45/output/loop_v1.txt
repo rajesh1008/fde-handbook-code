@@ -1,0 +1,11 @@
+loop v1 (after): 6 rounds
+round  discov  decomp   build  judgme  commun  minutes
+S1          .       .       .    self     obs    30
+T1          .     obs     obs       .       .    60
+S2          .       .       .     obs     obs    45
+D1        obs     obs       .       .       .    60
+H1        obs       .       .     obs       .    45
+C1          .       .     obs       .     obs    45
+observed in rounds: discovery 2, decomposition 2, build 2, judgment 2, communication 3
+most observed: communication (27% of observed probes); candidate time live 285 min, take-home 0 min
+findings: 0

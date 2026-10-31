@@ -1,0 +1,8 @@
+attacks: 140   benign set: 60 twins + 106 clean sandbox referrals = 166
+pack                                 rules  stopped  benign queued  benign queued, no flag
+P0 boundary and budgets only            20   72/140    166/166 (100.0%)    166/166 (100.0%)
+P1 + payer tables and regulation        35   72/140    165/166 (99.4%)    165/166 (99.4%)
+P2 suite v2 (before the red team)       56  117/140    165/166 (99.4%)    161/166 (97.0%)
+P3 suite v3 (chosen)                    60  140/140    165/166 (99.4%)    161/166 (97.0%)
+P4 v3 + keyword guard                   60  140/140    110/166 (66.3%)    110/166 (66.3%)
+P5 v3, every flag routes                60  140/140    161/166 (97.0%)    161/166 (97.0%)

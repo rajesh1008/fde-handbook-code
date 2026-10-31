@@ -1,0 +1,81 @@
+{
+ "rows": {
+  "adjuster note": [
+   170,
+   161,
+   165,
+   4,
+   0,
+   "pass"
+  ],
+  "first notice, email": [
+   170,
+   166,
+   168,
+   2,
+   0,
+   "pass"
+  ],
+  "first notice, fax": [
+   500,
+   413,
+   420,
+   7,
+   0,
+   "pass"
+  ],
+  "first notice, mail": [
+   490,
+   419,
+   400,
+   10,
+   29,
+   "fail"
+  ],
+  "medical bill": [
+   170,
+   152,
+   159,
+   7,
+   0,
+   "pass"
+  ],
+  "photo log": [
+   170,
+   146,
+   153,
+   7,
+   0,
+   "pass"
+  ],
+  "police report": [
+   170,
+   160,
+   164,
+   4,
+   0,
+   "pass"
+  ],
+  "repair estimate": [
+   170,
+   158,
+   163,
+   5,
+   0,
+   "pass"
+  ]
+ },
+ "agg": [
+  0.8830845771144279,
+  0.891542288557214
+ ],
+ "worst": [
+  [
+   "first notice, mail",
+   "date_received",
+   49,
+   45,
+   16
+  ]
+ ]
+}

@@ -1,0 +1,10 @@
+one number, weighted to the month's mix: 68.4%
+one number, unweighted: 67.2%
+  first notice, mail     51.0%  (20 documents)
+  first notice, fax      52.8%  (29 documents)
+  adjuster note          67.7%  (44 documents)
+  photo log              68.4%  (45 documents)
+  repair estimate        69.0%  (40 documents)
+  medical bill           71.4%  (44 documents)
+  police report          72.3%  (44 documents)
+  first notice, email    72.6%  (34 documents)

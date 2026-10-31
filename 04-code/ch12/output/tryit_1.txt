@@ -1,0 +1,1 @@
+BC-15 CONTRADICTED CL-36 (round 2): No. Joiner and leaver changes reach vendor tenants overnight, on the next business day.

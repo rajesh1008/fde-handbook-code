@@ -1,0 +1,11 @@
+scorer pennant-qs-1.0 on 2000 documents (deterministic stand-in feed)
+  accept 1778, request 129, reject 93; held at the door 222 (11.1%)
+  defective documents 250, held 222, passed 28; clean documents held 0
+  failures by dimension: {'completeness': 91, 'consistency': 46, 'legibility': 93}
+    P00001   request score 0.75  has gross_kg: gross_kg missing
+    P00055   request score 0.75  has container: container missing
+    P00059   request score 0.00  container check digit: container MSKU4415153 fails ISO 6346 check digit
+    P00088   request score 0.75  has container: container missing
+downstream exceptions without the scorer: 372  {'bad_container': 16, 'clean': 156, 'illegible': 70, 'inconsistent': 24, 'marginal': 30, 'misread': 22, 'missing': 54}
+downstream exceptions with the scorer:    230  {'clean': 178, 'marginal': 30, 'misread': 22}
+  change -38%; held documents returned and processed 170; still awaiting the sender 52

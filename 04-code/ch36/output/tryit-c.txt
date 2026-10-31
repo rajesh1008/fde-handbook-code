@@ -1,0 +1,2 @@
+v3, model m1: reached 1 of 20 (RT-07)  RR-01 condition (no more than 1 in 20): holds
+v3, model m2: reached 2 of 20 (RT-04, RT-07)  RR-01 condition (no more than 1 in 20): VOID, F-13 reopens

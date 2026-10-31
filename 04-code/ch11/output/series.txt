@@ -1,0 +1,11 @@
+week  day  reported  computed  forecast pilot
+   1    7  green     green     day 140
+   2   14  green     amber     day 140  <- hides
+   3   21  green     amber     day 140  <- hides
+   4   28  green     red       day 140  <- hides
+   5   35  green     red       day 144  <- hides
+   6   40  green     red       day 146  <- hides
+   7   49  amber     red       day 146  <- hides
+   8   56  amber     red       day 148  <- hides
+   9   63  red       red       day 146
+  10   70  red       red       day 144

@@ -1,0 +1,27 @@
+synthetic v1   94.1%  (5,645 of 6,000 fields, self-scored, 600 documents)
+real sample    70.7%  (1,414 of 2,000 fields, keyed by Kessler's adjusters, 200 documents)
+gap            23.4 points
+field               synthetic   real
+  policy_number          93%     76%
+  claimant_name          92%     47%
+  loss_date              92%     47%
+  date_received          94%     78%
+  loss_type              91%     64%
+  loss_location          84%     68%
+  injury_reported        97%     41%
+  police_report_ref      99%     93%
+  other_party            99%     92%
+  intake_channel        100%    100%
+exception tag on the real 200    documents  field accuracy
+  faded scan                        47        60%
+  forwarded chain                    2        65%
+  not a first notice               158        70%
+  no policy number                   1        70%
+  short or written date             16        72%
+  agent sender                       8        76%
+  Spanish-language                   3        77%
+  no exception                      14        81%
+three wrong answers, as the reviewer saw them
+  D0000 [faded scan] policy_number: extracted None, adjuster keyed 'HP165562'
+  D0011 [agent sender] claimant_name: extracted 'Victor Carter', adjuster keyed 'Maria Morales'
+  D0025 [forwarded chain] date_received: extracted '2026-06-29', adjuster keyed '2026-07-03'

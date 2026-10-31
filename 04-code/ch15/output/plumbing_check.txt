@@ -1,0 +1,10 @@
+stage                        synthetic    real  verdict
+1 manifest parses               100.0%  100.0%  unchanged
+2 key valid                     100.0%  100.0%  unchanged
+3 policy number parses          100.0%   97.5%  differs by 2.5 points: the data, not the code
+4 loss date normalizes          100.0%  100.0%  unchanged
+5 document type routes          100.0%  100.0%  unchanged
+6 recognition gate: auto        100.0%   76.5%  differs by 23.5 points: the data, not the code
+7 page split: one job           100.0%  100.0%  unchanged
+stages unchanged from synthetic to real: 5 of 7
+files sent to review by the recognition gate: synthetic 0 of 200, real 47 of 200

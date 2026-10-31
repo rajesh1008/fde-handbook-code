@@ -1,0 +1,14 @@
+--- exercise c
+Caldwell patterns: accepted (the bare number gets through)
+Greystone patterns: rejected: R02: note text looks like it holds an identifier (\b\d{8}\b)
+coverage report: Greystone Health, day 4
+paths known: 4 (documented 2, found 2)
+path  doc  vol/mo  seen  arrive touch decide except land   status
+R01   yes       ?    19    O      O      O      O      O    covered
+R02   yes       ?     0    s      s      s      s      s    open
+R03   no        ?     6    O      O      O      O      O    covered
+R05   no        ?     2    O      O      O      O      O    covered
+covered: 3 of 4 paths, 0 of 0 documents a month (n/a)
+volume unknown: R01, R02, R03, R05
+answers stated but not observed: 5
+open contradictions: 0

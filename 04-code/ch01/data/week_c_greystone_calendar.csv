@@ -1,0 +1,17 @@
+day,start,end,title,attendees,tag
+40,09:00,09:30,Northlight FDE stand-up,fde@northlight.ai;laura.finch@northlight.ai,internal
+40,10:00,11:30,Private endpoint design,fde@northlight.ai;netops@greystone-msp.net,access
+40,13:00,16:00,Focus: note-summary evaluation harness,fde@northlight.ai,build
+41,09:00,10:30,Identity: managed identity for the pipeline,fde@northlight.ai;identity@greystone-msp.net;sam.oakley@greystonehealth.org,access
+41,11:00,12:00,Clinical review of 15 summaries,fde@northlight.ai;michael.hart@greystonehealth.org,pass
+41,13:00,16:30,Focus: evaluation harness,fde@northlight.ai,build
+42,09:00,09:30,Northlight FDE stand-up,fde@northlight.ai;laura.finch@northlight.ai,internal
+42,09:30,11:00,Firewall change request walkthrough,fde@northlight.ai;netops@greystone-msp.net,access
+42,11:00,12:00,Log export to the security team's tooling,fde@northlight.ai;soc@greystone-msp.net,access
+42,13:00,16:00,Focus: de-identification checks,fde@northlight.ai,build
+43,09:00,12:00,Focus: harness on the sampled notes,fde@northlight.ai,build
+43,13:00,14:00,Change advisory board dry run,fde@northlight.ai;change@greystone-msp.net,decide
+43,14:00,16:00,Write up evaluation results,fde@northlight.ai,pass
+44,09:00,10:00,Northlight engagement review,fde@northlight.ai;laura.finch@northlight.ai;graham.lowell@northlight.ai,internal
+44,10:00,12:00,Focus: harness clean-up,fde@northlight.ai,build
+44,13:00,13:30,Runbook outline for the operations team,fde@northlight.ai;ops@greystone-msp.net,hand over

@@ -1,0 +1,71 @@
+{
+ "stem": "fig47-02",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch47/fig47_02_layers.py",
+ "source_sha1": "cf0d8618643f",
+ "data": "04-code/ch47/output/repeats.txt; world.py playbooks",
+ "png_px": [
+  1650,
+  1380
+ ],
+ "rendered": "2026-11-01 01:57 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.6,
+ "aspect": 1.196,
+ "min_font_pt": 9.0,
+ "label_words": 25,
+ "contrast_pairs": [
+  [
+   "product",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "features shipped from the fiel",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "platform",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gateway adapter, evaluation su",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "playbooks",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "claims, reconciliation, referr",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "never repeats",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "system-of-record connector, sp",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

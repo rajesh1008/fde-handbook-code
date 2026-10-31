@@ -1,0 +1,107 @@
+{
+ "stem": "fig14-03",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch14/fig14_03_tree.py",
+ "source_sha1": "d73f70ad479b",
+ "data": "04-code/ch14 lab",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-10-31 19:18 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 9.5,
+ "label_words": 38,
+ "contrast_pairs": [
+  [
+   "Output fixed by lookup,\ncalcul",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "deterministic service: 16",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Written rules with\na named own",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "rules + guardrails: 4",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Closed output a check\ncan veri",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "small model: 3",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "frontier + retrieval: 2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "16 of 25 = 64%\nneed no model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

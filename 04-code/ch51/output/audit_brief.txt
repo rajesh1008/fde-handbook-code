@@ -1,0 +1,26 @@
+== Caldwell (retained duties): PASS 14, WARN 0, DEV 0, FLAG 0, N/A 1
+   R15 N/A   no playbook adopted
+   exposed during the engagement and closed: 9 (R03, R04, R05, R06, R07, R08, R09, R10, R14)
+== Greystone (live): PASS 12, WARN 0, DEV 0, FLAG 0, N/A 3
+   R03 N/A   not handed over
+   R13 N/A   no runbooks yet
+   R15 N/A   no playbook adopted
+   exposed during the engagement and closed: 2 (R02, R12)
+== Pennant (managed service): PASS 12, WARN 1, DEV 1, FLAG 0, N/A 1
+   R02 WARN  4 holdings with no deputy
+   R03 DEV   night alerts forward to Northlight under the managed-service contract; exit drill passed day 283
+   R15 N/A   no playbook adopted
+   exposed during the engagement and closed: 4 (R02, R11, R13, R15)
+== Harbourline (live): PASS 12, WARN 0, DEV 0, FLAG 0, N/A 3
+   R03 N/A   not handed over
+   R13 N/A   no runbooks yet
+   R15 N/A   no playbook adopted
+   exposed during the engagement and closed: 0 (none)
+
+GRID R01 R02 R03 R04 R05 R06 R07 R08 R09 R10 R11 R12 R13 R14 R15
+Cald PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS N/A
+Grey PAS PAS N/A PAS PAS PAS PAS PAS PAS PAS PAS PAS N/A PAS N/A
+Penn PAS WAR DEV PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS N/A
+Harb PAS PAS N/A PAS PAS PAS PAS PAS PAS PAS PAS PAS N/A PAS N/A
+open FLAG findings across four engagements: 0
+open FLAG findings with linter v0: 0

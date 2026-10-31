@@ -1,0 +1,9 @@
+week  days     rung        shipped  reviewed  items
+1     1-7      synthetic         3         2  engagement repository; access tracker, six requests; synthetic claim set (day 6)
+2     8-14     synthetic         3         3  re-baselined plan (day 12); demo-claim audit; gold-set plan, 300 documents
+3     15-21    synthetic         3         1  sandbox account (day 19); deploy script in the sandbox; pipeline skeleton end to end
+4     22-28    synthetic         3         2  schema validators; deterministic routing rules; evaluation harness code
+5     29-35    synthetic         3         2  gateway adapter (key day 33); key-rotation check, every seven days; SSO request filed
+6     36-42    synthetic         3         3  register fields reviewed; failure-injection tests; redaction rule tested on synthetic files
+7     43-49    sampled           3         3  readiness report on 200 files; storage decision (day 48); dated escalation (day 47)
+weeks on the synthetic rung with a shipped item: 6 of 6; items reviewed by a named Caldwell person: 16 of 21

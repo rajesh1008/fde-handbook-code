@@ -1,0 +1,24 @@
+old loop observes: decomposition, build, evaluation, integration
+new loop observes: discovery, decomposition, build, evaluation, integration, governance, communication, judgment
+
+cand  old loop           new rubric                     outcome
+C-1   no hire 2.75       hire 2.82 (meets bar and every floor) declined (competing offer)
+C-2   no hire 2.0        no hire 2.0 (below bar 2.75)   
+C-3   hire 4.0           no hire 2.88 (floor: discovery 1 < 2) 
+C-4   no hire 2.5        hire 3.04 (meets bar and every floor) accepted: Leo Martens
+C-5   no hire 1.75       no hire 2.36 (floor: build 1 < 2) 
+C-6   hire 3.5           hire 3.19 (meets bar and every floor) accepted: Imogen Clarke
+C-7   hire 3.0           no hire 2.45 (floor: judgment 1 < 2) 
+C-8   hire 3.0           hire 2.88 (meets bar and every floor) declined (competing offer)
+
+failure injection C-3 (aces the build, fails discovery):
+  scores: disc=1 decomp=4 build=4 eval=4 integ=4 gov=3 comm=2 judg=2
+  old loop: ('hire', 4.0, 'mean of decomp, build, eval, integ')
+  new rubric without floors: ('hire', 2.88, 'meets bar and every floor')
+  new rubric: ('no hire', 2.88, 'floor: discovery 1 < 2')
+
+Jonah Webb's month-4 packet re-read under the new rubric:
+  old loop: ('hire', 3.25, 'mean of decomp, build, eval, integ')
+  new rubric: ('no decision', None, 'not observed: discovery, communication, judgment')
+
+offers: 4 of 8 (C-1, C-4, C-6, C-8); accepted: 2

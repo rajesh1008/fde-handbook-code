@@ -1,0 +1,59 @@
+{
+ "stem": "fig16-12",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch16/fig16_12_manifest.py",
+ "source_sha1": "9d08aece0327",
+ "data": "04-code/ch16/output/sample_plan.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:28 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 10.0,
+ "label_words": 21,
+ "contrast_pairs": [
+  [
+   "drawn\nNatarajan",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "signed for\nKessler",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "stored\nCaldwell AWS",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "hashed\nsha256 per file",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "deleted\nend + 90 days",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "a one-space edit changes the h",
+   "#5a6f9c",
+   "#ffffff",
+   5.01
+  ]
+ ],
+ "min_contrast": 5.01
+}

@@ -1,0 +1,94 @@
+[
+ {
+  "key": "C-01",
+  "metric": "documents with the correct type (T1 to T4, or none)",
+  "scorer": "Anne Kessler",
+  "set": "Caldwell gold set, stratified by intake path",
+  "n": 500,
+  "denominator": "all documents in the set",
+  "threshold": ">= 97%",
+  "report": [
+   "per-type accuracy"
+  ],
+  "method": "suite: type_check, exact match to Anne's label"
+ },
+ {
+  "key": "C-02",
+  "metric": "matches to the correct open claim",
+  "scorer": "Anne Kessler",
+  "set": "Caldwell gold set, stratified by intake path",
+  "n": 500,
+  "denominator": "documents the system matched to a claim",
+  "threshold": ">= 99.5%",
+  "report": [
+   "false matches, listed one by one"
+  ],
+  "method": "suite: claim_match, exact match"
+ },
+ {
+  "key": "C-03",
+  "metric": "fields correct, scored under Anne Kessler's rubric",
+  "scorer": "Anne Kessler",
+  "set": "Caldwell gold set, stratified by intake path",
+  "n": 500,
+  "denominator": "fields the system sent without review (11 deterministic fields)",
+  "threshold": ">= 98%",
+  "report": [
+   "review share",
+   "per-field accuracy"
+  ],
+  "method": "suite: field_score, exact or rubric match"
+ },
+ {
+  "key": "C-04",
+  "metric": "median hands-on minutes per reviewed document",
+  "scorer": "Tom Whitfield",
+  "set": "golden-path documents, worked under the adjuster's own sign-on",
+  "n": 140,
+  "denominator": "documents reviewed in the queue",
+  "threshold": "<= 4.5 min",
+  "report": [
+   "documents abandoned to manual keying"
+  ],
+  "method": "queue timer in the review screen"
+ },
+ {
+  "key": "C-05",
+  "metric": "documents below OCR confidence 0.80 that reached the queue or the claims core",
+  "scorer": "Priya Natarajan",
+  "set": "every document in shadow weeks",
+  "n": 2000,
+  "denominator": "documents below 0.80",
+  "threshold": "= 0",
+  "report": [
+   "held share by intake path"
+  ],
+  "method": "readiness log join"
+ },
+ {
+  "key": "C-06",
+  "metric": "documents with a draft record within 15 minutes of arrival, business hours",
+  "scorer": "Priya Natarajan",
+  "set": "every document in shadow weeks",
+  "n": 2000,
+  "denominator": "documents arriving 08:00 to 18:00",
+  "threshold": ">= 95%",
+  "report": [
+   "Monday line"
+  ],
+  "method": "pipeline timestamps against the intake store"
+ },
+ {
+  "key": "C-07",
+  "metric": "model and compute charges per document, monthly",
+  "scorer": "Priya Natarajan",
+  "set": "every document in shadow weeks",
+  "n": 2000,
+  "denominator": "documents processed",
+  "threshold": "<= $0.40",
+  "report": [
+   "frontier-model share"
+  ],
+  "method": "gateway metering export"
+ }
+]

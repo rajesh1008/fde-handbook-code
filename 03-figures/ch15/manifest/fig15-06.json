@@ -1,0 +1,95 @@
+{
+ "stem": "fig15-06",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch15/fig15_06_rung_work.py",
+ "source_sha1": "bb9ddf252e53",
+ "data": "04-code/fieldkit histories.RUNG_WORK",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:48 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 38,
+ "contrast_pairs": [
+  [
+   "synthetic",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pipeline skeleton\nfailure test",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "the plumbing runs",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "sampled",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "readiness report\nexpert-scored",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "accuracy on\na named set",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "shadowed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "live feed, no action\nagreement",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "agreement with\nthe experts",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "live",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "decisions acted on\noutcome tra",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "outcomes in\nproduction",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

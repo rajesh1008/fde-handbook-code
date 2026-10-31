@@ -1,0 +1,15 @@
+THE YEAR AFTER  month 12 of the model  (deterministic stand-in)
+Pennant: managed service with retention, month 12 ends engagement day 649
+Caldwell: runs it alone, 12-hour retainer, month 12 ends engagement day 608
+measure                                          Pennant    Caldwell
+readiness at start                                  0.80        0.90
+readiness at month 12 (with use-decay)             0.800       0.975
+lowest readiness in year one                       0.750       0.925
+takeover hours at month 12                           172          52
+customer cost, year one                         $303,600    $133,200
+Northlight operations revenue, year one         $264,000     $54,000
+Northlight gross profit, year one                $91,200     $37,800
+Northlight margin on the line, year one            34.5%       70.0%
+FDE share consumed, year one                        0.69        0.06
+vendor-only runbook steps                              0           0
+readiness at month 24                              0.850       0.975

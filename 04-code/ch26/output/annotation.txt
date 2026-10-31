@@ -1,0 +1,19 @@
+calibration on 40 development documents: Cohen's kappa between Whitfield and Ortiz
+  field               line   round 1   round 2   agreement round 2
+  policy_number        0.8    0.77*     0.87     39/40, 35 and 36 passed
+  claimant_name        0.6    0.69      0.78     37/40, 33 and 30 passed
+  loss_date            0.8    0.89      1.00     40/40, 35 and 35 passed
+  date_received        0.8    0.30*     0.90     38/40, 21 and 21 passed
+  loss_type            0.8    0.39*     0.85     37/40, 21 and 20 passed
+  loss_location        0.6    0.64      0.65     33/40, 22 and 21 passed
+  injury_reported      0.8    0.50*     0.95     39/40, 22 and 23 passed
+  police_report_ref    0.8    0.87      1.00     40/40, 31 and 31 passed
+  other_party          0.6    0.50*     0.75     35/40, 21 and 24 passed
+  intake_channel       0.8    0.00*    -0.03*    38/40, 39 and 39 passed
+  round 1: 4 of 10 fields at or above their line (* = below)
+  round 2: 9 of 10 fields at or above their line (* = below)
+
+main labeling: 60 documents labeled twice (600 fields)
+  disagreements: 36  decided by Anne Kessler: {'rubric gap': 17, 'reading error': 18, 'document ambiguous': 1}
+  fields where Whitfield's label alone would have gone into the gold set wrong: 18
+  wrong after adjudication (both adjusters agreed and both misread): 1

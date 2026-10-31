@@ -1,0 +1,12 @@
+Design A: svc-nl-claims-ro retrieves and returns (the service account's rights decide)
+  searches 600, results returned 3000
+  results the adjuster may not read: 105 (3.5%)
+    other unit's claim file: 83
+    flagged after the 02:00 view was built: 22
+
+Design B: on-behalf-of delegation, rights rechecked with claims-core before return
+  results released 2895, withheld 105, released that the adjuster may not read: 0
+  withheld records in Caldwell's log: 105, each with user, agent, purpose and reason
+  e.g. seq 23: user twhitfield agent nl-assist CLM-100619 WITHHELD (user may not read)
+  e.g. seq 32: user twhitfield agent nl-assist CLM-101986 WITHHELD (user may not read)
+  recheck calls to claims-core: 3000  (one per result, about 5.6 per minute)

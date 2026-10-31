@@ -1,0 +1,17 @@
+DECISIONS  Caldwell Mutual  day 28
+key       kind          owner                age   due  state
+D-01      access        Daniel Reyes          23    33  open
+D-06      acceptance    Daniel Reyes          13    42  open
+D-05      access        Anne Kessler           5    49  open
+OD-4      acceptance    Anne Kessler           2    90  open
+OD-6      scope change  Daniel Reyes           2    60  open
+OD-5      acceptance    Anne Kessler           1    35  open
+OD-7      design        Priya Natarajan        1    40  open
+open: 7  decided: 0  alerts: 1  oldest open: D-01 (23 days, Daniel Reyes)
+  ALERT STALE       D-01      open 23 days, due day 33
+
+DAY 37, if nobody decides anything
+  D-01  OVERDUE  4 days past due (day 33), Daniel Reyes
+  D-06  STALE    open 22 days, due day 42
+  D-05  STALE    open 14 days, due day 49
+  OD-5  OVERDUE  2 days past due (day 35), Anne Kessler

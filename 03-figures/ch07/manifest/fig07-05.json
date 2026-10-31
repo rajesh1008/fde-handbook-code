@@ -1,0 +1,143 @@
+{
+ "stem": "fig07-05",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch07/fig07_05_late.py",
+ "source_sha1": "1f4126d0c5a0",
+ "data": "04-code/ch07 lab fixtures",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 19:35 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.0,
+ "label_words": 23,
+ "contrast_pairs": [
+  [
+   "rule after day 24:\nrecords 14+",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "9.9% at age 0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "age of claim record when the g",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u22125",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "35",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "gold values later corrected (%",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

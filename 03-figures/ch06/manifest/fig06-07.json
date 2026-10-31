@@ -1,0 +1,155 @@
+{
+ "stem": "fig06-07",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch06/fig06_07_kinds.py",
+ "source_sha1": "fb49d9e0b5ab",
+ "data": "04-code/ch06 lab",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 19:38 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.5,
+ "label_words": 33,
+ "contrast_pairs": [
+  [
+   "4",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "7",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "9",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "23",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "watched documents (71 exceptio",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "not a claim",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "several claims in one envelope",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "duplicate via a second door",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "wrong line of business",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "loss date missing",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "policy number missing or unrea",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "existing claim, not new",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,5 @@
+b: lower the N05 handwritten-date floor
+  date floor 0.95                    matched  82.8%  person  52  exceptions 154 (false 13)  wrong 4
+  date floor 0.90                    matched  82.8%  person  52  exceptions 154 (false 13)  wrong 4
+  date floor 0.80                    matched  83.1%  person  41  exceptions 158 (false 16)  wrong 4
+  date floor 0.70                    matched  83.4%  person  32  exceptions 162 (false 19)  wrong 4

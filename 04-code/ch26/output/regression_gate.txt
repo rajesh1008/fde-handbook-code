@@ -1,0 +1,14 @@
+candidate: prompt p7: Caldwell's definitions in the prompt
+  Caldwell gate (gold-set-300, scored by Kessler's adjusters)
+    weighted accuracy 68.4% -> 76.7%
+    correct on both 2003, gained 264, lost 13, wrong on both 720
+  verdict: OWNER REVIEW: 4 lost items on critical fields {'loss_date': 1, 'loss_type': 1, 'policy_number': 2}; needs Anne Kessler
+  lost critical items by stratum: {'repair estimate': 2, 'first notice, email': 1, 'first notice, mail': 1}
+
+candidate: prompt p7 on the gateway's newer model version
+  Caldwell gate (gold-set-300, scored by Kessler's adjusters)
+    weighted accuracy 76.7% -> 81.3%
+    correct on both 2260, gained 154, lost 7, wrong on both 579
+  verdict: OWNER REVIEW: 7 lost items on critical fields {'loss_date': 2, 'policy_number': 5}; needs Anne Kessler
+  lost critical items by stratum: {'medical bill': 1, 'repair estimate': 1, 'first notice, email': 3, 'first notice, fax': 1, 'first notice, mail': 1}
+

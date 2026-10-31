@@ -1,0 +1,107 @@
+{
+ "stem": "fig50-10",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch50/fig50_10_evidence.py",
+ "source_sha1": "9a24b378cc89",
+ "data": "04-code/ch50/output/committee_s1.txt, committee_s2.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-11-01 00:34 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 23,
+ "contrast_pairs": [
+  [
+   "day 118",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 152",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "plan items",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "53 of 75",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "75 of 75",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "outcomes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor scored, 200",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "bank scored, 600",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "metrics",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor computes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "bank computes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "provider change",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no control",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pinned, notice, fallback",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

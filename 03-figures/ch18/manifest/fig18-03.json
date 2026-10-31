@@ -1,0 +1,107 @@
+{
+ "stem": "fig18-03",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch18/fig18_03_golden_path.py",
+ "source_sha1": "870fcda40b2c",
+ "data": "chapter text (Section 18.2)",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:25 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 10.0,
+ "label_words": 38,
+ "contrast_pairs": [
+  [
+   "runtime",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "team account",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "identity",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "role per\nworkload",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "secrets",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "read at call",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "model calls",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gateway only",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "evaluation",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "their stack",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "logs",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "audit store",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "the paved road: each step has ",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "off the road: an exception and",
+   "#5a6f9c",
+   "#ffffff",
+   5.01
+  ]
+ ],
+ "min_contrast": 5.01
+}

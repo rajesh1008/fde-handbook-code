@@ -1,0 +1,13 @@
+pass 1 day 103: asked 41, passed 29, findings raised to date 12, open 12, accepted 0 -> returned
+   minutes: scope 10, data flow walk 20, threat model 25, contested answers 25, owners and dates 10 (total 90)
+   open: F-01 SQ-09 medium, F-02 SQ-31 medium, F-03 SQ-35 medium, F-04 SQ-16 low, F-05 SQ-18 low, F-06 SQ-33 low, F-07 SQ-10 low, F-08 SQ-26 high, F-09 SQ-30 high, F-10 SQ-14 medium, F-11 SQ-34 medium, F-12 SQ-03 medium
+pass 2 day 121: asked 41, passed 37, findings raised to date 12, open 4, accepted 0 -> returned
+   minutes: closed findings, retest evidence 20, open findings and dates 15, red-team scope 10 (total 45)
+   open: F-01 SQ-09 medium, F-02 SQ-31 medium, F-03 SQ-35 medium, F-09 SQ-30 high
+pass 3 day 129: asked 41, passed 41, findings raised to date 23, open 0, accepted 2 -> passed
+   minutes: answers changed since pass 2 15, hardest five, defeaters 25, residual risks 15, conditions and dates 5 (total 60)
+   accepted as residual risk: F-13 -> RR-01, F-21 -> RR-02
+open findings by day: d103 12  d104 11  d105 9  d111 8  d114 7  d115 6  d117 5  d120 4  d121 4  d125 1  d127 12  d128 2  d129 2
+residual after acceptance: d129 0 open, 2 accepted in writing
+closed with retest evidence: 21 of 23
+overdue on day 129: 0

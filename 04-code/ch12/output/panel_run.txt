@@ -1,0 +1,16 @@
+sixty-question bank: 60 questions
+group                            proof  rehearsed  none  asked
+  architecture and integration      10          1     1      7
+  security and data                  9          2     0      4
+  model risk and evaluation          9          2     1      6
+  delivery and ways of working       8          1     0      2
+  operations and support             7          1     0      1
+  commercial-technical and exit      5          2     1      2
+asked from the bank, proof: 17
+asked from the bank, rehearsed: 4
+asked from the bank, not rehearsed: 1
+asked from the bank: 22 of 60; off the list: 4; total 26 in 90 minutes
+  off list: notice period if the provider retires the validated model version
+  off list: who at Northlight can stop the service out of hours
+  off list: how a relationship manager reports a wrong draft
+  off list: what the six-person console deviation costs if refused

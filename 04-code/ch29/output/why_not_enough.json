@@ -1,0 +1,36 @@
+{
+ "rows": {
+  "rule or pure-function bug (dates, V-118 codes)": [
+   9,
+   1,
+   0
+  ],
+  "extraction regression on one document class": [
+   8,
+   2,
+   0
+  ],
+  "retrieval answer not supported by its citation": [
+   5,
+   2,
+   0
+  ],
+  "contract or wiring fault (claims-core, gateway)": [
+   7,
+   3,
+   3
+  ],
+  "multi-step scenario (duplicates, page order)": [
+   6,
+   4,
+   0
+  ],
+  "drift or live-only behavior (templates, volume)": [
+   6,
+   5,
+   0
+  ]
+ },
+ "total": 41,
+ "api": 3
+}

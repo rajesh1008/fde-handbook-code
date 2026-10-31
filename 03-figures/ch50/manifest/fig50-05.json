@@ -1,0 +1,107 @@
+{
+ "stem": "fig50-05",
+ "kind": "diagram",
+ "tool": "hand-laid SVG (signature9.py)",
+ "style": "style.md",
+ "source": "03-figures/src/ch50/fig50_05_signature9.py",
+ "source_sha1": "0f7110f4e7da",
+ "data": "signature9.STATES['ch50']",
+ "png_px": [
+  1650,
+  1217
+ ],
+ "rendered": "2026-11-01 00:34 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.056,
+ "aspect": 1.356,
+ "min_font_pt": 10.0,
+ "label_words": 38,
+ "contrast_pairs": [
+  [
+   "suite: credit officer",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "bank's governed cloud",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "suite add-in pane",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "bank sign-in",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "draft memo, cited",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "read-and-draft flag",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "token broker",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "package, policy",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "spread and draft",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "model via bank gateway",
+   "#1e2329",
+   "#d2d8df",
+   11.02
+  ],
+  [
+   "numeric gate, lineage",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "lineage store",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "1 package per request",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "draft with lineage",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 11.02
+}

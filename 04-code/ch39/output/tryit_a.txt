@@ -1,0 +1,5 @@
+Exercise A: raise the coverage minimum and watch which stratum stops the gate
+coverage >=  60: lowest: first notice, fax n=115          pass
+coverage >= 100: lowest: first notice, fax n=115          pass
+coverage >= 116: lowest: first notice, fax n=115          FAIL
+coverage >= 150: lowest: first notice, fax n=115          FAIL

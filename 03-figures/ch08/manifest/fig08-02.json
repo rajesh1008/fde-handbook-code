@@ -1,0 +1,191 @@
+{
+ "stem": "fig08-02",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch08/fig08_02_coverage.py",
+ "source_sha1": "6fa24b089def",
+ "data": "04-code/ch08 lab fixtures",
+ "png_px": [
+  1650,
+  1380
+ ],
+ "rendered": "2026-10-31 20:07 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.6,
+ "aspect": 1.196,
+ "min_font_pt": 9.0,
+ "label_words": 41,
+ "contrast_pairs": [
+  [
+   "160",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "230",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "420",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "802",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "842",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1,102",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1,538",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2,312",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2,521",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4,873",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "documents a month (in scope: s",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "finance-cage mail (P09)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "attorney letters",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "administrator claim files",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "medical bills and records",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "police and fire reports",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "photographs, other corresponde",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "repair estimate",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "agency first-notice form",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "first-notice letter or email",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Caldwell first-notice form",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

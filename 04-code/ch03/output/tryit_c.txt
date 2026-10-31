@@ -1,0 +1,4 @@
+without date_received and intake_channel: 54/80 = 67.5%
+  email  25/32 = 78%
+  fax    16/24 = 67%
+  mail   13/24 = 54%

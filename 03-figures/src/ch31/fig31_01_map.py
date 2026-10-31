@@ -1,0 +1,15 @@
+"""Figure 31.1: where each control of the Caldwell agent runs (diagram, from walkthrough.txt)."""
+from _common import S, save, blank
+fig, ax = S.figure(height=4.6); blank(ax, (0, 10), (0, 6.4))
+S.box(ax, 0.1, 4.7, 2.1, 1.3, "Email, fax,\nmail, portal", "data", fs=9)
+S.box(ax, 2.7, 4.7, 3.0, 1.3, "Intake service\nC01-C05, C08, C12", "system", fs=9)
+S.box(ax, 6.3, 4.7, 3.6, 1.3, "Gateway (nl-shadow)\nC06, C07, C11, pinned", "model", fs=9)
+S.box(ax, 2.7, 2.6, 3.0, 1.3, "Router v1.1 +\n8 guardrail cards", "approval", fs=9)
+S.box(ax, 6.3, 2.6, 3.6, 1.3, "Authorizer\nboundary v2", "blocker", fs=9)
+S.box(ax, 0.1, 2.6, 2.1, 1.3, "Claim state\nstore + log", "evidence", fs=9)
+S.box(ax, 6.3, 0.4, 3.6, 1.3, "claims-core\n(shadow: no write)", "data", fs=9)
+S.box(ax, 2.7, 0.4, 3.0, 1.3, "Test pyramid\nCaldwell CI, nl-eval", "cost", fs=9)
+S.arrow(ax, 2.2, 5.35, 2.7, 5.35); S.arrow(ax, 5.7, 5.35, 6.3, 5.35); S.arrow(ax, 6.3, 5.0, 5.7, 3.6)
+S.arrow(ax, 5.7, 3.25, 6.3, 3.25); S.arrow(ax, 8.1, 2.6, 8.1, 1.7); S.arrow(ax, 2.7, 3.25, 2.2, 3.25)
+S.label(ax, 0.1, 0.6, "all in Caldwell\nAWS, us-east-1", fs=9)
+save(fig, 1, kind="diagram", data="04-code/ch31/output/walkthrough.txt")

@@ -1,0 +1,9 @@
+engagement reference: 12 sections, 115 minutes end to end
+operator          sections 1,4,11           15 min  ok
+on-call engineer  sections 2,4,7,8,11       45 min  ok
+owner             sections 1,4,6,11,12      33 min  ok
+architect         sections 2,3,9,10,11      48 min  ok
+QE lead           sections 5,6,9,10         47 min  ok
+model risk        sections 1,5,6,12         38 min  ok
+auditor           sections 3,12,11          21 min  ok
+paths with gaps: 0 of 7

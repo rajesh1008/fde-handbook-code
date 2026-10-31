@@ -1,0 +1,16 @@
+path door                                     docs/mo steps  det rul sml frn  received date from
+P01  paper mail, Hartford mailroom              4,100    12    7   2   2   1  envelope date stamp
+P02  main claims fax line                       2,300    12    7   2   2   1  fax header
+P03  claims shared mailbox                      2,900    12    7   2   2   1  mail header
+P04  agent portal upload                        2,450    11    7   2   1   1  upload timestamp
+P05  closed Springfield fax, forwarded            610    12    7   2   2   1  original fax header, not the forward
+P06  email to an adjuster, forwarded              540    12    7   2   2   1  original message date, not the forward
+P07  phone report, papers follow by mail          980    12    7   2   2   1  envelope date stamp
+P08  administrator's nightly file transfer        420     9    7   2   0   0  file record date
+P09  mail routed through the finance cage         160    12    7   2   2   1  envelope date stamp
+      REFUSED  C00 finance decides whether a check-bearing item is a claim: rules with no named owner are not rules, they are habits
+P10  attorney letters through legal               230     7    6   0   1   0  envelope date stamp
+P11  repair-estimate platform email               110    11    7   2   1   1  platform submission time
+monthly documents 14,800; model calls per document 2.71; documents reaching the frontier step 95.6%
+with an owner named for the finance rule:
+P09  steps 13  det 7 rules 3 small 2 frontier 1  refusal: None

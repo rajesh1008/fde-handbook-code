@@ -1,0 +1,17 @@
+injected: T00001 photo of a bill of lading for PN-48302, thumb over container characters 7 to 11
+  true container RBLU3221740; sibling PN-48303 container RBLU3222114 on the packing list in the same message
+v1, as run in the shadow week
+  door (pennant-qs-1.0): accept; fields seen: container RBLU3222114, bol_no RB702302, page confidence 0.81
+  N07 linkage (first key): linked by container -> PN-48303  (true booking PN-48302)
+  rules: R1 agree, R2 agree, R6 agree
+  outcome: matched  <- silently wrong: the true shipment now lacks a bill of lading
+v2, day 133 fix
+  door (pennant-qs-1.1): reject  [T00001   reject  score 0.00  container check digit: container RBLU32 fails ISO 6346 check digit; identifier zones read: container zone confidence 0.14]
+  routed: sender request + clerk read of the crop; nothing linked, nothing reconciled
+v1.0 with two-key linkage only (no door change)
+  door (pennant-qs-1.0): accept; fields seen: container RBLU3222114, bol_no RB702302, page confidence 0.81
+  N07 linkage (two keys): keys disagree: container->PN-48303, bol_no->PN-48302; routed to clerk read
+
+occluded identifiers in the week, by version
+  pennant-qs-1.0, first key: 9 occluded (8 photos): false exception 3, held, confirmed 2, silently wrong 4
+  pennant-qs-1.1, two keys : 9 occluded (8 photos): held, confirmed 9

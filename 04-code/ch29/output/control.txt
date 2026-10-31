@@ -1,0 +1,26 @@
+day 145: 10 of 12 caught at their designed layer
+  M01 router floor lowered to 0.30     designed L1  caught L1  caught   rule regression
+  M02 fail-closed gates disabled       designed L1  caught L1  caught   rule regression
+  M03 permission filter bypassed       designed L1  caught L1  caught   rule regression
+  M04 dates read day first             designed L1  caught L1  caught   rule regression
+  M05 V-118 cause codes off by one     designed L1  caught L1  caught   rule regression
+  M06 mail date received dropped       designed L2  caught L2  caught   extractor slices
+  M07 superseded wording retrieved     designed L2  caught L4  late     scenario simulator
+  M08 retry outside the intent key     designed L3  caught L3  caught   integration replay
+  M09 key rotation not handled         designed L3  caught L3  caught   integration replay
+  M10 step budget raised to 120        designed L4  caught L4  caught   scenario simulator
+  M11 judge passes more failures       designed L5  caught --  escaped  
+  M12 drift window 30 days             designed L5  caught L5  caught   operational checks
+day 152: 12 of 12 caught at their designed layer
+  M01 router floor lowered to 0.30     designed L1  caught L1  caught   rule regression
+  M02 fail-closed gates disabled       designed L1  caught L1  caught   rule regression
+  M03 permission filter bypassed       designed L1  caught L1  caught   rule regression
+  M04 dates read day first             designed L1  caught L1  caught   rule regression
+  M05 V-118 cause codes off by one     designed L1  caught L1  caught   rule regression
+  M06 mail date received dropped       designed L2  caught L2  caught   extractor slices
+  M07 superseded wording retrieved     designed L2  caught L2  caught   retrieval faithfulness, scenario simulator
+  M08 retry outside the intent key     designed L3  caught L3  caught   integration replay
+  M09 key rotation not handled         designed L3  caught L3  caught   integration replay
+  M10 step budget raised to 120        designed L4  caught L4  caught   scenario simulator
+  M11 judge passes more failures       designed L5  caught L5  caught   operational checks
+  M12 drift window 30 days             designed L5  caught L5  caught   operational checks

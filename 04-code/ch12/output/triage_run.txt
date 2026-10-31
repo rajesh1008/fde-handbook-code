@@ -1,0 +1,17 @@
+Harbourline RFP: 200 questions
+section                               eng  joint  sales
+  A Company, references and standing     0      2     16
+  B Commercial and pricing               0      6     20
+  C Legal, privacy terms, liability      0      5     15
+  D Solution and target architecture    24      4      0
+  E Security, identity, data protection  22      6      0
+  F Model risk, evaluation, monitoring  18      5      0
+  G Implementation and ways of working   9     12      2
+  H Operations, support, service levels   8     10      4
+  I Exit, portability, transition        4      5      3
+  total                                 85     55     60
+engineering owns or co-signs 140 of 200 (70%)
+misrouted in week 1 (engineering content sent to sales alone): 3
+  C-07 should be joint: Describe how Harbourline data is used by your models, and the contractual terms that govern it.
+  G-03 should be joint: Describe the delivery team and how many engineer days the fee includes.
+  H-04 should be joint: State the availability service level and the Harbourline services it depends on.

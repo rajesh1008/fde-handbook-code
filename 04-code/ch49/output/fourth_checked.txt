@@ -1,0 +1,18 @@
+fieldkit gate plan with the industry map and role register checked
+before the map:
+  REFUSED Model-Risk Approval: owner role 'model-risk officer' does not exist in this industry; map it or replace it
+  REFUSED local gate missing from the template: SOX control owner sign-off (Alana Pierce); invoice approval is a key financial control; a change to it needs the control owner
+after the map (Model-Risk Approval -> risk acceptance by the accountable executive, with an
+independent validation report as entry evidence; SOX control owner sign-off added):
+  Architecture Review    owner role enterprise architect   holder Elena Sorensen     signed Elena Sorensen
+  Build Complete         owner role operations owner       holder Marcus Hale        signed Marcus Hale
+  Shadow Exit            owner role operations owner       holder Marcus Hale        signed Marcus Hale
+  Model-Risk Approval    owner role accountable executive  holder Rhea Coleman       signed Rhea Coleman
+  Live Stable            owner role accountable executive  holder Rhea Coleman       signed Rhea Coleman
+  SOX control owner sign-off owner role SOX control owner      holder Alana Pierce
+problems: 0
+  Architecture Review    passed                   day 40   
+  Build Complete         passed                   day 120  
+  Shadow Exit            passed                   day 150  
+  Model-Risk Approval    passed                   day 152  
+  Live Stable            passed                   day 240  

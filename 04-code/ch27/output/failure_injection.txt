@@ -1,0 +1,20 @@
+router v0, day 120: the model's stated confidence, isotonic calibration on Northlight's synthetic set
+  synthetic-2000: 20,000 fields, 88.0% right, calibration error (ECE) 0.072
+  proceed threshold 0.98: Wilson lower bound 98.3% on 3,291 fields; 16.5% of fields proceed, 98.8% of them right
+
+first real sample, day 122: gold-heldout, 201 documents of gold-set-300, Anne Kessler's labels
+  2,010 fields, 88.2% right, calibration error (ECE) 0.106
+  proceed band: 51.2% of fields, 85.2% right: 152 wrong of 1029, error 14.8% against a promise of at most 2%
+
+stated confidence synthetic n  right  gold n  right
+             0.60          69  58.0%       0      -
+             0.70       1,829  69.6%       0      -
+             0.80       4,789  79.7%       0      -
+             0.90       5,683  90.0%       0      -
+             0.95       4,339  94.8%     981  91.3%
+             0.99       3,291  98.8%   1,029  85.2%
+
+gold-heldout by document condition: the model is surest where the page is worst
+  clean   120 documents  mean stated confidence 0.964  right 99.7%
+  medium   70 documents  mean stated confidence 0.981  right 80.3%
+  hard     11 documents  mean stated confidence 0.977  right 13.6%

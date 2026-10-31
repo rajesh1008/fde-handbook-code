@@ -1,0 +1,20 @@
+load index = travel days/10 + overnight pages/4 + 0.25 per month on one account beyond six
+person              1     2     3     4     5     6     7     8     9    10    11    12
+lead FDE         0.90  1.00  1.25  1.15  1.30  1.15  1.30  1.45  1.35  0.95  0.85  0.50
+Callum Reid      1.10  1.00  0.90  0.80  1.05  0.95  0.95  1.30  1.70  1.60  1.85  2.10
+Sofia Brennan    0.80  0.80  0.70  0.85  0.85  1.00  0.85  0.75  0.75  1.00  1.10  1.25
+Jonah Webb          .     .     .  0.60  0.95  1.30  1.30  1.40     .     .     .     .
+Maya Brooks         .     .     .  0.80  1.50  2.35  3.20  3.95  4.20  4.85     .     .
+Aisha Rahman        .     .     .     .     .     .  0.60  0.80  1.15  1.15  1.30  1.05
+Leo Martens         .     .     .     .     .     .     .     .     .     .     .  0.50
+Imogen Clarke       .     .     .     .     .     .     .     .     .     .     .  0.60
+
+rotate lead FDE: beyond 6 months on Caldwell from month 7
+rotate Callum Reid: beyond 6 months on Greystone from month 7
+rotate Sofia Brennan: beyond 6 months on Caldwell from month 10
+RED Maya Brooks: two consecutive months >= 3.0 first in month 8; red months [8, 9, 10]
+
+replay under policy (travel cap 8 days, Pennant nights on a rota of 3, rotate after 6 months):
+  Maya Brooks    peak 4.85 -> 1.97; red months 3 -> 0
+  lead FDE       peak 1.45 -> 1.30; red months 0 -> 0
+  Callum Reid    peak 2.10 -> 1.05; red months 0 -> 0

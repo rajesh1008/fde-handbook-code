@@ -1,0 +1,20 @@
+old loop (months 1 to 8): caught at layer 1 (unit)
+  L1 coverage     fail     not observed: discovery, governance, communication, judgment
+  L2 known cases  skipped  earlier layer failed
+  L3 calibration  skipped  earlier layer failed
+  L4 pool         skipped  earlier layer failed
+new exercises, no floors (failure injection): caught at layer 2 (component)
+  L1 coverage     pass     all eight observed
+  L2 known cases  fail     aces build, fails discovery: got hire, want no hire
+  L3 calibration  skipped  earlier layer failed
+  L4 pool         skipped  earlier layer failed
+new exercises, unanchored raters: caught at layer 3 (integration)
+  L1 coverage     pass     all eight observed
+  L2 known cases  pass     3 of 3 known cases correct
+  L3 calibration  fail     mean kappa -0.12
+  L4 pool         skipped  earlier layer failed
+new loop (month 10 onward): passes layers 1 to 4
+  L1 coverage     pass     all eight observed
+  L2 known cases  pass     3 of 3 known cases correct
+  L3 calibration  pass     mean kappa 0.73
+  L4 pool         pass     offer rate 50%

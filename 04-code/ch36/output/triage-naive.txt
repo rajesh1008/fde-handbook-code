@@ -1,0 +1,3 @@
+NAIVE  every report item becomes a finding at the severity the report gave it
+findings: 20   critical 3  high 8  medium 6  low 3
+owners named in the report: 0 of 20   items sharing a root with another item: 4

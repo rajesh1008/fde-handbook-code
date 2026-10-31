@@ -1,0 +1,38 @@
+TIME ALLOCATION  week_c_one_domain  Greystone Health (Denver, Azure)  days 40-44
+bucket       hours  share  with customer  commits
+discover       0.0     0%            0.0        0
+decide         1.0     4%            0.0        0
+access         5.5    21%            1.5        0
+build         14.5    55%            0.0        1
+pass           3.0    11%            1.0        3
+hand over      0.5     2%            0.0        1
+internal       2.0     8%            0.0        0
+travel         0.0     0%            0.0        0
+total         26.5   100%            2.5        5
+tickets closed: 2   customer-owned items moved: 1
+  - GH-34 (michael.hart): Clinical review of 15 summaries
+customer-contact share: 9%
+flag: customer contact 9% is below 15%
+flag: verbs untouched: discover
+verdict: CHECK
+
+TIME ALLOCATION  week_c_all_domains  Greystone Health (Denver, Azure)  days 40-44
+bucket       hours  share  with customer  commits
+discover       0.0     0%            0.0        0
+decide         1.0     4%            1.0        0
+access         5.5    21%            5.5        0
+build         14.5    55%            0.0        1
+pass           3.0    11%            1.0        3
+hand over      0.5     2%            0.5        1
+internal       2.0     8%            0.0        0
+travel         0.0     0%            0.0        0
+total         26.5   100%            8.0        5
+tickets closed: 2   customer-owned items moved: 5
+  - day 43 decision meeting: Change advisory board dry run
+  - GH-31 (netops): Private endpoint for the model gateway
+  - GH-33 (identity): Managed identity for the pipeline
+  - GH-34 (michael.hart): Clinical review of 15 summaries
+  - GH-36 (soc): Log export format agreed
+customer-contact share: 30%
+flag: verbs untouched: discover
+verdict: CHECK

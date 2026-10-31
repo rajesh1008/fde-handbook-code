@@ -1,0 +1,8 @@
+day lineage starts | hours | outputs already released | unrecoverable
+  day   0          |    34 |      0 |     0 (0%)
+  day  15          |   150 |   1050 |   442 (42%)
+  day  30          |   184 |   2100 |   828 (39%)
+  day  45          |   194 |   3150 |  1671 (53%)
+  day  60          |   204 |   4200 |  2527 (60%)
+  day  75          |   214 |   5250 |  3375 (64%)
+  day  90          |   226 |   6300 |  4181 (66%)

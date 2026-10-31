@@ -1,0 +1,20 @@
+shadow week days 124-130, 2100 documents (deterministic stand-in); scorer pennant-qs-1.0, linkage: first key
+fx table fx_rates@3f1b0e048aa3 (owner Marisol Vega, as of day 123 close)
+by channel: edi 844, scan 894, photo 362
+by day:     124 348, 125 370, 126 355, 127 369, 128 345, 129 182, 130 131
+system outcome: matched 1743, exception 154, held 151, person 52
+  matched               1739   82.8%
+  exception confirmed    141    6.7%
+  false exception         13    0.6%
+  held, confirmed        151    7.2%
+  held, not needed         0    0.0%
+  to a person             52    2.5%
+  silently wrong           4    0.2%
+matched as scored by the reconciliation team: 1739 of 2100 = 82.8%
+  edi      844 docs  matched  90.5%  silently wrong 0
+  scan     894 docs  matched  82.9%  silently wrong 0
+  photo    362 docs  matched  64.6%  silently wrong 4
+  wrong: W00715 photo packing list, linked by container -> PN-48378, truth PN-48379; truth tags ['occluded']
+  wrong: W00731 photo packing list, linked by container -> PN-48692, truth PN-48693; truth tags ['occluded']
+  wrong: W01543 photo freight invoice, linked by container -> PN-48178, truth PN-48179; truth tags ['occluded']
+  wrong: W01596 photo freight invoice, linked by container -> PN-48548, truth PN-48549; truth tags ['occluded']

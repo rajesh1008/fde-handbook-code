@@ -1,0 +1,44 @@
+{
+ "r1": {
+  "policy_number": 0.77,
+  "claimant_name": 0.69,
+  "loss_date": 0.89,
+  "date_received": 0.3,
+  "loss_type": 0.39,
+  "loss_location": 0.64,
+  "injury_reported": 0.5,
+  "police_report_ref": 0.87,
+  "other_party": 0.5,
+  "intake_channel": 0.0
+ },
+ "r2": {
+  "policy_number": 0.87,
+  "claimant_name": 0.78,
+  "loss_date": 1.0,
+  "date_received": 0.9,
+  "loss_type": 0.85,
+  "loss_location": 0.65,
+  "injury_reported": 0.95,
+  "police_report_ref": 1.0,
+  "other_party": 0.75,
+  "intake_channel": -0.03
+ },
+ "lines": {
+  "policy_number": 0.8,
+  "claimant_name": 0.6,
+  "loss_date": 0.8,
+  "date_received": 0.8,
+  "loss_type": 0.8,
+  "loss_location": 0.6,
+  "injury_reported": 0.8,
+  "police_report_ref": 0.8,
+  "other_party": 0.6,
+  "intake_channel": 0.8
+ },
+ "disagreements": 36,
+ "reasons": {
+  "rubric gap": 17,
+  "reading error": 18,
+  "document ambiguous": 1
+ }
+}

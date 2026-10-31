@@ -1,0 +1,20 @@
+arrive  What arrives, through which door, and how many?
+touch   Who touches it, in what order, in which system?
+decide  What is decided at each touch, and on what?
+except  What happens when it does not fit?
+land    Where does it land, and when is it done?
+
+coverage report: Caldwell Mutual, day 12
+paths known: 7 (documented 3, found 4)
+path  doc  vol/mo  seen  arrive touch decide except land   status
+P01   yes   4,100    26    O      O      O      O      O    contradicted
+P02   yes   2,300     3    O      O      O      O      O    covered
+P03   yes   2,900     0    O      s      s      s      s    open
+P04   no        ?     5    O      O      O      O      O    covered
+P05   no        ?     7    O      O      O      O      O    covered
+P06   no        ?     0    s      .      .      .      .    open
+P07   no        ?     0    s      .      .      .      .    open
+covered: 3 of 7 paths, 2,300 of 9,300 documents a month (24.7%)
+volume unknown: P04, P05, P06, P07
+answers stated but not observed: 6
+open contradictions: 1

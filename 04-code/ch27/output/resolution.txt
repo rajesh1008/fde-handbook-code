@@ -1,0 +1,14 @@
+cal-600 checked half: 300 documents, 3,000 fields, 90.5% right
+
+signal                             distinct values  AUROC
+stated confidence (verbalized)                   2  0.404
+value found in the source                        2  0.506
+system check passed (4 fields)                   2  0.627
+second pass agrees                               2  0.569
+document quality score                         211  0.925
+correctness model, calibrated                  352  0.960
+
+AUROC: the chance that a randomly chosen right field scores above a randomly chosen wrong one (0.5 = coin flip)
+stated confidence on the checked half:
+  0.95: 1,575 fields, 93.7% right
+  0.99: 1,425 fields, 87.0% right

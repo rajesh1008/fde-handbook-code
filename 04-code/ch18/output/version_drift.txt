@@ -1,0 +1,4 @@
+ledger: day 77 Thu 00:00 extract-standard served extract-2026-04 (was extract-2026-01); nobody announced it
+gold set 200 items: old version 179 correct (89.5%), new version 185 (92.5%)
+both correct 172, gained 13, lost 7, both wrong 8
+lost items by field: loss type 2, claim number 2, total-loss flag 1, date of loss 1, policy number 1

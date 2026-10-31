@@ -1,0 +1,9 @@
+Greystone map, day 12, checked day 12: 7 people
+  sponsor   Michael Hart
+  operator  Keisha Monroe, Luis Ortega
+  blocker   Sam Oakley
+  approver  Michael Hart, Sam Oakley, Marcus Bell
+  owner     Denise Alvarez
+  champion  Keisha Monroe, Ravi Shah
+  WARN  sponsor-approver    Michael Hart is sponsor and approver; name who carries the asks while Hart rules
+  naive score 1.00   gated score 1.00   verdict USABLE

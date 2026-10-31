@@ -1,0 +1,2 @@
+R04 FLAG deal sheet: 40% faster lacks measurer, documents, computation, interval
+R15 FLAG PB-04 needs claims_core_doc_api, not in the estate

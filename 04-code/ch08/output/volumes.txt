@@ -1,0 +1,13 @@
+VOLUMES, LATENCY, COST  Caldwell Mutual scope v1.0
+line                                         value  basis      source
+in-scope documents a month                  11,244  estimated  S-02, path mix from shadowing
+mean business day                              518  estimated  over 21.7 business days (assumed)
+Monday                                         829  estimated  1.6 x mean, mailroom log (measured)
+busiest Monday minute, documents               3.0  assumed    22% of the day in one hour
+claims-core writes needed a minute             9.1  assumed    3 writes a document (proposed)
+claims-core writes allowed a minute             20  assumed    2016 specification, untested
+manual cost, in-scope documents         $82,194/mo  measured   $7.31 a document
+model and compute, estimate              $2,361/mo  estimated  $0.21 a document (vendor)
+model and compute, ceiling               $4,498/mo  target     C-07, $0.40 a document
+headroom at the busiest minute: 2.2x, resting on two assumptions -> load test before Build Complete
+savings: not claimed in the scope; the measured cost is a baseline, not a promise

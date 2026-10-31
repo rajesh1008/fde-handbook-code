@@ -1,0 +1,26 @@
+Greystone data map, day 122: drawn (day 98) against generated from deployed configuration
+  drawn hops 5   generated hops 14   missing from drawing 9
+  drawn map findings 0
+
+  hop                          holder       data      retain  basis            lint
+  referral-intake              Greystone    PHI             7d  owner            ok
+  api-gateway                  Greystone    PHI           none  owner            ok
+  gateway-diagnostics          Greystone    PHI            30d  owner            FLAG 1
+  drafting-service             Northlight   PHI           none  BAA GA-02        ok
+  app-log                      Northlight   META           30d  BAA GA-02        ok
+  trace-export                 ObsVendor    PHI            14d  -                FLAG 2
+  model-endpoint               Provider     PHI           none  BAA GA-02, GA-06 ok
+  abuse-monitoring             Provider     PHI            30d  Exhibit C        ok
+  stored-requests              Provider     PHI            30d  -                FLAG 2
+  guideline-index              Greystone    POLICY        none  owner            ok
+  coordinator-queue            Greystone    PHI          2190d  owner            ok
+  run-records                  Greystone    PHI          2190d  owner            ok
+  eval-set                     Greystone    PHI           120d  owner            ok
+  support-access               Northlight   PHI           none  BAA GA-02        ok
+
+findings 5 on 3 hops
+  H2   gateway-diagnostics          PHI in a log without owner sign-off
+  H1   trace-export                 PHI held by ObsVendor with no BAA or clause
+  H2   trace-export                 PHI in a trace without owner sign-off
+  H1   stored-requests              PHI held by Provider with no BAA or clause
+  H2   stored-requests              PHI in a log without owner sign-off

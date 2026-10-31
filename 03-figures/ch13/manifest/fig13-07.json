@@ -1,0 +1,95 @@
+{
+ "stem": "fig13-07",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch13/fig13_07_playback.py",
+ "source_sha1": "60927dbfbe05",
+ "data": "04-code/ch13 lab fixtures",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:22 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 12,
+ "contrast_pairs": [
+  [
+   "97.5%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "threshold 98% (C-03)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "76.5%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "threshold 80% (C-05)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "percent of the 200 documents",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "70",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "90",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "policy_number filled",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "OCR confidence >= 0.80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

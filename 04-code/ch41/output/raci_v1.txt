@@ -1,0 +1,11 @@
+set mode live, shadow or off        A: Anne Kessler                  ok
+weekly drift audit                  A: Anne Kessler                  ok
+gold set refresh every 30 days      A: Northlight                    FAIL vendor accountable
+prompt change through merge gate    A: Priya Natarajan, Owen Pryce   FAIL 2 accountable
+monthly monitoring report           A: Anne Kessler                  ok
+gateway key rotation                A: Priya Natarajan               ok
+pinned model deprecation response   A: Northlight                    FAIL vendor accountable
+incident response                   A: Priya Natarajan               ok
+quarterly rollback drill            A: Priya Natarajan               ok
+product fixes and releases          A: Priya Natarajan               ok
+activities: 10   findings: 3

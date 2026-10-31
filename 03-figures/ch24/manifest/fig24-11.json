@@ -1,0 +1,95 @@
+{
+ "stem": "fig24-11",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch24/fig24_11_broker.py",
+ "source_sha1": "43acc1991f22",
+ "data": "04-code/ch24/output/identity.txt",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-10-31 21:29 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 10.0,
+ "label_words": 24,
+ "contrast_pairs": [
+  [
+   "suite sign-in",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "surface",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "aud nl-brain",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "token broker",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "policy",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "claims",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "retrieval",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "loss history",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "rules",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "documents",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "on behalf of the adjuster, 15 ",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "suite token\nforwarded: refused",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

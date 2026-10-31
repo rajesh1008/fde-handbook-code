@@ -1,0 +1,47 @@
+{
+ "stem": "fig14-04",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch14/fig14_04_allowed.py",
+ "source_sha1": "b1216ee92937",
+ "data": "04-code/ch14 lab",
+ "png_px": [
+  1650,
+  1200
+ ],
+ "rendered": "2026-10-31 19:18 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.0,
+ "aspect": 1.375,
+ "min_font_pt": 10.0,
+ "label_words": 30,
+ "contrast_pairs": [
+  [
+   "runs as built\n20 steps\n\nlookup",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "draft only\n5 model steps\n\ncoor",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "refused\n3 actions\n\nsubmit, set",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "red flags always route to a cl",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

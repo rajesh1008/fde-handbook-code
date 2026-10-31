@@ -1,0 +1,95 @@
+{
+ "stem": "fig21-02",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch21/fig21_02_weight.py",
+ "source_sha1": "64269baba7a9",
+ "data": "04-code/ch21/output/register.txt",
+ "png_px": [
+  1650,
+  1110
+ ],
+ "rendered": "2026-10-31 20:44 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.7,
+ "aspect": 1.486,
+ "min_font_pt": 9.5,
+ "label_words": 15,
+ "contrast_pairs": [
+  [
+   "48.8%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1.7%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "legs flagged as weight mismatc",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "TMS gross kg vs\ncarrier billed",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "chargeable vs\nchargeable",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

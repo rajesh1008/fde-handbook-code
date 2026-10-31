@@ -1,0 +1,21 @@
+Caldwell model-risk review, engagement days
+  day  71  D-06 decided: Catherine Doyle named as Model-Risk Approval owner (due day 42)
+  day  74  validation request v0 from Owen Pritchard: one model, tier 1, 14 items
+  day  76  Northlight answers 'outside scope': one question asked of the whole system
+  day  80  component test agreed; Caldwell policy written as four rules
+  day  82  register r1 signed: 15 components, none in full scope
+  day 132  router fitted on cal-600: register r2, RT enters full scope; OD-4 countersigned
+  day 138  training-data record signed: register r3, C06-ft1 enters full scope
+  day 140  pack v1 generated from the evaluation suite: lint clean
+  day 141  computability check: two of six metrics need Northlight
+  day 144  pack v2: every metric computable by Caldwell
+  day 146  validator session: 14 questions answered or bounded
+  day 153  review passes with two conditions
+
+citation audit (Tom Whitfield, day 146): 60 summaries, 0 uncited statements, 2 wrong citations (superseded manual section)
+
+decision, day 153: passed with two conditions (Catherine Doyle, Head of Model Risk)
+  R1 C06 stays on c06-p4 until c06-ft1 completes its own full validation; owner Callum Reid; due day 190; status open
+     closes when: Owen Pritchard signs the ten plan items for C06-ft1
+  R2 the first monthly monitoring report is produced by Caldwell's team with no Northlight involvement; owner Anne Kessler; due day 190; status open
+     closes when: report M1 to M6 run as Caldwell identities and read by Anne

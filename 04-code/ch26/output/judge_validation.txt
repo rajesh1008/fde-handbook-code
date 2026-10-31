@@ -1,0 +1,17 @@
+held-out test split: 201 documents, 2010 fields; Anne's adjusters pass 1341 (66.7%)
+
+judge_v1 (Northlight rubric)
+  passes 1692 of 2010 (84.2%)   agrees with Anne on 80.9%   kappa 0.51
+  TP 1325  FN 16  FP 367  TN 302   TPR 0.99  TNR 0.45
+  not unanimous across three runs: 16.4% of fields
+  corrected with dev-split TPR/TNR: 66.7% (95% interval 60.5% to 71.7%)
+  verdict: NOT VALID: TNR 0.45 < 0.8: the judge passes what the expert fails; 16.4% of verdicts change across repeat runs (limit 5%)
+
+judge_v2 (Caldwell rubric)
+  passes 1383 of 2010 (68.8%)   agrees with Anne on 93.8%   kappa 0.86
+  TP 1300  FN 41  FP 83  TN 586   TPR 0.97  TNR 0.88
+  not unanimous across three runs: 1.9% of fields
+  corrected with dev-split TPR/TNR: 68.0% (95% interval 64.9% to 70.7%)
+  verdict: VALID for Caldwell
+
+Anne's adjusters on the test split, unweighted: 66.7%

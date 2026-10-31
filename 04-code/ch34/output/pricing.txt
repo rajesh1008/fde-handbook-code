@@ -1,0 +1,14 @@
+SERVICES NET BY CONTRACT FORM  (loaded $150/h; T&M bill rate $260/h; 10,000 seeded draws of the tax)
+  customer   form        P50 h   P90 h   P90/P50   net at P50     net at P90     who carries the tail
+  Caldwell   fixed        2,409   2,589     1.07   $   -161,331   $   -188,411   Northlight
+  Greystone  T&M + cap    3,787   4,198     1.11   $   -118,109   $   -179,658   Greystone to the cap, then Northlight
+  Pennant    fixed        2,786   3,159     1.13   $   -297,855   $   -353,818   Northlight
+
+BREAKEVEN AND CAP POINTS
+  Caldwell fixed $200,000 covers 1,333 h; Pennant fixed $120,000 covers 800 h
+  Greystone cap $450,000 is reached at 1,731 billable h; past that each hour costs Northlight $150 and earns nothing
+
+THE SAME WORK, PRICED THREE WAYS  (Pennant, tax unknown between 2.0 and 4.5)
+  fixed $120,000                                         net P50 $  -297,855  P90 $  -353,818  P(loss) 100.0%  customer pays P50 $  120,000
+  T&M at $260, no cap                                    net P50 $   306,427  P90 $   347,466  P(loss)  0.0%  customer pays P50 $  724,282
+  phased: T&M discovery 160 h, then fixed at P90 x $260  net P50 $   403,428  P90 $   347,466  P(loss)  0.0%  customer pays P50 $  821,284

@@ -1,0 +1,11 @@
+INTEGRATION TAX SENSITIVITY  Pennant Logistics  fixed price, model work 500 h
+  tax  integ h  months  hours   margin
+  0.5      250     5.8  1,978    50.9%
+  1.0      500     6.6  2,165    48.0%
+  1.5      750     7.5  2,352    45.1%
+  2.0    1,000     8.4  2,540    42.2%
+  2.5    1,250     9.3  2,728    39.2%
+  3.0    1,500    10.2  2,915    36.3%
+  4.0    2,000    12.0  3,290    30.5%
+highest tax that keeps margin at or above 60%: none, even at zero integration
+highest tax that keeps margin at or above 40%: 2.3

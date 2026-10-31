@@ -1,0 +1,6 @@
+   490 fields at 79.4%: interval 75.6% to 82.7% -> not shown
+  1000 fields at 79.4%: interval 76.8% to 81.8% -> not shown
+  2000 fields at 79.4%: interval 77.6% to 81.1% -> not shown
+  5000 fields at 79.4%: interval 78.3% to 80.5% -> not shown
+ 10000 fields at 79.4%: interval 78.6% to 80.2% -> not shown
+ 20000 fields at 79.4%: interval 78.8% to 80.0% -> below

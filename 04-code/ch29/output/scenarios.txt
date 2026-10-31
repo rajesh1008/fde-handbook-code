@@ -1,0 +1,15 @@
+golden-set records: 1551 (201 documents, 150 questions, 1200 scenarios)
+  schema: missing fields {'rubric_version': 7}; stale contract version 30 (template 31)
+weekly L4 run, day 145: 1200 scenarios, 29 failing
+  oracle defect      5
+  agent defect      22
+  broken scenario    2
+  agent defects come from 6 root causes:
+    - claimant name truncated at 40 characters
+    - duplicate fax during key rotation opens a second claim
+    - handwritten loss date on page two ignored
+    - loss location taken from the broker's letterhead
+    - police report reference lost when pages arrive out of order
+    - two letters in one envelope become one claim
+  not the agent's fault: 7 of 29 (24%)
+metamorphic relations (rotate scan, reorder pages, duplicate delivery): 90 paired cases, 0 violations

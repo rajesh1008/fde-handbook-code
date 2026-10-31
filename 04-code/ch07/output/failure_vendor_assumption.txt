@@ -1,0 +1,32 @@
+DESIGN v0 (day 20): built on 40 expected answers, statuses not checked
+  expected answers that were vendor positions: 6
+
+CHECK  date received = received_at (R11 expected answer), 400 synthetic first notices
+  ingest date differs from notice_received_dt: 227 of 400 (57%)
+    P08   11 of  11 wrong
+    P09    7 of   7 wrong
+    P07   20 of  20 wrong
+    P10    6 of   6 wrong
+    P05   18 of  18 wrong
+    P01  128 of 139 wrong
+    P06    9 of  14 wrong
+    P11    2 of   4 wrong
+    P02   12 of  55 wrong
+    P03   14 of  70 wrong
+  worst lag: 10 days; documents whose clock would start late by 3+ days: 76
+
+DAY 24  Ruth Calloway, claims data manager, answers the same 40 questions
+  vendor position                        4 of  6 contradicted (67%)
+  proposed design                        2 of  7 contradicted (29%)
+  reconstructed from supplied artifact   2 of 17 contradicted (12%)
+  direct customer fact                   1 of 10 contradicted (10%)
+
+v0 design elements built on a contradicted vendor position:
+  R03  join key and counts: expected 'yes, one row per claim'
+       Ruth: one row per claim feature (coverage line); 1.4 rows per claim on average
+  R04  sample frame and routing: expected 'yes'
+       Ruth: no; special investigations, litigated and employee claims are filtered out, about 6% of claims
+  R11  date-received source and its check: expected 'the document store's received_at ingest timestamp'
+       Ruth: notice_received_dt in claims-core, keyed by intake from the mailroom stamp, the fax header or the call date; never the scan time
+  Q38  on-behalf-of logging: expected 'yes, the account is named and its queries are logged'
+       Ruth: no; every read must carry the adjuster it was made for

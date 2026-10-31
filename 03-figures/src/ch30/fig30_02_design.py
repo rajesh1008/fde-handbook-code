@@ -1,0 +1,16 @@
+"""Figure 30.2: the experiment design; Anne's set never touches training (diagram)."""
+from _common import S, save, blank
+fig, ax = S.figure(height=4.2); blank(ax)
+S.box(ax, 0.1, 4.45, 2.6, 1.2, "history-6000\nclerk labels", "data")
+S.box(ax, 3.3, 5.0, 2.4, 0.8, "4,800 train", "data")
+S.box(ax, 3.3, 3.95, 2.4, 0.8, "1,200 test split", "evidence")
+S.box(ax, 6.6, 5.0, 3.3, 0.8, "c06-ft1", "system", lw=S.LW["emphasis"])
+S.box(ax, 6.6, 3.95, 3.3, 0.8, "c06-p4 prompt", "model", lw=S.LW["emphasis"])
+S.box(ax, 0.1, 1.9, 4.0, 1.2, "Anne's set, 900\nadjuster labels, never trained", "approval")
+S.box(ax, 0.1, 0.3, 4.0, 1.2, "legal-60\nmisfile register", "blocker")
+S.box(ax, 5.6, 1.0, 4.3, 1.4, "paired comparison:\nsame documents, both arms", "evidence")
+S.arrow(ax, 2.7, 5.3, 3.3, 5.4); S.arrow(ax, 2.7, 4.8, 3.3, 4.35); S.arrow(ax, 5.7, 5.4, 6.6, 5.4)
+S.arrow(ax, 7.4, 5.0, 7.4, 2.4, weight="data"); S.arrow(ax, 9.1, 3.95, 9.1, 2.4, weight="data")
+S.arrow(ax, 5.7, 4.35, 6.6, 4.35, weight="data")
+S.arrow(ax, 4.1, 2.5, 5.6, 2.0); S.arrow(ax, 4.1, 0.9, 5.6, 1.4)
+save(fig, 2, kind="diagram", data="04-code/ch30/lab.py, world.py")

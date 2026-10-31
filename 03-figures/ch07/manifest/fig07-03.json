@@ -1,0 +1,131 @@
+{
+ "stem": "fig07-03",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch07/fig07_03_status.py",
+ "source_sha1": "52f0a5a67a48",
+ "data": "04-code/ch07 lab fixtures",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 19:35 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.0,
+ "label_words": 14,
+ "contrast_pairs": [
+  [
+   "4 of 6",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2 of 7",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2 of 17",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1 of 10",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor\nposition",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "proposed\ndesign",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "reconstructed",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "direct\nfact",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "contradicted on day 24 (%)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "70",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

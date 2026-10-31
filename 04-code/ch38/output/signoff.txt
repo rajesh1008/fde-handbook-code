@@ -1,0 +1,20 @@
+day 103: security returned d103 | model risk not started | procurement in review | legal in review | data protection passed d98
+         blocking: security, model risk, procurement, legal; lint: clean; ready: False
+day 121: security returned d121 | model risk not started | procurement in review | legal in review | data protection passed d98
+         blocking: security, model risk, procurement, legal; lint: clean; ready: False
+day 129: security in review | model risk in review | procurement passed d127 | legal passed d127 | data protection passed d129
+         blocking: security, model risk; lint: clean; ready: False
+day 130: security passed d130 | model risk passed d130 | procurement passed d127 | legal passed d127 | data protection passed d129
+         blocking: none; lint: clean; ready: True
+conditions carried by the gates:
+   security: rerun flow reconciliation before EV-22 expires (Erin Walsh, day 143)
+   security: review RR-01 and RR-02 (Sam Oakley, day 190)
+   model risk: recall at five rechecked on live referrals (Michael Hart, day 160)
+residual risks attached: RR-01, RR-02 (review day 190)
+model risk evidence: recall at five 0.95 on 120 questions from the day-112 sample, bar 0.90 (Michael Hart's reviewers)
+pilot: day 131, draft-only, two clinics; Exhibit A acceptance window opens day 131
+projection made at scope sign-off (day 19) against actual:
+   Architecture Review        planned day  94  actual day 103  (+9)
+   data via provider change   planned day 112  actual day 112  (+0)
+   pilot                      planned day 140  actual day 131  (-9)
+   board-slip scenario for the pilot: day 149

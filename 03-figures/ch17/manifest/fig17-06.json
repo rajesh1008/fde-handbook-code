@@ -1,0 +1,119 @@
+{
+ "stem": "fig17-06",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch17/fig17_06_denials.py",
+ "source_sha1": "fc4ebba1bfa7",
+ "data": "04-code/ch17/day64_deploy.py (Caldwell egress log, stand-in)",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 21:11 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 12,
+ "contrast_pairs": [
+  [
+   "day 64, Eastern; run 2 at 17:0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15:30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15:40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15:50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "16:00",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "16:10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "denied connections",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "model provider (96)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor tracing (48)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

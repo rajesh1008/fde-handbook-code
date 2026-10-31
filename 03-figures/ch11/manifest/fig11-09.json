@@ -1,0 +1,113 @@
+{
+ "stem": "fig11-09",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch11/fig11_09_architect.py",
+ "source_sha1": "6d63df59af8e",
+ "data": "04-code/ch11 lab",
+ "png_px": [
+  1650,
+  1110
+ ],
+ "rendered": "2026-10-31 20:09 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.7,
+ "aspect": 1.486,
+ "min_font_pt": 9.5,
+ "label_words": 17,
+ "contrast_pairs": [
+  [
+   "median 2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "median 4",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "median 9",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "days to a written answer (n = ",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "14",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "decision record",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "diagram with notes",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "slide deck",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,13 @@
+Pennant Logistics: the margin claim, reconciled (deterministic stand-in)
+  year-one revenue $1,616,284; cost $671,485; gross profit $944,799; margin 58.5%
+  what the margin would have been under each services form, same hours:
+    fixed $120,000 (Chapter 19 draft)        revenue     $915,000  margin  26.6%
+    phased, signed (Chapters 34 and 37)      revenue   $1,616,284  margin  58.5%
+  the services line alone (fee less FDE hours, before subscription):
+    fixed $120,000 (Chapter 19 draft)           -$388,650
+    phased, signed (Chapters 34 and 37)          $312,634
+  managed service days 290 to 365: revenue $55,000, margin 34.5% (Chapter 43; floor 40%)
+  FDE ledger hours 3,330; retrospective hours 3,391 (night duty found 61)
+  verdict: under the signed form Pennant earned money in year one; the services line would have lost
+  money under the fixed draft, and the operations line runs below the floor
+FORMS {'fixed $120,000 (Chapter 19 draft)': 26.6, 'phased, signed (Chapters 34 and 37)': 58.5}

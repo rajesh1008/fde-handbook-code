@@ -1,0 +1,185 @@
+{
+ "stem": "fig13-09",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch13/fig13_09_register.py",
+ "source_sha1": "beae7f444815",
+ "data": "04-code/ch13 lab fixtures",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:22 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 31,
+ "contrast_pairs": [
+  [
+   "overdue access",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "acceptance",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "stop",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "design",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "overdue acceptance",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "overdue access",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "design",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "acceptance",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 56",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "engagement day (bar: raised to",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "70",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "D-01",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "D-03",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "D-07",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "D-04",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "D-06",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "D-05",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "D-02",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "D-08",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

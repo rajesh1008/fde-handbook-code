@@ -1,0 +1,21 @@
+CALIBRATION  Caldwell Mutual  60 synthetic documents x 14 fields x 3 scorers
+field                    round 1 kappa  all agree  round 2 kappa  verdict
+policy_number                     0.77        98%           1.00  exact check
+insured_name                      0.82        97%           1.00  exact check
+claimant_name                     0.64        93%           0.86  exact check
+date_of_loss                      0.90        98%           0.92  exact check
+time_of_loss                      0.86        98%           0.74  judgment range
+loss_location                     0.24        73%           1.00  exact check
+line_of_business                  1.00       100%           1.00  exact check
+police_report_number              0.90        98%           0.81  exact check
+vehicle_or_property_id            1.00       100%           0.93  exact check
+reported_by                       0.86        98%           0.86  exact check
+contact_phone                     0.95        98%           0.95  exact check
+date_received                     0.40        65%           0.95  exact check
+injury_reported                   0.76        90%           0.78  judgment range
+cause_of_loss                     0.53        70%           0.68  judgment range
+fields at kappa >= 0.80: round 1 8 of 14, round 2 11 of 14
+round 1 accuracy, all 14 fields, same outputs:  Anne 90.1%  Tom 89.0%  adjuster B 90.5%  spread 1.4 points
+round 2 accuracy, all 14 fields, same outputs:  Anne 92.1%  Tom 91.3%  adjuster B 92.6%  spread 1.3 points
+round 2 accuracy, 11 exact fields only:      Anne 93.6%  Tom 93.9%  adjuster B 93.9%  spread 0.3 points
+judgment fields -> OD-5 (cause of loss framework, Anne Kessler, due day 35); reported as a range until then

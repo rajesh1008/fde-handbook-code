@@ -1,0 +1,2 @@
+draft_prior_auth   allowed=True stage=allowed ['write granted by test only, day 0']
+submit_prior_auth  allowed=False stage=boundary ['refused: Michael Hart: a person submits']

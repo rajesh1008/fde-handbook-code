@@ -1,0 +1,22 @@
+sole practitioner, Pennant phase-one package: P50 886 h, $230/h, floor $150/h
+professional indemnity: $2,000,000 limit for $9,000 a year
+reserve 0%: fixed price $203,800
+  integration on P50                886 h   6.3 mo  margin  28.3%  after slip  28.3%  $ 212/h
+  Pennant's actual miss (1.15)    1,019 h   7.3 mo  margin  18.2%  after slip  13.0%  $ 185/h
+  Greystone's miss (1.32)         1,170 h   8.4 mo  margin   6.7%  after slip  -4.4%  $ 161/h
+sole practitioner, Pennant phase-one package: P50 886 h, $230/h, floor $150/h
+professional indemnity: $2,000,000 limit for $9,000 a year
+reserve 15%: fixed price $234,300
+  integration on P50                886 h   6.3 mo  margin  37.7%  after slip  37.7%  $ 245/h
+  Pennant's actual miss (1.15)    1,019 h   7.3 mo  margin  28.9%  after slip  28.9%  $ 214/h
+  Greystone's miss (1.32)         1,170 h   8.4 mo  margin  18.9%  after slip  13.7%  $ 187/h
+sole practitioner, Pennant phase-one package: P50 886 h, $230/h, floor $150/h
+professional indemnity: $2,000,000 limit for $9,000 a year
+reserve 35%: fixed price $275,100
+  integration on P50                886 h   6.3 mo  margin  46.9%  after slip  46.9%  $ 289/h
+  Pennant's actual miss (1.15)    1,019 h   7.3 mo  margin  39.4%  after slip  39.4%  $ 252/h
+  Greystone's miss (1.32)         1,170 h   8.4 mo  margin  30.9%  after slip  30.9%  $ 220/h
+liability cap against the PI limit (price $275,100)
+  cap = fees paid                    uninsured exposure $0
+  cap = 10x fees (customer paper)    uninsured exposure $751,000
+  uncapped data-breach indemnity     uninsured exposure UNLIMITED

@@ -1,0 +1,17 @@
+CALDWELL  first ninety days  production day 0 = engagement day 158  (deterministic stand-in)
+week  draft   review  decline  PSI routing  PSI fingerprint
+   1   63.1%   28.4%    8.5%      0.0009      0.0009
+   2   62.5%   30.1%    7.4%      0.0009      0.0050
+   3   59.5%   32.6%    7.9%      0.0040      0.0051
+   4   56.1%   35.2%    8.6%      0.0157      0.0025  <- routing alarm (>= 0.01 on a three-way mix)
+   5   56.0%   35.6%    8.4%      0.0170      0.0038
+   6   57.3%   34.5%    8.2%      0.0111      0.0039
+routing alarm in week 4; fingerprint PSI flat: the template changed content, not layout
+re-check day 27: 197/200 drafted claims correct; wrong-rate upper bound 4.32% (line 2.5%): inconclusive: the sample cannot show the line
+re-check day 30: 596/600 drafted claims correct; wrong-rate upper bound 1.70% (line 2.5%): threshold kept
+re-check signed by Anne Kessler, day 30
+Exhibit E (post-review document errors in 310 sampled; breach at 7 or more):
+  month 1: 2 errors  within  scored by Anne Kessler's team
+  month 2: 4 errors  within  scored by Anne Kessler's team
+  month 3: 3 errors  within  scored by Anne Kessler's team
+Live Stable: engagement day 248 (production day 90), hand-over readiness 0.90 (Chapter 41)

@@ -1,0 +1,4 @@
+naive     denied requests 160; security alert raised
+fieldkit  denied requests   1; no alert
+          stopped at first denial: stop; open a ticket with the network owner; never retry
+          ticket: source 34.120.9.17 (new CI runner) not in 10.40.0.0/16 or 34.120.8.0/24; owner: network

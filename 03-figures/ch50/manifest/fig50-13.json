@@ -1,0 +1,179 @@
+{
+ "stem": "fig50-13",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch50/fig50_13_signature14.py",
+ "source_sha1": "5d7bd7df3283",
+ "data": "04-code/ch50/output/funnel.json",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-11-01 00:34 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 9.0,
+ "label_words": 28,
+ "contrast_pairs": [
+  [
+   "638",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "638",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "600",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "546",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "54  (x4 scale)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "38  (x4 scale)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "share of packages seen",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25%",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50%",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "75%",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100%",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "escalations",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "disagreements",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "agreements",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "human decisions",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "agent decisions",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "documents seen",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "proceed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "review",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "escalate",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "none",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "equivalent",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "human wrong",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "agent loud",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "agent silent",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

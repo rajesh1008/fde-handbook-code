@@ -1,0 +1,9 @@
+declared flows: 14 (11 carry patient data); crossing a trust boundary: 3
+  D01 clinic portal and fax -> intake: internet to tenant; control: TLS, sender registry; verify: portal access log
+  D06 orchestrator -> model endpoint: tenant to model service; control: private endpoint, hub DNS; verify: flow log and DNS answer
+  D08 EHR connector -> EHR API: tenant to EHR network; control: read scope, patient filter; verify: EHR access report
+inventory lint: 0 problems
+observed in flow logs and diagnostic settings, day 102: 14 pairs
+  matched 13; undeclared 1; declared but not seen 1
+  undeclared: orchestrator -> provider diagnostics workspace
+  not seen: D12 (audit log -> Greystone SIEM; export not yet configured)

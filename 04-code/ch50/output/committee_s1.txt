@@ -1,0 +1,19 @@
+submission 1 (day 118): plan items 75, evidenced 53, lint findings 27
+  missing benchmark             5  H03, H05, H08, H10, H11
+  missing sensitivity           5  H03, H05, H08, H10, H11
+  missing stability             5  H03, H05, H08, H10, H11
+  missing change_control        7  H03, H05, H08, H09, H10, H11, H12
+  no monitoring metric          5  H03, H05, H08, H09, H12
+  metric M1 agreement with credit review: evaluation suite code owned by Northlight (Northlight repository); evaluation suite code runs as svc-northlight-eval, an identity the vendor operates
+  V1 [evidence] Which components are models under our policy: Listing 50.5: five full scope
+  V2 [translation] What is the challenger: the officer's own memo, once shadow runs
+  V3 [boundary] What happens when the provider withdraws the model version: V3: a boundary needs a compensating control
+  Model-Risk Approval plan       all      below      70.7% (53/75; 59.6% to 79.8%)
+  Model-Risk Approval agreement  all      refused    component test cannot show a customer outcome
+  Shadow Exit agreement  all      missing    no measurement offered
+gate stack:
+  Architecture Review  passed                   day 61   
+  Build Complete       passed                   day 112  
+  Shadow Exit          blocked                           
+  Model-Risk Approval  blocked                           
+  Live Stable          not started                       

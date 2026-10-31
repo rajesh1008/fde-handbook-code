@@ -1,0 +1,131 @@
+{
+ "stem": "fig13-04",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch13/fig13_04_plans.py",
+ "source_sha1": "f9ce0c7f18d8",
+ "data": "04-code/ch13 lab fixtures",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:22 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 25,
+ "contrast_pairs": [
+  [
+   "P-01",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P-02",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P-03",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P-01",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P-03",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P-04",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P-05",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "capacity 20",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P0 control  P1 outcome  P2 reu",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "story points planned",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "ordering rule",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "as run (P-05 pinned)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

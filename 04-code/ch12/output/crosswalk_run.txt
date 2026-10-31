@@ -1,0 +1,18 @@
+crosswalk v0.6: 47 standards
+  comply                       36
+  comply with configuration     6
+  deviation requested           3
+  not applicable                2
+  problems: 2
+    PS-LOG-03 COMPLY ON VENDOR SAY-SO: names a customer system; evidence is a vendor position
+    PS-CHG-03 DEVIATION WITHOUT APPROVER: approver 'the change board' is not a named person
+crosswalk v1.0: 47 standards
+  comply                       36
+  comply with configuration     6
+  deviation requested           3
+  not applicable                2
+  problems: 0
+deviations requested in v1.0, each with a named approver at Harbourline:
+  PS-GW-04 (Martin Shaw): No direct provider keys in any environment. Proposal: offline evaluation harness calls the provider in an isolated test tenant.
+  PS-CHG-03 (Martin Shaw): Production changes go through the change board with ten days' notice. Proposal: prompt and threshold changes as a pre-approved standard change.
+  PS-SUR-01 (Martin Shaw): User-facing tools run inside the productivity suite. Proposal: reviewer console as a web app for six operations staff (CL-23 permits a request).

@@ -1,0 +1,137 @@
+{
+ "stem": "fig50-04",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch50/fig50_04_gate.py",
+ "source_sha1": "e8c1366d2d9a",
+ "data": "04-code/ch50/output/draft_*.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-11-01 00:34 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 35,
+ "contrast_pairs": [
+  [
+   "numeric gate",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "lineage check",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "currency label",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "clean draft",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pass",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pass",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pass",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "ratio the model wrote",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "stops it",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "stops it",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pass",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "ratio with its own calculation",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pass",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "stops it",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pass",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "currency unlabeled",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pass",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pass",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "stops it",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

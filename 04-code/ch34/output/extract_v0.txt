@@ -1,0 +1,20 @@
+CONTRACT-COMMITMENT EXTRACTOR  caldwell AI production addendum v3 (agreed in principle, day 136)
+  clauses 15  vendor commitments 13  customer obligations 1  no obligation 1
+  by kind: deliverable 3, service level 3, data 2, audit 1, change 1, exit 1, liability 1, staffing 1
+
+v0 PRICING (day 137): any number in a service level counts as a measure
+  CA-01.1  service level $        0  computed  credits: reading 'post-review document error, 4,000 documents' = 99.1% -> met
+  CA-02.1  service level $   93,333  computed  credits: 99.71% at the adjuster console -> missed
+  CA-03.1  service level $   96,000  estimated 24x7 one-hour Severity 1 rota, four engineers, 7 months
+  CA-04.1  staffing      $  126,000  estimated two engineers on site for 90 days (840 h)
+  CA-05.1  deliverable   $   25,200  estimated monthly monitoring report, 24 h a month for 7 months
+  CA-06.1  change        $   94,500  assumed   forced migration, revalidation and dual running inside the freeze
+  CA-07.1  audit         $   18,000  estimated two audits with ten days' notice (120 h)
+  CA-08.1  exit          $   40,000  assumed   six months of free transition assistance, provision
+  CA-09.1  liability     $  120,000  assumed   uncapped indemnity: liability cover for year one
+  CA-10.1  data          $   27,000  estimated deletion including provider copies, attestations (180 h)
+  CA-11.1  deliverable   $   24,000  estimated train 14 adjusters and supervisors, runbooks (160 h)
+  CA-12.1  deliverable   $   32,400  estimated knowledge transfer to the support desk (216 h)
+  CA-15.1  data          $        0  measured  in-account processing: already the design (Ch17)
+  findings: 6
+  year-one revenue $1,800,000  cost $1,477,224  gross margin 17.9%   (floor 40%, target 60%)

@@ -1,0 +1,3 @@
+a) build weight 0.35, discovery 0.05, communication 0.06 (sum 1.00)
+   C-3 weighted, no floors: ('hire', 3.41, 'meets bar and every floor')
+   C-3 weighted, floors kept: ('no hire', 3.41, 'floor: discovery 1 < 2')

@@ -1,0 +1,6 @@
+TRY 1: classify a workflow of your own
+  W1 det      Q1 yes
+  W2 REFUSED  W2 approve invoices under the spending limit: rules with no named owner are not rules, they are habits
+  W3 REFUSED  W3 read the line items into a schema: a model step may not do arithmetic; split the step
+  W4 frontier Q1 no / Q2 no / Q3 no
+  fix: name the owner of the spending limit; move the totals check to a code step after W3

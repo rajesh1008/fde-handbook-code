@@ -1,0 +1,11 @@
+ACCOUNTABLE EXECUTIVE'S PACK  Caldwell Mutual  day 157
+  decision record            present  D-06 d71; OD-4 d132 (Catherine Doyle); v1.1 d151; Shadow Exit d157 Anne Kessler, day 157
+  lineage                    present  run records to gold-heldout v of day 156             Priya Natarajan, day 156
+  model and prompt versions  present  rc-1; router v1.1; register r3                       Owen Pritchard, day 156
+  evaluation at the time     present  gold-heldout per class; audit-shadow-400             Anne Kessler, day 156
+  human review               present  Lena Ortiz adjudication, days 154-155                Lena Ortiz, day 155
+  authority boundary         present  fields and routing only; proceed 0.95, floor 0.47    Anne Kessler, day 151
+  incident history           present  rotated fax days 142-149, fixed day 150              Ruth Calloway, day 153
+  monitoring                 partial  M1 drift alarm (day 149)                             Owen Pryce, day 149
+                             gap: no per-class monitor for fax and mail yet
+present 7, partial 1, missing 0; complete: False; digest 908a39e8e002

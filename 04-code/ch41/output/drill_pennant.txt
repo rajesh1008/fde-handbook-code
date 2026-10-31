@@ -1,0 +1,6 @@
+Pennant drill (as built): file drop volume guard; deadline 03:30 Central
+02:00 TMS CSV lands; 02:04 volume guard holds the file
+02:06  P-02 fires, routed to nl-pennant-oncall@northlight.example
+02:06  page reaches Northlight on-call (observer, hands off): vendor touch
+time to detect never (no customer acknowledgment); time to mitigate never; vendor touches 1; deadline missed
+drill FAILED (criteria: detect <= 15 min, mitigate <= 60 min, no vendor touch)

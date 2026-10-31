@@ -1,0 +1,179 @@
+{
+ "stem": "fig45-10",
+ "kind": "diagram",
+ "tool": "hand-laid SVG (signature7.py)",
+ "style": "style.md",
+ "source": "03-figures/src/ch45/fig45_10_signature7.py",
+ "source_sha1": "b1ce1aceecc3",
+ "data": "signature7.STATES['ch45']",
+ "png_px": [
+  1650,
+  2142
+ ],
+ "rendered": "2026-11-01 00:03 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 7.139,
+ "aspect": 0.77,
+ "min_font_pt": 9.5,
+ "label_words": 39,
+ "contrast_pairs": [
+  [
+   "fieldkit 0.1.0: built",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "dashed arrow: imports",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "access.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "readiness.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "fixtures.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "engagement.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "deployment.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "cadence.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "escalation.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "datareadiness.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "histories.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "synthetic.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "deid.py",
+   "#1e2329",
+   "#f9deda",
+   12.42
+  ],
+  [
+   "shadow.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "sampling.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "gateway.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "Ch 18",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "connectors.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "Ch 19",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "estates.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "Ch 20",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "v2.6 to v5.2",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "quality to live operations",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "hiring.py",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "v5.3: hiring rubric",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "labs that import fieldkit",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 12.05
+}

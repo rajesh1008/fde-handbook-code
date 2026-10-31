@@ -1,0 +1,11 @@
+shadow days 120 to 149; scored by Harbourline credit review against each officer's own memo
+packages seen 638; quarantined before drafting 38; drafts scored 600
+agreement 546/600 = 91.0% (95% interval 88.4% to 93.0%); bid sentence bar 90%
+disagreements: equivalent 12, human wrong 9, agent loud 21, agent silent 12
+standard    agree  scored    rate   95% interval     silent
+IFRS          286     312   91.7%   88.1% to 94.2%   5
+ASPE          205     226   90.7%   86.2% to 93.8%   3
+US GAAP        55      62   88.7%   78.5% to 94.4%   4
+sample size (BC-16, day 45): interval for each standard at the same rates
+  400 memos: IFRS 191/208 87.3% to 94.8% (width 7.5 pts); ASPE 137/151 85.0% to 94.4% (width 9.4 pts); US GAAP 35/41 71.6% to 93.1% (width 21.6 pts)
+  600 memos: IFRS 286/312 88.1% to 94.2% (width 6.2 pts); ASPE 205/226 86.2% to 93.8% (width 7.6 pts); US GAAP 55/62 78.5% to 94.4% (width 15.9 pts)

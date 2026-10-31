@@ -1,0 +1,6 @@
+v5.4 form-only lint (P1 to P4), registry as of month 15
+  PB-1@1.3    Claims first-notice intake           steps 6  findings 0  maturity live
+  PB-2@1.1    Shipment document reconciliation     steps 4  findings 0  maturity live
+  PB-3@0.9    Referral intake, draft-only          steps 3  findings 0  maturity shadow
+  PB-4@2.0    Model access onboarding              steps 4  findings 0  maturity live
+  all four admitted to the registry

@@ -1,0 +1,161 @@
+{
+ "stem": "fig43-01",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch43/fig43_01_models.py",
+ "source_sha1": "6ef90d58c736",
+ "data": "02-manuscript/ch43.md Table 43.1 (definitions)",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-11-01 00:05 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 10.0,
+ "label_words": 25,
+ "contrast_pairs": [
+  [
+   "hand-over",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "hybrid",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "managed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "night pager",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "runbooks",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "model change",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "both",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "evidence",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "both",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "accountable",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

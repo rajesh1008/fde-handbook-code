@@ -1,0 +1,4 @@
+through the SDK  -> 200 ok
+plain HTTP call  -> 400 unsupported_parameter: response_format (api-version 2024-06-01)
+contract test, SDK headers: pass
+contract test, plain headers: FAIL api-version present

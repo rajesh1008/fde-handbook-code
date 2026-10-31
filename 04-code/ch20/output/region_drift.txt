@@ -1,0 +1,37 @@
+--- where extract-2026-04 is offered, 75 days after its first release (stand-in catalog) ---
+aws    us-east-1     offered from day 0   latest here: extract-2026-04
+aws    us-west-2     offered from day 14  latest here: extract-2026-04
+azure  eastus2       offered from day 4   latest here: extract-2026-04
+azure  westus3       offered from day 27  latest here: extract-2026-04
+azure  centralus     not offered          latest here: extract-2026-01
+gcp    us-central1   offered from day 3   latest here: extract-2026-04
+gcp    europe-west4  not offered          latest here: extract-2026-01
+--- the naive deployment: Pennant EU project, model 'extract@latest' ---
+suite report: field accuracy 87.2% on 120 EU-lane documents (pass line 85%)  PASS
+what the report did not print: served versions {'extract-2026-01': 120}
+validated in us-central1 on extract-2026-04: 91.2% on the US-lane gold set
+--- the comparison you are allowed to run: 200 synthetic EU-lane documents, both versions ---
+field accuracy  2026-04 91.7%   2026-01 88.3%
+documents with every field right  2026-04 103   2026-01 76
+field flips  lost 69  gained 15
+  shipper      lost   7  gained   2
+  consignee    lost   9  gained   2
+  origin       lost  10  gained   3
+  destination  lost   8  gained   2
+  pieces       lost  12  gained   1
+  weight_kg    lost   8  gained   4
+  incoterm     lost   8  gained   0
+  ship_date    lost   7  gained   1
+stand-in only (not observable in the field): EU gold set on 2026-04 would score 89.3%
+--- fieldkit: resolve the pin before deploying ---
+REFUSED: extract is pinned to extract-2026-04, which no allowed region offers (europe-west4: extract-2025-10, extract-2026-01)
+offered elsewhere: us-central1 (outside the residency rule P-02)
+  option wait            stay on the approved path and get a date from the provider for the pinned version in an allowed region
+  option move region     process where the pin is offered, only if the customer's residency owner changes the rule in writing
+  option change the pin  validate the offered version on in-region data with the evaluation suite and record a model change
+decision (Pennant, recorded): change the pin for the EU project to extract-2026-01, validated in region
+resolve_pin -> ('europe-west4', 'extract-2026-01')
+EU project on its own pin: 87.2%, served {'extract-2026-01': 120}, pin matched on every call
+--- the same check at Greystone: the failover region ---
+primary ('westus3', 'extract-2026-04')
+failover only: REFUSED: extract is pinned to extract-2026-04, which no allowed region offers (centralus: extract-2025-10, extract-2026-01)

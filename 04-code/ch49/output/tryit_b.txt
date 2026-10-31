@@ -1,0 +1,4 @@
+49.B: Pennant if the night duty had been booked and the managed service never sold
+  with managed service   margin 58.5%  gross profit $944,799
+  without                margin 59.3%  gross profit $925,824
+  without, night duty left unbooked: margin 59.9% (the ledger flatters by 0.6 points)

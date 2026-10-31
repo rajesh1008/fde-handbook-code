@@ -1,0 +1,15 @@
+"""Figure 28.13: the run breaker and the fleet breaker."""
+from _common import S, save, blank
+fig, ax = S.figure(height=4.4); blank(ax, (0, 10), (0, 7))
+S.box(ax, 0.2, 4.6, 2.6, 1.2, "closed", role="approval")
+S.box(ax, 3.8, 4.6, 2.6, 1.2, "open", role="blocker")
+S.box(ax, 7.2, 4.6, 2.6, 1.2, "coordinator", role="approval")
+S.box(ax, 0.2, 0.8, 2.6, 1.2, "runs this hour", role="data")
+S.box(ax, 3.8, 0.8, 2.6, 1.2, "over 5% trip", role="blocker")
+S.box(ax, 7.2, 0.8, 2.6, 1.2, "page on-call", role="cost")
+S.arrow(ax, 2.8, 5.2, 3.8, 5.2); S.arrow(ax, 6.4, 5.2, 7.2, 5.2)
+S.arrow(ax, 2.8, 1.4, 3.8, 1.4); S.arrow(ax, 6.4, 1.4, 7.2, 1.4)
+S.arrow(ax, 5.1, 4.6, 5.1, 2.0, ls="--", weight="data")
+S.label(ax, 3.3, 6.2, "3 calls, no progress", fs=9)
+S.label(ax, 5.1, 3.3, "each trip counts", fs=9)
+save(fig, 13, kind="diagram", data="04-code/fieldkit/fieldkit/guardrails.py")

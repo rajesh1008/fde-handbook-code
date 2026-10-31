@@ -1,0 +1,107 @@
+{
+ "stem": "fig08-03",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch08/fig08_03_anatomy.py",
+ "source_sha1": "46fa7bce0644",
+ "data": "04-code/ch08 lab fixtures",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-10-31 20:07 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 10.0,
+ "label_words": 36,
+ "contrast_pairs": [
+  [
+   "statement",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "fields sent without review are",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "metric",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "fields correct under the rubri",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "scorer",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Anne Kessler",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "document set",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gold set, 500, by path",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "denominator",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "fields sent without review",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "threshold",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "98% or better",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "reported apart",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "review share; per field",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

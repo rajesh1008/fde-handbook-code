@@ -1,0 +1,203 @@
+{
+ "stem": "fig24-05",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch24/fig24_05_contrib.py",
+ "source_sha1": "1cf9a42cb52e",
+ "data": "04-code/ch24/output/options.txt",
+ "png_px": [
+  1650,
+  1380
+ ],
+ "rendered": "2026-10-31 21:29 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.6,
+ "aspect": 1.196,
+ "min_font_pt": 9.5,
+ "label_words": 30,
+ "contrast_pairs": [
+  [
+   "-2.8",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "-2.0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "-2.0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "-1.2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "+0.0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "+0.0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "+0.0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "+3.2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "+9.6",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "hybrid minus new application, ",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u22126",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u22124",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u22122",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "governance visibility",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "residency and egress",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "identity fidelity",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "run cost",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "verification and evaluation",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "latency",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "time to first user",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "reversibility",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "adoption",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "totals: C 79.2, A 76.4, B 66.0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

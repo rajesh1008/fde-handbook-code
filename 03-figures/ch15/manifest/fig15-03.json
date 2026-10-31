@@ -1,0 +1,59 @@
+{
+ "stem": "fig15-03",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch15/fig15_03_email_vs_record.py",
+ "source_sha1": "1c6b7cc04318",
+ "data": "Chapter 3 (day-3 email, day-9 intake request)",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:48 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 10.0,
+ "label_words": 27,
+ "contrast_pairs": [
+  [
+   "day 3: email",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 9: intake record",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "\"sample data\"\nno owner, no pur",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "sponsor Anne Kessler\npurpose, ",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "nothing",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "200 files, day 47",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

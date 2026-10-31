@@ -1,0 +1,4 @@
+messages in the mailbox stream: 103 (sample documents: 88)
+no dedupe                      documents stored 103  duplicates caught  0   duplicate documents passed on 15
+Message-ID only                documents stored  97  duplicates caught  6 {'id': 6}  duplicate documents passed on 9
+Message-ID + attachment hash   documents stored  88  duplicates caught 15 {'id': 6, 'att': 9}  duplicate documents passed on 0

@@ -1,0 +1,65 @@
+{
+ "stem": "fig10-04",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch10/fig10_04_model.py",
+ "source_sha1": "64c4beb928a0",
+ "data": "04-code/ch10 lab fixtures",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-10-31 19:59 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 9.5,
+ "label_words": 39,
+ "contrast_pairs": [
+  [
+   "systems inventory\none line per",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "line: source, hours\nlow, likel",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "fact underneath:\nstatus, owner",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "lint: unpriced\nassumption refu",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "seeded simulation\nP10, P50, P9",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer page:\nrange, drivers,",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "denied fact: swap in the price",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

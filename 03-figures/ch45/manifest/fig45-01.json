@@ -1,0 +1,137 @@
+{
+ "stem": "fig45-01",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch45/fig45_01_v0coverage.py",
+ "source_sha1": "102965b10d64",
+ "data": "04-code/ch45/output/loop_v0.txt",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-11-01 00:03 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 9.0,
+ "label_words": 25,
+ "contrast_pairs": [
+  [
+   "self-report",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "self-report",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "self-report",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "self-report",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "self-report",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "discovery",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "decompo-\nsition",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "build",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "judgment",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "communication",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "R1  30 min",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "R2  60 min",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "R3  480 min",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "R4  60 min",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "R5  45 min",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

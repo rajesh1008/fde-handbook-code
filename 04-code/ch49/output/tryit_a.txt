@@ -1,0 +1,25 @@
+49.A: Greystone, when must it go live for two years to break even?
+Greystone Health: the open engagement (deterministic stand-in)
+  T&M at $260/h, cap $450,000: cap reached after 1,731 billed hours
+  year-one hours 4,588; hours worked above the cap 2,857
+  year-one gross profit -$286,230, margin -63.6%
+  one month in shadow costs $41,800 (1.8 FTE plus pilot hosting)
+  one live month earns $157,500 (subscription less support, production hosting, 0.5 FTE)
+  a month of slip therefore moves two-year profit by $199,300
+  (Chapter 34's $235,500 counts the subscription gross; net of support and hosting it is the line above)
+live in month   year-two GP     two-year GP   [forecast]
+             13    $1,890,000      $1,603,770
+             14    $1,690,700      $1,404,470
+             15    $1,491,400      $1,205,170
+             16    $1,292,100      $1,005,870
+             17    $1,092,800        $806,570
+             18      $893,500        $607,270
+             19      $694,200        $407,970
+             20      $494,900        $208,670
+             21      $295,600          $9,370
+             22       $96,300       -$189,930
+             23     -$103,000       -$389,230
+             24     -$302,300       -$588,530
+  stopped at 12            $0       -$286,230   loss locked, exit costs aside
+break-even: live by month 21 recovers year one inside two years; later than that, it does not
+TWOYEAR {13: 1603770, 14: 1404470, 15: 1205170, 16: 1005870, 17: 806570, 18: 607270, 19: 407970, 20: 208670, 21: 9370, 22: -189930, 23: -389230, 24: -588530}

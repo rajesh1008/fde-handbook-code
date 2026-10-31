@@ -1,0 +1,20 @@
+--- exercise a
+DEPLOYMENT READINESS  Greystone Health  day 0
+  naive weighted score   0.14  NOT READY
+  gated score            0.06  NOT READY
+  capability         0.00
+  workflow           0.00
+  controls           0.10
+  ownership          0.20
+  reconstructability 0.00
+  BLOCKING cap-customer-docs (capability): measured on synthetic data: proves the plumbing, not the accuracy
+  BLOCKING ctl-account (controls): partial
+  BLOCKING own-exec (ownership): Michael Hart is named without authority over it
+  BLOCKING 11 must-pass proofs missing: cap-gold-set, wf-intake-paths, wf-landing, ctl-gateway, ctl-retention, ctl-identity, ctl-arch-review, own-operations, own-model-risk, rec-lineage, rec-evidence-pack
+--- exercise b
+target 98%: review 44.6%, held-out lower bound 98.8%
+target 99%: no threshold reaches it on the calibration half; everything is reviewed
+--- exercise c
+as sold: ['quantifies over an inventory nobody has made']
+layout inventory: 41 layouts across 5 kinds; demo covered 1 (2%)
+rewritten: pass

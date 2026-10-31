@@ -1,0 +1,59 @@
+{
+ "stem": "fig12-09",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch12/fig12_09_register.py",
+ "source_sha1": "63bb0d8e6e36",
+ "data": "04-code/ch12 lab",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:18 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 10.0,
+ "label_words": 10,
+ "contrast_pairs": [
+  [
+   "response\n32 claims",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "stays as\nevidence 14",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "register 18",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "held 12",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "renegotiated 2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "decided 1, open 3",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

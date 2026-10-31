@@ -1,0 +1,173 @@
+{
+ "stem": "fig11-07",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch11/fig11_07_oakley41.py",
+ "source_sha1": "bf69daab0418",
+ "data": "04-code/ch11 lab",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:09 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 49,
+ "contrast_pairs": [
+  [
+   "3 of 9 answered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "3 of 8 answered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2 of 6 answered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1 of 6 answered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1 of 4 answered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1 of 4 answered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0 of 4 answered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "questions (black tick: answere",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "14",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "data flow and storage",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "access and identity",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "logging and audit",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "model behavior and output",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "incident and breach",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "retention and deletion",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "subprocessors and contracts",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "can change the design",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "evidence only",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

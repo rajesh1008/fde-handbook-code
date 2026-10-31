@@ -1,0 +1,11 @@
+Caldwell engagement work items: 30
+owner       2026  2029 forecast
+product        1             11
+playbook       7              8
+FDE           22             11
+moves between 2026 and 2029: 17; FDE to product: 4; FDE to playbook: 7
+stays with the FDE in the forecast, by reason:
+  tacit knowledge 1: discovery with the claims handlers
+  accountability  4: gold set built with the customer's expert; deciding what counts as critical; negotiating a gate the customer owns; model-risk validation conversation
+  politics        1: sponsor and stakeholder map
+  judgment        5: choosing deterministic over model; the first incident with the customer in the room; hand-over readiness and walking away; reading a new model's behavior change; stopping a deal that will not go live

@@ -1,0 +1,44 @@
+[
+ {
+  "week": 1,
+  "rung": "synthetic",
+  "shipped": 3,
+  "reviewed": 2
+ },
+ {
+  "week": 2,
+  "rung": "synthetic",
+  "shipped": 3,
+  "reviewed": 3
+ },
+ {
+  "week": 3,
+  "rung": "synthetic",
+  "shipped": 3,
+  "reviewed": 1
+ },
+ {
+  "week": 4,
+  "rung": "synthetic",
+  "shipped": 3,
+  "reviewed": 2
+ },
+ {
+  "week": 5,
+  "rung": "synthetic",
+  "shipped": 3,
+  "reviewed": 2
+ },
+ {
+  "week": 6,
+  "rung": "synthetic",
+  "shipped": 3,
+  "reviewed": 3
+ },
+ {
+  "week": 7,
+  "rung": "sampled",
+  "shipped": 3,
+  "reviewed": 3
+ }
+]

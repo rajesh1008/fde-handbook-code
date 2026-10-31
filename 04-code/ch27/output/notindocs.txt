@@ -1,0 +1,16 @@
+Anne Kessler's set: 150 questions, 135 answerable, 15 not in the documents
+
+score threshold alone (Chapter 23, top lexical score below 7.7): 4 of 15 caught
+evidence gate (every quote verbatim in a retrieved, permitted, in-force passage; key terms covered: decline below 60%, review below 80%):
+  not in the documents   declined  13  review   2  proceed   0
+  answerable             declined  16  review  22  proceed  97
+
+where to put the decline line (coverage of key terms by the quoted passages):
+ line not-in-docs let through answerable declined
+  0.4                       4                   5
+  0.5                       3                   6
+  0.6                       2                  16
+  0.7                       0                  32
+  0.8                       0                  36
+
+false declines: 16 of 135 answerable questions go to a person with 'not in the documents'; none of the 15 reaches proceed

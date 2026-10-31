@@ -1,0 +1,113 @@
+{
+ "stem": "fig03-14",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch03/figures.py",
+ "source_sha1": "6bf27462d7f1",
+ "data": null,
+ "png_px": [
+  1650,
+  1772
+ ],
+ "rendered": "2026-10-31 19:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 5.907,
+ "aspect": 0.931,
+ "min_font_pt": 9.5,
+ "label_words": 39,
+ "contrast_pairs": [
+  [
+   "deck, typed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "status, generated",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "strong alignment",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "data on any rung: none",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "demo validated",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "blockers: 2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "98% accuracy",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "open findings: 1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "data next week",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "58%, scored by Kessler",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "under five months",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "decisions open: 4",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "status: green",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "unverified promises: 4",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "hatched: no Caldwell evidence;",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ]
+ ],
+ "min_contrast": 5.72
+}

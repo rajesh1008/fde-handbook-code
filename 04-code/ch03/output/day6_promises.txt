@@ -1,0 +1,10 @@
+day 5  promises with no verifier: 4
+  rewritten  Field accuracy is scored by Anne Kessler on a sample she selects; the target is set after the first score.  [verifier: Anne Kessler]
+  rewritten  Production means passing five gates, each with a named approver at Caldwell and a date in the plan.  [verifier: Priya Natarajan]
+  withdrawn  No integration work on Caldwell's side.
+  replaced   Caldwell's work list: sandbox account, gateway key, claims-core read-only account, each with an owner in the access list.  [verifier: Daniel Reyes]
+  rewritten  In scope: first notice of loss by email, fax and mail, as listed by Anne Kessler; everything else is out.  [verifier: Anne Kessler]
+day 6  promises with no verifier: 0
+remaining lint:
+  DECISION-NO-OWNER D-2: Who at Caldwell is the named owner for claims data requests?
+  REQUEST-NO-OWNER claims-data-export: a representative export of claims data

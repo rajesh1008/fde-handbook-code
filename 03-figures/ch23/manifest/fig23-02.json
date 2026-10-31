@@ -1,0 +1,113 @@
+{
+ "stem": "fig23-02",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch23/fig23_02_options.py",
+ "source_sha1": "bc9946ff564a",
+ "data": "04-code/ch23/output/store_options.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 21:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 25,
+ "contrast_pairs": [
+  [
+   "USD 6,504  refused",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "USD 9,504  deferred",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "USD 1,560  chosen",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "USD a year, store plus four re",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "8000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "14000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "A: vendor-hosted store",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "B: new managed vector service",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "C: pgvector",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

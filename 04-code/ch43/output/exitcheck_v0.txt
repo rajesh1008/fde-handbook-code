@@ -1,0 +1,14 @@
+EXIT CHECK  Pennant managed-service runbooks v0  (deterministic stand-in)
+runbooks 4, steps 16
+Chapter 41 runbook lint, rule RB5 (step names the vendor): 14 of 16 steps
+Chapter 41 runbook lint, other rules: 0 findings
+exit lint (step touches an asset Pennant does not own): 8 steps in 4 runbooks
+  MS-RB-01 step 1: ops.northlight.example (Northlight)
+  MS-RB-01 step 2: nl-bastion-02 (Northlight)
+  MS-RB-02 step 2: github.com/northlight-ai/pennant-evals (Northlight)
+  MS-RB-02 step 3: s3://nl-evidence/pennant (Northlight)
+  MS-RB-03 step 2: vault:northlight/pennant (Northlight)
+  MS-RB-03 step 3: status.northlight.example (Northlight)
+  MS-RB-04 step 2: github.com/northlight-ai/pennant-evals (Northlight)
+  MS-RB-04 step 3: s3://nl-evidence/pennant/eu (Northlight)
+takeover rebuild estimate: 8 steps x 20 h = 160 h

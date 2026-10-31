@@ -1,0 +1,20 @@
+DATA MAP  Caldwell (v5, day 149): 6 hops, 6 covered, 0 uncovered
+  covered    claim files at rest        claim documents                      S3 claims-eval, account 111122223333, us-east-1  90 days after the engagement   CA-15, storage decision day 48
+  covered    runner                     documents and extractions            role nl-shadow-runner in Caldwell's account      none (stateless)               CA-15
+  covered    gateway                    prompts and outputs                  Caldwell model gateway (Priya Natarajan)         Caldwell's gateway logs        CA-15
+  covered    model provider             prompts and outputs                  provider endpoint behind the gateway             provider terms, dated [VERIFY] CA-10 and Exhibit D
+  covered    run records                versions, inputs, outputs, reviewer  log group /caldwell/nl-shadow/runner             Caldwell's policy              CA-07
+  covered    support access             read-only views                      SSO group nl-shadow-readers (four named)         session only                   CA-15
+
+DATA MAP  Greystone (redline, day 108): 4 hops, 3 covered, 1 uncovered
+  covered    referrals at rest          protected health information         Greystone tenant                                 Greystone's policy             GA-06
+  covered    drafting service           referral text, drafts                Greystone tenant                                 none (stateless)               GA-06
+  covered    model provider             prompts and outputs                  provider endpoint                                provider terms [VERIFY]        GA-02
+  UNCOVERED  provider abuse monitoring  prompts flagged for review           provider's monitoring store                      provider-defined window        -
+
+DATA MAP  Pennant (DPA draft): 3 hops, 2 covered, 1 uncovered
+  covered    EU shipment records        names, addresses of consignees       europe-west4                                     Pennant's policy               PA-01
+  covered    matching service           shipment and invoice lines           europe-west4                                     none (stateless)               PA-01
+  UNCOVERED  on-call support            read access during incidents         engineers outside the EEA                        session only                   -
+
+Greystone's uncovered hop is finding F-10 (owner Marcus Bell, due day 120); Pennant's needs a transfer mechanism in the DPA [VERIFY].

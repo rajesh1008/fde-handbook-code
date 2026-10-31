@@ -1,0 +1,149 @@
+{
+ "stem": "fig17-11",
+ "kind": "diagram",
+ "tool": "hand-laid SVG",
+ "style": "style.md",
+ "source": "03-figures/src/ch17/fig17_11_signature8_caldwell.py",
+ "source_sha1": "4fbc1a38834a",
+ "data": "signature8 state caldwell",
+ "png_px": [
+  1650,
+  1392
+ ],
+ "rendered": "2026-10-31 21:11 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.639,
+ "aspect": 1.186,
+ "min_font_pt": 10.0,
+ "label_words": 37,
+ "contrast_pairs": [
+  [
+   "Caldwell Mutual: AWS, us-east-",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "identity",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "role",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "on-behalf-of",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "keys",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "Caldwell KMS",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "logs",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "Caldwell",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "90 days",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "network: VPC, no route out",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "vendor code",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "ECS task",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "no public IP",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "gateway",
+   "#1e2329",
+   "#f9deda",
+   12.42
+  ],
+  [
+   "Caldwell's",
+   "#1e2329",
+   "#f9deda",
+   12.42
+  ],
+  [
+   "tenancy",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "team account",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "models",
+   "#1e2329",
+   "#d2d8df",
+   11.02
+  ],
+  [
+   "via gateway",
+   "#1e2329",
+   "#d2d8df",
+   11.02
+  ],
+  [
+   "vendor",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "no data path",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ]
+ ],
+ "min_contrast": 11.02
+}

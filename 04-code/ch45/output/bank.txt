@@ -1,0 +1,13 @@
+bank snapshot: 662 questions from 43 chapters; 31 distinct round tags before normalizing
+by round: technical 174, on-site 118, other 93, principal level 75, hiring manager 70, customer panel 57, screen 39, scenario 36
+top competencies: build 46, governance 40, evaluation 39, practice 39, delivery 28, economics 22, discovery 20, scoping 17
+day  1 screen          Q3.1 Q3.2 Q4.1
+day  2 technical       Q2.3 Q2.4 Q2.5
+day  3 technical       Q3.10 Q4.5 Q4.6
+day  4 scenario        Q41.7 Q42.3 Q42.4
+day  5 on-site         Q8.13 Q8.15 Q6.1
+day  6 on-site         Q9.10 Q9.11 Q10.5
+day  7 hiring manager  Q32.7 Q35.11 Q41.8
+day  8 customer panel  Q45.8 Q15.3 Q15.10
+day  9 principal level Q30.4 Q30.5 Q30.7
+day 10 scenario        Q42.14 Q45.3 Q15.1

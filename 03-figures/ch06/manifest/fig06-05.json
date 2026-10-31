@@ -1,0 +1,155 @@
+{
+ "stem": "fig06-05",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch06/fig06_05_wait.py",
+ "source_sha1": "68368f420220",
+ "data": "04-code/ch06 lab",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-10-31 19:38 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 9.0,
+ "label_words": 31,
+ "contrast_pairs": [
+  [
+   "procedure: same day",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "days from arrival to claim rec",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u22121",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "mail",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "main fax",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "shared mailbox",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "agent portal",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "closed fax number",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "adjuster email",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "phone, then mail",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "nightly file",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "finance cage",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "legal",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

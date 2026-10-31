@@ -1,0 +1,239 @@
+{
+ "stem": "fig14-05",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch14/fig14_05_lint.py",
+ "source_sha1": "96552d8e49eb",
+ "data": "04-code/ch14 lab",
+ "png_px": [
+  1650,
+  1800
+ ],
+ "rendered": "2026-10-31 19:18 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 6.0,
+ "aspect": 0.917,
+ "min_font_pt": 9.0,
+ "label_words": 37,
+ "contrast_pairs": [
+  [
+   "v0.3, Thursday night: 10 refus",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "accuracy-no-scorer",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "autonomy-refused",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "date-no-calendar",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "decision-no-date",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "decision-no-owner",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "exclusion-no-owner",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "no-status",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "number-no-strip",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "unbounded-scope",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "upgraded-status",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "3",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v1.0, signed Friday: 15 lines ",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "9",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "direct customer fact",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "reconstructed from an artifact",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "vendor position",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "proposed design",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "decision required",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

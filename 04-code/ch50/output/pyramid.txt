@@ -1,0 +1,20 @@
+clean draft: passes layers 1 to 4
+  L1 numeric gate pass   every number matches a calculation; every amount labeled
+  L2 lineage      pass   every claim descends from a recomputed calculation
+  L3 boundary     pass   draft allowed; write refused: David Okafor and Helen Marsh, Schedule D: release one reads and drafts only
+  L4 covenants    pass   4 of 4 covenant results match
+drafter computes DSCR in the prose (failure injection): caught at layer 1 (unit)
+  L1 numeric gate fail   claim 2: 1.74x matches no recorded calculation (the claim cites extracted inputs only)
+  L2 lineage      fail   claim 2 states a ratio but its chain is source > page > extraction > claim: no calculation node
+  L3 boundary     pass   draft allowed; write refused: David Okafor and Helen Marsh, Schedule D: release one reads and drafts only
+  L4 covenants    pass   4 of 4 covenant results match
+drafter records its own DSCR calculation (failure injection): caught at layer 2 (component)
+  L1 numeric gate pass   every number matches a calculation; every amount labeled
+  L2 lineage      fail   calculation:af60d3bfaa49: recomputed 1.27, recorded 1.74
+  L3 boundary     pass   draft allowed; write refused: David Okafor and Helen Marsh, Schedule D: release one reads and drafts only
+  L4 covenants    pass   4 of 4 covenant results match
+amount without a currency (failure injection): caught at layer 1 (unit)
+  L1 numeric gate fail   claim 1: amount without a currency label
+  L2 lineage      pass   every claim descends from a recomputed calculation
+  L3 boundary     pass   draft allowed; write refused: David Okafor and Helen Marsh, Schedule D: release one reads and drafts only
+  L4 covenants    pass   4 of 4 covenant results match

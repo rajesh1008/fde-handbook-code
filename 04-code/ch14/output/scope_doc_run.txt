@@ -1,0 +1,51 @@
+# Greystone Health: referral intake, release 1 scope (v1.0, day 19)
+
+## scope
+- Release 1 covers the electronic referral path: 25 steps, 62% of referrals counted at two clinics on days 15 to 18 (412 of 665). [direct customer fact; measured; owner VP ambulatory operations]
+- Outputs are drafts: a referral summary for the receiving clinician and a prior-authorization letter for the coordinator. [direct customer fact; owner Michael Hart]
+- 16 of 25 steps are deterministic services; models are used in 5 steps. [proposed design; estimated; owner Northlight]
+
+## out of scope
+- The fax path: 253 of 665 referrals in the count, 25 more steps; backlog is concentrated there. [direct customer fact; measured; owner VP ambulatory operations]
+- Submission to payers, urgency decisions, declining referrals, patient messages. [direct customer fact; owner Michael Hart]
+
+## success
+- A draft is acceptable when both scoring coordinators accept it with edits under three minutes; target 80% on 200 sampled referrals. [proposed design; assumed; scorer two coordinators; Michael Hart breaks ties]
+- Zero red-flag referrals routed without clinician review in shadow. [direct customer fact; owner Michael Hart; scorer Michael Hart]
+
+## autonomy
+- Every red-flag term goes to a clinician; the system never sets urgency. [direct customer fact; owner Michael Hart]
+
+## controls
+- Processing stays in Greystone's Azure tenant; managed identity; just-in-time access for named engineers. [direct customer fact; owner Sam Oakley]
+- Managed-service provider change takes about 18 days. [vendor position; estimated; owner managed-service provider lead]
+
+## plan
+- Data on day 112; pilot on day 140 (draft-only shadow, two clinics). [proposed design; estimated; owner Northlight; depends on Architecture Review day 94, privacy board day 75, managed-service provider change]
+- Privacy board submission complete by day 65. [proposed design; assumed; owner Michael Hart; due day 65]
+
+## decisions
+- Fax path: fund as release 2, move outside referrals to the e-referral portal, or both. [decision required; owner VP ambulatory operations; due day 33]
+- Which two clinics run the shadow pilot. [decision required; owner Michael Hart; due day 26]
+- Written red-flag list per specialty, owned and dated. [decision required; owner Michael Hart; due day 40]
+
+## signatures
+- Michael Hart, CMIO: clinical rules and draft-only behavior, day 19
+- VP ambulatory operations: scope, exclusions and operational ownership, day 19
+- Sam Oakley, Security Lead: no objection to the controls section, day 19
+- Northlight: projection and design lines, day 19
+
+lint: 0 refusals
+status mix: direct customer fact 7, reconstructed from an artifact 0, vendor position 1, proposed design 4, decision required 3
+strips: measured 2, estimated 3, assumed 2
+projection inputs:
+  scope_day                 19  measured
+  arch_review_day           94  estimated
+  board_meeting_day         75  measured
+  board_submission_day      63  assumed
+  board_lead_days           10  measured
+  board_cycle_days          28  measured
+  msp_change_days           18  estimated
+  eval_days                 28  assumed
+  fdes                       2  measured
+  build_fraction          0.65  assumed

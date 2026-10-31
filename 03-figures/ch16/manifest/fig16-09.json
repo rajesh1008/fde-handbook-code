@@ -1,0 +1,59 @@
+{
+ "stem": "fig16-09",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch16/fig16_09_report_flow.py",
+ "source_sha1": "9b5d8bbfe28a",
+ "data": "04-code/fieldkit/fieldkit/synthetic.py",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:28 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 10.0,
+ "label_words": 17,
+ "contrast_pairs": [
+  [
+   "feature PSI\nbelow 0.25",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "exception\ncoverage",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "classifier\nAUC below 0.75",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "verdict",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "all pass:\nregression use",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "any fail:\nplumbing only",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

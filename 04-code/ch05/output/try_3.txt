@@ -1,0 +1,2 @@
+TRY 3: a candidate who weights staying to production and changing the core
+  vendor 2.50  integrator 1.70  lab 1.70   -> vendor

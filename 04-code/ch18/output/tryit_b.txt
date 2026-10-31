@@ -1,0 +1,2 @@
+150 calls, 429 responses 2, waits honored from Retry-After, elapsed 120 s, all succeeded True
+change quota_per_min to 20 and retry_budget to 1 to see which calls the adapter hands back

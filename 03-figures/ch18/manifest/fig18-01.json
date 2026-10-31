@@ -1,0 +1,65 @@
+{
+ "stem": "fig18-01",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch18/fig18_01_callpath.py",
+ "source_sha1": "ade9e398cfd4",
+ "data": "chapter text (Caldwell call path)",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:25 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 10.0,
+ "label_words": 37,
+ "contrast_pairs": [
+  [
+   "shadow runner\n(Northlight)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gateway\nadapter\n(fieldkit)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Caldwell gateway\n\nkey check\nal",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "model\nproviders",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "secret store\n(Caldwell)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "audit store\n(Caldwell)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Northlight owns the two boxes ",
+   "#5a6f9c",
+   "#ffffff",
+   5.01
+  ]
+ ],
+ "min_contrast": 5.01
+}

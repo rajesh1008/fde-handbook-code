@@ -1,0 +1,17 @@
+Fax share of the two-clinic count: 253 of 665 = 38%
+
+                                   steps   det  docs  ifaces  owners   split
+electronic (release 1 as drafted)     25   64%     3       4       3   det 16, rules 4, small 3, frontier 2
+electronic + fax                      50   48%     7       8       5   det 24, rules 10, small 10, frontier 6
+fax path alone                        25   32%                         det 8, rules 6, small 7, frontier 4
+
+Response                         effort  build done  pilot  critical   T&M cost  cap headroom
+A absorb into release 1             196         231    259  build      $407,680       $42,320  (2 FDEs)
+B absorb and hold the date          196         104    140  data       $407,680       $42,320  (5 FDEs)
+C carve out, owner + date            82         108    140  data       $170,560      $279,440  (2 FDEs)
+B also assumes the fax images join the privacy board submission for day 75; on day 19 they were not in it.
+
+Northlight's answer on day 19: C. Release 1 is the electronic path, signed today.
+The fax path is an exclusion with an owner (VP ambulatory operations) and a decision due day 33:
+  fund it as release 2, move outside referrals to the e-referral portal, or both.
+Owners named by the fax steps that release 1 does not need: health-information management, patient access

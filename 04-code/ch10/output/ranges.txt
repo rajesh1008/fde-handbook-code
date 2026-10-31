@@ -1,0 +1,9 @@
+PENNANT day 24  20,000 draws, seed 10
+  integration hours  P10 1,576   P50 1,683   P90 1,791   most likely 1,500
+  integration tax    P10 2.90    P50 3.29    P90 3.72    most likely 3.00
+  P50 above most likely by +0.29: the high ends are longer than the low ends
+
+customer            width h  on unconfirmed  share
+Caldwell Mutual         431             132    31%
+Greystone Health        686             484    71%
+Pennant Logistics     1,304             264    20%

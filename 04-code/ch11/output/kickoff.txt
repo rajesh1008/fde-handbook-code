@@ -1,0 +1,14 @@
+Greystone map, day 2, checked day 2: 3 people
+  sponsor   Michael Hart
+  operator  (nobody)
+  blocker   Sam Oakley
+  approver  Michael Hart
+  owner     Marcus Bell
+  champion  (nobody)
+  BLOCK no-operator         nobody who will use the system every day is on the map
+  WARN  sponsor-approver    Michael Hart is sponsor and approver; name who carries the asks while Hart rules
+  WARN  unconfirmed         Michael Hart: role 'sponsor/approver' known only from kickoff
+  BLOCK blocker-no-reasons  Sam Oakley: a blocker with no written reasons is a guess about a person
+  WARN  unconfirmed         Sam Oakley: role 'blocker' known only from kickoff
+  WARN  unconfirmed         Marcus Bell: role 'owner' known only from kickoff
+  naive score 0.80   gated score 0.40   verdict NOT USABLE

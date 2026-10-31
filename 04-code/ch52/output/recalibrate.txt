@@ -1,0 +1,11 @@
+calibrator                        model      proceed n  wrong   rate  95% upper   share
+v1.1 (fitted on the pin)          gm-2026-05-14      1640      1   0.1%       0.3%   78.1%
+v1.1 (fitted on the pin)          gm-n2           1823     47   2.6%       3.4%   86.8%
+v1.2 (refitted on gm-n2)          gm-n2           1527      6   0.4%       0.9%   72.7%
+
+reliability on cal-600 odd documents (stated confidence bin -> observed accuracy)
+  gm-2026-05-14 0.5-0.6: 46% (n=89)  0.6-0.7: 63% (n=128)  0.7-0.8: 81% (n=141)  0.8-0.9: 100% (n=123)  0.9-1.0: 100% (n=1508)
+  gm-n2         0.5-0.6: 25% (n=44)  0.6-0.7: 60% (n=95)  0.7-0.8: 73% (n=146)  0.8-0.9: 83% (n=172)  0.9-1.0: 99% (n=1638)
+
+gm-n2 with router v1.2: decision merge; layers failing: None
+threshold record v1.2: proceed 0.95 unchanged, calibrator refitted; signature required: Anne Kessler

@@ -1,0 +1,53 @@
+{
+ "stem": "fig13-03",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch13/fig13_03_rda.py",
+ "source_sha1": "af411bd276a3",
+ "data": "04-code/ch13 lab fixtures",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:22 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 14,
+ "contrast_pairs": [
+  [
+   "Ready\nowner,\ntestable",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Done\nevidence\nattached",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "accepted",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "accepted, dated\nfollow-up",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not accepted:\ncarried over",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

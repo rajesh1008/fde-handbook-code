@@ -1,0 +1,10 @@
+PROVIDER DEPRECATION  extract-2026-01 (Pennant EU pin, europe-west4)  mode v0
+notice day 41  retirement day 62  change freeze days 45-75  evidence needs 7 days
+notice sent to: jenna.ruiz (account owner of record; left the sponsor role day 14)
+notice first read: day 52, by the FDE checking the provider's console; 11 days lost
+plan: freeze exception: evidence by day 59, change before day 62; slack 2 days
+change board: freeze exception refused on day 53 (no named business owner to request it, no evidence)
+day 62: retirement. The estate pin refuses substitution (Chapter 20): EU extraction calls fail closed
+days 62-76: EU lane documents to the clerks: 6164 (peak season, 15 days)
+what the gateway's 410 rule would have done instead: move to the successor, an unrecorded model change inside a freeze, on a model Pennant never approved for EU documents
+result: outage on the EU lane; no model change recorded; Live Stable criterion 5 open

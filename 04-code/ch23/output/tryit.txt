@@ -1,0 +1,12 @@
+== tryit a
+adjuster phrasing share 0.00: recall at ten 0.98
+adjuster phrasing share 0.20: recall at ten 0.95
+adjuster phrasing share 0.37: recall at ten 0.86
+adjuster phrasing share 0.60: recall at ten 0.74
+== tryit b
+post-filter fetching 10, keeping 10: 65 of 150 searches return fewer than ten
+post-filter fetching 30, keeping 10: 12 of 150 searches return fewer than ten
+post-filter fetching 60, keeping 10: 6 of 150 searches return fewer than ten
+pre-filter: 2 of 150 short
+== tryit c
+only CM-WL-07 marked: older version above current for 15 of 24 version-sensitive questions

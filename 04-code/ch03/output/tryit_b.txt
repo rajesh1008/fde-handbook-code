@@ -1,0 +1,7 @@
+weighted score: 108/200 = 54%  (unweighted 58%)
+  weight 3  policy_number    7/10
+  weight 3  loss_date        7/10
+  weight 3  date_received    0/10
+  weight 3  injury_reported  5/10
+  weight 2  claimant_name    5/10
+  weight 2  loss_type        7/10

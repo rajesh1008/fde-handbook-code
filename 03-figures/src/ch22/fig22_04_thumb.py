@@ -1,0 +1,21 @@
+"""Figure 22.4: the thumb over the container number, as run (v1) and as fixed (v2)."""
+import re
+from _common import S, save, blank, text
+t = text("thumb")
+true_c, sib_c = re.search(r"true container (\w+); sibling \S+ container (\w+)", t).groups()
+fig, ax = S.figure(height=4.4)
+blank(ax, (0, 10), (0, 6))
+S.box(ax, 0.1, 2.4, 2.0, 1.4, f"photo of bill\nof lading\n{true_c[:6]}.....", role="blocker", fs=10)
+S.arrow(ax, 2.1, 3.6, 2.9, 4.6, weight="data"); S.arrow(ax, 2.1, 2.6, 2.9, 1.5, weight="data")
+S.box(ax, 2.9, 4.1, 2.2, 1.1, f"vision reader\nfills {sib_c}", role="model", fs=10)
+S.arrow(ax, 5.1, 4.65, 5.6, 4.65, weight="data")
+S.box(ax, 5.6, 4.1, 2.0, 1.1, "first key\nresolves", role="system", fs=10)
+S.arrow(ax, 7.6, 4.65, 8.1, 4.65, weight="data")
+S.box(ax, 8.1, 4.1, 1.8, 1.1, "matched to\nsibling", role="blocker", fs=10, lw=S.LW["emphasis"])
+S.box(ax, 2.9, 0.9, 2.2, 1.1, "OCR zone\nconfidence 0.14", role="evidence", fs=10)
+S.arrow(ax, 5.1, 1.45, 5.6, 1.45, weight="data")
+S.box(ax, 5.6, 0.9, 2.0, 1.1, "qs-1.1 holds;\ntwo keys", role="system", fs=10)
+S.arrow(ax, 7.6, 1.45, 8.1, 1.45, weight="data")
+S.box(ax, 8.1, 0.9, 1.8, 1.1, "clerk reads\nthe crop", role="approval", fs=10, lw=S.LW["emphasis"])
+S.label(ax, 2.9, 5.5, "v1, as run", fs=10, color=S.PAL["ink"]); S.label(ax, 2.9, 0.3, "v2, day 133", fs=10, color=S.PAL["ink"])
+save(fig, 4, kind="diagram", data="04-code/ch22/output/thumb.txt")

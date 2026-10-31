@@ -1,0 +1,14 @@
+FREEZE v1  same calendar, conflict check every morning, mode rule  (deterministic stand-in)
+  day 443 09:10  advisory read; conflict check: due day 457, normal path live day 466 -> CONFLICT
+  day 443 11:40  mode M3 on: fax attachments to manual intake (pre-approved operating mode, not a change); exposure 2.5 h
+  day 444        emergency change filed with evidence: patched parser on Tess Moreno's 300 packets, 300 of 300 identical
+  day 445        emergency board approves: provider change manager, Sam Oakley, Denise Alvarez
+  day 446 02:00  fix live outside clinic hours; smoke test; mode M3 off at 07:00
+  patch 3 days after the advisory, 0 days past policy
+  cost: 3 days of manual fax intake, 423 referrals, 45.8 coordinator hours
+OPTIONS
+  option                                    exposure  past policy  manual referrals   hours
+  wait for the freeze to end (v0)               23 d            9                 0       0
+  manual mode until the freeze ends            2.5 h            9              3245   351.5
+  manual mode plus emergency change (v1)       2.5 h            0               423    45.8
+  note: in option 2 the fix still lands after policy; manual mode closes the exposure, not the finding

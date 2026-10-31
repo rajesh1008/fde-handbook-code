@@ -1,0 +1,143 @@
+{
+ "stem": "fig45-09",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch45/fig45_09_debrief.py",
+ "source_sha1": "4c7e0b7b32c2",
+ "data": "04-code/ch45/output/debrief_c214.txt, debrief_c231.txt, debrief_c236.txt",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-11-01 00:03 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 9.5,
+ "label_words": 20,
+ "contrast_pairs": [
+  [
+   "floor 2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "must-have bar 3\n(discovery, ju",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "discovery",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "decompo-\nsition",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "build",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "judgment",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "communication",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "median observed score (1 to 4)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "214: no hire",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "236: more evidence",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "231: hire",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

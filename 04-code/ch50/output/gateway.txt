@@ -1,0 +1,4 @@
+build (day 118): 7 calls, 2 findings
+  H11: requests streaming; the gateway does not stream (CL-17)
+  H12: bypasses the gateway (api.provider.example/v1); version general-latest is not the inventoried general-2026-07
+go-live (day 171): 7 calls, 0 findings

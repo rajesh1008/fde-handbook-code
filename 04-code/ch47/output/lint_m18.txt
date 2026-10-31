@@ -1,0 +1,12 @@
+engagement lint, month 18: 0 findings at 0 of 20 engagements
+  E1  0  playbook declared and in the registry, or bespoke with a registered reason
+  E2  0  playbook version not deprecated past its migrate-by month
+  E3  0  model calls through the platform gateway adapter, or a registered deviation
+  E4  0  evaluation suite present with a named customer gold-set owner
+  E5  0  after hand-over, every alert route owned by a customer address
+  E6  0  every deviation has a reason, an owner and an unexpired review month
+  E7  0  fieldkit pinned to the book layer the playbook needs
+  E8  0  secrets held in the customer's vault
+findings:
+  none
+registered deviations: 6 (Harbourline playbook review month 19; N07 playbook review month 19; N12 playbook review month 19; N12 adapter review month 21; N13 playbook review month 19; N18 playbook review month 19)

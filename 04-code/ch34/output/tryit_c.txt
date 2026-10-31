@@ -1,0 +1,3 @@
+c. Pennant fixed $120,000           net P50 $  -297,855  P90 $  -353,818
+c. Pennant T&M $260, cap $450,000   net P50 $    32,145  P90 $   -23,818
+c. Pennant T&M $260, cap $300,000   net P50 $  -117,855  P90 $  -173,818

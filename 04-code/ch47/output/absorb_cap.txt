@@ -1,0 +1,4 @@
+month 18: 20 engagements, 6 FDEs, field capacity 840 h a month (140 h each)
+  demand, playbook-led where a playbook exists: 820 h (0.98 of capacity)
+    of which the five engagements with no playbook: 420 h (51%)
+  demand if every engagement were bespoke with no platform: 1662 h (1.98 of capacity, 11.9 FDEs)

@@ -1,0 +1,6 @@
+DRAFT PACKET, day 156: every item offered against a Shadow Exit criterion, by kind
+  S-1  model confidence      fax first notices, shadow        refused  model confidence cannot show a customer outcome
+  S-1  component test        unit and integration tests       refused  component test cannot show a customer outcome
+  S-3  fluent response       shadow logs                      refused  fluent response cannot show a customer outcome
+  S-4  log                   shadow days 142-153              refused  log cannot show a customer outcome
+customer measurements offered: 5 | refused: 4

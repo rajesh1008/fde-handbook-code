@@ -1,0 +1,4 @@
+source re-saved by a mailbox rule after extraction:
+  source:c31e4f37a3d1: source changed since extraction
+source aged out of the 30-day mailbox:
+  source:c31e4f37a3d1: source no longer retained

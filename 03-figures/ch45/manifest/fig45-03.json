@@ -1,0 +1,173 @@
+{
+ "stem": "fig45-03",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch45/fig45_03_minutes.py",
+ "source_sha1": "2e5aa25ff571",
+ "data": "04-code/ch45/output/loop_v0.txt, loop_v1.txt",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-11-01 00:03 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 9.0,
+ "label_words": 36,
+ "contrast_pairs": [
+  [
+   "candidate minutes (bar split b",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "300",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "400",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "500",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "600",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v1 C1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v1 H1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v1 D1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v1 S2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v1 T1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v1 S1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v0 R5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v0 R4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v0 R3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v0 R2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v0 R1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "discovery",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "decomposition",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "build",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "judgment",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "communication",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "nothing observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,179 @@
+{
+ "stem": "fig08-04",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch08/fig08_04_lint.py",
+ "source_sha1": "5406cd286034",
+ "data": "04-code/ch08 lab fixtures",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:07 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 33,
+ "contrast_pairs": [
+  [
+   "v0.3: 2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v1.0: 0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v0.3: 2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v1.0: 0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v0.3: 2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v1.0: 0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v0.3: 1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v1.0: 0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v0.3: 1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v1.0: 0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v0.3: 1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v1.0: 0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v0.3: 1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v1.0: 0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "findings",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "no measurement",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "no document set",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "upgraded by repetition",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "no scorer",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "no denominator",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "no threshold",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "fact without a person",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

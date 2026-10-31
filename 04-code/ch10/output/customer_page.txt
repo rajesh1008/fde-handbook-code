@@ -1,0 +1,13 @@
+INTEGRATION ESTIMATE  Pennant Logistics  day 24  (fieldkit.integration 1.4)
+  integration hours: 1,576 to 1,791 (P10 to P90), median 1,683; sum of most-likely lines 1,500
+  model work hours:  420 to 620, most likely 500
+  integration tax:   2.90 to 3.72, median 3.29; sum of most-likely lines 3.00
+  what drives the width:
+    P-F1  17 layouts x 13 h (170 to 370 h; reconstructed from supplied artifact)
+    P-F3  8 layouts x 24 h (144 to 312 h; reconstructed from supplied artifact)
+    P-T2  rebuild intraday status from EDI, reconcile with CSV (140 to 295 h; proposed design)
+  facts you own that move the estimate:
+    P-T2  intraday status can be rebuilt from carrier messages (after denial by Kofi Mensah, integration architect, day 23)  owner: VP Operations  (not priced)
+    P-A3  EU shipment documents may be processed in the US region  owner: data protection officer  (+80 h if not)
+    P-I1  clerks sign in with Pennant's identity provider  owner: IT security lead  (not priced)
+  lint: clean

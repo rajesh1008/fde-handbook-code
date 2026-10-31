@@ -1,0 +1,32 @@
+SQ-30 [measured] How is the model protected against instructions inside uploaded documents?
+   answer: Input and output guardrails, version 3, 60 rules and 125 tests; red-team rerun day 128; one residual risk accepted in writing.
+   evidence: EV-21, EV-20; check passes
+   defeater: an attack class the red team did not try             | EV-21 covers 6 classes; 2 classes untried    | residual RR-01
+   defeater: guardrail v3 tested on the sandbox mix, not live referrals | EV-21 used 200 sandbox referrals             | condition: rerun on day 160 live sample
+   defeater: an injected draft reaches a coordinator who copies it | coordinator review is the control            | residual RR-01
+   defeater: a rule owner leaves                                  | 60 rules, 4 named owners                     | closed: owner list in EV-21
+SQ-14 [measured] Is the model provider allowed to store prompts or completions?
+   answer: Not for training; stored requests switched off and purged day 124; abuse monitoring per Exhibit C.
+   evidence: EV-27, EV-24, EV-23; check passes
+   defeater: the provider switches stored requests back on        | setting in the generated map, every deploy   | closed: EV-23
+   defeater: the purge missed a copy                              | rescan clean day 124                         | closed: EV-24
+   defeater: abuse monitoring keeps prompts                       | Exhibit C states the terms                   | closed: EV-27
+SQ-02 [measured] Is any protected health information sent outside the Greystone tenant?
+   answer: Content goes only to the model service through one private endpoint; trace metadata without prompt attributes goes to the observability service.
+   evidence: EV-23, EV-22, EV-31; check passes
+   defeater: a destination added after the map was drawn          | map generated from config, not drawn         | closed: EV-23
+   defeater: trace metadata carries patient text                  | observed flows reconciled day 114            | condition: rerun before day 144
+   defeater: egress opened by the managed-service provider        | default-deny rerun 09:10 day 129             | closed: EV-31
+SQ-26 [measured] Do logs contain protected health information, and who can read them?
+   answer: Audit records carry identifiers, not text; prompt bodies redacted; error messages carry codes only.
+   evidence: EV-05, EV-23, EV-21; check passes
+   defeater: an error path echoes draft text                      | F-16 fixed, attack rerun                     | closed: EV-21
+   defeater: the provider's gateway diagnostics                   | diagnostic setting absent from map           | closed: EV-23
+   defeater: a reader nobody named                                | readers listed in the audit design           | closed: EV-05
+SQ-31 [measured] What stops the agent taking an action it was not approved for?
+   answer: Tool allow-list; tested in the deployment penetration test and the red team.
+   evidence: EV-20, EV-21; check passes
+   defeater: a tool call refused but not logged                   | F-15 fixed, 4 of 4 logged                    | closed: EV-21
+   defeater: a new tool added without review                      | tool list in the change procedure            | closed: EV-15
+   defeater: the allow-list bypassed through the panel            | panel renders text only                      | closed: EV-20
+defeaters raised: 16; closed by evidence 12; closed by a dated condition 2; left as residual risk 2

@@ -1,0 +1,21 @@
+Greystone data map v2, day 125: regenerated after the fix
+
+  hop                          holder       data      retain  basis            lint
+  referral-intake              Greystone    PHI             7d  owner            ok
+  api-gateway                  Greystone    PHI           none  owner            ok
+  gateway-diagnostics          Greystone    META           30d  owner            ok
+  drafting-service             Northlight   PHI           none  BAA GA-02        ok
+  app-log                      Northlight   META           30d  BAA GA-02        ok
+  trace-export                 ObsVendor    META           14d  -                ok
+  model-endpoint               Provider     PHI           none  BAA GA-02, GA-06 ok
+  abuse-monitoring             Provider     PHI            30d  Exhibit C        ok
+  guideline-index              Greystone    POLICY        none  owner            ok
+  coordinator-queue            Greystone    PHI          2190d  owner            ok
+  run-records                  Greystone    PHI          2190d  owner            ok
+  eval-set                     Greystone    PHI           120d  owner            ok
+  support-access               Northlight   PHI           none  BAA GA-02        ok
+
+hops 13   findings 0
+digest (Northlight run)        c63ad81f3a1a
+digest (Greystone security rerun, day 128) c63ad81f3a1a   match True
+approval: data map v2 approved by Sam Oakley, Security Lead, day 129, against the digest above

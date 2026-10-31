@@ -1,0 +1,18 @@
+three definitions of matched on the same 2100 documents
+  linked to a booking (the build team's first draft)    1910  91.0%
+  closed with no person touching it (operations)        1743  83.0%
+  right booking, every rule agrees, team confirms       1739  82.8%   <- signed definition
+
+channel  docs  matched  excepted   held  person  wrong
+edi       844    90.5%      8.6%   0.8%    0.0%      0
+scan      894    82.9%      6.7%   6.3%    4.1%      0
+photo     362    64.6%      5.8%  24.3%    4.1%      4
+all      2100    82.8%      7.3%   7.2%    2.5%      4
+exceptions the team confirmed 141 of 154; holds the team confirmed 151 of 151
+lineage: 1897 claims, 8633 nodes, 816 KB for the week; verify problems 0
+chain for W00003:
+  source      3c76e8583020  uri=intake://edi/W00003
+  page        9196ca19c6d8  page=1
+  extraction  0a446a8d29a8  method=x12-210 parser
+  calculation 9ec713aa326a  function=R3 freight charge in USD, value=2156.71, refs=fx:fx_rates@3f1b0e048aa3
+  claim       bcc31e78e802  text=matched to PN-48222, report=shadow week

@@ -1,0 +1,16 @@
+evidence carrying the most answers
+  EV-06  5 answers  Data flow inventory v1 (14 flows)                    owner Sofia Brennan
+  EV-05  5 answers  Audit log design and hash-chain verification         owner Sofia Brennan
+  EV-03  5 answers  Managed identity and on-behalf-of configuration      owner Callum Reid
+  EV-01  3 answers  Environment design v2 (resubmitted day 97)           owner Callum Reid
+  EV-02  3 answers  Private endpoint and hub DNS link export             owner Erin Walsh
+  EV-16  3 answers  Access review and leaver procedure                   owner Erin Walsh
+evidence items: 19; answers per item: mean 2.7, max 5
+owners: Sofia Brennan 5, Callum Reid 3, Laura Finch 3, Marcus Bell 3, Erin Walsh 2, Northlight security team 1, Michael Hart 1, Hannah Price 1
+
+expiry calendar from day 103, next 90 days
+  day 129  EV-04  Default-deny egress test run                 takes down SQ-02, SQ-24
+  day 188  EV-05  Audit log design and hash-chain verification takes down SQ-03, SQ-08, SQ-25, SQ-26, SQ-27
+  day 189  EV-02  Private endpoint and hub DNS link export     takes down SQ-01, SQ-02, SQ-11
+  day 189  EV-03  Managed identity and on-behalf-of configurat takes down SQ-04, SQ-12, SQ-19, SQ-20, SQ-21
+  day 190  EV-06  Data flow inventory v1 (14 flows)            takes down SQ-02, SQ-13, SQ-15, SQ-17, SQ-26

@@ -1,0 +1,5 @@
+alarm  first day  silently wrong days 19 to containment
+ 0.10         20    114
+ 0.25         21    174
+ 0.50         23    289
+max PSI before day 19 (false-alarm margin): 0.001

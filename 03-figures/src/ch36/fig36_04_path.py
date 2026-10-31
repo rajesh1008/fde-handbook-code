@@ -1,0 +1,15 @@
+"""Figure 36.4: where the scanned-letter instruction (RT-07) passes the v3 checks: it is phrased as a fact, not an order."""
+from _common import S, save, blank
+fig, ax = S.figure(height=4.6); blank(ax, (0, 10), (0, 8))
+S.box(ax, 0.2, 5.6, 2.2, 1.6, "referral\npacket", role="data")
+S.box(ax, 3.0, 5.6, 2.2, 1.6, "input\nrules", role="approval")
+S.box(ax, 5.8, 5.6, 2.0, 1.6, "OCR of\nletter", role="system")
+S.box(ax, 5.8, 1.4, 2.0, 1.6, "model\ndrafts", role="model")
+S.box(ax, 3.0, 1.4, 2.2, 1.6, "output rules\nO-22 A-06 A-10", role="approval", fs=9.5)
+S.box(ax, 0.2, 1.4, 2.2, 1.6, "draft to\ncoordinator", role="blocker")
+S.arrow(ax, 2.4, 6.4, 3.0, 6.4); S.arrow(ax, 5.2, 6.4, 5.8, 6.4); S.arrow(ax, 5.8, 2.2, 5.2, 2.2, color=S.ROLE["blocker"], weight="emphasis"); S.arrow(ax, 3.0, 2.2, 2.4, 2.2, color=S.ROLE["blocker"], weight="emphasis")
+ax.plot([7.8, 8.6, 8.6], [6.4, 6.4, 2.2], color=S.ROLE["blocker"], lw=S.LW["emphasis"])
+S.arrow(ax, 8.6, 2.2, 7.8, 2.2, color=S.ROLE["blocker"], weight="emphasis")
+S.label(ax, 6.0, 4.0, "instruction\nappears here", fs=9.5)
+S.label(ax, 4.1, 0.7, "O-22 sees no order", fs=9.5)
+save(fig, 4, kind="diagram", data="04-code/ch36/world.py (agent), output/inject.txt")

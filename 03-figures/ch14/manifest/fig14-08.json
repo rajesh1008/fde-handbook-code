@@ -1,0 +1,149 @@
+{
+ "stem": "fig14-08",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch14/fig14_08_cap.py",
+ "source_sha1": "4fbd9615c0ea",
+ "data": "04-code/ch14 lab",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:18 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 27,
+ "contrast_pairs": [
+  [
+   "259",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "140",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "140",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "projected pilot day",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "300",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "400",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "A: absorb,\n2 FDEs",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "B: absorb, hold\ndate, 5 FDEs",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "C: carve out,\nowner + date",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\\$408k",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "\\$408k",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "\\$171k",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "cap \\$450k",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "build cost at \\$260 an hour, t",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "400",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "600",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

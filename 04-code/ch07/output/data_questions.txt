@@ -1,0 +1,12 @@
+FRESHNESS  duplicate check against the nightly mart (Q14)
+  1000 second-door duplicates: caught by mart 898, missed 102 (10%); claims-core read catches all 1000
+  at about 459 duplicates a month (3.1% of 14,800 documents), the mart misses about 47
+
+LATE-ARRIVING FACTS  gold loss dates taken at age N days (Q15)
+  age  0 days:  99 of 1000 gold values later corrected (9.9%)
+  age  3 days:  73 of 1000 gold values later corrected (7.3%)
+  age  7 days:  49 of 1000 gold values later corrected (4.9%)
+  age 14 days:   3 of 1000 gold values later corrected (0.3%)
+  age 30 days:   3 of 1000 gold values later corrected (0.3%)
+
+GRAIN  rows per claim in the mart (R03): 1.4 on average; counting rows overstates claims by 40%

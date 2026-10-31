@@ -1,0 +1,7 @@
+working assistant over the PDFs            weight 0.30  agent-solvable
+retrieval quality                          weight 0.20  agent-solvable
+code quality                               weight 0.20  agent-solvable
+tests                                      weight 0.15  agent-solvable
+README                                     weight 0.15  agent-solvable
+agent-only baseline 4.00 against bar 3.0; weight that needs the candidate 0.00
+INVALID: an agent alone clears the bar

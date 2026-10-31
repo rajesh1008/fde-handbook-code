@@ -1,0 +1,16 @@
+"""Figure 28.5: where each kind of guardrail sits in the agent loop."""
+from _common import S, save, blank
+fig, ax = S.figure(height=4.6); blank(ax, (0, 10), (0, 7))
+S.box(ax, 0.1, 5.4, 2.2, 1.0, "referral", role="data")
+S.box(ax, 3.0, 5.4, 2.6, 1.0, "input rules", role="blocker")
+S.box(ax, 3.0, 3.0, 2.6, 1.2, "agent", role="model")
+S.box(ax, 7.0, 3.0, 2.8, 1.2, "tools", role="system")
+S.box(ax, 6.2, 5.2, 3.6, 1.2, "action and budget rules", role="blocker")
+S.box(ax, 3.0, 0.6, 2.6, 1.0, "output rules", role="blocker")
+S.box(ax, 7.0, 0.6, 2.8, 1.0, "coordinator queue", role="approval")
+S.box(ax, 0.1, 2.0, 2.2, 1.0, "a person", role="approval")
+S.arrow(ax, 2.3, 5.9, 3.0, 5.9); S.arrow(ax, 4.3, 5.4, 4.3, 4.2)
+S.arrow(ax, 5.6, 3.9, 6.6, 5.2); S.arrow(ax, 8.2, 5.2, 8.4, 4.2); S.arrow(ax, 7.0, 3.3, 5.6, 3.3, weight="data")
+S.arrow(ax, 4.3, 3.0, 4.3, 1.6); S.arrow(ax, 5.6, 1.1, 7.0, 1.1)
+S.arrow(ax, 3.0, 5.6, 2.3, 2.9, ls="--"); S.arrow(ax, 3.0, 1.0, 2.3, 2.2, ls="--")
+save(fig, 5, kind="diagram", data="04-code/ch28/pipeline.py")

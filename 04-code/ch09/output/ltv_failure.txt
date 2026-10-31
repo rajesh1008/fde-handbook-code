@@ -1,0 +1,14 @@
+STEP 1  the whole job to the model stand-in, 50 runs on the same three documents
+  right                       27 runs  answers 73.0%
+  purchase price as value      6 runs  answers 84.3%
+  prior charge left out       12 runs  answers 59.8%
+  arithmetic slip              5 runs  answers 70.7%, 71.0%, 75.5%, 75.7%
+  answers not equal to 73.0%: 23 of 50; on the wrong side of the 75% policy line: 8 of 50
+STEP 2  the deterministic service
+  value      4,850,000  appraisal.pdf p3 l12  (effective 2026-08-14, 67 days old)
+  loan       2,900,000  term_sheet.pdf p1 l08
+  prior        640,000  charge_statement.pdf p1 l06
+  LTV = (loan + prior) / value = 3,540,000 / 4,850,000 = 0.7299 -> 73.0%
+  policy max 75%: within
+STEP 3  the charge statement is restated: two amounts on the cited line
+  REFUSED  charge_statement.pdf: cited line has 2 amounts: p1 l14  First-ranking charge, balance restated: C$640,000 plus accrued C$12,400

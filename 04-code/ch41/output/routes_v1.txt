@@ -1,0 +1,16 @@
+alert rules: 14   customer domains: caldwellmutual.example
+A-01  M1 calibration drift                claims-owner@caldwellmutual.example       ok
+A-02  M2 input drift                      claims-owner@caldwellmutual.example       ok
+A-03  manual intake backlog over 200      claims-oncall@caldwellmutual.example      ok
+A-04  M3 review override rate             claims-owner@caldwellmutual.example       ok
+A-05  M4 citation audit overdue           claims-owner@caldwellmutual.example       ok
+A-06  M5 route share outside band         claims-owner@caldwellmutual.example       ok
+A-07  gateway 401 rate over 2%            nl-caldwell-alerts@northlight.example     VENDOR
+A-08  gateway p95 latency over 20 s       claims-oncall@caldwellmutual.example      ok
+A-09  reconciliation unexplained over 0   claims-data@caldwellmutual.example        ok
+A-10  dead-letter queue over 25           claims-oncall@caldwellmutual.example      ok
+A-11  M6 monitoring job missed            mrm-monitor@caldwellmutual.example        ok
+A-12  cost per document over budget       claims-owner@caldwellmutual.example       ok
+A-13  pinned model deprecation notice     claims-platform@caldwellmutual.example    ok
+A-14  audit log chain break               claims-oncall@caldwellmutual.example      ok
+routed outside the customer: 1 (A-07)

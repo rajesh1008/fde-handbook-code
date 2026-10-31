@@ -1,0 +1,11 @@
+Erasure trace, consignee contact on 14 EU shipments, Pennant map v1, window 30 days
+  eu-shipment-records    delete by key     1 days  ok
+  match-cache            delete by key     1 days  ok
+  eval-set               delete by key     1 days  ok
+  run-records            cannot erase    365 days  FAILS
+  backups                cannot erase     35 days  FAILS
+stores holding the subject 5   cannot erase 2   longest path to erasure none (a store cannot erase)
+GDPR lint findings 3
+  G3   run-records                  cannot erase one subject within 30 days
+  G3   backups                      cannot erase one subject within 30 days
+  G1   oncall-access                outside the EEA with no transfer mechanism

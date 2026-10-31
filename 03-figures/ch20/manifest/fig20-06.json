@@ -1,0 +1,119 @@
+{
+ "stem": "fig20-06",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch20/fig20_06_region_scores.py",
+ "source_sha1": "7e45fb7b05bb",
+ "data": "04-code/ch20/output/region_drift.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:49 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 18,
+ "contrast_pairs": [
+  [
+   "91.2%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "87.2%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "89.3%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pass line 85%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "field accuracy, %",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "82",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "84",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "86",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "88",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "90",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "92",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "94",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "US lanes, us-central1\nserved 2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "EU lanes, europe-west4\nserved ",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "EU lanes on 2026-04\n(stand-in ",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

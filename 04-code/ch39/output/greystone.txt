@@ -1,0 +1,33 @@
+Greystone · prior-authorization drafts in shadow, clinic days 1 to 20 (from day 131); drafts never shown
+day  n   agree   class mix (no-auth/standard/portal/letter)
+  1  22   86.4%   10/6/4/2
+  2  22   81.8%   10/6/4/2
+  3  22   81.8%   10/6/4/2
+  4  22   86.4%   10/6/4/2
+  5  22   90.9%   10/6/4/2
+  6  22   86.4%   10/6/4/2
+  7  22   86.4%   10/6/4/2
+  8  22   81.8%   10/6/4/2
+  9  22   86.4%   10/6/4/2
+ 10  22   86.4%   10/6/4/2
+ 11  12   91.7%   9/2/1/0  holiday
+ 12  12   91.7%   9/2/1/0  holiday
+ 13  12  100.0%   9/2/1/0  holiday
+ 14  12   83.3%   9/2/1/0  holiday
+ 15  12   91.7%   9/2/1/0  holiday
+ 16  22   86.4%   10/6/4/2
+ 17  22   86.4%   10/6/4/2
+ 18  22   90.9%   10/6/4/2
+ 19  22   90.9%   10/6/4/2
+ 20  22   90.9%   10/6/4/2
+holiday week (clinic days 11 to 15): 91.7% on 60 referrals
+naive rule (a clinic week at or above 90%): GO
+class                                   n   agree  silent  silent upper
+no prior auth needed                  195   97.4%       3          4.4%
+prior auth, standard payer form       100   83.0%       4          9.8%
+prior auth, portal criteria            65   78.5%       8         22.5%
+prior auth, medical-necessity letter   30   56.7%      10         51.2%
+window raw 87.4% on 390; at the reference mix 86.3%
+silent wrong drafts among prior-auth drafts: 22 of 195 = 11.3% (upper 16.5%)
+Shadow Exit (Greystone, bars by Michael Hart): coverage >= 60 per class: FAIL (letter n=30); silent prior-auth upper <= 5%: FAIL; reweighted >= 80%: pass
+decision: HOLD (stays in shadow); letter class needs 30 more at 2.2 a clinic day = 14 more clinic days at the normal mix

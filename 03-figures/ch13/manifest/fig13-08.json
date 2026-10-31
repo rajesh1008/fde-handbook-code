@@ -1,0 +1,149 @@
+{
+ "stem": "fig13-08",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch13/fig13_08_review.py",
+ "source_sha1": "22729ea0fd72",
+ "data": "04-code/ch13 lab fixtures",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:22 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 23,
+ "contrast_pairs": [
+  [
+   "P0  accepted",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P0  accepted",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P2  accepted",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P1  accepted with follow-up",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P1  not accepted",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "18 of 23 points accepted",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "story points",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "14",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "16",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "C-01",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "C-02",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "C-05",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "C-03",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "C-04",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

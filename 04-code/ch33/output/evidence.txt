@@ -1,0 +1,31 @@
+STABILITY: 201 gold-heldout documents, 20 runs each at fixed settings (stand-in, pin extract-2026-04)
+  field               1 run  modal  agree  varied  errors that varied
+  policy_number       89.1%  90.0%  0.981    4.0%  2 of 22
+  claimant_name       75.1%  78.6%  0.937   12.9%  14 of 50
+  loss_date           78.6%  79.6%  0.969    6.5%  6 of 43
+  date_received       75.1%  76.6%  0.973    5.5%  4 of 50
+  loss_type           79.6%  81.1%  0.960    8.5%  8 of 41
+  loss_location       65.2%  70.6%  0.925   15.9%  16 of 70
+  injury_reported     81.6%  84.1%  0.980    4.0%  6 of 37
+  police_report_ref   81.6%  82.6%  0.980    4.5%  3 of 37
+  other_party         60.2%  64.7%  0.908   18.9%  20 of 80
+  intake_channel      79.1%  82.1%  0.980    4.5%  7 of 42
+  all fields          76.5%                  8.5%  86 of 472 (18.2%)
+
+SENSITIVITY: single-run accuracy by condition (stand-in)
+  field                      clean     fax noise  rotated page   handwritten
+  policy_number              89.1%         82.6%         83.6%         87.6%
+  claimant_name              75.1%         75.6%         73.1%         52.7%
+  loss_date                  78.6%         69.7%         69.2%         71.1%
+  date_received              75.1%         70.1%         55.2%         75.1%
+  loss_type                  79.6%         80.6%         80.1%         78.1%
+  loss_location              65.2%         63.7%         64.7%         55.2%
+  injury_reported            81.6%         84.1%         82.1%         82.6%
+  police_report_ref          81.6%         69.7%         81.6%         80.6%
+  other_party                60.2%         59.7%         61.7%         51.7%
+  intake_channel             79.1%         80.1%         79.6%         80.1%
+
+LIMITS REGISTER: 3 field and condition pairs fall more than 10 points
+  L-02 claimant_name      handwritten   -22.4 points
+  L-04 date_received      rotated page  -19.9 points
+  L-08 police_report_ref  fax noise     -11.9 points

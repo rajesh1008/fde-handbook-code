@@ -1,0 +1,31 @@
+C01  det      Q1 yes                 capture text (OCR for fax, mail and portal pages)
+C02  det      Q1 yes                 date received from stamp or fax header
+C03  det      Q1 yes                 policy number pattern and check digit
+C04  det      Q1 yes                 coverage lookup in claims-core
+C05  det      Q1 yes                 match to an existing claim
+C06  small    Q1 no / Q2 no / Q3 yes document type: four signed types or none
+C07  small    Q1 no / Q2 no / Q3 yes loss cause code from the narrative
+C08  det      Q1 yes                 fixed zones on Caldwell and agency forms
+C09  rules    Q1 no / Q2 yes         fast-track and adjuster routing
+C10  rules    Q1 no / Q2 yes         special-investigation indicators
+C11  frontier Q1 no / Q2 no / Q3 no  cited first-notice summary and free-text fields
+C12  det      Q1 yes                 write the claim record and queue item
+
+split: 7 deterministic service / 2 rules plus guardrails / 2 constrained small model / 1 frontier model with retrieval | deterministic 58% of steps, no model 75%
+
+model calls over the shadow window: C06 2397, C07 1702, C11 2397 -> 2.71 per document (2397 routed)
+
+cost per routed document (stand-in rates; loaded rate $46/hour)
+  capture and OCR (C01)                $0.0028
+  C06 document type, c06-p4 prompted   $0.0112
+  C07 cause code, small                $0.0002
+  C11 summary and fields, frontier     $0.0224
+  retrieval for C11                    $0.0006
+  router, guardrails, state, logs      $0.0005
+  review band, 60 s at $46/hour        $0.2284
+  escalations, 240 s at $46/hour       $0.2418
+  machine total                        $0.0376
+  people total                         $0.4702
+  all                                  $0.5078
+model and compute are 7.4% of the cost per document; review labor is 92.6%
+at 11,244 in-scope documents a month: machine $423, people $5,287

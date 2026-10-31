@@ -1,0 +1,32 @@
+WHAT DOES NOT BEND
+  Product vendor      the product
+  Systems integrator  the customer's platform
+  Model lab           the model
+HOW THE EMPLOYER IS PAID
+  Product vendor      subscription, plus a fixed or capped services fee
+  Systems integrator  billable hours or a fixed-price statement of work
+  Model lab           a usage commitment and consumption
+WHO PAYS AN INTEGRATION HOUR
+  Product vendor      the vendor's margin, recovered at renewal
+  Systems integrator  the customer, by the hour
+  Model lab           a partner, billed to the customer; the lab funds the first slice
+WHERE REUSE GOES
+  Product vendor      product backlog
+  Systems integrator  method library and accelerators
+  Model lab           research feedback, evals and reference implementations
+WHAT CLOSES A REUSE ITEM
+  Product vendor      a released feature used by a second customer
+  Systems integrator  an asset reused on a second engagement, with the client's IP removed
+  Model lab           an eval case or failure accepted by the model team
+HOW IT ENDS
+  Product vendor      Live Stable gate, then the vendor's product support
+  Systems integrator  contract end, or a run-state managed service
+  Model lab           hand-over to the customer's team or a partner after the first use case
+WHAT THE FDE IS MEASURED ON
+  Product vendor      time to production and renewal
+  Systems integrator  utilization, margin per hour and follow-on work
+  Model lab           consumption, flagship deployments and model feedback
+ONE MORE MONTH OF ENGAGEMENT
+  Product vendor      costs the employer
+  Systems integrator  earns the employer more
+  Model lab           costs the employer

@@ -1,0 +1,12 @@
+3bd03fcfcf|day 81|fde|Add policy-number pattern and checksum|intake/policy_number.py
+ff4d063be7|day 81|fde|Tests: 12 policy numbers from Tom's desk|tests/test_policy_number.py
+8297b7d834|day 82|fde|Handle split policy numbers across OCR lines|intake/policy_number.py
+4102482ff4|day 82|fde|Record key-rotation check in run log|ops/gateway_check.py
+9f594388cd|day 82|fde|Decision log: fields that need no model|docs/decisions/0007-no-model-fields.md
+15e252ea28|day 83|fde|Tests: 47 low-confidence files, parser only|tests/test_low_confidence.py
+d8909fa762|day 83|fde|Evaluation cases from Anne's corrections|evals/cases_anne_v1.jsonl
+71268cd9dc|day 84|fde|Wire parser ahead of model call|intake/pipeline.py
+4262ef8546|day 84|fde|Runbook: parser failure modes|docs/runbook/parser.md
+3104865ecb|day 84|fde|Integration test: parser then gateway|tests/test_pipeline.py
+22743f99b1|day 85|fde|Edge cases from Tom's examples|intake/policy_number.py
+7104a66bd9|day 85|fde|Friday status with evidence links|docs/status/day85.md

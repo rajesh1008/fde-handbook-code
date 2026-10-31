@@ -1,0 +1,11 @@
+KEY-PERSON RISK  Pennant  (5 capabilities)
+  single holder: approve scope changes -> Jenna Ruiz (customer)
+  single holder: accept reconciliation output -> Jenna Ruiz (customer)
+  single holder: grant cloud project access -> Jenna Ruiz (customer)
+  single holder: run the EDI parser -> lead FDE (Northlight)
+  concentration: Jenna Ruiz (customer) holds 4 of 5 capabilities
+KEY-PERSON RISK  Caldwell  (5 capabilities)
+  single holder: approve claims-core access -> Daniel Reyes (customer)
+  single holder: score the gold set -> Anne Kessler (customer)
+  single holder: operate the adjuster queue -> Tom Whitfield (customer)
+  single holder: deploy the pipeline -> lead FDE (Northlight)

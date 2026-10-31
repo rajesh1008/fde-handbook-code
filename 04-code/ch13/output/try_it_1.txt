@@ -1,0 +1,4 @@
+capacity 20: in ['P-01', 'P-02', 'P-03']  out ['P-04', 'P-05']  displacements 0
+capacity 13: in ['P-01', 'P-02']  out ['P-03', 'P-04', 'P-05']  displacements 0
+capacity 10: in ['P-01', 'P-03']  out ['P-02', 'P-04', 'P-05']  displacements 0
+    WARN P-02 (P0, 8 pts) deferred for capacity while lower-priority work is in: split it or re-plan

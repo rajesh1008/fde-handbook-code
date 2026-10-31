@@ -1,0 +1,4 @@
+drills every  90 days: lowest readiness 0.750, months capped at 0.60:  0 of 24, peak takeover hours 196
+drills every 180 days: lowest readiness 0.750, months capped at 0.60:  0 of 24, peak takeover hours 196
+drills every 200 days: lowest readiness 0.600, months capped at 0.60:  3 of 24, peak takeover hours 244
+drills every 365 days: lowest readiness 0.600, months capped at 0.60: 13 of 24, peak takeover hours 244

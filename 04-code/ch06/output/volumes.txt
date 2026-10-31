@@ -1,0 +1,18 @@
+path  doc  vol/mo  seen  min/doc  hours/mo  cost/mo  lag days  late date
+P01   yes   4,100    74     10.2       695  $31,990       1.5       100%
+P02   yes   2,300    13      6.5       251  $11,529       0.2        15%
+P03   yes   2,900    32      7.2       346  $15,897       0.8        88%
+P04   no    2,450    25      7.1       290  $13,321       0.6        48%
+P05   no      610    13     16.1       164  $ 7,529       2.4       100%
+P06   no      540    13      9.9        89  $ 4,102       3.2       100%
+P07   no      980    17     18.8       307  $14,138       1.4       100%
+P08   no      420     6      2.5        17  $   800       1.0       100%
+P09   no      160     2     25.6        68  $ 3,146       5.7       100%
+P10   no      230     7     29.7       114  $ 5,232       5.1       100%
+P11   no      110     0      5.5        10  $   460       0.7        n/a
+documented paths: 9,300 documents (62.8%), 1,292 hours (54.9%)
+found paths:      5,500 documents (37.2%), 1,059 hours (45.1%)
+all intake: 2,351 hands-on hours a month; $7.31 a document at $46/hour
+  P02 main claims fax line: $5.01 a document
+  P10 attorney letters through legal: $22.75 a document
+watched documents whose recorded received date is later than arrival: 174 of 202 (86%)

@@ -1,0 +1,22 @@
+--- Caldwell (AWS): 200 records in the customer's sink, mean input tokens 1,872 ---
+model cost per scored document   USD 0.0178
+fixed monthly                    USD 425.00  (interface endpoints 146, log ingestion and retention 85, secret reads 4, suite runner 190)
+fixed per document at 11,244/month  USD 0.0378
+total per scored document        USD 0.0556
+volume where fixed equals model  23,893 documents a month
+--- Greystone (Azure): 300 records in the customer's sink, mean input tokens 6,795 ---
+model cost per scored document   USD 0.0457
+fixed monthly                    USD 532.00  (private endpoints (4) 29, diagnostic log ingestion 310, key vault operations 3, suite runner 190)
+fixed per document at 2,400/month  USD 0.2217
+total per scored document        USD 0.2673
+volume where fixed equals model  11,653 documents a month
+--- Pennant (Google Cloud): 120 records in the customer's sink, mean input tokens 1,441 ---
+model cost per scored document   USD 0.0112
+fixed monthly                    USD 480.00  (service connect endpoints (2 regions) 58, logging 40, secret reads 2, suite runners (2 regions) 380)
+fixed per document at 19,500/month  USD 0.0246
+total per scored document        USD 0.0358
+volume where fixed equals model  42,862 documents a month
+--- summary ---
+Caldwell (AWS)           model 0.0178  fixed 0.0378  total 0.0556
+Greystone (Azure)        model 0.0457  fixed 0.2217  total 0.2673
+Pennant (Google Cloud)   model 0.0112  fixed 0.0246  total 0.0358

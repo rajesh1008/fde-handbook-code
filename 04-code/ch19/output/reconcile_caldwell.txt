@@ -1,0 +1,6 @@
+intake: scan 71 (batches 8, 1 re-send refused), fax 41, mail 88 (6 redeliveries caught); documents in 200 of 200
+first notices 152: reconciliation {'matched': 139, 'held': 13, 'missing': 0, 'extra': 0, 'mismatched': 0}  unexplained 0
+supporting documents 48: reconciliation {'matched': 46, 'held': 2, 'missing': 0, 'extra': 0, 'mismatched': 0}  unexplained 0
+end to end: 185 of 200 landed and verified, 15 with a person, 0 unexplained
+
+first build, same sample, same reconciliation: {'matched': 139, 'held': 0, 'missing': 12, 'extra': 15, 'mismatched': 1}  unexplained 28

@@ -1,0 +1,173 @@
+{
+ "stem": "fig11-04",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch11/fig11_04_staleness.py",
+ "source_sha1": "6a861e2a5243",
+ "data": "04-code/ch11 lab",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:09 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 35,
+ "contrast_pairs": [
+  [
+   "14 days",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0 days",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "7 days",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "3 days",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "21 days  stale",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "31 days  stale",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "18 days  stale",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "days since last direct contact",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "35",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "45",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Michael Hart",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Sam Oakley",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Denise Alvarez",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Keisha Monroe",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Luis Ortega",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Marcus Bell",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Ravi Shah",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,66 @@
+{
+ "day 140, second pass on the extractor's model": {
+  "rows": {
+   "schema and type": {
+    "caught": 23,
+    "unique": 5
+   },
+   "business rules": {
+    "caught": 36,
+    "unique": 10
+   },
+   "system of record": {
+    "caught": 47,
+    "unique": 8
+   },
+   "source grounding": {
+    "caught": 123,
+    "unique": 12
+   },
+   "second extraction": {
+    "caught": 112,
+    "unique": 1
+   },
+   "cross-document": {
+    "caught": 29,
+    "unique": 6
+   }
+  },
+  "union": 169,
+  "n": 235,
+  "missed": 66,
+  "phi": 0.8082171893147503
+ },
+ "day 148, second pass on a different pin": {
+  "rows": {
+   "schema and type": {
+    "caught": 23,
+    "unique": 3
+   },
+   "business rules": {
+    "caught": 36,
+    "unique": 3
+   },
+   "system of record": {
+    "caught": 47,
+    "unique": 4
+   },
+   "source grounding": {
+    "caught": 123,
+    "unique": 25
+   },
+   "second extraction": {
+    "caught": 131,
+    "unique": 37
+   },
+   "cross-document": {
+    "caught": 29,
+    "unique": 4
+   }
+  },
+  "union": 205,
+  "n": 235,
+  "missed": 30,
+  "phi": 0.007445370037796899
+ }
+}

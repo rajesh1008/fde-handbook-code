@@ -1,0 +1,28 @@
+LIVE-INCIDENT DRILL  Pennant  mode v2  (drill on production day 70; deterministic stand-in; Memphis time)
+time   workers  calls   429s  docs done  exhausted  recon queue  reconciled
+02:00       4     80      0         26          0            0          26
+02:04       8    160     70        148          3            0         148
+02:05       8    160     70        164          6            0         164
+02:10      12    192    117        209         66            0         209
+02:15      12     96      0        323         90            0         323
+02:20      12     96      0        483         90            0         483
+02:25      12     96      0        643         90            0         643
+02:30      12     96      0        803         90            0         803
+02:35      12     96      0        963         90            0         963
+02:40      12     96      0       1123         90            0        1123
+02:45      12     96      0       1283         90            0        1283
+02:50      12     96      0       1443         90            0        1443
+02:55      12     96      0       1603         90            0        1603
+03:00      12     96      0       1763         90            0        1763
+03:05      12     96      0       1923         90            0        1923
+03:10      12     96      0       2083         90            0        2083
+03:12      12     75      0       2140         90            0        2140
+timeline:
+  02:04  start    first 429s: 70 of 160 calls rejected (8 workers)
+  02:06  detect   page: 429 ratio over 5% for 3 minutes
+  02:08  ack      ack: Nadia Brooks, Pennant platform on-call (primary)
+  02:12  step     runbook 4.2: read the quota from the gateway (120); set the bucket to 96
+  02:18  step     runbook 4.3: verify 429 ratio under 5% and queue age falling for 5 minutes
+  02:18  mitigate mitigated: 429 ratio under 5%, queue age falling; no rollback needed
+time to detect 2 min   time to acknowledge 2 min   time to mitigate 14 min
+batch reconciled by 03:12 (deadline 03:30); dead-lettered after 3 attempts, replayed at 03:15 under the bucket: 90

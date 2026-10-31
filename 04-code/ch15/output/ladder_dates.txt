@@ -1,0 +1,5 @@
+customer                        synthetic    sampled   shadowed       live
+Caldwell Mutual (day 54)           day 19     day 48          -          -
+Greystone Health (day 112)         day 76    day 112          -          -
+Pennant Logistics (fixture)         day 5     day 11          -          -
+Harbourline Bank (fixture)          day 4          -          -          -

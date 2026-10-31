@@ -1,0 +1,18 @@
+ACCOUNTABLE EXECUTIVE'S PACK  Caldwell Mutual  day 141, what we had: logs
+  decision record            partial  decision register (Chapter 13)                       -
+                             gap: decisions exist; none linked to the version they approved
+  lineage                    partial  run records, hash chain                              Priya Natarajan, day 141
+                             gap: document to field, but not to the gold-set version
+  model and prompt versions  partial  deploy logs                                          -
+                             gap: in logs, no single record
+  evaluation at the time     missing  -                                                    -
+                             gap: last number in slides (p7, day 94)
+  human review               missing  -                                                    -
+                             gap: review band defined, no adjudicated sample yet
+  authority boundary         missing  -                                                    -
+                             gap: in the design, not signed by the business owner
+  incident history           partial  gateway error log                                    -
+                             gap: errors, no write-ups
+  monitoring                 missing  -                                                    -
+                             gap: dashboards, no thresholds or owners
+present 0, partial 4, missing 4; complete: False; digest 04803024a420

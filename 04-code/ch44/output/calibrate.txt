@@ -1,0 +1,16 @@
+before anchors (month 8)
+  kappa Laura/Callum   -0.14
+  kappa Laura/Sofia    0.09
+  kappa Callum/Sofia   -0.30
+  mean kappa -0.12; unanimous 0 of 8; recordings with a two-point spread: 2
+after anchors (month 10)
+  kappa Laura/Callum   0.80
+  kappa Laura/Sofia    0.80
+  kappa Callum/Sofia   0.60
+  mean kappa 0.73; unanimous 6 of 8; recordings with a two-point spread: 0
+
+anchors used after month 9:
+  1: pitches a solution before the second question; never asks what happens to the work after the operator
+  2: asks about the task but not the exceptions; leaves without a number or a name for who measures it
+  3: walks the work end to end, finds the exception path, leaves with a baseline and who owns it
+  4: as 3, and finds the constraint nobody stated (a gate, a union rule, a second system) and tests it aloud

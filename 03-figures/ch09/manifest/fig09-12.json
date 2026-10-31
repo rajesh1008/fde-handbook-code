@@ -1,0 +1,143 @@
+{
+ "stem": "fig09-12",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch09/fig09_12_frontier_steps.py",
+ "source_sha1": "8b4cae55fcc5",
+ "data": "04-code/ch09 lab",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:54 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 12,
+ "contrast_pairs": [
+  [
+   "demo agent",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Caldwell",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Greystone",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "frontier-model steps left (of ",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "cents per scanned document",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "17.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "22.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

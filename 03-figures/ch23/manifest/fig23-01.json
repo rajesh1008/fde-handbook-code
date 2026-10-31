@@ -1,0 +1,71 @@
+{
+ "stem": "fig23-01",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch23/fig23_01_where.py",
+ "source_sha1": "21bdb093d36b",
+ "data": "04-code/ch23/output/store_options.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 21:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 26,
+ "contrast_pairs": [
+  [
+   "Caldwell AWS us-east-1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "claims policy\nlibrary + ACLs",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "ingest\nnl-index",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pgvector on\napproved PostgreSQ",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gateway\nembed-2026-02",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "filter, then rank\nnl-shadow",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "review screen\nadjuster",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Northlight ships code only",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

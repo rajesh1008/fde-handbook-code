@@ -1,0 +1,24 @@
+TIME ALLOCATION  week_a_caldwell  Caldwell Mutual (Hartford, AWS)  days 81-85
+bucket       hours  share  with customer  commits
+discover       5.0    14%            5.0        0
+decide         3.0     8%            1.5        1
+access         3.0     8%            2.0        1
+build         13.5    38%            0.0        7
+pass           5.0    14%            1.5        2
+hand over      1.0     3%            0.5        1
+internal       3.5    10%            0.0        0
+travel         2.0     6%            0.0        0
+total         36.0   100%           10.5       12
+tickets closed: 6   customer-owned items moved: 8
+  - day 84 decision meeting: Weekly decisions with Daniel Reyes and Anne Kessler
+  - day 85 decision meeting: Friday status call with Daniel Reyes
+  - CAL-112 (priya.natarajan): Gateway key rotation: confirm pipeline picks up new key
+  - CAL-121 (priya.natarajan): Shadow feed: where it runs, under whose identity, who sees the logs
+  - CAL-122 (priya.natarajan): Log retention for shadow feed
+  - CAL-123 (anne.kessler): Evaluation cases from Anne's 20 corrections
+  - CAL-124 (anne.kessler): Supervisors' weekly exception list
+  - CAL-125 (daniel.reyes): Decision: parser output is advisory until Anne signs off
+customer-contact share: 29%
+flag: none
+verdict: OK
+

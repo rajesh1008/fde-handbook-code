@@ -1,0 +1,5 @@
+G01 weight 9.0  Which referrals may a coordinator open?  (expect: every referral in the group; vendor position)
+G02 weight 7.5  Does minimum necessary limit the notes a draft may quote?  (expect: no; the whole note is needed; proposed design)
+G03 weight 6.0  Is the fax receipt time the referral's received date?  (expect: yes; vendor position)
+G04 weight 2.0  Must every read name the coordinator it serves?  (expect: yes; direct customer fact)
+acting-for gaps for a referral coordinator: ["read other clinics' referrals"]

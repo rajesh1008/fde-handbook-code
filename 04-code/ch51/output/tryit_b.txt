@@ -1,0 +1,4 @@
+bar 75%: PASS  Shadow Exit on aggregate; no slice's interval lies wholly below 75%
+bar 78%: PASS  Shadow Exit on aggregate; no slice's interval lies wholly below 78%
+bar 80%: FLAG  Shadow Exit passed on aggregate 84.0% (1,689/2,010); fax first notice 74.4% (70.4% to 78.0%) is below 80%
+bar 84%: FLAG  Shadow Exit passed on aggregate 84.0% (1,689/2,010); fax first notice 74.4% (70.4% to 78.0%) is below 84%

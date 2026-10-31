@@ -1,0 +1,77 @@
+{
+ "stem": "fig03-12",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch03/figures.py",
+ "source_sha1": "6bf27462d7f1",
+ "data": null,
+ "png_px": [
+  1650,
+  1711
+ ],
+ "rendered": "2026-10-31 19:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 5.704,
+ "aspect": 0.964,
+ "min_font_pt": 9.5,
+ "label_words": 32,
+ "contrast_pairs": [
+  [
+   "Caldwell's AWS account",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Northlight code,\nnamed region ",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Caldwell service identity",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "model\ngateway",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "log store,\nnamed readers",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "to the model provider",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "where does\nit run?",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "whose\nidentity?",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "who sees\nthe logs?",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

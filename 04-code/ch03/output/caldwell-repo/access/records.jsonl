@@ -1,0 +1,5 @@
+{"blocks": "", "key": "synthetic-claims-set", "owner": "Laura Finch", "requested_day": 1, "status": "requested", "what": "synthetic claims set (Northlight-built, no customer data)"}
+{"blocks": "every build inside Caldwell's estate", "key": "aws-sandbox-account", "owner": "Daniel Reyes", "requested_day": 2, "status": "in review", "what": "AWS sandbox account in Caldwell's organization"}
+{"blocks": "", "key": "claims-data-export", "owner": "", "requested_day": 3, "status": "requested", "what": "a representative export of claims data"}
+{"blocks": "every model call from Caldwell's estate", "key": "gateway-key", "owner": "Priya Natarajan", "requested_day": 4, "status": "requested", "what": "model gateway key for the Northlight workload"}
+{"blocks": "", "key": "claims-core-readonly", "owner": "Daniel Reyes", "requested_day": 5, "status": "requested", "what": "read-only service account on the claims system"}

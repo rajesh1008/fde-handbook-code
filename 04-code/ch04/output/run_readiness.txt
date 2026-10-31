@@ -1,0 +1,25 @@
+DEPLOYMENT READINESS  Caldwell Mutual, demo as sold  day 2
+  naive weighted score   0.08  NOT READY
+  gated score            0.00  DEMO ONLY
+  capability         0.00
+  workflow           0.00
+  controls           0.00
+  ownership          0.00
+  reconstructability 0.00
+  BLOCKING cap-customer-docs (capability): measured by Graham Lowell, not by the customer's expert
+  BLOCKING 14 must-pass proofs missing: cap-gold-set, wf-intake-paths, wf-landing, ctl-account, ctl-gateway, ctl-retention, ctl-identity, ctl-arch-review, own-exec, own-gold-set, own-operations, own-model-risk, rec-lineage, rec-evidence-pack
+  discounted cap-by-channel: claimed partial, measured by Graham Lowell, not by the customer's expert
+  discounted cap-cost: claimed partial, measured by Graham Lowell, not by the customer's expert
+
+DEPLOYMENT READINESS  Caldwell Mutual  day 10
+  naive weighted score   0.10  NOT READY
+  gated score            0.08  NOT READY
+  capability         0.20
+  workflow           0.00
+  controls           0.00
+  ownership          0.20
+  reconstructability 0.00
+  BLOCKING cap-customer-docs (capability): partial
+  BLOCKING own-exec (ownership): Daniel Reyes has not accepted
+  BLOCKING 12 must-pass proofs missing: cap-gold-set, wf-intake-paths, wf-landing, ctl-account, ctl-gateway, ctl-retention, ctl-identity, ctl-arch-review, own-operations, own-model-risk, rec-lineage, rec-evidence-pack
+

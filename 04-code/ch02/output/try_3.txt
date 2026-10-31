@@ -1,0 +1,4 @@
+VARIATION 3  Caldwell Mutual: customer waits
+  1.5 months blocked                 months  8.9  hours  3,078  margin  62.4%  renewal 80%
+  0.75 months blocked                months  8.2  hours  2,999  margin  62.8%  renewal 80%
+  0.0 months blocked                 months  7.4  hours  2,920  margin  63.3%  renewal 80%

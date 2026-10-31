@@ -1,0 +1,197 @@
+{
+ "stem": "fig02-06",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch02/fig02_06_stuck.py",
+ "source_sha1": "5b9883825204",
+ "data": "04-code/ch02 lab fixtures",
+ "png_px": [
+  1650,
+  1980
+ ],
+ "rendered": "2026-10-31 18:55 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 6.6,
+ "aspect": 0.833,
+ "min_font_pt": 9.0,
+ "label_words": 32,
+ "contrast_pairs": [
+  [
+   "Caldwell",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Greystone",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Pennant",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "year-one gross margin, %",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u221240",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u221220",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Year one: the stuck pilot look",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "goes live",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "never live",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Caldwell",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Greystone",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Pennant",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "two-year gross profit, renewal",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "250",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "500",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "750",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1250",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1500",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1750",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2250",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Two years: it is worth far les",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

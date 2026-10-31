@@ -1,0 +1,119 @@
+{
+ "stem": "fig15-08",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch15/fig15_08_weekly.py",
+ "source_sha1": "dceea8860a16",
+ "data": "04-code/ch15 weekly_progress.py",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 19:48 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.5,
+ "label_words": 15,
+ "contrast_pairs": [
+  [
+   "real files, day 47",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "week of the engagement",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "items",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "shipped",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "reviewed by a named Caldwell p",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

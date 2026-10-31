@@ -1,0 +1,77 @@
+{
+ "stem": "fig12-03",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch12/fig12_03_waysofworking.py",
+ "source_sha1": "2738068524ee",
+ "data": "04-code/ch12 lab",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 20:18 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.0,
+ "label_words": 31,
+ "contrast_pairs": [
+  [
+   "Ready\nowner, priority,\ntestabl",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Done\nevidence\nattached",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Accepted\nyes, dated\nfollow-up,",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Architecture\nReview",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Build\nComplete",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Shadow\nExit",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Model-Risk\nApproval",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Live\nStable",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "evidence feeds gates; acceptan",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

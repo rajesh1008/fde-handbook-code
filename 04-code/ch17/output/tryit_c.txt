@@ -1,0 +1,3 @@
+v2 with readers and retention removed: 2 findings
+  logs / production: no named readers and retention
+  logs / pre-production: no named readers and retention

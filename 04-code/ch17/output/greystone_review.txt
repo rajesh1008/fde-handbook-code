@@ -1,0 +1,14 @@
+three-questions lint: 0 findings (logs moved to Greystone's workspace, Chapter 16)
+review result, day 89: CHANGES REQUIRED (4)
+  1. [identity] nl-ambulatory app registration secret: key material held by Northlight
+     change: use a managed identity in Greystone's tenant; no secret exists to hold
+     signs off: Sam Oakley
+  2. [network] rule model: wildcard destination *.openai.azure.com (name the endpoint)
+     change: allow the one private endpoint by name, through the provider's change process
+     signs off: managed-service provider
+  3. [network] private DNS zone privatelink.openai.azure.com created by the template in Greystone's subscription
+     change: link to the provider's hub zone; the template creates no DNS
+     signs off: managed-service provider
+  4. [identity] draft letters released under the app identity, no recheck of the coordinator's clinics
+     change: on-behalf-of the coordinator; recheck clinic access in the EHR before release
+     signs off: Michael Hart

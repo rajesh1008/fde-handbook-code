@@ -1,0 +1,149 @@
+{
+ "stem": "fig03-09",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch03/figures.py",
+ "source_sha1": "6bf27462d7f1",
+ "data": "04-code/ch03 (Chapter 3 lab)",
+ "png_px": [
+  1650,
+  1344
+ ],
+ "rendered": "2026-10-31 19:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.481,
+ "aspect": 1.227,
+ "min_font_pt": 9.5,
+ "label_words": 19,
+ "contrast_pairs": [
+  [
+   "16   Ch 6, 8",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "13   Ch 9, 16",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4   Ch 9, 26",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "3   Ch 16, 26",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "3   Ch 7, 9",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2   Ch 6",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1   Ch 9",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "corrections, of 42",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "definition",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "scan text",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "negation",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "phrasing",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "vocabulary",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "wrong person",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "date convention",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

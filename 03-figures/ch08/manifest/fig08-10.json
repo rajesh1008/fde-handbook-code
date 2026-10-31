@@ -1,0 +1,83 @@
+{
+ "stem": "fig08-10",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch08/fig08_10_laundering.py",
+ "source_sha1": "4a9acb3697c9",
+ "data": "04-code/ch08 lab fixtures",
+ "png_px": [
+  1650,
+  1200
+ ],
+ "rendered": "2026-10-31 20:07 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.0,
+ "aspect": 1.375,
+ "min_font_pt": 10.0,
+ "label_words": 30,
+ "contrast_pairs": [
+  [
+   "day -34\ndeal sheet",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "V",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 1\nkickoff deck",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 10\nstatus report",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "R",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 24\nscope v0.3",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "F",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no evidence event at either ri",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 26: Anne Kessler asked\nrew",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

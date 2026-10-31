@@ -1,0 +1,4 @@
+candidate c231: facts surfaced 10 of 11, exceptions 3 of 4
+first solution statement at minute 31, questions before it 11, confirm-backs 3
+anchor 4: finds the exceptions and who decides them, names what is still unknown
+missed: F11  (exceptions missed: F11)

@@ -1,0 +1,125 @@
+{
+ "stem": "fig10-07",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch10/fig10_07_width.py",
+ "source_sha1": "5900e7a53f82",
+ "data": "04-code/ch10 lab fixtures",
+ "png_px": [
+  1650,
+  1110
+ ],
+ "rendered": "2026-10-31 19:59 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.7,
+ "aspect": 1.486,
+ "min_font_pt": 9.0,
+ "label_words": 20,
+ "contrast_pairs": [
+  [
+   "132 of 431 h (31%)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "484 of 686 h (71%)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "264 of 1,304 h (20%)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "range width in hours (hatched:",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "400",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "600",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "800",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1400",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1600",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1800",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Caldwell Mutual",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Greystone Health",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Pennant Logistics",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

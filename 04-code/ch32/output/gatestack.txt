@@ -1,0 +1,10 @@
+Caldwell    security: conditional d67 | model risk: not started | procurement: passed d40 | legal: in review | data protection: passed d48
+            blocking: model risk, legal; lint: clean
+Greystone   security: returned d103 | model risk: not started | procurement: in review | legal: in review | data protection: passed d98
+            blocking: security, model risk, procurement, legal; lint: clean
+Pennant     security: passed d60 | model risk: not started | procurement: passed d30 | legal: in review | data protection: in review
+            blocking: model risk, legal, data protection; lint: clean
+Harbourline security: not started | model risk: not started | procurement: not started | legal: not started | data protection: not started
+            blocking: security, model risk, procurement, legal, data protection; lint: clean
+
+a condition written the way it was first minuted: ["security: condition 'scan in Caldwell's pipeline' needs a person and a day"]

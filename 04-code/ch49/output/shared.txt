@@ -1,0 +1,18 @@
+What the three share: the same five measures, three customers (deterministic stand-in)
+measure                                           caldwell             greystone               pennant
+days, signature to live                                158   not live by day 365                   168
+days, live to Live Stable                               90                   n/a                    90
+integration tax (Chapter 46)                          0.97                  2.00                  1.96
+share of hours blocked to day 190                      10%                   12%                    5%
+person who could stop go-live         model-risk committee    clinical authority       data protection
+year-one margin                                      47.6%                -63.6%                 58.5%
+capability transfer (T transferred, R rebuilt, N not needed):
+  deterministic-first routing                T       R       T
+  evaluation suite on real documents         T       T       T
+  five gates with named signers              T       R       R
+  shadow with silent-wrong count             T       T       T
+  ownership map and deputies                 T       N       R
+  integration adapters                       R       R       R
+  security answers library                   T       R       R
+  runbooks and exit drill                    T       N       R
+CAP [('deterministic-first routing', 'T', 'R', 'T'), ('evaluation suite on real documents', 'T', 'T', 'T'), ('five gates with named signers', 'T', 'R', 'R'), ('shadow with silent-wrong count', 'T', 'T', 'T'), ('ownership map and deputies', 'T', 'N', 'R'), ('integration adapters', 'R', 'R', 'R'), ('security answers library', 'T', 'R', 'R'), ('runbooks and exit drill', 'T', 'N', 'R')]

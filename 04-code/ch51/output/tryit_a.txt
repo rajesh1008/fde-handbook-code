@@ -1,0 +1,4 @@
+day 28 as recorded   v0 PASS  naive score 1.00, sponsor named
+day 28 as recorded   v1 FLAG  Jenna Ruiz holds 4 of 5 roles
+clerks removed       v0 PASS  naive score 1.00, sponsor named
+clerks removed       v1 FLAG  no observed operator other than the sponsor (gated 0.90)

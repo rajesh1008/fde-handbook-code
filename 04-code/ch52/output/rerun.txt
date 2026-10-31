@@ -1,0 +1,17 @@
+Caldwell evaluation suite, gold-set-300 test split (201 documents x 10 fields = 2,010 fields)
+version         weighted     raw  gained  lost lost crit    $/doc  p95 s
+gm-2026-05-14      92.9%   91.5%       0     0         0   0.0112    3.8
+gm-n1              93.6%   92.3%      21     6         3   0.0079    3.1
+gm-n2              94.8%   93.6%      44     3         1   0.0051    2.4
+deterministic fields unchanged across versions: 603 of 603
+
+gm-n1: decision hold, caught at layer 2 (component)
+  L1 output contract pass         10 of 10 fields, types valid
+  L2 gold set        inconclusive weighted 92.9% -> 93.6%; gate owner review; 3 lost items on critical fields {'injury_flag': 2, 'loss_date': 1}; needs Anne Kessler
+  L3 calibration     pass         proceed-band error 3/1711 = 0.2% (95% 0.1%-0.5%, ceiling 1.5%); proceed share 81.5%
+  L4 budgets         pass         $0.0079/doc (budget $0.0200), p95 3.1 s (floor 6.0), fingerprint recorded
+gm-n2: decision block, caught at layer 2 (component)
+  L1 output contract pass         10 of 10 fields, types valid
+  L2 gold set        inconclusive weighted 92.9% -> 94.8%; gate owner review; 1 lost items on critical fields {'loss_date': 1}; needs Anne Kessler
+  L3 calibration     fail         proceed-band error 47/1823 = 2.6% (95% 1.9%-3.4%, ceiling 1.5%); proceed share 86.8%
+  L4 budgets         pass         $0.0051/doc (budget $0.0200), p95 2.4 s (floor 6.0), fingerprint recorded

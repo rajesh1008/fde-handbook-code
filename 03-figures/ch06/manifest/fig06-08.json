@@ -1,0 +1,59 @@
+{
+ "stem": "fig06-08",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch06/fig06_08_schema.py",
+ "source_sha1": "8306b6f70bc4",
+ "data": "04-code/ch06 lab",
+ "png_px": [
+  1650,
+  1200
+ ],
+ "rendered": "2026-10-31 19:38 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.0,
+ "aspect": 1.375,
+ "min_font_pt": 9.0,
+ "label_words": 23,
+ "contrast_pairs": [
+  [
+   "note\nday, source, who\npath, qu",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "discovery log",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "coverage report",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "contradictions",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "resolution\nnamed person, day",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "refused: identifiers, observat",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

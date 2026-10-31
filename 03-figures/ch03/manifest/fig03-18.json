@@ -1,0 +1,149 @@
+{
+ "stem": "fig03-18",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch03/figures.py",
+ "source_sha1": "6bf27462d7f1",
+ "data": null,
+ "png_px": [
+  1650,
+  1405
+ ],
+ "rendered": "2026-10-31 19:13 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.685,
+ "aspect": 1.174,
+ "min_font_pt": 9.5,
+ "label_words": 31,
+ "contrast_pairs": [
+  [
+   "chapter that fixes it",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "14",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "16",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "18",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "22",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "24",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "26",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "scoring rule, gold-set owner",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "real intake paths",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "named data owner",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "data inside the estate",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "three written answers",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "calls through the gateway",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "rules before a model",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "generated status",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,4 @@
+Day 124 rescan: provider export, gateway diagnostics and trace export after the fix (metadata only)
+  entries scanned 1800   entries with personal data 0   found by patterns alone 0
+  by class: none
+verdict: clean

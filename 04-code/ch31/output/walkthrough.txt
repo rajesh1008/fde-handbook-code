@@ -1,0 +1,23 @@
+release rc-1: extractor p8.3; pin extract-2026-04; c06 c06-p4; c07 c07-small-2; router v1.1 (proceed 0.95, floor 0.47); guardrails cw-rules v1 (8 cards); index claims manual index, CM-WL-07 v3 current; boundary release boundary v2 (day 118); gate pyramid, Caldwell CI under nl-eval
+document E-142-017  channel email  claimant Emily Carter (synthetic)  intake key IK-142-0017  mode shadow
+
+step   class    ran where                           result
+C01    det      OCR service, Caldwell AWS           native text, legibility 0.99
+C06    small    gateway -> c06-p4                   type T3, confidence 0.94
+C02    det      intake service, Caldwell AWS        date received day 142
+C03    det      intake service, Caldwell AWS        policy HO-4471902-6, check digit ok
+C04    det      claims-core read, svc-nl-claims-ro  coverage in force on loss date
+C05    det      claims-core read, svc-nl-claims-ro  no open claim on this policy and loss date: new intake
+C07    small    gateway -> c07-small-2              cause code WL-03 appliance supply line
+C08    det      intake service, Caldwell AWS        no fixed zones (letter or email)
+C09    rules    rules service, manual CM            fast-track eligible
+C10    rules    rules service, manual CM            0 indicators
+C11    frontier gateway -> extract-2026-04 + index  10 fields + summary, 7 citations, passages CM-WL-07 v3 s4.2, CM-WL-07 v3 s4.5
+router v1.1     brain, Caldwell AWS                 7 proceed, 3 review (policy_number 0.94; loss_location 0.94; injury_reported 0.93) -> review
+guards rules    cw-rules v1                         8 cards, failed: none
+C12    det      proposal -> authorizer              propose create_intake_draft -> authorized (boundary v2) -> not executed: mode shadow
+
+gateway: 3 calls as nl-shadow (pin extract-2026-04): c06-p4 $0.01117, c07-small-2 $0.00030, extract-2026-04 $0.02235; total $0.0338 (stand-in rates)
+state: 12 items under IK-142-0017, each a pointer (E-142-017 p1); kept 90 days (shadow), owner Caldwell (Ruth Calloway, claims data; Priya Natarajan, platform)
+read by nl-shadow-readers: 12 items; read by nl-eval refused: nl-eval may not read IK-142-0017
+guardrail cards live: CW-I-01, CW-I-02, CW-O-01, CW-O-02, CW-O-03, CW-A-01, CW-B-01, CW-B-02

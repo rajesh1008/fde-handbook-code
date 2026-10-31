@@ -1,0 +1,4 @@
+Try 3: the price of a VERIFY rule. O-03 at Michael's 90 days against the 30 days Keisha quoted.
+  limit  90 days:   7 of 187 drafts flagged (3.7%)
+  limit  60 days:  60 of 187 drafts flagged (32.1%)
+  limit  30 days: 133 of 187 drafts flagged (71.1%)

@@ -1,0 +1,89 @@
+{
+ "stem": "fig20-07",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch20/fig20_07_decision.py",
+ "source_sha1": "91a7a07e9b0b",
+ "data": "fieldkit/estates.py UNAVAILABLE_OPTIONS",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-10-31 20:49 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 10.0,
+ "label_words": 35,
+ "contrast_pairs": [
+  [
+   "pinned version offered\nin an a",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "deploy",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "wait",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "provider date",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "move region",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "residency owner,\nin writing",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "change the pin",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "validate in region,\nrecord the",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "the customer chooses; the adap",
+   "#5a6f9c",
+   "#ffffff",
+   5.01
+  ]
+ ],
+ "min_contrast": 5.01
+}

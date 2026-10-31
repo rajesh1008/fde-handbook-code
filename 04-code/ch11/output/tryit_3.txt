@@ -1,0 +1,4 @@
+TRY 3: lint a status
+  - headline hides a slip of 11 days (pilot day 90 -> 101)
+  - reported green, computed amber
+  after rewrite: clean

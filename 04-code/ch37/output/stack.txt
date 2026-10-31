@@ -1,0 +1,16 @@
+FIVE-GATE STACK  as of Caldwell day 157 (each customer's own engagement days)
+customer     AR | BC | SX | MRA | LS
+Caldwell     conditional d67 | passed d141 | conditional d157 | conditional d157 | not started
+Greystone    passed d129 | in review | not started | not started | not started
+Pennant      passed d60 | in review | not started | not started | not started
+Harbourline  not started | not started | not started | not started | not started
+
+WHO IS ACCOUNTABLE
+  Caldwell Mutual    insurer         executive: Anne Kessler, Head of Claims               governance: Catherine Doyle, Head of Model Risk
+                                     scope: claims intake fields and routing; never coverage or reserves
+  Greystone Health   hospital        executive: Denise Alvarez, VP Ambulatory Operations   governance: Michael Hart, CMIO (clinical rule)
+                                     scope: draft-only referral intake and prior-authorization drafts
+  Pennant Logistics  logistics firm  executive: Jenna Ruiz, VP Operations                  governance: finance controller (two-outcome policy)
+                                     scope: freight-audit match proposals; Dana Whitaker owns 'matched'
+  Harbourline Bank   bank            executive: David Okafor (named at bid)                governance: Helen Marsh, Head of Model Risk
+                                     scope: not yet scoped; bid stage

@@ -1,0 +1,26 @@
+path  docs/mo demo $/doc pipeline $/doc  fall
+P01     4,100     0.1774         0.0521   71%
+P02     2,300     0.1774         0.0521   71%
+P03     2,900     0.1559         0.0485   69%
+P04     2,450     0.1774         0.0519   71%
+P05       610     0.1774         0.0521   71%
+P06       540     0.1559         0.0485   69%
+P07       980     0.1774         0.0521   71%
+P08       420     0.1253         0.0062   95%
+P09       160     0.1774         0.0521   71%
+P10       230     0.1774         0.0063   96%
+P11       110     0.1559         0.0483   69%
+weighted: demo 0.1708  pipeline 0.0492  per document; fall 71.2%
+monthly at 14,800 documents: demo $2,528  pipeline $728
+pipeline cost by class per document: det 0.0001  rules 0.0000  small 0.0003  frontier 0.0427  platform 0.0060
+frontier share of pipeline cost: 87%
+latency per document, seconds   p50    p95
+  demo agent                    20.6   28.9
+  deterministic-first            6.5   13.1
+    of which det                0.30   0.39
+    of which rules              0.02   0.03
+    of which small              0.63   1.22
+    of which frontier           5.60  11.88
+other customers, one typical document:
+  Greystone Health   classes [16, 4, 3, 2]  demo 0.1559  pipeline 0.0909  fall 42%
+  Pennant Logistics  classes [9, 3, 2, 1]  demo 0.1774  pipeline 0.0521  fall 71%

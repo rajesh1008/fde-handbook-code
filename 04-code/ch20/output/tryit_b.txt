@@ -1,0 +1,4 @@
+=== exercise b ===
+fourth estate adapter: 7 lines; inference server stand-in 10 lines
+parity 14/14 failing -; accuracy 86.0% on extract-open-2026-02
+Caldwell's managed estate on extract-2026-04 for comparison: 91.5%

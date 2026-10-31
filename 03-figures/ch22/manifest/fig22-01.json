@@ -1,0 +1,77 @@
+{
+ "stem": "fig22-01",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch22/fig22_01_feed.py",
+ "source_sha1": "a140e457c1be",
+ "data": "04-code/ch22/output/week_v1.txt",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-10-31 21:15 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 9.0,
+ "label_words": 22,
+ "contrast_pairs": [
+  [
+   "edi\n844",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "scan\n894",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "photo\n362",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "door\nqs-1.0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "read, classify,\nlink",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "rules\nR1-R6",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "matched\n1,739",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "four\nqueues",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "held at the door goes back to ",
+   "#5a6f9c",
+   "#ffffff",
+   5.01
+  ]
+ ],
+ "min_contrast": 5.01
+}

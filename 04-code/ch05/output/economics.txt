@@ -1,0 +1,13 @@
+WHO PAYS THE INTEGRATION TAX  (700 model h x tax 1.2 = 840 integration h; loaded $150/h)
+  home                                             customer $ employer cost $ employer net $ partner net $
+  vendor, fixed fee                                         0         126,000       -126,000             0
+  integrator, T&M                                     201,600         126,000         75,600             0
+  lab + partner                                       151,200          31,500        -31,500        56,700
+ONE MORE MONTH BEFORE PRODUCTION  (Caldwell staffing, 175 FDE h; Greystone row from Ch2)
+  home                                             customer $ employer cost $ employer net $ partner net $
+  vendor, fixed fee (Caldwell)                              0          29,250        -29,250             0
+  vendor, subscription at production (Greystone)            0          35,500       -235,500             0
+  integrator, T&M                                      42,000          26,250         15,750             0
+  lab + partner                                        31,500           6,562        -46,562        11,812
+illustrative: bill rate $240/h, lab share 25%, lab consumption $40,000/month; vendor rows reuse 04-code/ch02
+sign of one more month for the employer: vendor -, integrator +, lab -

@@ -1,0 +1,71 @@
+{
+ "stem": "fig17-05",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch17/fig17_05_network.py",
+ "source_sha1": "a3b6ff909011",
+ "data": "04-code/ch17/terraform/main.tf.json",
+ "png_px": [
+  1650,
+  1380
+ ],
+ "rendered": "2026-10-31 21:11 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.6,
+ "aspect": 1.196,
+ "min_font_pt": 9.5,
+ "label_words": 23,
+ "contrast_pairs": [
+  [
+   "VPC 10.42.0.0/24, private subn",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "shadow\nrunner",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gateway endpoint",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "secrets endpoint",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "logs endpoint",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "S3, one bucket",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "internet\nno gateway, no NAT",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Caldwell\negress log",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

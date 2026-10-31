@@ -1,0 +1,12 @@
+COST OF ONE MORE PILOT MONTH  (field estimate staffing)
+customer            FDE h    FDE $   run $  deferred $   total $  months               verdict
+Caldwell Mutual       175   26,250   3,000           0    29,250     8.9   inside 9-month rule
+Greystone Health      210   31,500   4,000     200,000   235,500    10.8  decide: live or stop
+Pennant Logistics     140   21,000   2,500           0    23,500     8.4   inside 9-month rule
+renewal probability by months to production (Northlight history, illustrative):
+  4 months    93%
+  6 months    93%
+  8 months    80%
+  9 months    80%
+  11 months   62%
+  never live  20%

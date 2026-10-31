@@ -1,0 +1,3 @@
+b: as of day 177: contradicted 22, inferred 18 of 40
+b: as of day 200: contradicted 15, inferred 25 of 40
+b: as of day 340: contradicted 0, inferred 40 of 40

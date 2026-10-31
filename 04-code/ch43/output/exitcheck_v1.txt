@@ -1,0 +1,6 @@
+EXIT CHECK  Pennant managed-service runbooks v1  (deterministic stand-in)
+runbooks 4, steps 16
+Chapter 41 runbook lint, rule RB5 (step names the vendor): 14 of 16 steps
+Chapter 41 runbook lint, other rules: 0 findings
+exit lint (step touches an asset Pennant does not own): 0 steps in 0 runbooks
+takeover rebuild estimate: 0 steps x 20 h = 0 h

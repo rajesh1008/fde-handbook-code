@@ -1,0 +1,19 @@
+step class     runs  name
+N01  det       2100  receive EDI message or document scan from the intake queue
+N02  det        844  parse EDI segments into shipment fields
+N03  small     1112  detect the layout family among the 41 known layouts
+N04  det       1098  read printed fields from the layout's template zones
+N05  small      341  read the handwritten delivery date
+N06  det       1910  look up the carrier code in the carrier master
+N07  det       1910  match the shipment to a booking by bill of lading number
+N08  det       1897  convert units and compute weights and charges
+N09  rules     1910  apply hazardous-goods and customs hold rules
+N10  rules     1045  apply accessorial charge rules
+N11  rules     1910  apply service-level escalation rules
+N12  frontier   154  read a free-text exception email and draft the exception n
+N13  det          0  write the booking to the transport management system  [off in shadow (no TMS write)]
+N14  det          0  send the status message back to the shipper  [off in shadow (no shipper message)]
+N15  det       1897  archive the document with its retention tag
+design split (Chapter 9): det 9, rules 3, small 2, frontier 1 -> 60% of steps deterministic
+measured step executions in the week: det 11656 (64.3%), rules 4865 (26.8%), small 1453 (8.0%), frontier 154 (0.8%) total 18128
+model calls per document: 0.77 (small 1453, frontier 154)

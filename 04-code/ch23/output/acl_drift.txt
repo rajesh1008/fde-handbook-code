@@ -1,0 +1,10 @@
+moved files: 12 (CM-C10-01-v1 .. CM-C10-12-v1); drift check finds 12 files, 12 broader in the index than in the source
+searches in the seven days after the move: 721; would show a moved file to a non-litigation user: 110
+
+ACL sync cadence                       exposure hours searches exposed
+weekly batch (next run day 95 02:00)              108               63
+nightly 02:00                                      12                7
+hourly                                              1                0
+ACL checked at query time                           0                0
+
+nightly sync applied day 91 02:00: 12 files changed; drift after sync: 0

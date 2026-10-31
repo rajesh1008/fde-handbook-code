@@ -1,0 +1,13 @@
+v1 portfolio: 9 claims, 2 showable, 1 showable with a metric and scorer
+v2 portfolio: 9 claims, 9 showable, 6 showable with a metric and scorer
+
+runway: savings US$60,000, fixed US$6,500/month, day rate US$1,400, invoices paid net 30
+  v1 portfolio (1 with a metric)               lowest US$ 20,100 (month  7); back to savings: month 14
+     53k  47k  40k  34k  27k  21k  20k  23k  29k  37k  44k  52k  59k  67k  74k  82k  89k  97k
+    billing months 13; idle months after first contract 0; clients 2
+  v2 portfolio (6 with a metric)               lowest US$ 40,500 (month  3); back to savings: month 6
+     53k  47k  40k  45k  54k  64k  74k  85k  95k 105k 115k 126k 136k 146k 157k 167k 177k 188k
+    billing months 16; idle months after first contract 0; clients 2
+  one client at 90%, ends month 6 (failure injection) lowest US$ 47,000 (month  2); back to savings: month 3
+     53k  47k  65k  84k 103k 121k 140k 134k 127k 121k 114k 108k 101k 100k 103k 110k 117k 125k
+    billing months 11; idle months after first contract 6; clients 1; top-client share 100%

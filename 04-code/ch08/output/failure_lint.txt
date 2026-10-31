@@ -1,0 +1,17 @@
+LINT  Caldwell Mutual scope v0.3 draft  day 24: 10 findings
+  C-08  NO MEASUREMENT          nothing says what is counted or what counts it
+  C-08  NO SCORER               scorer '(none)' is not a named person
+  C-08  NO DOCUMENT SET         no named document set with a count
+  C-08  NO DENOMINATOR          a rate with nothing under it
+  C-09  NO MEASUREMENT          nothing says what is counted or what counts it
+  C-09  NO DOCUMENT SET         no named document set with a count
+  C-09  NO THRESHOLD            no bar, so no pass or fail
+  SD-15 FACT WITHOUT A PERSON   source 'Caldwell Mutual' (customer)
+  SD-15 UPGRADED BY REPETITION  KO-12 proposed design -> SR-03 reconstructed from an artifact (week-2 status report, day 10) with no evidence event
+  SD-15 UPGRADED BY REPETITION  SR-03 reconstructed from an artifact -> SD-15 direct customer fact (scope draft v0.3, day 24) with no evidence event
+  evaluation suite accepts 3 of 5 criteria; refuses C-08, C-09
+  by finding: no measurement 2, no document set 2, upgraded by repetition 2, no scorer 1, no denominator 1, no threshold 1, fact without a person 1
+
+LINT  Caldwell Mutual scope v1.0  day 28: 0 findings
+  evaluation suite accepts 7 of 7 criteria
+

@@ -1,0 +1,68 @@
+Caldwell surface decision, day 110 weights (sum 100)
+  adoption                     w=16  scores A2 B5 C5 D5
+  governance visibility        w=14  scores A5 B2 C4 D3
+  residency and egress         w=10  scores A5 B2 C4 D3
+  identity fidelity            w=10  scores A5 B3 C4 D3
+  verification and evaluation  w=10  scores A5 B2 C5 D3
+  latency                      w= 8  scores A4 B4 C4 D2
+  reversibility                w= 8  scores A3 B2 C5 D3
+  time to first user           w= 8  scores A2 B5 C2 D4
+  run cost                     w= 6  scores A3 B4 C2 D3
+  operability and hand-over    w=10  scores A4 B4 C3 D2
+
+totals (0-100):
+  C  79.2  hybrid: thin surface, governed brain
+  A  76.4  new application in Caldwell's cloud
+  B  66.0  the suite's own agent
+  D  64.4  suite orchestration, many calls out
+lead of C over best other (A): 2.8 points
+
+contributions to C and A (points):
+  adoption                     C  16.0  A   6.4  diff  +9.6
+  governance visibility        C  11.2  A  14.0  diff  -2.8
+  residency and egress         C   8.0  A  10.0  diff  -2.0
+  identity fidelity            C   8.0  A  10.0  diff  -2.0
+  verification and evaluation  C  10.0  A  10.0  diff  +0.0
+  latency                      C   6.4  A   6.4  diff  +0.0
+  reversibility                C   8.0  A   4.8  diff  +3.2
+  time to first user           C   3.2  A   3.2  diff  +0.0
+  run cost                     C   2.4  A   3.6  diff  -1.2
+  operability and hand-over    C   6.0  A   8.0  diff  -2.0
+
+sensitivity: lead of C when one weight is halved / raised by half
+  adoption                     x0.5  -2.2 (vs A)  x1.5  +7.0 (vs A)
+  governance visibility        x0.5  +4.5 (vs A)  x1.5  +1.3 (vs A)
+  residency and egress         x0.5  +4.0 (vs A)  x1.5  +1.7 (vs A)
+  identity fidelity            x0.5  +4.0 (vs A)  x1.5  +1.7 (vs A)
+  verification and evaluation  x0.5  +2.9 (vs A)  x1.5  +2.7 (vs A)
+  latency                      x0.5  +2.9 (vs A)  x1.5  +2.7 (vs A)
+  reversibility                x0.5  +1.2 (vs A)  x1.5  +4.2 (vs A)
+  time to first user           x0.5  +2.9 (vs A)  x1.5  +2.7 (vs A)
+  run cost                     x0.5  +3.5 (vs A)  x1.5  +2.1 (vs A)
+  operability and hand-over    x0.5  +4.0 (vs A)  x1.5  +1.7 (vs A)
+
+flip points (multiplier on one weight at which C stops winning; others fixed):
+  adoption                     down at x0.70 (weight 11.2)  
+  governance visibility        up at x2.00 (weight 28.0)
+  residency and egress         up at x2.40 (weight 24.0)
+  identity fidelity            up at x2.40 (weight 24.0)
+  reversibility                down at x0.12 (weight 1.0)  
+  time to first user           up at x3.75 (weight 30.0)
+  run cost                     up at x3.34 (weight 20.0)
+  operability and hand-over    up at x2.40 (weight 24.0)
+  every other dimension: no flip between x0 and x4
+
+weight draws (2,000 Dirichlet draws around the agreed weights, concentration 60):
+  A wins  507 (25.4%)
+  B wins    8 (0.4%)
+  C wins 1485 (74.2%)
+  D wins    0 (0.0%)
+
+per user group (adoption rescored from the day-104 time-in-tool sample):
+  adjusters      C 79.2  A 76.4  B 66.0  D 64.4   winner C
+  supervisors    C 79.2  A 76.4  B 66.0  D 64.4   winner C
+  intake clerks  A 82.8  C 72.8  B 59.6  D 58.0   winner A
+
+time in tool, share of logged minutes (day 104):
+  adjusters      suite 61%: suite mail and calendar 34%; suite chat and meetings 21%; suite documents 6%; claims-core 27%; phone and other 12%
+  intake clerks  suite 28%: suite mail and calendar 18%; suite chat and meetings 7%; suite documents 3%; claims-core 31%; intake queue tool 36%; phone and other 5%

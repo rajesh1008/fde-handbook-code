@@ -1,0 +1,19 @@
+cost per document  c06-p4 $0.011175   c06-ft1 $0.000270   ratio 41.3x
+with prompt caching c06-p4 $0.003615   ratio 13.4x  (the forty-times figure assumes no cache)
+latency c06-p4   p50 2.94 s   p95 6.66 s
+latency c06-ft1  p50 0.31 s   p95 0.62 s
+ownership per month (quarterly retrain + revalidation): $501
+
+option                                          5,000   14,800   50,000   150,000
+frontier, prompted (c06-p4)                        56      165      559     1,676
+A platform custom-model hosting, per token        503      505      515       542
+B self-hosted GPU, two instances                1,677    1,677    1,677     1,677
+C CPU encoder classifier                          573      573      573       573
+
+crossover vs prompted: A platform custom-model hosting, per token      45,978 documents/month
+crossover vs prompted: B self-hosted GPU, two instances               150,037 documents/month
+crossover vs prompted: C CPU encoder classifier                        51,308 documents/month
+crossover A vs B: 4,346,524 documents/month
+
+at Caldwell's 14,800/month, cost alone: prompted $165, option A $505
+accuracy value: 691 fewer misclassified documents x $1.53 rework = $1,060/month

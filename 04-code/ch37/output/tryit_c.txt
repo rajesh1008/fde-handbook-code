@@ -1,0 +1,3 @@
+gold-heldout mix               aggregate 84.0%  met at 80%
+first notices only (20/40/40)  aggregate 81.0%  met at 80%
+fax and mail only (60/40)      aggregate 76.4%  below at 80%

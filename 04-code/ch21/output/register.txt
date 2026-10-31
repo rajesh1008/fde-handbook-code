@@ -1,0 +1,20 @@
+Pennant data-readiness register, day 62 (deterministic stand-in)
+  tms_nightly_csv          owner Kofi Mensah    fresh    26 h  READY
+  carrier_edi_210_214      owner Dana Whitaker  fresh    24 h  READY
+  mailbox_scans            owner Dana Whitaker  fresh    48 h  READY
+  eu_customs_declarations  owner -              fresh     - h  FINDINGS 3
+      eu_customs_declarations: no named owner
+      eu_customs_declarations: no freshness promise
+      eu_customs_declarations: valid-for list is empty
+  fx_rates_csv             owner -              fresh    24 h  FINDINGS 2
+      fx_rates_csv: no named owner
+      fx_rates_csv: overwritten in place, no history
+  carrier_rate_cards       owner Dana Whitaker  fresh  2160 h  READY
+use checks:
+  fx_rates_csv for audit: fx_rates_csv: not valid for 'audit' (valid for: reconciliation)
+  eu_customs_declarations for reconciliation: eu_customs_declarations: not valid for 'reconciliation' (valid for: nothing yet)
+  tms_nightly_csv for reconciliation: tms_nightly_csv: 31 h old, promise is 26 h
+same meaning of weight in TMS and carrier invoice? False
+freight legs compared: 600
+  weight mismatches, raw field against raw field: 293 (48.8%)
+  weight mismatches, chargeable against chargeable: 10 (1.7%)

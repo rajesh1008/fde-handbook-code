@@ -1,0 +1,161 @@
+{
+ "stem": "fig24-09",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch24/fig24_09_gantt.py",
+ "source_sha1": "6ea131d73010",
+ "data": "04-code/ch24/output/fanout.txt",
+ "png_px": [
+  1650,
+  1380
+ ],
+ "rendered": "2026-10-31 21:29 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.6,
+ "aspect": 1.196,
+ "min_font_pt": 9.5,
+ "label_words": 31,
+ "contrast_pairs": [
+  [
+   "fnol-docs",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "rules-catalog",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "loss-history",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "retrieval",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "claims-core",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "policy-admin",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "sequential: fan-out 5,960 ms, ",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "ms from the start of the fan-o",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7000",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "fnol-docs",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "rules-catalog",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "loss-history",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "retrieval",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "claims-core",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "policy-admin",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "parallel: fan-out 2,025 ms, wh",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

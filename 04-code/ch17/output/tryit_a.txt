@@ -1,0 +1,4 @@
+lint after adding the vendor tracing endpoint:
+  rule tracing: no customer owner
+  rule tracing: no reason
+allowed flushes to a vendor service: 48 (each one a copy Caldwell cannot delete)

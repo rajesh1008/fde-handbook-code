@@ -1,0 +1,5 @@
+Try 2: write the card for a rule you just heard, then its two tests.
+lint before: ['I-13: VERIFY with no review day', 'I-13: routes to nobody']
+lint after:  []
+one test only -> untested: ['I-13']
+both tests -> untested: []  failures: []

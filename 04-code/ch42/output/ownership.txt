@@ -1,0 +1,31 @@
+OWNERSHIP AND READINESS  Pennant  production day 0 = engagement day 168  (deterministic stand-in)
+two-of-five rule at go-live: passes
+holdings with no deputy at go-live (7): own-exec -> Jenna Ruiz; own-gold-set -> Dana Whitaker; own-model-risk -> Joanne Pruitt; on-call primary -> Northlight; runbook executed -> Northlight; drift monitor read -> Northlight; provider account -> Jenna Ruiz
+page route lint, day 14: primary page goes to a vendor address: nl-pennant-oncall@northlight.example; rollback approver is a person, not a role with a deputy: Jenna Ruiz
+orphaned on day 14: own-exec, provider account
+day  readiness  gates failing  orphans  no deputy  event
+  0   0.40      M1,D1                0          7  go-live, as handed over
+ 14   0.30      M1,D1                2          5  Jenna Ruiz's last day in the sponsor role
+ 21   0.30      M1,D1                2          7  Rosa Delgado accepts operations and override; RACI re-signed
+ 29   0.30      M1,D1                1          8  Grant Holloway accepts the executive proof; signs the runbook owner list
+ 33   0.38      M1,D1                1          7  Dana Whitaker signs the re-calibration; monthly report produced by her team
+ 38   0.42      M1,D1                1          7  incident: Andre Willis rolls back to shadow on Rosa Delgado's approval, FDE diagnosing
+ 43   0.53      D1                   1          7  runbook change: alerts and on-call move to Pennant platform
+ 46   0.55      D1                   0          8  provider account moved to Kofi Mensah; monitors run as Pennant jobs
+ 55   0.60*     D1                   0          8  EU model change run under change control by Pennant
+ 56   0.60*     D1                   0          6  deputies named for operations and override; vendor only consulted
+ 70   0.80      -                    0          4  Nadia Brooks runs the incident drill alone, rollback included
+* capped at 0.60 while a gate item is not done alone (raw score higher)
+day 90 ownership map:
+  own-exec             Grant Holloway              deputy -                             
+  own-gold-set         Dana Whitaker               deputy Tasha Greene                  done alone
+  own-operations       Rosa Delgado                deputy Tasha Greene                  done alone
+  own-model-risk       Joanne Pruitt               deputy -                             done alone
+  own-override         Rosa Delgado                deputy Dana Whitaker                 done alone
+  on-call primary      Andre Willis                deputy Nadia Brooks                  done alone
+  runbook executed     Andre Willis                deputy Nadia Brooks                  done alone
+  drift monitor read   Dana Whitaker               deputy -                             
+  change board         Kofi Mensah                 deputy Pennant cloud platform lead   done alone
+  provider account     Kofi Mensah                 deputy -                             
+page route lint on day 90: clean
+still without a deputy on day 90: own-exec -> Grant Holloway; own-model-risk -> Joanne Pruitt; drift monitor read -> Dana Whitaker; provider account -> Kofi Mensah

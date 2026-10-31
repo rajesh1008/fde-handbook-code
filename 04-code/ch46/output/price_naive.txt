@@ -1,0 +1,18 @@
+next insurer, ACV $1,400,000 (subscription from signature), FTE 2.5, credit mode: naive
+bucket       estimate  factor  credit  priced
+discovery         200    1.04      40     168
+access            280    1.19      70     262
+model             600    1.03     100     517
+integration       560    +35%     370     256
+gates             420    1.63     140     545
+handover          240    1.90      80     376
+blocked           175    1.30       0     227
+total           2,475                   2,352   cost $352,765
+reserve line: 66 h = $9,975
+fixed fee $230,000 (services cost $352,765; the subscription carries the rest)
+forecast year-one margin at priced hours, reserve used 60.1%; production in month 7.0
+  integration on P50, reserve released     margin  58.6%  month  8.4  above floor
+  worst miss so far (1.32)                 margin  58.2%  month  8.8  above floor
+  reserve fully used (1.35)                margin  58.1%  month  8.9  above floor
+  beyond the reserve (1.60)                margin  57.8%  month  9.2  above floor
+  (PB-04 did not transfer: rebuilt on the nightly export, +260 integration h)

@@ -1,0 +1,12 @@
+The London asset manager that stalled (fictional cameo; pounds sterling; deterministic stand-in)
+  first workshop to signed NDA                         21 days  (cumulative 21)
+  use case agreed                                      34 days  (cumulative 55)
+  vendor risk questionnaire                            96 days  (cumulative 151)
+  model and data-residency review                      71 days  (cumulative 222)
+  waiting for an information-security steering slot    76 days  (cumulative 298)
+  paused by the client                                  0 days  (cumulative 298)
+  inside information security: 243 days (8.0 months)
+  Northlight hours spent 420; cost at a loaded GBP118/h: GBP49,560
+  proposed: pilot fee GBP85,000, subscription GBP540,000 a year; revenue booked: GBP0
+  first real document seen: never
+STAGES [('first workshop to signed NDA', 21), ('use case agreed', 34), ('vendor risk questionnaire', 96), ('model and data-residency review', 71), ('waiting for an information-security steering slot', 76), ('paused by the client', 0)]

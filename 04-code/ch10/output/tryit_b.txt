@@ -1,0 +1,3 @@
+Greystone day 18: tax 1.40, exposure +290 h
+provider refuses (day 41): tax 1.75, +180 h
+lint after denial: clean

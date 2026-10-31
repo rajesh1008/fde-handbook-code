@@ -1,0 +1,107 @@
+{
+ "stem": "fig50-06",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch50/fig50_06_computability.py",
+ "source_sha1": "0d4093336a3f",
+ "data": "04-code/ch50/output/committee_s1.txt, committee_s2.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-11-01 00:34 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 33,
+ "contrast_pairs": [
+  [
+   "submission one",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "submission two",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "M1 agreement",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor code and identity",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "bank computes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "M2 gate blocks",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not defined",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "bank computes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "M3 canary set",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not defined",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "bank computes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "M4 retrieval recall",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not defined",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "bank computes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,5 @@
+FIXED run. Released on day 66: USD 412.50 over-billed
+chain: source -> page -> extraction -> calculation -> claim -> release (9 nodes)
+day 81, examiner asks how USD 412.50 was produced
+verify: chain holds, recomputed value matches
+reference tables retained: 2; cited version fx_rates@1f8a22b1d213 as_of day 66 07:00, owner Marisol Vega (treasury)

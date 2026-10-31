@@ -1,0 +1,5 @@
+a: which fix closes the thumb hole? (same week, same documents)
+  pennant-qs-1.0, first key          matched  82.8%  person  52  exceptions 154 (false 13)  wrong 4
+  pennant-qs-1.0, two keys           matched  82.8%  person  61  exceptions 149 (false 12)  wrong 0
+  pennant-qs-1.1, first key          matched  82.8%  person  52  exceptions 151 (false 10)  wrong 0
+  pennant-qs-1.1, two keys           matched  82.8%  person  56  exceptions 147 (false 10)  wrong 0

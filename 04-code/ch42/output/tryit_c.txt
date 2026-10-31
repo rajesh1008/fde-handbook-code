@@ -1,0 +1,3 @@
+two-of-five rule: passes (3 proofs, 2 with a deputy)
+no deputy: own-exec -> Jenna Ruiz; own-gold-set -> Dana Whitaker; own-model-risk -> Joanne Pruitt; provider account -> Jenna Ruiz
+orphaned when Jenna Ruiz leaves: own-exec, provider account

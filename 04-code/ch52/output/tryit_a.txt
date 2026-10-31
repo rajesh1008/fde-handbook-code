@@ -1,0 +1,3 @@
+gm-n1 lost critical items: G142/injury_flag, G215/loss_date, G235/injury_flag
+without sign-off: hold
+with Anne Kessler's item-by-item sign-off: merge | L2: pass

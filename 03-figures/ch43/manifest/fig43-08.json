@@ -1,0 +1,71 @@
+{
+ "stem": "fig43-08",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch43/fig43_08_drill.py",
+ "source_sha1": "3c14ea6518c8",
+ "data": "04-code/ch43/output/drill_v0.txt, drill_v1.txt",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-11-01 00:05 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.0,
+ "label_words": 6,
+ "contrast_pairs": [
+  [
+   "blocked: vendor bastion",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "03:30 deadline",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "02:00",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "02:30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "03:00",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "03:30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

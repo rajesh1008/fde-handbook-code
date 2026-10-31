@@ -1,0 +1,45 @@
+== DRAFT
+Greystone weekly status, week 6 (day 40)  [red]
+HEADLINE  On track; security review is the only open item and the sprint was accepted, production-ready by pilot
+DONE
+  - Sprint 2 accepted by Michael Hart
+IN PROGRESS
+  - Prior-authorization drafter on synthetic referrals
+BLOCKERS
+  - Production subscription approval (owner Sam Oakley, open 37 days, due day 47)
+  - Data sample request has no named owner (owner ?, open 30 days, due no date)
+RISKS
+DECISIONS NEEDED
+NEXT WEEK
+  - Sprint 3
+LINT  8 problem(s)
+  - missing part: risks
+  - missing part: decisions
+  - headline hides a slip of 6 days (pilot day 140 -> 146)
+  - blocker without an owner: Data sample request has no named owner
+  - blocker without a date: Data sample request has no named owner
+  - reported green, computed red
+  - production claim 'production-ready' with gates passed 0 of 5
+  - no gates line (gates passed 0 of 5)
+
+== REWRITE
+Greystone weekly status, week 6 (day 40)  [red]
+HEADLINE  Pilot slips from day 140 to day 146 unless the subscription is approved by day 47; gates passed 0 of 5
+DONE
+  - Sprint 2 accepted by Michael Hart (acceptance, not approval)
+  - Security clinic 4: 11 of 41 questions closed
+IN PROGRESS
+  - Prior-authorization drafter on synthetic referrals
+  - Answers to Sam Oakley's 30 open questions
+BLOCKERS
+  - Northlight owes the subscription onboarding answers (owner Callum Reid, open 34 days, due day 47)
+  - Data sample request: owner named today (owner Denise Alvarez, open 30 days, due day 54)
+RISKS
+  - Downtown coordinators have not seen a draft since day 19; adoption risk at two clinics
+DECISIONS NEEDED
+  - Fax path: in or out of pilot (owner Denise Alvarez, by day 44)
+NEXT WEEK
+  - Send onboarding answers by day 47
+  - Shadow the downtown queue with Luis Ortega
+LINT  0 problem(s)
+

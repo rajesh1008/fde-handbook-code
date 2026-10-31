@@ -1,0 +1,185 @@
+{
+ "stem": "fig15-12",
+ "kind": "diagram",
+ "tool": "hand-laid SVG (signature7.py)",
+ "style": "style.md",
+ "source": "03-figures/src/ch15/fig15_12_signature7.py",
+ "source_sha1": "3c139f99406f",
+ "data": "signature7.STATES['ch15']",
+ "png_px": [
+  1650,
+  1579
+ ],
+ "rendered": "2026-10-31 19:48 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 5.264,
+ "aspect": 1.045,
+ "min_font_pt": 9.5,
+ "label_words": 45,
+ "contrast_pairs": [
+  [
+   "fieldkit 0.1.0: built",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "dashed arrow: imports",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "access.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "access ladder tracker",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "readiness.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "data-readiness register",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "fixtures.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "the four customers",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "engagement.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "deployment.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "cadence.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "escalation.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "escalation",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "datareadiness.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "field register",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "histories.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "replay",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "labs that import fieldkit",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Ch 15 lab",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "escalate_day47.py",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "still to come",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v2.x",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Part III",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v3",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Part IV",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v4\u2013v5",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Parts V\u2013VI",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 12.05
+}

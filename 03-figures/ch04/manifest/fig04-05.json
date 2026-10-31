@@ -1,0 +1,107 @@
+{
+ "stem": "fig04-05",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch04/fig04_05_caldwell_day10_day12.py",
+ "source_sha1": "de23c1ba82c6",
+ "data": "04-code/ch04/checklists.caldwell(day=10) and caldwell(day=12)",
+ "png_px": [
+  1650,
+  1380
+ ],
+ "rendered": "2026-10-31 19:17 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.6,
+ "aspect": 1.196,
+ "min_font_pt": 9.5,
+ "label_words": 16,
+ "contrast_pairs": [
+  [
+   "day 10",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gated 0.08, 14 blocking",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "capability",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "workflow",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "controls",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "ownership",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "reconstructability",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 12",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gated 0.14, 13 blocking",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "held",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "partial",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "missing",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "must-pass",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "moved",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

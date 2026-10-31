@@ -1,0 +1,26 @@
+engagement needs at level 3:
+  Caldwell     0.3 FTE  retained duties after hand-over  evaluation, governance
+  Greystone    1.8 FTE  shadow                           governance, discovery, evaluation, communication
+  Pennant      1.2 FTE  managed service with on-call     integration, build, judgment
+  Harbourline  2.4 FTE  build                            governance, evaluation, communication, discovery, decomposition
+
+solo (one FDE per customer): needs met 7 of 14; met by a single person 7; coordination 12 h/week
+  Caldwell     gaps: governance                 single: evaluation
+  Greystone    gaps: evaluation, communication  single: governance, discovery
+  Pennant      gaps: integration, build, judgment single: none; Pennant overnight rota depth 1
+  Harbourline  gaps: evaluation                 single: governance, communication, discovery, decomposition
+  load (need FTE, staff FTE, ratio): Caldwell (0.3, 1.0, 0.3); Greystone (1.8, 1.0, 1.8); Pennant (1.2, 1.0, 1.2); Harbourline (2.4, 1.0, 2.4)
+
+pods (two pods of three): needs met 13 of 14; met by a single person 10; coordination 27 h/week
+  Caldwell     gaps: none                       single: evaluation, governance
+  Greystone    gaps: none                       single: governance, discovery, evaluation, communication
+  Pennant      gaps: none                       single: integration, build, judgment; Pennant overnight rota depth 3
+  Harbourline  gaps: evaluation                 single: governance
+  load (need FTE, staff FTE, ratio): A (2.1, 3.0, 0.7); B (3.6, 3.0, 1.2)
+
+pods + shared evaluation lead: needs met 14 of 14; met by a single person 10; coordination 27 h/week
+  Caldwell     gaps: none                       single: evaluation, governance
+  Greystone    gaps: none                       single: governance, discovery, evaluation, communication
+  Pennant      gaps: none                       single: integration, judgment; Pennant overnight rota depth 4
+  Harbourline  gaps: none                       single: governance, evaluation
+  load (need FTE, staff FTE, ratio): A (2.1, 2.5, 0.84); B (3.6, 3.5, 1.03)

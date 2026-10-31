@@ -1,0 +1,4 @@
+day 56: alerts 3; D-01 open 51 days; 19 days to the D-07 deadline
+day 63: alerts 3; D-01 open 58 days; 12 days to the D-07 deadline
+day 70: alerts 3; D-01 open 65 days; 5 days to the D-07 deadline
+day 77: alerts 3; D-01 open 72 days; PAST the day-75 stop condition in D-07

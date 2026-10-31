@@ -1,0 +1,5 @@
+A. Change the freeze and the policy, and read the conflict check
+  freeze (440, 461) policy 14 d: v0 live day 466 (9 d past policy); conflict=True; v1 live day 446, 423 manual referrals
+  freeze (440, 461) policy  7 d: v0 live day 466 (16 d past policy); conflict=True; v1 live day 446, 423 manual referrals
+  freeze (440, 469) policy 14 d: v0 live day 473 (16 d past policy); conflict=True; v1 live day 446, 423 manual referrals
+  freeze (430, 445) policy 14 d: v0 live day 452 (0 d past policy); conflict=False

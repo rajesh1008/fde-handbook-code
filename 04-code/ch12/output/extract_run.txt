@@ -1,0 +1,21 @@
+fieldkit.bid v1.5: response v1.0, 8 answers, 32 claims
+  F  0
+  R 11
+  V  8
+  P  9
+  D  4
+  estate claims 5, every one F or R: True
+strip by answer:
+  D-01  RRPRRD
+  D-05  RPVPRD
+  E-03  RRV
+  F-02  PVRD
+  G-01  PPPPPD
+  H-02  V
+  H-06  VRV
+  I-01  VVR
+errors 0, warnings 2
+  WARN BC-09 D-05 NUMBER DEPENDS ON CUSTOMER SYSTEM: the number rests on the customer's gateway; no customer source for it
+       "Drafted sections will be returned through the gateway within 20 seconds for 95% of sections in shadow."
+  WARN BC-29 H-06 NUMBER DEPENDS ON CUSTOMER SYSTEM: the number rests on the customer's SIEM; no customer source for it
+       "Traces will reach the bank's SIEM within 5 minutes of the event."

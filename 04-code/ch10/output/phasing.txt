@@ -1,0 +1,6 @@
+option                                   layouts   volume    hours   tax  engagement tax*
+A  all 41 layouts in phase one                41     100%    1,500  3.00             3.00
+B  top 12 by volume, rest to a queue          12      76%      886  1.77             1.77
+C  B, carrier connectors as product           12      76%      886  1.77             1.15
+* option C: 35% of integration hours funded by Northlight's product budget as reusable connectors
+top 12 layouts carry 76% of monthly volume; the other 29 carry 24% (2,163 a month)

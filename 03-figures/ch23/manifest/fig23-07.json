@@ -1,0 +1,149 @@
+{
+ "stem": "fig23-07",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch23/fig23_07_stale.py",
+ "source_sha1": "e48cc505cf2c",
+ "data": "04-code/ch23/output/supersession.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 21:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 15,
+ "contrast_pairs": [
+  [
+   "16",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "as exported",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "recency boost",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "lifecycle register",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "questions, of 25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "17.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "older version above current",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "draft above current",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

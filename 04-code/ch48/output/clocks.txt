@@ -1,0 +1,22 @@
+CLOCK REGISTER  clocks that fire in production months 6 to 12  (deterministic stand-in)
+
+Caldwell (go-live day 158)
+  m 7 day 365  subscription renewal                     set day 0    before go-live  owner Daniel Reyes    v0 register yes
+  m10 day 428  severe-storm season surge                set day 0    before go-live  owner Anne Kessler    v0 register NO   -> incident
+  m10 day 429  rollback drill R-46 (quarterly)          set day 339  after  go-live  owner Catherine Doyle v0 register yes
+  m12 day 488  Owen Pryce notice period ends            set day 458  after  go-live  owner Daniel Reyes    v0 register NO 
+
+Pennant (go-live day 168)
+  m 6 day 344  Dana Whitaker leave starts               set day 300  after  go-live  owner Rosa Delgado    v0 register NO 
+  m 7 day 365  subscription renewal                     set day 0    before go-live  owner Grant Holloway  v0 register yes
+  m10 day 465  exit drill (twice a year)                set day 283  after  go-live  owner Rosa Delgado    v0 register yes
+  m10 day 467  EU lane client certificate (365 days)    set day 102  before go-live  owner Nadia Brooks    v0 register NO   -> incident
+
+Greystone (go-live day 196)
+  m 6 day 346  provider account team rotation           set day 290  after  go-live  owner Erin Walsh      v0 register NO 
+  m 7 day 384  largest payer's criteria revision        set day 120  before go-live  owner Michael Hart    v0 register NO   -> incident
+  m 9 day 440  EHR upgrade change freeze                set day 395  after  go-live  owner Erin Walsh      v0 register NO   -> incident
+  m10 day 481  annual penetration test                  set day 118  before go-live  owner Sam Oakley      v0 register NO 
+
+incidents after month six with a clock: 4; clock set before go-live: 3; on the v0 register: 0
+v0 register 5 clocks; v1 register 14 clocks

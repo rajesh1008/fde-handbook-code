@@ -1,0 +1,36 @@
+audit-400: 400 documents, 4,000 fields, routed by router v1 (thresholds signed day 132)
+  proceed   249 documents   62.3%
+  review    119 documents   29.8%
+  escalate   32 documents    8.0%
+  reasons:
+    all fields in proceed band, evidence passed   249
+    flagged fields                                119
+    no evidence                                    12
+    too many fields below floor                    12
+    conflicting sources                             5
+    budget exhausted                                3
+
+fields wrong as extracted: 407 of 4,000 (10.2%)
+fields wrong after routing and review: 36 of 4,000: post-review error 0.9% (95% interval 0.7% to 1.2%)
+final band   fields wrong after   rate
+proceed             2,925     20   0.7%
+review, suggested     660     11   1.7%
+review, keyed          95      0   0.0%
+escalate              320      5   1.6%
+critical fields wrong after review: 7
+
+by stratum (share of documents):
+  first notice, email   88  proceed   73%  review   18%  escalate    9%
+  first notice, fax     56  proceed   36%  review   54%  escalate   11%
+  first notice, mail    20  proceed   40%  review   40%  escalate   20%
+  police report         39  proceed   64%  review   31%  escalate    5%
+  repair estimate       45  proceed   60%  review   31%  escalate    9%
+  medical bill          57  proceed   82%  review   14%  escalate    4%
+  adjuster note         46  proceed   70%  review   26%  escalate    4%
+  photo log             49  proceed   53%  review   39%  escalate    8%
+
+the alternative, a person reviews every field with the suggestion shown:
+  documents a person opens: 400 of 400 (routed: 151 of 400)
+  post-review error: 1.1% (44 fields)
+
+router v0 on the first real sample: proceed-band error 14.8% (failure_injection.txt); router v1 after review: 0.9%

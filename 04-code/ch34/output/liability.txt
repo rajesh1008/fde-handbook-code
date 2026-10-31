@@ -1,0 +1,21 @@
+ACTIONS, RELEASE LEVEL AND LIABILITY
+  Caldwell   extract fields from a claim file      read and draft       adjuster reviews or the router proceeds  CA-09 v5 cap: 12 months of fees
+  Caldwell   route a document to review            draft                router threshold signed by Anne Kessler  CA-09 v5 cap; the threshold record is evidence
+  Caldwell   write an accepted draft to the claim  write (compensated)  release boundary (Ch25)                  CA-09 v5 cap; compensation path is evidence
+  Caldwell   set reserve, status or assignment     refused              Anne Kessler refused (Ch25)              outside the system
+  Greystone  draft a prior-authorization request   draft                coordinator, then clinician              GA-03 v127: capped; decisions on drafts are Greystone's
+  Greystone  submit to a payer                     refused              Michael Hart's rule (Ch25)               GA-03 v108 indemnified it anyway
+  Greystone  contact a patient                     refused              Michael Hart's rule (Ch25)               GA-03 v108 indemnified it anyway
+
+LINT ON GREYSTONE GA-03 (day 108)
+  GA-03.1  UNCAPPED     no cap stated
+  GA-03.1  AUTHORITY    REL-1: release boundary: the system drafts only; submit to a payer is refused (Ch25)
+
+RECONSTRUCTABILITY: WHAT THE AUDIT AND LIABILITY CLAUSES ASSUME (Caldwell)
+  recorded  document, page, field per output
+  recorded  prompt, model and code versions per run
+  recorded  gateway logs readable by Caldwell
+  recorded  reviewer corrections with who and when
+  recorded  evidence-pack format agreed with model risk
+  recorded from the first shadow run (day 106): build cost about 60 h ($9,000), already spent in Ch17
+  retrofit if it had been missing at signature: about 240 h ($36,000) forward only; every earlier output stays unreconstructable and has to be carved out of the audit clause

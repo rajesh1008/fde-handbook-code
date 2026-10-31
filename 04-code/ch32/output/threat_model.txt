@@ -1,0 +1,11 @@
+Greystone referral drafting agent: 22 threats across 9 components
+by category: spoofing 2, tampering 4, repudiation 2, information disclosure 6, denial of service 2, elevation of privilege 1, agent misuse 5
+found by STRIDE alone: 17 of 22; the agent category adds 5
+inherent risk:  high 6, medium 14, low 2
+with controls:  high 4, medium 3, low 15
+no control in place on day 103:
+  T03 intake          agent misuse            L4 x I4 = 16 high   -> F-09
+  T13 model endpoint  information disclosure  L3 x I4 = 12 high   -> F-10
+  T15 model endpoint  denial of service       L3 x I2 =  6 medium -> F-06
+  T21 trace store     information disclosure  L4 x I4 = 16 high   -> F-08
+  T22 trace store     information disclosure  L3 x I4 = 12 high   -> F-12

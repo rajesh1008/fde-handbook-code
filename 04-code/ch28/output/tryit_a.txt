@@ -1,0 +1,24 @@
+Try 1: the second failure. The progress signal counts any change in the result as progress.
+
+weak progress signal, repeat budget off: the breaker never opens; the step budget stops the run
+  call  1  patient.lookup(name=Maria Lopez, dob=1961-04-12) -> 2 records  progress=yes  breaker=closed
+  call  2  patient.lookup(name=Maria Lopez, dob=1961-04-12, clinic=downtown) -> 2 records  progress=yes  breaker=closed
+  call  3  patient.lookup(name=Maria E. Lopez, dob=1961-04-12) -> 2 records  progress=yes  breaker=closed
+  call  4  patient.lookup(name=Maria Lopez, dob=1961-04-12) -> 2 records  progress=yes  breaker=closed
+  call  5  patient.lookup(name=Maria Lopez, dob=1961-04-12, clinic=downtown) -> 2 records  progress=yes  breaker=closed
+  call  6  patient.lookup(name=Maria E. Lopez, dob=1961-04-12) -> 2 records  progress=yes  breaker=closed
+  call  7  patient.lookup(name=Maria Lopez, dob=1961-04-12) -> 2 records  progress=yes  breaker=closed
+  call  8  patient.lookup(name=Maria Lopez, dob=1961-04-12, clinic=downtown) -> 2 records  progress=yes  breaker=closed
+  call  9  patient.lookup(name=Maria E. Lopez, dob=1961-04-12) -> 2 records  progress=yes  breaker=closed
+  call 10  patient.lookup(name=Maria Lopez, dob=1961-04-12) -> 2 records  progress=yes  breaker=closed
+  call 11  patient.lookup(name=Maria Lopez, dob=1961-04-12, clinic=downtown) -> 2 records  progress=yes  breaker=closed
+  call 12  patient.lookup(name=Maria E. Lopez, dob=1961-04-12) -> 2 records  progress=yes  breaker=closed
+  stopped: step budget: 13 steps > 12
+  cost line: 12 tool calls, 58,740 tokens, $0.19, 22 s of wall clock
+
+progress means fewer candidate records: the breaker opens
+  call  1  patient.lookup(name=Maria Lopez, dob=1961-04-12) -> 2 records  progress=no  breaker=closed
+  call  2  patient.lookup(name=Maria Lopez, dob=1961-04-12, clinic=downtown) -> 2 records  progress=no  breaker=closed
+  call  3  patient.lookup(name=Maria E. Lopez, dob=1961-04-12) -> 2 records  progress=no  breaker=open
+  stopped: breaker open: 3 lookups without progress
+  cost line: 3 tool calls, 8,610 tokens, $0.03, 5 s of wall clock

@@ -1,0 +1,16 @@
+old practice on loop v0: mean of observed scores 3.75, rule 'mean of 3 or more' -> hire
+debrief c214 replayed on loop v0
+  discovery      scores []           median   -  n 0
+  decomposition  scores [3]          median 3.0  n 1
+  build          scores [4, 4, 4]    median 4.0  n 3
+  judgment       scores []           median   -  n 0
+  communication  scores []           median   -  n 0
+  THIN discovery: 0 observed score(s)
+  THIN decomposition: 1 observed score(s)
+  THIN judgment: 0 observed score(s)
+  THIN communication: 0 observed score(s)
+  probe: discovery: schedule a 30-minute observed probe
+  probe: decomposition: schedule a 30-minute observed probe
+  probe: judgment: schedule a 30-minute observed probe
+  probe: communication: schedule a 30-minute observed probe
+  decision: more evidence

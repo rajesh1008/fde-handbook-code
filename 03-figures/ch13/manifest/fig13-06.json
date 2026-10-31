@@ -1,0 +1,101 @@
+{
+ "stem": "fig13-06",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch13/fig13_06_clinic.py",
+ "source_sha1": "0d57787ef6f0",
+ "data": "04-code/ch13 lab fixtures",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:22 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 12,
+ "contrast_pairs": [
+  [
+   "day 30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "day 33",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "day 37",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "day 40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "items raised",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "decision",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "dated owner action",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no outcome",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

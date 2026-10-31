@@ -1,0 +1,14 @@
+RETAINER PRICING  $150/h loaded, target margin 60%, floor 40%, overage at 1.25x  (deterministic stand-in)
+band h  monthly fee  effective $/h  overage $/h  margin@50%  @100%  @150%  @200%
+     8  $     3,000  $      375.00  $    468.75   80.0%   60.0%   63.1%   64.4%
+    12  $     4,500  $      375.00  $    468.75   80.0%   60.0%   63.1%   64.4%
+    16  $     6,000  $      375.00  $    468.75   80.0%   60.0%   63.1%   64.4%
+    24  $     9,000  $      375.00  $    468.75   80.0%   60.0%   63.1%   64.4%
+    40  $    15,000  $      375.00  $    468.75   80.0%   60.0%   63.1%   64.4%
+
+Caldwell's 12-hour band with unlimited rollover: three quiet months bank 21 hours, then a model upgrade
+  month 1: used  5 h, carried in    0 h, margin   83.3%
+  month 2: used  4 h, carried in    7 h, margin   86.7%
+  month 3: used  6 h, carried in   15 h, margin   80.0%
+  month 4: used 33 h, carried in   21 h, margin  -10.0%
+  without rollover month 4 margin: 65.5%

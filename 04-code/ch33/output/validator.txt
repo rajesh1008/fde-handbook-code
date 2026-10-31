@@ -1,0 +1,33 @@
+one-model framing (day 74):  evidence 8  translation 0  boundary 6
+component framing (day 146): evidence 9  translation 2  boundary 3
+
+V01 Model purpose, use and users                             evidence   
+     system card and signed scope
+V02 Development data description and a sample                boundary   
+     the frontier model's training data is not available to anyone at Caldwell or Northlight; compensating: provider documentation filed; outcome testing on Caldwell's own documents; data for fitted parts supplied
+V03 Model specification, equations and coefficients          boundary   
+     weights are not available; the fitted router and the fine-tune are supplied in full; compensating: pinned version; any change is a recorded model change and a re-review
+V04 Conceptual soundness of the methodology                  translation   (boundary -> translation)
+     soundness of the design: decomposition, prompts, retrieval, thresholds and fallbacks
+V05 Assumptions and limitations                              evidence   
+     limits register from the sensitivity runs
+V06 Independent replication of the model                     translation   (boundary -> translation)
+     replicate the system: re-run the evaluation suite in Caldwell CI on the pinned version
+V07 Back-testing and outcomes analysis                       evidence   
+     gold-heldout, Anne's set and audit-400
+V08 Benchmarking against a challenger                        evidence   
+     p7 against the alias; c06-ft1 against c06-p4
+V09 Sensitivity analysis                                     evidence   
+     fax noise, rotation and handwriting by field
+V10 Stability of the model over time                         evidence      (boundary -> evidence)
+     repeat-run agreement and the drift monitors
+V11 Ongoing monitoring with thresholds                       evidence   
+     M1 to M6, each computable by Caldwell
+V12 Change management: what counts as a model change         evidence   
+     pins and recorded model changes
+V13 The vendor's own validation report for the base model    boundary   
+     the provider does not issue one to customers; compensating: provider system card and evaluation summary filed; notification clause for version changes
+V14 Training data for any component trained for Caldwell     evidence   
+     training-data record for history-6000, signed day 138
+
+lint: 0 problems

@@ -1,0 +1,125 @@
+{
+ "stem": "fig47-04",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch47/fig47_04_lint.py",
+ "source_sha1": "36d9656ee119",
+ "data": "04-code/ch47/output/lint_m15.txt, lint_m18.txt",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-11-01 01:57 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.0,
+ "label_words": 13,
+ "contrast_pairs": [
+  [
+   "E1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "E2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "E3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "E4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "E5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "E6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "E7",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "E8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "findings",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "month 15: 17 findings",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "month 18: 0 findings",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

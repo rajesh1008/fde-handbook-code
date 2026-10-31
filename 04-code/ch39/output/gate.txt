@@ -1,0 +1,15 @@
+Shadow Exit · Caldwell rc-1 · rule fixed day 141, bars day 154, read day 157
+check what                                       verdict    measured  |  needed
+G-1   window length                              pass       10 intake days, 2 calendar weeks, 3 logged changes  |  >= 10 days, >= 2 weeks
+G-2   coverage per stratum since its last change pass       lowest: first notice, fax n=115  |  >= 60 each
+G-3   agreement at the reference mix             pass       raw 88.0%, mix distance 0.01, reweighted 90.2%  |  >= 85% reweighted
+G-4   stability, last five intake days           pass       89.1% vs window 86.7% to 89.2%  |  inside the window interval
+G-5   silent errors                              condition  proceed since day 151: 2 of 446, upper 1.62%; broker template, date received: 3 clean days after day 151 fix  |  upper <= 3%; 4 clean days
+G-6   six streams ran before output              pass       103 of 163 caught, max phi 0.17  |  max phi <= 0.3
+G-7   scorecard S-1 to S-7                       condition  S-4 upper bound 1.47% above the 1.2% bar; others pass  |  all bars
+G-8   signatures                                 pass       Anne Kessler, Priya Natarajan, Owen Pryce  |  named owners
+decision: GO WITH CONDITIONS
+conditions carried into live:
+  C-1 broker-template date received: review band checks every template first notice, first 10 live intake days (Lena Ortiz)
+  C-2 S-4 interval: audit-live-400 over the first 10 live intake days must bring the upper bound to 1.2% or less, or the proceed band returns to shadow (Owen Pryce measures, Anne Kessler decides)
+cutover: day 158, all four in-scope types; shadow tap kept on a 5% blind sample for one Exhibit E month

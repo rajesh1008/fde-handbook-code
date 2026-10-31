@@ -1,0 +1,42 @@
+{
+ "sweep": [
+  {
+   "line": 0.4,
+   "through": 4,
+   "declined": 5
+  },
+  {
+   "line": 0.5,
+   "through": 3,
+   "declined": 6
+  },
+  {
+   "line": 0.6,
+   "through": 2,
+   "declined": 16
+  },
+  {
+   "line": 0.7,
+   "through": 0,
+   "declined": 32
+  },
+  {
+   "line": 0.8,
+   "through": 0,
+   "declined": 36
+  }
+ ],
+ "score_only": 4,
+ "na": {
+  "declined": 13,
+  "review": 2,
+  "proceed": 0
+ },
+ "ans": {
+  "declined": 16,
+  "review": 22,
+  "proceed": 97
+ },
+ "n_na": 15,
+ "n_ans": 135
+}

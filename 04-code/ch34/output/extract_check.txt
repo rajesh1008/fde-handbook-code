@@ -1,0 +1,18 @@
+MEASURABILITY AND CONTROL CHECK (day 138)  caldwell AI production addendum v3 (agreed in principle, day 136)
+  CA-01.1  UNMEASURABLE        missing unit, scorer, sample
+  CA-01.1  UNILATERAL MEASURE  as determined by Caldwell, no method
+  CA-02.1  UNCONTROLLED INPUT  console availability includes Caldwell's model gateway, whose key rotates every seven days (controlled by Caldwell)
+  CA-05.1  CONFLICT            R2: Caldwell produces the monthly monitoring report itself (review condition R2, Ch33)
+  CA-06.1  UNCONTROLLED INPUT  the provider retires dated model versions (controlled by the model provider)
+  CA-06.1  CONFLICT            GW-90: Caldwell's own gateway pins a dated model version for at most 90 days (Ch18)
+  CA-09.1  UNCAPPED            no limit on liability
+  CA-10.1  UNCONTROLLED INPUT  provider copies sit under the provider's own retention terms (controlled by the model provider)
+  8 findings on 6 of 13 commitments
+
+PRICED HONESTLY: an unmeasurable service level is priced at the reading the other party controls
+  CA-01.1  $  466,667  credits: 3 of 4 readings miss; Caldwell chooses -> missed 7 of 7 months
+  CA-02.1  $   93,333  credits: 99.71% at the adjuster console -> missed
+  CA-03.1  $   96,000  24x7 one-hour Severity 1 rota, four engineers, 7 months
+  base cost before the addendum $780,790 -> margin 56.6%
+  addendum commitments          $1,163,100
+  year-one revenue $1,800,000  cost $1,943,890  gross margin -8.0%   (forecast)

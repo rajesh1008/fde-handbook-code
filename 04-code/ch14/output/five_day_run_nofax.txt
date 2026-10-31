@@ -1,0 +1,42 @@
+Greystone Health: five days on site (days 15 to 19). Deterministic stand-in: no model calls.
+Before Monday: synthetic-referrals granted; azure-subscription in review; referral-sample requested
+Question bank lint, Friday draft (day 12): 11 problems in 4 questions; bank as taken on site: 0 problems in 34 questions
+
+day 15 | room     | Michael's room and the floor
+day 15 | output   | workflow walked at two clinics; backlog by referral type
+day 15 | bank     | 3 of 33 answered; blocking open 21
+
+day 16 | room     | Sam's room
+day 16 | output   | controls answered; gate calendar with days
+day 16 | bank     | 17 of 33 answered; blocking open 11
+
+day 17 | room     | the pipeline, step by step
+day 17 | output   | every step classified; Michael's allowed and refused list
+day 17 | bank     | 23 of 33 answered; blocking open 7
+day 17 | tree     | det 16, rules 4, small 3, frontier 2; deterministic 64%
+day 17 | Michael  | 5 steps draft only; 3 actions refused; 20 allowed as built
+
+day 18 | room     | the scoping document
+day 18 | output   | draft with claim statuses; lint run
+day 18 | bank     | 29 of 33 answered; blocking open 1
+day 18 | lint v0.3| 10 refusals in 10 lines
+         - UNBOUNDED-SCOPE line 01 [scope]: Release 1 automates referral intake for all referrals at Greystone clinics.
+         - ACCURACY-NO-SCORER line 03 [success]: Draft accuracy of 90% or better.
+         - NUMBER-NO-STRIP line 04 [success]: Backlog falls from 31 days to under 10 days.
+         - AUTONOMY-REFUSED line 05 [autonomy]: The system submits routine prior-authorization requests.
+         - UPGRADED-STATUS line 07 [controls]: Managed-service provider change takes 18 days.
+         - DATE-NO-CALENDAR line 08 [plan]: Pilot on day 120.
+         - DECISION-NO-OWNER line 09 [decisions]: Which two clinics run the pilot.
+         - DECISION-NO-DATE line 09 [decisions]: Which two clinics run the pilot.
+         - NO-STATUS line 10 [out of scope]: Patient-facing messages.
+         - EXCLUSION-NO-OWNER line 10 [out of scope]: Patient-facing messages.
+
+day 19 | room     | read-back and signature
+day 19 | output   | signed scope, exclusions with owners, projected pilot day
+day 19 | bank     | 31 of 33 answered; blocking open 0
+day 19 | lint v1.0| 0 refusals in 13 lines
+day 19 | projected| data day 112, pilot day 140 (critical path: data, slack 4 days)
+day 19 | signed   | Michael Hart, CMIO; VP ambulatory operations; Sam Oakley, Security Lead; Northlight
+
+Engagement repo lint, day 19: clean
+Open decisions: red-flags (owner Michael Hart, due day 40)

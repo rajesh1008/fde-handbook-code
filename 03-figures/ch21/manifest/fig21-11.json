@@ -1,0 +1,101 @@
+{
+ "stem": "fig21-11",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch21/fig21_11_reconstruct.py",
+ "source_sha1": "24e2a104968b",
+ "data": "04-code/ch21/reconstruct.py WITHOUT, WITH; output/reconstruct.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:44 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 17,
+ "contrast_pairs": [
+  [
+   "240 min",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4 min",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "FX rate on day 66: unrecoverab",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "minutes (assumed per-step time",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "150",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "250",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "300",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "without\nlineage",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "with\nlineage",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

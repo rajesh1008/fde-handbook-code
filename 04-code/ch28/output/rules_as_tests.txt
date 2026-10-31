@@ -1,0 +1,10 @@
+suite v1: 56 live rules, 113 tests, 113 pass, 0 fail, untested 0, missing checks 0
+suite v2: 56 live rules, 116 tests, 116 pass, 0 fail, untested 0, missing checks 0
+suite v3: 60 live rules, 125 tests, 125 pass, 0 fail, untested 0, missing checks 0
+
+the day 124 test cases against each version of I-04
+  I-04 v1: code F10.239: pass (WRONG); text only 'detox': pass (WRONG); twin F17.210: pass; twin F10.10 history: pass
+  I-04 v2: code F10.239: catch; text only 'detox': pass (WRONG); twin F17.210: pass; twin F10.10 history: pass
+  I-04 v3: code F10.239: catch; text only 'detox': catch; twin F17.210: pass; twin F10.10 history: pass
+
+fail-closed demo: O-11 check removed -> missing ['O-11'], clean draft decision: block

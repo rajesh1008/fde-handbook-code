@@ -1,0 +1,8 @@
+pass held on day 129: 41 of 41 pass
+pass held on day 143: 41 of 41 pass
+pass held on day 144: 39 of 41 pass; failing SQ-02, SQ-18
+pass held on day 158: 37 of 41 pass; failing SQ-02, SQ-14, SQ-18, SQ-26
+pass held on day 188: 32 of 41 pass; failing SQ-02, SQ-03, SQ-08, SQ-14, SQ-18, SQ-24, SQ-25, SQ-26, SQ-27
+pass held on day 190: 21 of 41 pass; failing SQ-01, SQ-02, SQ-03, SQ-04, SQ-08, SQ-11, SQ-12, SQ-13, SQ-14, SQ-15, SQ-16, SQ-17, SQ-18, SQ-19, SQ-20, SQ-21, SQ-24, SQ-25, SQ-26, SQ-27
+pass held on day 218: 19 of 41 pass; failing SQ-01, SQ-02, SQ-03, SQ-04, SQ-08, SQ-11, SQ-12, SQ-13, SQ-14, SQ-15, SQ-16, SQ-17, SQ-18, SQ-19, SQ-20, SQ-21, SQ-24, SQ-25, SQ-26, SQ-27, SQ-30, SQ-31
+pass held on day 250: 16 of 41 pass; failing SQ-01, SQ-02, SQ-03, SQ-04, SQ-08, SQ-11, SQ-12, SQ-13, SQ-14, SQ-15, SQ-16, SQ-17, SQ-18, SQ-19, SQ-20, SQ-21, SQ-22, SQ-23, SQ-24, SQ-25, SQ-26, SQ-27, SQ-30, SQ-31, SQ-40

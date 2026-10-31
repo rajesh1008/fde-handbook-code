@@ -1,0 +1,77 @@
+{
+ "stem": "fig03-13",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch03/figures.py",
+ "source_sha1": "6bf27462d7f1",
+ "data": null,
+ "png_px": [
+  1650,
+  1711
+ ],
+ "rendered": "2026-10-31 19:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 5.704,
+ "aspect": 0.964,
+ "min_font_pt": 10.0,
+ "label_words": 26,
+ "contrast_pairs": [
+  [
+   "inside Caldwell: kept",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Kessler's sent email",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Northlight: deleted, attested",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Northlight mailbox",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "laptop Downloads",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "notebook outputs",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "team chat screenshots",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "model provider: not verifiable",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "request logs, deletion request",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,23 @@
+c06-ft1 vs c06-p4 on Anne's set (n=900)
+  c06-ft1: 833 right (92.6%, 95% CI 90.7 to 94.1)
+  c06-p4:  796 right (88.4%, 95% CI 86.2 to 90.4)
+  both right 761, only c06-ft1 right 72, only c06-p4 right 35, both wrong 32
+  exact McNemar p = 0.00045: A better
+c06-ft1 + guard vs c06-p4 on Anne's set (n=900)
+  c06-ft1 + guard: 838 right (93.1%, 95% CI 91.3 to 94.6)
+  c06-p4:  796 right (88.4%, 95% CI 86.2 to 90.4)
+  both right 765, only c06-ft1 + guard right 73, only c06-p4 right 31, both wrong 31
+  exact McNemar p = 4.7e-05: A better
+
+kind (true class)              n  ft1+guard   c06-p4
+T1 Caldwell form             305      98.4%    95.4%
+T2 agency form               113      98.2%    95.6%
+T2 on Caldwell template       44      11.4%    29.5%
+T3 letter/email              162      93.2%    92.0%
+T4 estimate                   92     100.0%    95.7%
+T4 supplement                  7     100.0%   100.0%
+none: medical                 52     100.0%   100.0%
+none: police/fire             54     100.0%    96.3%
+none: correspondence          66      92.4%    48.5%
+none: attorney letter          5     100.0%    80.0%
+in-scope documents held by the guard: 0

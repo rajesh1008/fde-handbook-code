@@ -1,0 +1,125 @@
+{
+ "stem": "fig16-11",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch16/fig16_11_sample_size.py",
+ "source_sha1": "90957a130af9",
+ "data": "04-code/ch16/output/tryit_b.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:28 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 14,
+ "contrast_pairs": [
+  [
+   "66.6 to 74.6\n(8.0 points)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "67.8 to 73.4\n(5.6 points)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "68.8 to 72.7\n(3.9 points)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "synthetic v1, 94.1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "50 documents",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100 documents",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200 documents",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "real field accuracy (%)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "65",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "70",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "75",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "85",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "90",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "95",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

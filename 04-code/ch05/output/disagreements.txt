@@ -1,0 +1,69 @@
+FIRST-MONTH DISAGREEMENT LOG  (14 entries, days 1 to 30)
+  day  3  scope and change         Greystone kept: neither
+          Callum: write a change request for the referral form
+          Sofia:  prompt the model to read it
+          ruling: product backlog; no change request
+  day  4  whose stack              Pennant   kept: C
+          Callum: use the customer's cloud document service
+          Sofia:  call the lab-hosted frontier model
+          ruling: Northlight product inside the customer's cloud
+  day  6  model or deterministic   Pennant   kept: neither
+          Callum: one template per layout, 41 templates
+          Sofia:  one prompt for all 41 layouts
+          ruling: six layout families, rules first, model last
+  day  8  scope and change         Greystone kept: C
+          Callum: bill the extra integration hours under T&M
+          Sofia:  absorb them, it is a flagship
+          ruling: bill to the cap, then Northlight absorbs; tell sales
+  day  9  where reuse goes         Pennant   kept: neither
+          Callum: keep a personal accelerator repo
+          Sofia:  send failures to a research team
+          ruling: product backlog with a reproduction
+  day 11  exit and hand-over       Pennant   kept: neither
+          Callum: propose a run-state managed service
+          Sofia:  hand over after the prototype passes
+          ruling: hand over to product support after Live Stable
+  day 12  what goes in the product Greystone kept: S
+          Callum: build the SSO group mapping as client code
+          Sofia:  put it in the platform; every customer has a directory
+          ruling: productize: second customer asked
+  day 15  model or deterministic   Pennant   kept: both
+          Callum: regex for dates, no model
+          Sofia:  model for dates, it is good at it
+          ruling: regex for printed dates; model for handwritten, measured
+  day 17  whose stack              Greystone kept: both
+          Callum: defer to the managed-service provider's standards
+          Sofia:  bring the lab's evaluation suite
+          ruling: customer's standards; Northlight eval suite inside them
+  day 19  exit and hand-over       Greystone kept: neither
+          Callum: stay on after go-live as the run team
+          Sofia:  leave at go-live
+          ruling: stay to Live Stable, then product support
+  day 22  where reuse goes         Greystone kept: S
+          Callum: tag the export as a reusable accelerator
+          Sofia:  not worth keeping
+          ruling: client-specific; document it, do not productize
+  day 24  what goes in the product Pennant   kept: neither
+          Callum: customer-specific layout table in the customer's repo
+          Sofia:  fine-tune on Pennant's layouts
+          ruling: layout-family detector into the product
+  day 26  scope and change         Pennant   kept: S
+          Callum: re-scope the fixed fee for the new layouts
+          Sofia:  absorb and move fast
+          ruling: absorb, log it in the hours ledger, price the next deal from it
+  day 29  exit and hand-over       Greystone kept: C
+          Callum: write the exit date into the statement of work
+          Sofia:  no exit date needed
+          ruling: exit gate in the plan: Live Stable plus 30 days
+BY AXIS
+  scope and change          3
+  what goes in the product  2
+  model or deterministic    2
+  exit and hand-over        3
+  where reuse goes          2
+  whose stack               2
+WHOSE INSTINCT THE RULING KEPT
+  Callum (integrator)           3
+  Sofia (lab)                   3
+  both                          2
+  neither: the vendor rule won  6

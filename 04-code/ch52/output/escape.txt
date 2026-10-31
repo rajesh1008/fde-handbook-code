@@ -1,0 +1,9 @@
+intake summaries on the 34 test documents that contain a dispute statement
+version           kept  dropped  summary tokens
+gm-2026-05-14       34        0             212
+gm-n1               33        1             190
+gm-n2               22       12             131
+suite on gm-n2 with router v1.2: merge (4 of 4 checks pass; none reads the summary)
+
+with the dispute-statement slice added to layer 2: decision block, caught at layer 2 (component)
+  L2 gold set: weighted 92.9% -> 94.8%; gate pass; dispute statement dropped in 12 of 34 summaries (G102, G298, G227, G159, ...)

@@ -1,0 +1,3 @@
+as estimated       tax P10 2.90  P50 3.29  P90 3.72  width 0.82
+facts confirmed    tax P10 2.87  P50 3.25  P90 3.67  width 0.80
+and layouts timed  tax P10 2.69  P50 3.02  P90 3.38  width 0.69

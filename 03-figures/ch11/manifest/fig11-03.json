@@ -1,0 +1,131 @@
+{
+ "stem": "fig11-03",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch11/fig11_03_scores.py",
+ "source_sha1": "ed416f0d5e34",
+ "data": "04-code/ch11 lab",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 20:09 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.5,
+ "label_words": 32,
+ "contrast_pairs": [
+  [
+   "not usable",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "usable",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "usable",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "usable",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "usable",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "score (share of five roles)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.00",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.75",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1.00",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Greystone d2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Greystone d12",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Greystone d40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Caldwell d25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Pennant d28",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "naive: a name in the column",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gated: confirmed and in contac",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,183 @@
+{
+ "rows": [
+  {
+   "night": 1,
+   "passed": 43,
+   "target": 0.93,
+   "minutes": 71,
+   "usd": 31.4,
+   "reported": "green"
+  },
+  {
+   "night": 2,
+   "passed": 43,
+   "target": 0.93,
+   "minutes": 68,
+   "usd": 30.1,
+   "reported": "green"
+  },
+  {
+   "night": 3,
+   "passed": 42,
+   "target": 0.91,
+   "minutes": 97,
+   "usd": 44.8,
+   "reported": "green"
+  },
+  {
+   "night": 4,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 66,
+   "usd": 29.6,
+   "reported": "green"
+  },
+  {
+   "night": 5,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 70,
+   "usd": 31.0,
+   "reported": "green"
+  },
+  {
+   "night": 6,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 69,
+   "usd": 30.7,
+   "reported": "green"
+  },
+  {
+   "night": 7,
+   "passed": 42,
+   "target": 0.91,
+   "minutes": 102,
+   "usd": 47.2,
+   "reported": "green"
+  },
+  {
+   "night": 8,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 72,
+   "usd": 31.9,
+   "reported": "green"
+  },
+  {
+   "night": 9,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 66,
+   "usd": 29.4,
+   "reported": "green"
+  },
+  {
+   "night": 10,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 70,
+   "usd": 30.8,
+   "reported": "green"
+  },
+  {
+   "night": 11,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 71,
+   "usd": 31.3,
+   "reported": "green"
+  },
+  {
+   "night": 12,
+   "passed": 42,
+   "target": 0.91,
+   "minutes": 94,
+   "usd": 43.6,
+   "reported": "green"
+  },
+  {
+   "night": 13,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 68,
+   "usd": 30.2,
+   "reported": "green"
+  },
+  {
+   "night": 14,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 67,
+   "usd": 29.9,
+   "reported": "green"
+  },
+  {
+   "night": 15,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 70,
+   "usd": 31.1,
+   "reported": "green"
+  },
+  {
+   "night": 16,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 69,
+   "usd": 30.6,
+   "reported": "green"
+  },
+  {
+   "night": 17,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 72,
+   "usd": 32.0,
+   "reported": "green"
+  },
+  {
+   "night": 18,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 66,
+   "usd": 29.5,
+   "reported": "green"
+  },
+  {
+   "night": 19,
+   "passed": 43,
+   "target": 0.91,
+   "minutes": 71,
+   "usd": 31.5,
+   "reported": "green"
+  }
+ ],
+ "edits": [
+  [
+   1,
+   "target",
+   "1.00 -> 0.93"
+  ],
+  [
+   3,
+   "target",
+   "0.93 -> 0.91"
+  ],
+  [
+   3,
+   "wall_clock_min",
+   "90 -> 120"
+  ]
+ ],
+ "total_usd": 626.6,
+ "spec": {
+  "stop": {
+   "done": "46 of 46 adapter contract tests, run by nl-platform-ci",
+   "wall_clock_min": 90,
+   "cost_usd": 25.0,
+   "on_miss": "park: open an issue for a person, change nothing"
+  },
+  "cost_bound_usd": 25.0
+ }
+}

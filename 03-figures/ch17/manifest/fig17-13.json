@@ -1,0 +1,143 @@
+{
+ "stem": "fig17-13",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch17/fig17_13_lint.py",
+ "source_sha1": "ed683d6bfbab",
+ "data": "04-code/ch17/output/env_doc.txt",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 21:11 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.5,
+ "label_words": 14,
+ "contrast_pairs": [
+  [
+   "5",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "where does it run?",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "whose identity?",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "who sees the logs?",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "lint findings",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "day 57 (10)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 63 (0)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

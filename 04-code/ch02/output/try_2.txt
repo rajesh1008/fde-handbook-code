@@ -1,0 +1,4 @@
+VARIATION 2  Pennant Logistics: staffing
+  1.5 FDEs                           months 11.1  hours  2,338  margin  46.8%  renewal 62%
+  2.0 FDEs                           months  8.4  hours  2,540  margin  42.2%  renewal 80%
+  3.0 FDEs                           months  5.8  hours  2,760  margin  37.2%  renewal 93%

@@ -1,0 +1,27 @@
+hand-over readiness: Caldwell, day 176 (drill 1)
+item dimension   status    gate  demonstrated by
+R1   runbooks    alone     gate  Anne Kessler, Priya Natarajan, Ruth Calloway
+R2   runbooks    alone           platform on-call rota, Priya Natarajan
+R3   runbooks    alone           Anne Kessler, platform on-call rota
+R4   runbooks    alone           platform on-call rota, Priya Natarajan
+E1   reference   alone           platform on-call rota, Owen Pryce, Tom Whitfield
+E2   reference   alone           Priya Natarajan
+E3   reference   assisted        Owen Pryce, Priya Natarajan
+T1   training    alone           Tom Whitfield, Lena Ortiz
+T2   training    alone           Owen Pryce, platform on-call rota
+T3   training    alone           Owen Pryce
+T4   training    assisted        Priya Natarajan, platform on-call rota
+M1   monitoring  exists    gate  -
+M2   monitoring  alone           Owen Pryce, Ruth Calloway
+M3   monitoring  assisted        Anne Kessler, Ruth Calloway
+M4   monitoring  alone           platform on-call rota
+C1   raci        alone     gate  Anne Kessler, Priya Natarajan
+C2   raci        alone           Anne Kessler, Priya Natarajan
+D1   drill       assisted  gate  platform on-call rota
+D2   drill       assisted        platform on-call rota, Priya Natarajan
+D3   drill       alone           Anne Kessler, platform on-call rota, Ruth Calloway
+naive (artifact exists)      1.00
+evidence credit (raw)        0.825
+gated score                  0.60  capped: gates failing M1, D1
+by dimension: runbooks 1.00  reference 0.83  training 0.88  monitoring 0.62  raci 1.00  drill 0.67
+largest single-person drops: none

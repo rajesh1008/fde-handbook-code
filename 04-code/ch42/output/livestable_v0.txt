@@ -1,0 +1,10 @@
+NINETY-DAY REVIEW  Pennant  mode v0  run on production day 60  (deterministic stand-in)
+OPEN  1 no open Sev-1 or Sev-2                        INC-P-038 open: no runbook change owner  [Northlight]
+OPEN  2 matched >= 80%, silent <= 0.5%, last 4 weeks  days 33-60: 47038/56899 matched 82.7%, silent 156 (0.27%)  [Northlight]
+OPEN  3 drift monitor read by the customer weekly     monthly sample, read by Northlight  [Northlight]
+OPEN  4 incident drill passed alone, TTM <= 30 min    no drill; day-38 TTM 60 min  [nobody]
+OPEN  5 every model change recorded and approved      EU pin retires day 62; no plan  [nobody]
+OPEN  6 two-of-five rule and named deputies           own-exec and provider account orphaned  [nobody]
+OPEN  7 hand-over readiness >= 0.80                   0.30 (Chapter 41 score after day 14)  [Kofi Mensah]
+OPEN  8 gold set refreshed on production documents    not since go-live  [nobody]
+verdict: NOT YET

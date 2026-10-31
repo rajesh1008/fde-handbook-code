@@ -1,0 +1,30 @@
+Year one, signature (day 1) to day 365, US dollars (deterministic stand-in)
+                                       Caldwell Mutual    Greystone Health   Pennant Logistics
+revenue
+  subscription                              $1,600,000                  $0            $740,000
+  services (fixed)                            $200,000                  $0                  $0
+  services (T&M cap)                                $0            $450,000                  $0
+  services (phased)                                 $0                  $0            $821,284
+  managed service                                   $0                  $0             $55,000
+  total revenue                             $1,800,000            $450,000          $1,616,284
+cost of revenue
+  FDE hours                                   $577,950            $688,200            $508,650
+  model and hosting                            $63,123             $48,030             $52,810
+  product support and platform                $160,000                  $0             $74,000
+  contract commitments                        $142,000                  $0                  $0
+  managed service delivery                          $0                  $0             $36,025
+  total cost                                  $943,073            $736,230            $671,485
+gross profit                                  $856,927           -$286,230            $944,799
+year-one gross margin                            47.6%              -63.6%               58.5%
+FDE hours, year one                              3,853               4,588               3,391
+revenue per FDE hour                              $467                 $98                $477
+target 60%, floor 40% (Chapter 2). Caldwell matches Chapter 46's waterfall (47.6%).
+hours after day 190 (stand-in):
+  caldwell   sustain and retainer (0.5 FTE) 403
+  greystone  shadow support and letter fixes 520; evaluation suite reruns 260; payer-rule changes 230; steering and sponsor 120; blocked 158
+  pennant    production operations to Live Stable 300; hand-over rebuild after the sponsor left 180; Live Stable evidence 120; incident INC-P-038 90; runbooks and exit drills 140; managed-service scoping 40; night duty never booked 61
+MARGINS {'caldwell': 47.6, 'greystone': -63.6, 'pennant': 58.5}
+GP {'caldwell': 856927, 'greystone': -286230, 'pennant': 944799}
+HOURS {'caldwell': 3853, 'greystone': 4588, 'pennant': 3391}
+REV {'caldwell': 1800000, 'greystone': 450000, 'pennant': 1616284}
+COSTS {'caldwell': {'FDE hours': 577950, 'model and hosting': 63123, 'product support and platform': 160000, 'contract commitments': 142000}, 'greystone': {'FDE hours': 688200, 'model and hosting': 48030, 'product support and platform': 0}, 'pennant': {'FDE hours': 508650, 'managed service delivery': 36025, 'model and hosting': 52810, 'product support and platform': 74000}}

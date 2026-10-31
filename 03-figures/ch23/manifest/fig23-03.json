@@ -1,0 +1,59 @@
+{
+ "stem": "fig23-03",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch23/fig23_03_inherit.py",
+ "source_sha1": "8f058edf9d78",
+ "data": "04-code/ch23/output/acl_inherit.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 21:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 20,
+ "contrast_pairs": [
+  [
+   "source file\nACL: claims-siu",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "ingest copies\nthe ACL",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "permission\nfilter",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "rank\ntop ten",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "empty ACL:\nrefused (52)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "filter first, then rank",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

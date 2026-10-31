@@ -1,0 +1,6 @@
+Pennant drill (alerts rerouted to Pennant): file drop volume guard; deadline 03:30 Central
+02:00 TMS CSV lands; 02:04 volume guard holds the file
+02:06  P-02 fires, routed to integration@pennant.example
+02:06  page reaches Kofi Mensah's team (from 06:00): nobody on rota
+time to detect never (no customer acknowledgment); time to mitigate never; vendor touches 0; deadline missed
+drill FAILED (criteria: detect <= 15 min, mitigate <= 60 min, no vendor touch)

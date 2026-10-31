@@ -1,0 +1,12 @@
+evidence gates on audit-400 fields (checked before any score is read):
+reason                 fields documents score >= proceed of those wrong
+budget exhausted           30         3               30              0
+conflicting sources         7         5                2              2
+no evidence                12        12                4              0
+
+the same router with the evidence folded into the score only (gates off):
+  wrong fields that proceed unreviewed: gates on 20, gates off 23
+  post-review error: gates on 0.90%, gates off 0.97%
+
+one field, as the review screen shows it:
+  AUD-0316 policy_number: calibrated score 0.960 (proceed band), first notice and attached email disagree -> escalate, reason 'conflicting sources'; value wrong on audit

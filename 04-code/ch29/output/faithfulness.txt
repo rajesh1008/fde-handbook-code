@@ -1,0 +1,10 @@
+Anne's question set: 150 questions, 336 claims in answers, 325 supported by the cited current passage -> faithfulness 96.7%
+  procedure              156 of 165 claims supported
+  form or code            62 of  62 claims supported
+  version-sensitive       59 of  60 claims supported
+  cross-document          48 of  49 claims supported
+  not in the documents     0 of   0 claims supported
+checker vs Joan Mercer on 60 answers (163 claims): unsupported 5, checker caught 5, false alarms 4 of 158 supported
+lifecycle filter off (mutant M07): faithfulness 89.6%, superseded citations 24 (all 24 version-sensitive questions)
+  per-PR subset first40      : 0 version-sensitive, superseded citations seen 0
+  per-PR subset stratified40 : 8 version-sensitive, superseded citations seen 8

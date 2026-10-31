@@ -1,0 +1,17 @@
+Signature 14 · Caldwell shadow funnel, intake days 142 to 153 (rc-1; outputs never served)
+documents seen by the tap                             2,410  100.0%
+agent decisions (typed and routed)                    2,397   99.5%
+  proceed                                             1,494   62.3%  of decided
+  review                                                714   29.8%  of decided
+  escalate                                              189    7.9%  of decided
+  no decision (untyped)                                  13    0.5%
+human decisions (clerks keyed six fields)             2,410  100.0%
+agreements, all six fields                            2,121   88.0%
+disagreements                                           289   12.0%
+  equivalent format                                      61    2.5%
+  human wrong, agent right                               52    2.2%
+  agent wrong                                           176    7.3%
+    loud (flagged, routed or escalated)                 140    5.8%
+    silent (proceed, no stream fired, or dropped)        36    1.5%
+escalations (agent escalate + untyped)                  202    8.4%
+agreement 88.0% (95% interval 86.7% to 89.2%); right or equivalent 92.7%; agent-wrong rate 7.3%

@@ -1,0 +1,5 @@
+id,opened_day,closed_day,title,owner,tag
+GH-31,38,42,Private endpoint for the model gateway,netops@greystone-msp.net,access
+GH-33,40,,Managed identity for the pipeline,identity@greystone-msp.net,access
+GH-34,41,41,Clinical review of 15 summaries,michael.hart@greystonehealth.org,pass
+GH-36,42,,Log export format agreed,soc@greystone-msp.net,access

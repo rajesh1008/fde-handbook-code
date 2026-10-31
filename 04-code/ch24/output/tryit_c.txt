@@ -1,0 +1,3 @@
+token lifetime  300 s: exchanges 2688, cache hits  912 (25.3%), worst-case revocation lag 5 min
+token lifetime  900 s: exchanges 1596, cache hits 2004 (55.7%), worst-case revocation lag 15 min
+token lifetime 3600 s: exchanges  606, cache hits 2994 (83.2%), worst-case revocation lag 60 min

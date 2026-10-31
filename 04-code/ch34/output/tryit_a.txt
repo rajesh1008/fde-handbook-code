@@ -1,0 +1,4 @@
+a. point rule n  400 breach above 1.00%: P(breach) at 0.9% 29.3% a month, expected credits $13,683 at 5%
+a. point rule n  400 breach above 1.25%: P(breach) at 0.9% 15.5% a month, expected credits $7,234 at 5%
+a. point rule n 1000 breach above 1.00%: P(breach) at 0.9% 29.3% a month, expected credits $13,695 at 5%
+a. designed rule n 310 breach at 7: P(breach) at 0.9% 2.3%

@@ -1,0 +1,21 @@
+submission 2 (day 152): plan items 75, evidenced 75, lint findings 0
+  metric M1 agreement with credit review, 90 memos a month: computable by the bank
+  metric M2 numeric gate blocks per 100 drafts: computable by the bank
+  metric M3 canary set agreement after any provider change: computable by the bank
+  metric M4 retrieval recall on policy questions: computable by the bank
+  V1 [evidence] Which components are models under our policy: Listing 50.5: five full scope
+  V2 [evidence] What is the challenger: 546 of 600 against the officer's own memo
+  V3 [boundary] What happens when the provider withdraws the model version: pinned at the gateway, 90 days' notice, revalidation trigger, drafting off as fallback
+  mutation run: 120/120 injected drafts caught; 40/40 clean drafts passed
+  Model-Risk Approval plan       all      met        100.0% (75/75; 95.1% to 100.0%)
+  Model-Risk Approval gate       all      met        100.0% (120/120; 96.9% to 100.0%)
+  Shadow Exit agreement  all      met        91.0% (546/600; 88.4% to 93.0%)
+  Shadow Exit agreement  IFRS     met        91.7% (286/312; 88.1% to 94.2%)
+  Shadow Exit agreement  ASPE     met        90.7% (205/226; 86.2% to 93.8%)
+  Shadow Exit agreement  US GAAP  accepted   88.7% (55/62; 78.5% to 94.4%); accepted by Helen Marsh, day 150
+gate stack:
+  Architecture Review  passed                   day 61   
+  Build Complete       passed                   day 112  
+  Shadow Exit          passed with conditions   day 150  
+  Model-Risk Approval  passed with conditions   day 158  
+  Live Stable          not started                       

@@ -1,0 +1,167 @@
+{
+ "stem": "fig09-09",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch09/fig09_09_ltv_answers.py",
+ "source_sha1": "9aaf89d6aba7",
+ "data": "04-code/ch09 lab",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:54 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 18,
+ "contrast_pairs": [
+  [
+   "policy max 75%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "correct 73.0%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "combined loan-to-value answere",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "55",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "65",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "70",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "75",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "85",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "90",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "runs",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "35",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "prior charge left out",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "arithmetic slip",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "right",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "purchase price as value",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

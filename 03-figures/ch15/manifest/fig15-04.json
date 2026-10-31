@@ -1,0 +1,131 @@
+{
+ "stem": "fig15-04",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch15/fig15_04_field_work.py",
+ "source_sha1": "5f590f083597",
+ "data": "04-code/fieldkit histories.caldwell_fields()",
+ "png_px": [
+  1650,
+  1380
+ ],
+ "rendered": "2026-10-31 19:48 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.6,
+ "aspect": 1.196,
+ "min_font_pt": 9.5,
+ "label_words": 35,
+ "contrast_pairs": [
+  [
+   "never delivered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "join to gold labels",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "deletion proof by key",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "duplicate check",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "coverage check",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "late-notice rule",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "routing by document type",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "cost per document",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "recognition gate",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "claimant match",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "bank_account",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "claimant",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "ocr_confidence",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "pages",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "doc_type",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "loss_date",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "policy_number",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "claim_id",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

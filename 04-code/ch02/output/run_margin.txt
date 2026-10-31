@@ -1,0 +1,16 @@
+YEAR-ONE MARGIN  loaded rate $150/FDE hour  (illustrative, Northlight-fictional)
+customer          plan            months  hours   revenue     cost  margin   renew
+Caldwell Mutual   deal sheet         4.5  1,785    1,800k     509k   71.7%     93%
+Caldwell Mutual   field estimate     8.9  3,078    1,800k     676k   62.4%     80%
+Greystone Health  deal sheet         4.6  2,136    1,895k     575k   69.7%     93%
+Greystone Health  field estimate    10.8  3,993      688k     680k    1.1%     62%
+Pennant Logistics deal sheet         4.5  1,473      860k     351k   59.2%     93%
+Pennant Logistics field estimate     8.4  2,540      860k     498k   42.2%     80%
+gap the deal sheet does not show:
+  Caldwell Mutual      9.3 margin points,  1,292 extra FDE hours,  4.4 extra months
+  Greystone Health    68.5 margin points,  1,857 extra FDE hours,  6.2 extra months
+  Pennant Logistics   17.0 margin points,  1,067 extra FDE hours,  3.9 extra months
+year one flatters a stuck pilot (field estimate vs never live, two-year renewal-weighted gross profit):
+  Caldwell Mutual    margin y1  62.4% live vs  66.9% stuck;  2-yr GP  2,089k live vs  1,460k stuck
+  Greystone Health   margin y1   1.1% live vs -33.0% stuck;  2-yr GP  1,180k live vs    249k stuck
+  Pennant Logistics  margin y1  42.2% live vs  50.8% stuck;  2-yr GP    737k live vs    538k stuck

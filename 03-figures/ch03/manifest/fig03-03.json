@@ -1,0 +1,83 @@
+{
+ "stem": "fig03-03",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch03/figures.py",
+ "source_sha1": "6bf27462d7f1",
+ "data": null,
+ "png_px": [
+  1650,
+  1527
+ ],
+ "rendered": "2026-10-31 19:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 5.093,
+ "aspect": 1.08,
+ "min_font_pt": 10.0,
+ "label_words": 36,
+ "contrast_pairs": [
+  [
+   "promise, day 1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "who could check it",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "accuracy above 95%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "live in under five months",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no integration work",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "works on any document",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "nobody:\nno gold set,\nno gate d",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Priya Natarajan",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Anne Kessler",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "verifier in the record: none",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

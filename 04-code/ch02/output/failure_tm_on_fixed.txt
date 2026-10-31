@@ -1,0 +1,5 @@
+FAILURE INJECTION  Pennant Logistics  integration tax 3.0
+  billing assumed tm     services    707k  revenue  1,447k  cost   548k  margin  62.2%
+  billing assumed fixed  services    120k  revenue    860k  cost   548k  margin  36.3%
+  the wrong forecast overstates margin by 25.8 points and revenue by 587k dollars
+  guard: BillingBasisMismatch: Pennant Logistics: forecast assumes 'tm' but the contract is 'fixed'

@@ -1,0 +1,2 @@
+{'engineering': 2, 'joint': 2, 'sales': 1}
+[('Q3', 'joint', 'State uptime and service credits.'), ('Q5', 'engineering', 'Describe how you will exit.')]

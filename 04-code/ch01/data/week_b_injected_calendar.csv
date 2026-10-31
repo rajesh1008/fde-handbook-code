@@ -1,0 +1,17 @@
+day,start,end,title,attendees,tag
+88,09:00,09:30,Northlight FDE stand-up,fde@northlight.ai;laura.finch@northlight.ai,internal
+88,09:30,12:30,Focus: refactor pipeline into plugins,fde@northlight.ai,build
+88,13:30,17:30,Focus: refactor pipeline into plugins,fde@northlight.ai,build
+89,09:00,09:30,Northlight FDE stand-up,fde@northlight.ai;laura.finch@northlight.ai,internal
+89,09:30,12:30,Focus: async extraction workers,fde@northlight.ai,build
+89,13:30,15:30,Focus: async extraction workers,fde@northlight.ai,build
+89,15:30,16:30,Internal demo: new pipeline,fde@northlight.ai;product@northlight.ai;graham.lowell@northlight.ai,internal
+90,09:00,09:30,Northlight FDE stand-up,fde@northlight.ai;laura.finch@northlight.ai,internal
+90,09:30,12:30,Focus: test coverage to 90%,fde@northlight.ai,build
+90,13:30,17:00,Focus: CI pipeline speed-up,fde@northlight.ai,build
+91,09:00,12:00,Focus: prompt template library,fde@northlight.ai,build
+91,13:00,15:00,Benchmark three models on synthetic claims,fde@northlight.ai,pass
+91,15:00,16:00,Product feedback: plugin architecture,fde@northlight.ai;product@northlight.ai,internal
+92,09:00,10:00,Northlight engagement review,fde@northlight.ai;laura.finch@northlight.ai;graham.lowell@northlight.ai,internal
+92,10:00,12:30,Focus: docs site for the plugin API,fde@northlight.ai,build
+92,13:30,16:00,Focus: clean-up and release notes,fde@northlight.ai,build

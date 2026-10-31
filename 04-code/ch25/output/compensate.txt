@@ -1,0 +1,14 @@
+A00001 CC-20263109 survivor CC-20263108 -> compensated untouched agent-created duplicate
+A00002 CC-20263136 survivor CC-20263135 -> routed      touched by reviewer note added; route to a person
+A00003 CC-20263137 survivor CC-20263135 -> compensated untouched agent-created duplicate
+A00004 CC-20263164 survivor CC-20263163 -> compensated untouched agent-created duplicate
+A00005 CC-20263190 survivor CC-20263189 -> compensated untouched agent-created duplicate
+A00006 CC-20263217 survivor CC-20263216 -> routed      touched by reviewer note added; route to a person
+A00007 CC-20263243 survivor CC-20263242 -> compensated untouched agent-created duplicate
+A00008 CC-20263269 survivor CC-20263268 -> compensated untouched agent-created duplicate
+A00009 CC-20263270 survivor CC-20263268 -> compensated untouched agent-created duplicate
+A00010 CC-20263297 survivor CC-20263296 -> routed      touched by reviewer note added; route to a person
+A00011 CC-20263323 survivor CC-20263322 -> compensated untouched agent-created duplicate
+duplicates 11  compensated 8  routed to the claims data team 3
+open claims after compensation 234  VOID-DUP 8
+claims carrying a guessed cause code 5: routed to the senior adjuster, not voided, not edited

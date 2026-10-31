@@ -1,0 +1,11 @@
+when        who                  system                      minutes  what
+day 13 07:52  sender               fax gateway, legacy line          0  fax received on the closed office's number
+day 13 08:10  gateway rule         regional mailbox                  0  forwarded as an image attachment
+day 14 13:25  regional assistant   regional mailbox                  3  opened on the twice-weekly check, forwarded
+day 14 13:31  mail system          claims shared mailbox             0  arrives as a forward, original date lost
+day 15 09:02  intake clerk         intake queue                      4  indexed; policy number unreadable, sent to exceptions
+day 15 14:40  Tom Whitfield        claims system                     9  rang the agent on the cover sheet for the number, keyed
+hands-on: 16 minutes; elapsed: 2 days 6 h 48 min
+work share of elapsed time: 0.49%
+people who worked it: 3; systems it passed through: 5
+received date recorded: day 15 (faxed day 13)

@@ -1,0 +1,3 @@
+version header sent True : unexpected share 0.30; served [('extract-2026-01', 350), ('extract-2026-04-mini', 150)]
+version header sent False: unexpected share 1.00; served [('unreported', 500)]
+without the header the ledger can only say 'unreported'; a canary set with known answers is the fallback

@@ -1,0 +1,155 @@
+{
+ "stem": "fig17-12",
+ "kind": "diagram",
+ "tool": "hand-laid SVG",
+ "style": "style.md",
+ "source": "03-figures/src/ch17/fig17_12_signature8_greystone.py",
+ "source_sha1": "2bff8b74c561",
+ "data": "signature8 state greystone",
+ "png_px": [
+  1650,
+  1392
+ ],
+ "rendered": "2026-10-31 21:11 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.639,
+ "aspect": 1.186,
+ "min_font_pt": 9.5,
+ "label_words": 37,
+ "contrast_pairs": [
+  [
+   "Greystone Health: Azure, centr",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "identity",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "app secret",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "keys",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "Key Vault",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "logs",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "Greystone",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "workspace",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "network: VNet, own DNS zone",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "vendor code",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "container app",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "no public IP",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "gateway",
+   "#1e2329",
+   "#f9deda",
+   12.42
+  ],
+  [
+   "Greystone's",
+   "#1e2329",
+   "#f9deda",
+   12.42
+  ],
+  [
+   "tenancy",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "provider operates",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "models",
+   "#1e2329",
+   "#d2d8df",
+   11.02
+  ],
+  [
+   "via gateway",
+   "#1e2329",
+   "#d2d8df",
+   11.02
+  ],
+  [
+   "vendor",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "no data path",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "1, 4",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2, 3",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 11.02
+}

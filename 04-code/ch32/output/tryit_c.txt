@@ -1,0 +1,2 @@
+Try 3: push the high finding's date out without a compensating control.
+  lint: ['F-09 high, due in 57 days, no compensating control']

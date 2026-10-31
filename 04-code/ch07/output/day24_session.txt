@@ -1,0 +1,23 @@
+SESSION  Ruth Calloway, data owner, day 24: 40 of 40 answered in 58 minutes
+  confirmed     18
+  refined       11
+  redirected     2
+  contradicted   9
+  edge cases listed 64, heard in the answers 36 (each becomes a test case)
+
+DESIGN CHANGES (9)
+  R03  join documents to claims at claim level; count claims, not mart rows
+  R04  route special investigations, litigated and employee claims away before extraction; sample frame excludes them
+  R11  date received is read from the stamp, fax header or call date and checked against notice_received_dt
+  Q14  duplicate check reads claims-core through the read-only account, not the nightly mart
+  Q15  gold values come only from records at least 14 days old
+  Q16  Northlight snapshots the audit table weekly to keep before-and-after values
+  Q34  missing policy numbers become a drafted request to the underwriting service desk, not a search
+  Q38  the model gateway stamps the acting adjuster on every claims-core read
+  Q39  stored extractions enter the records inventory with a deletion date
+
+FOLLOW-UPS (answered by naming another owner)
+  Q35 -> security lead: Who may approve a service identity that reads across claims units?
+  Q40 -> security lead: Who reviews access to claimant data, and how often?
+
+ANSWERS FROM SOMEONE WHO DOES NOT OWN THEM: 0

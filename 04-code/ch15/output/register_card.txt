@@ -1,0 +1,33 @@
+REGISTER  caldwell-claims-sample  (max delivery age 30 days)
+field           owner            entitlement                    meaning
+claim_id        Anne Kessler     named readers                  the claim the file belongs to, as claims core numbers it
+policy_number   Anne Kessler     named readers                  policy in force at loss; blank until coverage is verified
+loss_date       Tom Whitfield    named readers                  date of loss as the claimant reported it
+doc_type        Tom Whitfield    named readers                  intake clerk's label for the document
+pages           Priya Natarajan  named readers                  page count after the scanning service splits the file
+ocr_confidence  Priya Natarajan  named readers                  scanning service's mean character confidence, 0 to 1
+claimant        Anne Kessler     named readers only             claimant name; readers named on the request only
+bank_account    Anne Kessler     redact first (do not deliver)  payee bank details
+
+READINESS  caldwell-claims-sample  rows=200  score=0.88  READY
+  FAIL 'policy_number' present and >= 98% filled (97.5%)
+  FAIL OCR confidence >= 0.80 (76.5%)
+  pass row count >= 150
+  pass key column 'claim_id' present
+  pass key 'claim_id' unique
+  pass 'loss_date' present and >= 98% filled (100.0%)
+  pass 'doc_type' present and >= 98% filled (100.0%)
+  pass 'pages' present and >= 98% filled (100.0%)
+  pass no do-not-deliver field present
+  pass every delivered field registered
+  pass every registered field has a meaning and an owner
+  pass delivery age 6 days <= 30
+FIELDS  delivered=7  registered=8  unregistered=0
+  claim_id        present                 owner Anne Kessler
+  policy_number   present                 owner Anne Kessler
+  loss_date       present                 owner Tom Whitfield
+  doc_type        present                 owner Tom Whitfield
+  pages           present                 owner Priya Natarajan
+  ocr_confidence  present                 owner Priya Natarajan
+  claimant        present                 owner Anne Kessler
+  bank_account    withheld, as registered owner Anne Kessler

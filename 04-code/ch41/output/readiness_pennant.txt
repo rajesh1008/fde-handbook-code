@@ -1,0 +1,27 @@
+hand-over readiness: Pennant, readiness review
+item dimension   status    gate  demonstrated by
+R1   runbooks    alone     gate  Jenna Ruiz, Kofi Mensah
+R2   runbooks    exists          -
+R3   runbooks    alone           Jenna Ruiz
+R4   runbooks    exists          -
+E1   reference   assisted        Kofi Mensah, Dana Whitaker
+E2   reference   exists          -
+E3   reference   exists          -
+T1   training    alone           Dana Whitaker, Marisol Vega
+T2   training    exists          -
+T3   training    assisted        Dana Whitaker
+T4   training    exists          -
+M1   monitoring  exists    gate  -
+M2   monitoring  assisted        Kofi Mensah
+M3   monitoring  alone           Jenna Ruiz
+M4   monitoring  exists          -
+C1   raci        alone     gate  Jenna Ruiz, Kofi Mensah, Dana Whitaker
+C2   raci        assisted        Kofi Mensah
+D1   drill       assisted  gate  Kofi Mensah
+D2   drill       exists          -
+D3   drill       assisted        Jenna Ruiz, Kofi Mensah
+naive (artifact exists)      1.00
+evidence credit (raw)        0.400
+gated score                  0.40  capped: gates failing M1, D1
+by dimension: runbooks 0.50  reference 0.17  training 0.38  monitoring 0.38  raci 0.75  drill 0.33
+largest single-person drops: Jenna Ruiz -0.10 (to 0.30); Kofi Mensah -0.07 (to 0.33); Dana Whitaker -0.03 (to 0.38)

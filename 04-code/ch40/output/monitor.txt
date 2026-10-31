@@ -1,0 +1,95 @@
+P1 PACK COMPLETENESS AS OF DAY 180, BEFORE BACKFILL (v0 rules)
+  day 158: verified 0 reconstructed 0 inferred 375 contradicted 0 unverifiable 0  complete 0.0%
+  day 159: verified 0 reconstructed 0 inferred 375 contradicted 0 unverifiable 0  complete 0.0%
+  day 160: verified 0 reconstructed 0 inferred 375 contradicted 0 unverifiable 0  complete 0.0%
+  day 161: verified 0 reconstructed 0 inferred 375 contradicted 0 unverifiable 0  complete 0.0%
+  day 162: verified 0 reconstructed 0 inferred 375 contradicted 0 unverifiable 0  complete 0.0%
+  day 163: verified 0 reconstructed 0 inferred 375 contradicted 0 unverifiable 0  complete 0.0%
+  day 164: verified 0 reconstructed 0 inferred 375 contradicted 0 unverifiable 0  complete 0.0%
+  day 165: verified 0 reconstructed 0 inferred 375 contradicted 0 unverifiable 0  complete 0.0%
+  day 166: verified 0 reconstructed 0 inferred 34 contradicted 341 unverifiable 0  complete 0.0%
+  day 167: verified 0 reconstructed 0 inferred 0 contradicted 375 unverifiable 0  complete 0.0%
+  day 168: verified 0 reconstructed 0 inferred 0 contradicted 375 unverifiable 0  complete 0.0%
+  day 169: verified 0 reconstructed 0 inferred 0 contradicted 375 unverifiable 0  complete 0.0%
+  day 170: verified 0 reconstructed 0 inferred 0 contradicted 375 unverifiable 0  complete 0.0%
+  day 171: verified 0 reconstructed 0 inferred 0 contradicted 375 unverifiable 0  complete 0.0%
+  day 172: verified 0 reconstructed 0 inferred 0 contradicted 375 unverifiable 0  complete 0.0%
+  day 173: verified 0 reconstructed 0 inferred 0 contradicted 375 unverifiable 0  complete 0.0%
+  day 174: verified 0 reconstructed 0 inferred 0 contradicted 375 unverifiable 0  complete 0.0%
+  day 175: verified 0 reconstructed 0 inferred 0 contradicted 375 unverifiable 0  complete 0.0%
+  day 176: verified 0 reconstructed 0 inferred 0 contradicted 375 unverifiable 0  complete 0.0%
+  day 177: verified 0 reconstructed 0 inferred 0 contradicted 375 unverifiable 0  complete 0.0%
+  day 178: verified 0 reconstructed 0 inferred 0 contradicted 375 unverifiable 0  complete 0.0%
+  day 179: verified 0 reconstructed 0 inferred 0 contradicted 375 unverifiable 0  complete 0.0%
+  day 180: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+
+P1 PACK COMPLETENESS AS OF DAY 215, AFTER BACKFILL
+  day 158: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 159: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 160: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 161: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 162: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 163: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 164: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 165: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 166: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 167: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 168: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 169: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 170: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 171: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 172: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 173: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 174: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 175: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 176: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 177: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 178: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 179: verified 0 reconstructed 375 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 180: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 181: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 182: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 183: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 184: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 185: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 186: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 187: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 188: verified 372 reconstructed 3 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 189: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 190: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 191: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 192: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 193: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 194: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 195: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 196: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 197: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 198: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 199: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 200: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 201: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 202: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 203: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 204: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 205: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 206: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 207: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 208: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 209: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 210: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 211: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 212: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 213: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 214: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+  day 215: verified 375 reconstructed 0 inferred 0 contradicted 0 unverifiable 0  complete 100.0%
+
+MONITORS CALDWELL RUNS WITHOUT NORTHLIGHT (cw-mrm-monitor)
+  M1 proceed-band error, weekly audit sample
+  M2 router score drift (PSI)
+  M3 field and type accuracy, 30-day refresh
+  M4 v2 citation audit, 30 summaries a month (Tom Whitfield)
+  M5 pin age and provider deprecation dates
+  M6 judge validity, 20 documents a week
+  P1 pack completeness, daily
+  P2 chain head anchored in Caldwell's log account, daily
+  P3 reconstruction rehearsal, 40 decisions, weekly

@@ -1,0 +1,13 @@
+customer           day lines  likely h   tax   P10   P50   P90  exposure  lint
+Caldwell Mutual     26     7       540  0.84  0.81  0.91  1.02      -50h     0
+Greystone Health    18     7       730  1.40  1.34  1.54  1.78     +290h     0
+Pennant Logistics   24    16     1,500  3.00  2.90  3.29  3.72      +80h     0
+
+likely hours by source
+source           caldwell  greystone    pennant
+access                130        310        120
+identity               55        110         85
+formats               190        120        810
+exceptions             45         50        245
+environments           40        110        150
+gateways               80         30         90

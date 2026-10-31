@@ -1,0 +1,8 @@
+wrote suite_config.json: 7 criteria
+  C-01  n=500   >= 97%     scorer Anne Kessler     report: per-type accuracy
+  C-02  n=500   >= 99.5%   scorer Anne Kessler     report: false matches, listed one by one
+  C-03  n=500   >= 98%     scorer Anne Kessler     report: review share; per-field accuracy
+  C-04  n=140   <= 4.5 min scorer Tom Whitfield    report: documents abandoned to manual keying
+  C-05  n=2000  = 0        scorer Priya Natarajan  report: held share by intake path
+  C-06  n=2000  >= 95%     scorer Priya Natarajan  report: Monday line
+  C-07  n=2000  <= $0.40   scorer Priya Natarajan  report: frontier-model share

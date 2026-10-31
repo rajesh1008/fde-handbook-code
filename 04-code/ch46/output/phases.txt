@@ -1,0 +1,15 @@
+caldwell: fixed fee, ACV $1,600,000
+  discovery   1-26     400 h  rev $ 177.5k  cost $  71.4k  phase  59.8%  to date  59.8%
+  build      27-141  2,430 h  rev $ 640.6k  cost $ 414.9k  phase  35.2%  to date  40.6%
+  shadow    142-157    300 h  rev $  70.1k  cost $  53.6k  phase  23.6%  to date  39.2%
+  live      158-190    320 h  rev $ 144.7k  cost $  72.2k  phase  50.1%  to date  40.7%
+
+greystone: T&M with cap, ACV $2,400,000
+  discovery   1-19     330 h  rev $  80.6k  cost $  49.5k  phase  38.6%  to date  38.6%
+  build      20-130  2,240 h  rev $ 369.4k  cost $ 336.0k  phase   9.0%  to date  14.3%
+  shadow    131-190    730 h  rev $   0.0k  cost $ 117.4k  phase    n/a  to date -11.8%
+
+pennant: phased, ACV $740,000
+  discovery   1-28     200 h  rev $  98.4k  cost $  35.7k  phase  63.7%  to date  63.7%
+  build      29-190  2,260 h  rev $ 949.1k  cost $ 371.8k  phase  60.8%  to date  61.1%
+

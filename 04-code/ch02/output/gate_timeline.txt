@@ -1,0 +1,9 @@
+GATE TIMELINE  planned engagement day per gate
+customer          plan             Architect     Build    Shadow Model-Ris      Live
+Caldwell Mutual   deal sheet              15       120       124       129       135
+Caldwell Mutual   field estimate          64       209       230       251       268
+Greystone Health  deal sheet              15       123       128       132       139
+Greystone Health  field estimate          94       249       278       307       324
+Pennant Logistics deal sheet              14       121       125       129       136
+Pennant Logistics field estimate          46       211       224       236       253
+nine-month line: day 270

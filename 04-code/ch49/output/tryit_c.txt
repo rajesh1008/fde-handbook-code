@@ -1,0 +1,4 @@
+49.C: give the fourth customer a model-risk function and rerun the check
+  REFUSED Model-Risk Approval: signed by Tom Becker (IT service manager), who holds no authority for it; the authority sits with Nadia Fern (model-risk officer)
+  REFUSED local gate missing from the template: SOX control owner sign-off (Alana Pierce); invoice approval is a key financial control; a change to it needs the control owner
+problems: 2

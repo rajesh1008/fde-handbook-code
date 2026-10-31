@@ -1,0 +1,137 @@
+{
+ "stem": "fig13-11",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch13/fig13_11_keyperson.py",
+ "source_sha1": "a414efed474d",
+ "data": "04-code/ch13 lab fixtures",
+ "png_px": [
+  1650,
+  1560
+ ],
+ "rendered": "2026-10-31 19:22 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 5.2,
+ "aspect": 1.058,
+ "min_font_pt": 9.0,
+ "label_words": 52,
+ "contrast_pairs": [
+  [
+   "Jenna\nRuiz",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "lead\nFDE",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "approve scope changes",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "accept reconciliation output",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "grant cloud project access",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "explain the 40-plus layouts",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "run the EDI parser",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Pennant",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Anne\nKessler",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Daniel\nReyes",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Priya\nNatarajan",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Tom\nWhitfield",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "lead\nFDE",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "approve claims-core access",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "score the gold set",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "rotate the gateway key",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "operate the adjuster queue",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "deploy the pipeline",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Caldwell",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

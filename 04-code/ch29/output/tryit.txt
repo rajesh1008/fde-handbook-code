@@ -1,0 +1,18 @@
+== tryit a
+margin 0.02 alpha 0.05: first notice, mail fail (p=1.7e-03)
+margin 0.05 alpha 0.01: first notice, mail fail (p=1.7e-03)
+margin 0.10 alpha 0.001: all pass
+a quarter of the set (50 docs): mail class pass (n=160, p=0.29)
+== tryit b
+all six: missed 30 of 235
+  without schema and type      missed  33 (+3)
+  without business rules       missed  33 (+3)
+  without system of record     missed  34 (+4)
+  without source grounding     missed  55 (+25)
+  without second extraction    missed  67 (+37)
+  without cross-document       missed  34 (+4)
+== tryit c
+subset first40      judge rule '20 docs, >3 false passes': M07 late at L4, M11 escaped
+subset first40      judge rule '40 docs, TNR >= 0.80    ': M07 late at L4, M11 caught at L5
+subset stratified40 judge rule '20 docs, >3 false passes': M07 caught at L2, M11 escaped
+subset stratified40 judge rule '40 docs, TNR >= 0.80    ': M07 caught at L2, M11 caught at L5

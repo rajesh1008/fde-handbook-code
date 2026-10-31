@@ -1,0 +1,17 @@
+TURNOVER ON BOTH SIDES  ownership coverage before and after the departures  (deterministic stand-in)
+
+Caldwell  leavers: Owen Pryce
+  v0 coverage 0.88 -> 0.62; single points before: 2; orphans after: ['T3 run the evaluation suite']
+  v1 coverage 1.00 -> 0.75; single points before: 0; orphans after: none
+
+Pennant  leavers: Dana Whitaker
+  v0 coverage 0.79 -> 0.64; single points before: 3; orphans after: ['own-gold-set', 'weekly matched sample']
+  v1 coverage 1.00 -> 0.86; single points before: 0; orphans after: none
+
+Greystone  leavers: provider account lead (old team)
+  v0 coverage 0.71 -> 0.64; single points before: 1; orphans after: ['emergency change path', 'payer criteria table']
+  v1 coverage 0.93 -> 0.86; single points before: 0; orphans after: none
+
+Northlight (all three accounts)  leavers: Maya Brooks, lead FDE
+  v0 coverage 0.75 -> 0.33; single points before: 3; orphans after: ['Pennant service review', 'Greystone upgrade evidence']
+  v1 coverage 1.00 -> 0.58; single points before: 0; orphans after: none

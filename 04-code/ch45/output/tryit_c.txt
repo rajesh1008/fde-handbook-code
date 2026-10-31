@@ -1,0 +1,3 @@
+discovery only: Callum Reid    offset +0.00 equal to median 100%
+discovery only: Laura Finch    offset +0.00 equal to median 100%
+discovery only: Sofia Brennan  offset +0.83 equal to median 17%  DRIFT

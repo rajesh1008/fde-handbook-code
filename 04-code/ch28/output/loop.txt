@@ -1,0 +1,22 @@
+
+without budgets (the framework's default cap of 50 iterations)
+  call  1  patient.lookup(name=Maria Lopez, dob=1961-04-12) -> 2 records  progress=no  breaker=-
+  call  2  patient.lookup(name=Maria Lopez, dob=1961-04-12, clinic=downtown) -> 2 records  progress=no  breaker=-
+  call  3  patient.lookup(name=Maria E. Lopez, dob=1961-04-12) -> 2 records  progress=no  breaker=-
+  call  4  patient.lookup(name=Maria Lopez, dob=1961-04-12) -> 2 records  progress=no  breaker=-
+  ... 46 more calls of the same three variants
+  stopped: framework iteration cap (50): exception, run ends with no handoff
+  cost line: 50 tool calls, 672,250 tokens, $2.09, 90 s of wall clock
+
+with Greystone's budgets B-01 to B-05 and breaker B-07
+  call  1  patient.lookup(name=Maria Lopez, dob=1961-04-12) -> 2 records  progress=no  breaker=closed
+  call  2  patient.lookup(name=Maria Lopez, dob=1961-04-12, clinic=downtown) -> 2 records  progress=no  breaker=closed
+  call  3  patient.lookup(name=Maria E. Lopez, dob=1961-04-12) -> 2 records  progress=no  breaker=open
+  stopped: breaker open: 3 lookups without progress
+  cost line: 3 tool calls, 8,610 tokens, $0.03, 5 s of wall clock
+  route: referral to the coordinator queue with both candidate records and the reason; no draft
+
+cumulative cost by call, without budgets: 0.0087 0.0187 0.0301 0.0429 0.0570 0.0725 0.0892 0.1074 0.1269 0.1477 0.1699 0.1935 0.2184 0.2447 0.2722 0.3012 0.3315 0.3631 0.3962 0.4305 0.4662 0.5032 0.5416 0.5814 0.6225 0.6649 0.7087 0.7539 0.8004 0.8482 0.8974 0.9480 0.9999 1.0532 1.1078 1.1637 1.2210 1.2796 1.3397 1.4010 1.4637 1.5277 1.5931 1.6599 1.7280 1.7974 1.8682 1.9404 2.0139 2.0888
+
+what the budgets saved on one referral: 47 calls, $2.06
+a bad registration merge touching 9 referrals in an hour: $18.80 without budgets, $0.27 with them

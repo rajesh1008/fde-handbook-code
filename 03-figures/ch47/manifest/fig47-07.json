@@ -1,0 +1,131 @@
+{
+ "stem": "fig47-07",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch47/fig47_07_features.py",
+ "source_sha1": "c47e4f681e75",
+ "data": "04-code/ch47/output/loop_ship.txt; world.py SHIPPED",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-11-01 01:57 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.0,
+ "label_words": 18,
+ "contrast_pairs": [
+  [
+   "9 engagements",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "17 engagements",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "loop starts",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "function month",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "17.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "22.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "quality gate (Pennant)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "key refresh (Caldwell)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "reported, no triage",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "triaged to shipped",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,13 @@
+playbook claims-intake v1 (from Caldwell), target: next insurer, mode: naive
+  PB-01 discovery script and stakeholder map           40 h  transfers
+  PB-02 access checklist, questionnaire answers        70 h  transfers
+  PB-03 gateway onboarding, 7-day key rotation         70 h  transfers
+  PB-04 document list via claims-core document API    120 h  transfers
+  PB-05 parsers for the loss-notice form family       120 h  transfers
+  PB-06 exceptions queue mapping                       60 h  transfers
+  PB-07 evaluation suite and gold set                 100 h  transfers
+  PB-08 shadow sizing at 30 adjudications a day        40 h  transfers
+  PB-09 five-gate evidence pack templates             100 h  transfers
+  PB-10 hand-over runbooks and failure drill           80 h  transfers
+credit taken: 800 h (integration 370 h)
+no prerequisite check: the price assumes every step replays as it did at Caldwell

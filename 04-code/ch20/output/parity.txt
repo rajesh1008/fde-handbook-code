@@ -1,0 +1,27 @@
+checks: I1  I2  I3  N1  N2  N3  M1  M2  M3  L1  L2  E1  C1  C2
+--- Caldwell (AWS) ---
+day 100  14/14  failing -                      reference deployment, the Chapter 18 configuration
+--- Pennant EU (Google Cloud) ---
+day 102   8/14  failing I1 M1 L1 L2 E1 C1      first deploy, copied from the Caldwell layout
+day 106  11/14  failing N3 M2 C2               service account, Pennant log bucket, EU region, model left at latest
+day 109  13/14  failing M2                     console rule removed through IaC; resolve_pin refuses 2026-04
+day 116  14/14  failing -                      recorded model change: EU pin extract-2026-01, validated in region
+--- Greystone (Azure) ---
+day 113   7/14  failing I1 I2 I3 N2 M3 E1 C1   first deploy from Northlight's sandbox template
+day 117  11/14  failing L2 E1 C1               managed identity; storage module swapped by the repair loop
+day 120  14/14  failing -                      diagnostic settings restored to Greystone's workspace
+--- final state, every check ---
+I1 workload identity, no static credential            pass  pass  pass
+I2 secret or token read at call time                  pass  pass  pass
+I3 calls survive a rotation or token expiry           pass  pass  pass
+N1 model reached over the private path                pass  pass  pass
+N2 public endpoint refused from the workload          pass  pass  pass
+N3 egress to an unlisted host refused                 pass  pass  pass
+M1 processing region inside the residency rule        pass  pass  pass
+M2 served version equals the pin on every call        pass  pass  pass
+M3 no deprecation notice past its warning date        pass  pass  pass
+L1 logs only in the customer's sink                   pass  pass  pass
+L2 one call record with tokens per model call         pass  pass  pass
+E1 evaluation suite ran on the customer's signed set  pass  pass  pass
+C1 IaC plan passes the customer's policy scanner      pass  pass  pass
+C2 deployed state matches the IaC (no drift)          pass  pass  pass

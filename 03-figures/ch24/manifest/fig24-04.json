@@ -1,0 +1,107 @@
+{
+ "stem": "fig24-04",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch24/fig24_04_contract.py",
+ "source_sha1": "804778f66e7b",
+ "data": "04-code/ch24/output/split.txt",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-10-31 21:29 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 10.0,
+ "label_words": 21,
+ "contrast_pairs": [
+  [
+   "surface sends",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "brain returns",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "turn_id",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "conversation_id",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "surface_version",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "text",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "assertion: aud nl-brain",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "mode",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "answer or none",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "citations",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "partial sources",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "verification",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "audit_id",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1 call",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

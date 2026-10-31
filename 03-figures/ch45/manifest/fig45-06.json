@@ -1,0 +1,119 @@
+{
+ "stem": "fig45-06",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch45/fig45_06_takehome.py",
+ "source_sha1": "536426f53e4c",
+ "data": "04-code/ch45/output/takehome_v0.txt, takehome_v1.txt",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-11-01 00:03 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 9.5,
+ "label_words": 15,
+ "contrast_pairs": [
+  [
+   "hire bar 3.0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4.00",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1.60",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v0: 8 hours,\nall agent-solvabl",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v1: 3-hour cap,\n80% needs the ",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "agent-only score (1 to 4)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,19 @@
+day 140, second pass on the extractor's model: 235 wrong fields
+  schema and type      caught  23  only this stream   5
+  business rules       caught  36  only this stream  10
+  system of record     caught  47  only this stream   8
+  source grounding     caught 123  only this stream  12
+  second extraction    caught 112  only this stream   1
+  cross-document       caught  29  only this stream   6
+  any stream 169 of 235 (72%); missed by all six 66
+  correlation of misses, grounding vs second extraction: phi 0.81
+day 148, second pass on a different pin: 235 wrong fields
+  schema and type      caught  23  only this stream   3
+  business rules       caught  36  only this stream   3
+  system of record     caught  47  only this stream   4
+  source grounding     caught 123  only this stream  25
+  second extraction    caught 131  only this stream  37
+  cross-document       caught  29  only this stream   4
+  any stream 205 of 235 (87%); missed by all six 30
+  correlation of misses, grounding vs second extraction: phi 0.01
+best single stream catches 131; removing 'second extraction' after day 148 loses 37 catches no other stream makes

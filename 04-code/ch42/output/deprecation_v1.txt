@@ -1,0 +1,15 @@
+PROVIDER DEPRECATION  extract-2026-01 (Pennant EU pin, europe-west4)  mode v1
+notice day 41  retirement day 62  change freeze days 45-75  evidence needs 7 days
+notice sent to: jenna.ruiz, forwarded since day 29 to the provider-notices list; read day 41 by Kofi Mensah (account itself moved day 46)
+plan: retirement in freeze: True; last normal change day 44; evidence ready day 48; freeze exception needed: True
+      freeze exception: evidence by day 48, change before day 62; slack 13 days
+day 43: freeze exception requested at the change board by Kofi Mensah, with the plan and a rollback path
+days 48-52: upgrade gate extract-2026-04 vs extract-2026-01: HOLD
+  p95 latency, s: 4.1 worse than incumbent 3.8
+  15 lost critical items without an owner's sign-off
+day 53: Dana Whitaker signs off the 15 lost fields (1 piece count, 0 Incoterms, 14 in other fields); Kofi Mensah accepts the latency against the batch budget: PROMOTE
+  p95 latency, s: 4.1 worse than incumbent 3.8, inside floor 6.0; accepted by Kofi Mensah
+day 54: model-risk approval, Joanne Pruitt, Pennant finance controller; recorded model change MC-EU-02
+day 55: migrated in the exception window 14:00-15:00 Memphis time, outside the 02:00 batch
+days 55-61: rollback to extract-2026-01 available for 7 days; not used
+EU lane documents to the clerks: 0

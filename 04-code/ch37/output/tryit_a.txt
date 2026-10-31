@@ -1,0 +1,5 @@
+bar 75%: aggregate met; classes not met: first notice, fax (not shown)
+bar 78%: aggregate met; classes not met: first notice, fax (not shown)
+bar 80%: aggregate met; classes not met: first notice, fax (below), first notice, mail (not shown)
+bar 82%: aggregate met; classes not met: first notice, fax (below), first notice, mail (not shown)
+bar 85%: aggregate below; classes not met: first notice, fax (below), first notice, mail (below)

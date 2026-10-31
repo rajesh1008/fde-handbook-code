@@ -1,0 +1,113 @@
+{
+ "stem": "fig24-15",
+ "kind": "diagram",
+ "tool": "hand-laid SVG (signature9.py)",
+ "style": "style.md",
+ "source": "03-figures/src/ch24/fig24_15_signature9_broken.py",
+ "source_sha1": "525edc963991",
+ "data": "signature9.STATES['ch24-shortcut']",
+ "png_px": [
+  1650,
+  1217
+ ],
+ "rendered": "2026-10-31 21:30 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.056,
+ "aspect": 1.356,
+ "min_font_pt": 10.0,
+ "label_words": 36,
+ "contrast_pairs": [
+  [
+   "suite: where they work",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "governed cloud",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "suite chat pane",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "suite sign-in",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "answer card",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "mode flag",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "token broker",
+   "#1e2329",
+   "#f9deda",
+   12.42
+  ],
+  [
+   "six sources",
+   "#1e2329",
+   "#f9deda",
+   12.42
+  ],
+  [
+   "orchestrator",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "model via gateway",
+   "#1e2329",
+   "#d2d8df",
+   11.02
+  ],
+  [
+   "verifier",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "audit log",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "1 call per turn",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "answer, sources",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "service role: 86 of 3,000 resu",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 11.02
+}

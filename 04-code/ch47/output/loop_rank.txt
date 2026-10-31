@@ -1,0 +1,14 @@
+rank by votes and contract size                   by evidence (engagements x hours)           
+   1 FR-003 sponsor dashboard theming per   9 v  FR-002 upfront document quality gate    704
+   2 FR-010 branded PDF export of the evid  5 v  FR-001 gateway key re-read on 401 and   374
+   3 FR-007 Spanish-language claims extrac  4 v  FR-005 permission-inheriting retrieva   360
+   4 FR-005 permission-inheriting retrieva  2 v  FR-006 on-behalf-of token broker        245
+   5 FR-009 SSO group sync for reviewers    3 v  FR-011 canary scan on the shadow tap    160
+   6 FR-002 upfront document quality gate   2 v  FR-004 alert route ownership check       72
+   7 FR-001 gateway key re-read on 401 and  1 v  FR-008 X12 envelope checks               72
+   8 FR-006 on-behalf-of token broker       1 v  FR-012 model pin that refuses regiona    72
+   9 FR-011 canary scan on the shadow tap   0 v  FR-003 needs artifact
+  10 FR-012 model pin that refuses regiona  0 v  FR-007 needs artifact
+  11 FR-004 alert route ownership check     0 v  FR-009 needs artifact
+  12 FR-008 X12 envelope checks             0 v  FR-010 needs artifact
+evidence score = engagements with bespoke work x median bespoke hours; 0 without working code and a test

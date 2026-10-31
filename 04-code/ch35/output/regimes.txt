@@ -1,0 +1,20 @@
+Regimes and lint by customer, as of 31 Oct 2026
+
+Greystone: HIPAA covered entity; Northlight business associate; provider subcontractor BA [VERIFY]
+  hops 13   holding personal data 9   findings 0
+
+Caldwell: state insurance privacy and data security law, GLBA; CPPA ADMT for California policyholders [VERIFY]
+  hops 7   holding personal data 6   findings 1
+  R1   C06-ft1-weights              retention unknown
+
+Pennant: GDPR for EU consignees; Northlight processor under Art. 28 [VERIFY]
+  hops 9   holding personal data 8   findings 3
+  G3   run-records                  cannot erase one subject within 30 days
+  G3   backups                      cannot erase one subject within 30 days
+  G1   oncall-access                outside the EEA with no transfer mechanism
+
+Retention for prompts, traces and records (days; 0 = not stored)
+  customer    model provider  gateway/traces  cache  run records  eval set
+  Greystone                0              30      -         2190       120
+  Caldwell                 0              30      -         2555         -
+  Pennant                  0              30     14          365       180

@@ -1,0 +1,24 @@
+DEMO CLAIM REGISTER  Caldwell Mutual  11 claims
+  extracts all ten intake fields               demo, day 2  capability  demo set
+  98 of 100 fields correct                     demo, day 2  capability  demo set
+  accuracy above 95% on Caldwell's documents   sales deck   capability  none
+  reads email, fax and scanned mail            sales deck   capability  demo set
+  reads handwriting                            demo, day 2  capability  demo set
+  returns a structured record in four seconds  demo, day 2  capability  demo set
+  works on any document Caldwell receives      sales deck   capability  none
+  runs on the latest model                     sales deck   capability  none
+  no integration work on Caldwell's side       sales deck   workflow    none
+  live in production in under five months      sales deck   schedule    none
+  enterprise-grade security                    sales deck   controls    vendor certificate
+evidence behind the claims: demo set 5, none 5, vendor certificate 1
+
+GAP REGISTER  day 10  proofs a deployment needs, by dimension
+  dimension            claims  proofs  held  partial  missing  must-pass open
+  capability                8       5     0        2        3               2
+  workflow                  1       5     0        0        5               2
+  controls                  1       5     0        0        5               5
+  ownership                 0       5     1        0        4               3
+  reconstructability        0       5     0        0        5               2
+  schedule                  1                 (a date is not a proof)
+  total                    11      25     1        2       22              14
+capability share of claims: 73%; capability share of proofs: 20%

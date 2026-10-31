@@ -1,0 +1,7 @@
+INTERNAL AUDIT SAMPLE: 26 packs (25 drawn by audit from days 158 to 200, plus the disputed claim)
+  element tests performed 195; exceptions 0
+  statuses: verified 181, reconstructed 14, n/a 13, inferred 0, contradicted 0, unverifiable 0
+  packs from before pinning (day < 180) 14; their prompt element is 'reconstructed' with parameter-store history attached
+  chain head over the sample cd1726263153
+  self-identified issue SI-01: prompt hotfix outside change control, day 166; found day 177; closed day 182
+  findings on the agent: 0

@@ -1,0 +1,4 @@
+candidate c214: facts surfaced 3 of 11, exceptions 0 of 4
+first solution statement at minute 6, questions before it 2, confirm-backs 0
+anchor 1: proposes a solution before the workflow is described
+missed: F4 F5 F6 F7 F8 F9 F10 F11  (exceptions missed: F8 F9 F10 F11)

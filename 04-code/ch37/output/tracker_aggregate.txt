@@ -1,0 +1,8 @@
+GATE TRACKER  Caldwell Mutual  mode aggregate  (deterministic stand-in; numbers from Ch31 lab output)
+Shadow Exit  signer Anne Kessler  decided day 156
+  S-1  all                    met        84.0% (1,689/2,010; 82.4% to 85.6%)
+  S-2  all                    met        83.9% (506/603; 80.8% to 86.6%)
+  S-3  all                    met        88.0% (2,121/2,410; 86.7% to 89.2%)
+  S-4  all                    met        1.1% (44/4,000; 0.8% to 1.5%)
+  S-5  all                    met        0.0% (0/964; 0.0% to 0.4%)
+  status: passed

@@ -1,0 +1,11 @@
+REHEARSAL months: 40 decisions, v0 records, days 158 to 175, as of day 340 (traces gone)
+  element               verified  reconst inferred  contra  unverif   n/a
+  document                    40        0        0       0        0     0
+  lineage                     40        0        0       0        0     0
+  retrieval                   40        0        0       0        0     0
+  prompt and model             0        0       40       0        0     0
+  confidence and route        40        0        0       0        0     0
+  decision                    40        0        0       0        0     0
+  review                      13        0        0       0        0    27
+  action                      40        0        0       0        0     0
+  packs reconstructable 0 of 40; decisions after the day-166 hotfix in sample 22

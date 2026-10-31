@@ -1,0 +1,15 @@
+source: 6,452 passages, 794 restricted (12.3%): claims-siu, claims-litigation, claims-employee, claims-mgmt
+day 87 first export: ingested 6,400, refused 52 (reason: no ACL on the source record; permission inherited from the folder, not expanded in the export)
+day 88 rebuilt with folder ACLs expanded: ingested 6,452, refused 0
+test: 450 searches as tom.whitfield (claims-all only): Anne's 150 questions + 300 from the shadow log
+
+mode                               searches leaking restricted shown short lists empty
+no permission filter                            165              668           2     0
+filter after ranking (top 10)                     0                0         167    22
+filter before ranking                             0                0           2     0
+
+recall at ten, Anne's set, askers' own permissions, filter after ranking: 0.86
+recall at ten, Anne's set, askers' own permissions, filter before ranking: 0.86
+
+SIU investigator alone                : 9 restricted of 10 returned
+shared review: Tom + SIU investigator : 0 restricted of 10 returned

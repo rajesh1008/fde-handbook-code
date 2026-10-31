@@ -1,0 +1,59 @@
+{
+ "stem": "fig07-02",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch07/fig07_02_anatomy.py",
+ "source_sha1": "604244158bb4",
+ "data": "04-code/ch07 lab fixtures",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 19:35 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.0,
+ "label_words": 40,
+ "contrast_pairs": [
+  [
+   "Which field holds the date\na f",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "why\n\nthe clock starts\non this ",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "expected\n\nreceived_at\nvendor p",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "listen for\n\nnext-day scans\nfor",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "if different\n\ndate check\nchang",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "status of the expected answer ",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

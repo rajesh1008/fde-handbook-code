@@ -1,0 +1,119 @@
+{
+ "stem": "fig16-06",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch16/fig16_06_break_profile.py",
+ "source_sha1": "ab7396c84b7e",
+ "data": "04-code/ch16/output/tryit_a.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:28 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 18,
+ "contrast_pairs": [
+  [
+   "0.41",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0.70",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0.88",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "warn 0.60",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "fail 0.75",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "chance",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v2 as built",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v2 without\nfaded scans",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "v2 with first\nnotices only",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "two-sample classifier AUC",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

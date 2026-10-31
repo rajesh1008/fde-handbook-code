@@ -1,0 +1,59 @@
+{
+ "stem": "fig16-02",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch16/fig16_02_generator.py",
+ "source_sha1": "0a7930630edd",
+ "data": "04-code/ch16/claimsgen.py",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:28 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 10.0,
+ "label_words": 25,
+ "contrast_pairs": [
+  [
+   "profile\nfrom discovery",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gold record\n(the answers)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "rendered text\n(phrasings)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "OCR noise\n(scan quality)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "document + its gold record",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "the answer exists before the t",
+   "#5a6f9c",
+   "#ffffff",
+   5.01
+  ]
+ ],
+ "min_contrast": 5.01
+}

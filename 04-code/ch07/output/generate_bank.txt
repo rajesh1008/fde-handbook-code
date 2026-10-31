@@ -1,0 +1,6 @@
+discovery items: 31 (11 paths, 7 exceptions, 4 permission gaps, 9 notes)
+day-20 draft from memory: 28 questions, serves 9 of 31 items
+  missing: P04, P05, P06, P07, P08, P09, P10, P11, X4, X5, X6, X7, G1, G2, G3, G4, N3, N4, N5, N7, N8, N9
+generated candidates: 31, each lint errors before editing: 3 (no expected answer (write one, even 'unknown, decision required'); no edge cases to listen for; does not say what changes if the answer differs)
+edited bank: 66 questions, items not served: 0
+  data-owner set alone leaves: P02, P03, G3 (served by other roles)

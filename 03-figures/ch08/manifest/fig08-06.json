@@ -1,0 +1,155 @@
+{
+ "stem": "fig08-06",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch08/fig08_06_kappa.py",
+ "source_sha1": "4843920cd2f9",
+ "data": "04-code/ch08 lab fixtures",
+ "png_px": [
+  1650,
+  1560
+ ],
+ "rendered": "2026-10-31 20:07 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 5.2,
+ "aspect": 1.058,
+ "min_font_pt": 9.0,
+ "label_words": 29,
+ "contrast_pairs": [
+  [
+   "0.80 floor for an exact check",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "kappa, mean of three scorer pa",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1.2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "cause_of_loss",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "time_of_loss",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "injury_reported",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "police_report_number",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "claimant_name",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "reported_by",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "date_of_loss",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "vehicle_or_property_id",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "contact_phone",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "date_received",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "policy_number",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "insured_name",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "loss_location",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "line_of_business",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

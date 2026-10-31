@@ -1,0 +1,47 @@
+Harbourline: oral defense safety net (one page)
+
+Numbers we will defend (9), with status:
+  BC-03 [P] We will find new files with a scheduled listing every 10 minutes.
+  BC-09 [V] Drafted sections will be returned through the gateway within 20 seconds for 95% of
+      sections in shadow.
+  BC-16 [P] Before Shadow Exit, Harbourline's credit officers will score 400 drafted memos
+      against Harbourline's credit review rubric.
+  BC-20 [P] We will run two-week sprints with a review on day 10 of each sprint, attended by
+      Harbourline's product owner.
+  BC-26 [V] The service will be available 99.5% of business hours, measured at the add-in,
+      excluding outages of Harbourline's gateway and directory.
+  BC-28 [R] Logs will be retained for seven years in the bank's SIEM, as PS-LOG-03 requires.
+  BC-29 [V] Traces will reach the bank's SIEM within 5 minutes of the event.
+  BC-30 [V] Harbourline will receive its prompts, evaluation sets, decision records and logs in
+      open formats within 30 days of exit.
+  BC-31 [V] Northlight will support a transition for up to 90 days at the rates in Schedule B.
+Statements about Harbourline's estate (5), every one sourced to Harbourline:
+  BC-02 [CL-12] Harbourline's document store does not raise events on new files.
+  BC-04 [CL-29] Harbourline's document store keeps a version history for every file.
+  BC-05 [CL-09] Harbourline's origination system is read-only to the solution in release one.
+  BC-07 [CL-17] Harbourline's model gateway does not stream responses in its current release.
+  BC-18 [RFP 6.4] Model-risk approval is a separate gate owned by Harbourline, and sprint
+      acceptance does not grant it.
+Decisions that belong to Harbourline:
+  BC-06 David Okafor, day 120: The boundary to the origination system will carry no write path
+      until Harbourline decides release two scope.
+  BC-12 Helen Marsh, day 30: The approved model for release one will be chosen by Harbourline's
+      model risk function.
+  BC-19 Helen Marsh, day 45: The sample size for shadow scoring will be set by Harbourline
+      under its model risk standard.
+  BC-25 David Okafor, day 14: Harbourline's product owner for the program will be named by the
+      accountable executive.
+Deviations requested from platform standards:
+  PS-GW-04 approver Martin Shaw: No direct provider keys in any environment.
+  PS-CHG-03 approver Martin Shaw: Production changes go through the change board with ten days'
+      notice.
+  PS-SUR-01 approver Martin Shaw: User-facing tools run inside the productivity suite.
+We have not promised:
+  - an accuracy figure before Harbourline's scorers and set are named
+  - any write to the origination system in release one
+  - a production date: the five gates belong to Harbourline's owners
+  - streaming drafts: CL-17 says the gateway does not stream
+The boundary sentence:
+  Release one reads and drafts; a credit officer edits and owns every memo, and nothing we
+      deliver is approved for production until Harbourline's gates say so.
+--- 46 lines of a 60-line page

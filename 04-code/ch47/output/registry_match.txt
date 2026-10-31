@@ -1,0 +1,14 @@
+N17 (claims-intake, gateway=none):
+  PB-1@1.4    blocked PB-1.S4 needs gateway in {apigee, apim, aws-gw, fieldkit-direct, kong, litellm}, has none
+  PB-4@2.0    ready   
+N15 (claims-intake, gateway=aws-gw):
+  PB-1@1.4    ready   
+  PB-4@2.0    blocked PB-4.S2 needs egress_proxy in {yes}, has no; PB-4.S2 needs gateway in {none}, has aws-gw
+N13 (correspondence, gateway=none):
+  PB-4@2.0    ready   
+N20 (referral-intake, gateway=apigee):
+  PB-3@0.9.1  ready   
+  PB-4@2.0    blocked PB-4.S2 needs egress_proxy in {yes}, has no; PB-4.S2 needs gateway in {none}, has apigee
+N17 after PB-4 writes the route record (gateway=fieldkit-direct):
+  PB-1@1.4    ready
+  PB-4@2.0    blocked

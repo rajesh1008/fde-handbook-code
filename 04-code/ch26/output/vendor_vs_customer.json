@@ -1,0 +1,64 @@
+{
+ "steps": [
+  [
+   "Northlight's 300 cases, Northlight's judge",
+   0.908
+  ],
+  [
+   "Anne's 300 documents, Northlight's judge",
+   0.8514054614124804
+  ],
+  [
+   "Anne's documents, exact match, Northlight's definitions",
+   0.7913700324208698
+  ],
+  [
+   "Anne's documents, Caldwell's definitions, her adjusters",
+   0.6842541528794411
+  ]
+ ],
+ "byfield": {
+  "policy_number": [
+   0.8748287041679201,
+   0.8344195995855477
+  ],
+  "claimant_name": [
+   0.8361910491660818,
+   0.7933420234633511
+  ],
+  "loss_date": [
+   0.8420735987165346,
+   0.78391657475183
+  ],
+  "date_received": [
+   0.8152344663925933,
+   0.495771917510612
+  ],
+  "loss_type": [
+   0.8436110832581303,
+   0.4598749958220529
+  ],
+  "loss_location": [
+   0.8293392158828837,
+   0.5414953708345867
+  ],
+  "injury_reported": [
+   0.918179083525519,
+   0.6129215548648016
+  ],
+  "police_report_ref": [
+   0.8792740399077509,
+   0.8098198469200174
+  ],
+  "other_party": [
+   0.7488218189110599,
+   0.5910291119355594
+  ],
+  "intake_channel": [
+   0.9265015541963301,
+   0.919950533106053
+  ]
+ },
+ "bad_crit": 223,
+ "bad_any": 292
+}

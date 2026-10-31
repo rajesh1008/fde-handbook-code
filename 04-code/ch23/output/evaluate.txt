@@ -1,0 +1,17 @@
+Anne's set: 150 questions, 135 answerable, 15 not in the documents; three adjuster teams, gold marked by two adjusters, ties settled by Anne
+
+retriever                              synthetic set  Anne @10  Anne @5   MRR
+lexical (BM25)                                  0.99      0.79     0.71  0.59
+vector (gateway embedding stand-in)             0.83      0.68     0.60  0.53
+hybrid, plain fusion                            0.96      0.83     0.74  0.59
+hybrid + identifier routing                     0.97      0.86     0.79  0.65
+
+by category, hybrid + identifier routing, recall at ten:
+  cross-document         n= 21  0.62
+  form or code           n= 28  0.96
+  procedure lookup       n= 62  0.89
+  version-sensitive      n= 24  0.88
+questions with a gold passage missing from the top ten: 26
+not in the documents: 15 questions all returned ten passages; top lexical score below the answerable 5th percentile (7.7) for 4 of 15
+
+example, A001: What does the manual say about checking coverage forced entry denial letter

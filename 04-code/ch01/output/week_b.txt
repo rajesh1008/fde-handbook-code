@@ -1,0 +1,19 @@
+TIME ALLOCATION  week_b_injected  Caldwell Mutual (Hartford, AWS)  days 88-92
+bucket       hours  share  with customer  commits
+discover       0.0     0%            0.0        0
+decide         0.0     0%            0.0        0
+access         0.0     0%            0.0        0
+build         26.5    80%            0.0       41
+pass           2.0     6%            0.0        0
+hand over      0.0     0%            0.0        0
+internal       4.5    14%            0.0        0
+travel         0.0     0%            0.0        0
+total         33.0   100%            0.0       41
+tickets closed: 19   customer-owned items moved: 0
+customer-contact share: 0%
+flag: customer contact 0% is below 15%
+flag: nothing the customer owns moved this week
+flag: verbs untouched: discover, decide, access, hand over
+flag: gateway key rotated on day 89 with no check recorded
+verdict: PRODUCTIVE-LOOKING: output up, nothing the customer owns moved
+

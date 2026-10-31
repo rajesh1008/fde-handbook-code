@@ -1,0 +1,29 @@
+Greystone rule elicitation, days 120 to 127 (deterministic stand-in of the session record)
+sessions: 6  minutes: 390
+  day 120   60 min  michael   12 statements  Michael Hart, CMIO
+  day 121  120 min  desk      17 statements  Keisha Monroe and Luis Ortega, at the downtown desk
+  day 122   45 min  nurses     6 statements  Tess Moreno and a second nurse reviewer
+  day 122   30 min  privacy    8 statements  Hannah Price, privacy officer
+  day 123   45 min  security  18 statements  Sam Oakley, security lead
+  day 127   90 min  redteam    7 statements  red-team debrief
+statements: 68
+  rule           39
+  merged         18
+  out of scope    7
+  contradicted    4
+rules from statements: 39   rules from documents and tables: 21
+dangling statements: 0
+rule cards: 60
+by kind:        input 12  output 26  action 14  budget 8
+by enforcement: action/deterministic 14  budget/deterministic 8  input/deterministic 11  input/model-assisted 1  output/deterministic 22  output/model-assisted 4
+by source:      engineering 14  payer 9  boundary 9  session 8  observed 7  regulation 6  redteam 4  signed 3
+by status:      VERIFY 2  signed 58
+by modality:    oblige 5  prohibit 55
+by effect:      block 21  flag 10  repair 6  route 23
+by owner:       Sam Oakley 20  Denise Alvarez 18  Michael Hart 15  Hannah Price 7
+VERIFY:         I-06 (review day 140)  O-03 (review day 136)
+lint problems: 0
+  contradicted  S65 Luis Ortega: "Oncology referrals always go as urgent." -> Ch14 ruling (urgency is clinical)
+  contradicted  S66 Keisha Monroe: "Coordinators can submit low-cost imaging without a look." -> Ch25 boundary (no submit)
+  contradicted  S67 nurse reviewer: "The agent could message patients about missing forms." -> Ch25 refusal (contact a patient)
+  contradicted  S68 Northlight FDE: "Retry lookups until the match is unique." -> B-03 and B-07 (budgets)

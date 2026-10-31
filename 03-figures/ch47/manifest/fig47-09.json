@@ -1,0 +1,65 @@
+{
+ "stem": "fig47-09",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch47/fig47_09_no_gateway.py",
+ "source_sha1": "1fe5ec3de69d",
+ "data": "04-code/ch47/output/registry_n17.txt, registry_probe.txt, registry_match.txt",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-11-01 01:57 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 9.0,
+ "label_words": 24,
+ "contrast_pairs": [
+  [
+   "PB-1@1.3\nform lint: pass",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "N17: no\nmodel gateway",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 23: step S4\nfails",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "PB-1@1.4\ndeclares gateway",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 0: match\nblocked",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "PB-4 first,\nthen PB-1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "probe P5",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

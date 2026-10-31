@@ -1,0 +1,12 @@
+SPRINT REVIEW  Caldwell Mutual  sprint 2  day 56
+  accepted                C-01, C-02, C-05
+  accepted with follow-up C-03
+  not accepted            C-04
+  goal: 18 of 23 points accepted (78%); carried over: C-04; blocked days: 9
+  oldest open dependency: D-01 (51 days, Daniel Reyes)
+EXCEPTION LIST
+  C-03  Anne Kessler      follow-up by day 63: re-score policy_number after the OCR fix  [gate: -]
+Architecture Review entry evidence from this sprint: complete
+STATUS LINT (draft from the account team)
+  production claim 'production-ready' with gates passed 0 of 5
+  rewritten: clean

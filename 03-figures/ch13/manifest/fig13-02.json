@@ -1,0 +1,65 @@
+{
+ "stem": "fig13-02",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch13/fig13_02_sprint_zero.py",
+ "source_sha1": "7cd8c293d28d",
+ "data": "04-code/ch13 lab fixtures",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:22 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 15,
+ "contrast_pairs": [
+  [
+   "named\ncounterparts",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "access\nrequests",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "golden\npaths",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "readiness\nregister",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "decision\nregister",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "sprint one\nplannable",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "days 15-28, Caldwell",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

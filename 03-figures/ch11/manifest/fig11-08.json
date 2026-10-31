@@ -1,0 +1,149 @@
+{
+ "stem": "fig11-08",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch11/fig11_08_two_plans.py",
+ "source_sha1": "f6e9abe92a7a",
+ "data": "04-code/ch11 lab",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 20:09 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.5,
+ "label_words": 27,
+ "contrast_pairs": [
+  [
+   "pilot day 179",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "pilot day 140",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "engagement day (stand-in durat",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "75",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "125",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "150",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "175",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "225",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "sign-off: build",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "sign-off: security review",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "sign-off: rework",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "sign-off: re-review",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "design: build",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "design: security clinics",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "design: final review",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "design: buffer",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

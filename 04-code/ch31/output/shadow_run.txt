@@ -1,0 +1,28 @@
+day  docs  agree  share   rotated  template
+142  241   215     89.2%   2        0
+143  241   209     86.7%   4        5
+144  241   208     86.3%   2        6
+145  241   206     85.5%   1        7
+146  241   209     86.7%   0        7
+149  241   212     88.0%   4        7
+150  241   213     88.4%   0        6
+151  241   216     89.6%   1        0
+152  241   217     90.0%   3        0
+153  241   216     89.6%   2        0
+total 2410 documents, 2121 agree on all six fields: 88.0% (95% interval 86.7% to 89.2%)
+
+disagreements by cause (adjudicated by Lena Ortiz, days 154 and 155)
+  other agent error                   125
+  equivalent format                   61
+  clerk keying error, agent right     52
+  broker template, date received      38
+  rotated fax, no intake record       13
+
+routed 2397 of 2410 (13 typed none before day 150): proceed 1494 (62.3%), review 714 (29.8%), escalate 189 (7.9%)
+
+audit-shadow-400: field values after review vs Lena Ortiz's adjudicated values
+  days 142 to 149: 240 documents, 2400 fields, 32 wrong: 1.33% (0.95% to 1.88%)
+  days 150 to 153: 160 documents, 1600 fields, 12 wrong: 0.75% (0.43% to 1.31%)
+  all: 44 of 4000: 1.10% (95% interval 0.82% to 1.47%)
+  errors by band: proceed 26, review 10, escalate 8
+  Chapter 27 audit-400 (days 136 to 139): routing 0.9%, review-everything 1.1%

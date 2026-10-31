@@ -1,0 +1,4 @@
+--- exercise b
+paths known: 6 of 11; covered: 5
+known volume 10,060 of 14,800 a month; covered 9,950
+never found: P04, P05, P06, P07, P09 (4,740 documents a month)

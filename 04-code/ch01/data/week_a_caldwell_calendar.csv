@@ -1,0 +1,32 @@
+day,start,end,title,attendees,tag
+81,08:30,09:00,Plan the week from the decision log,fde@northlight.ai,decide
+81,09:00,09:30,Northlight FDE stand-up,fde@northlight.ai;laura.finch@northlight.ai,internal
+81,10:00,12:00,Sit with the intake team in the mailroom,fde@northlight.ai;tom.whitfield@caldwellmutual.com,discover
+81,13:00,16:00,Focus: policy-number parser,fde@northlight.ai,build
+81,16:00,17:00,Review 20 corrected extractions,fde@northlight.ai;anne.kessler@caldwellmutual.com,pass
+81,17:00,17:30,Runbook draft: what the parser does when it fails,fde@northlight.ai,hand over
+82,07:30,08:00,Gateway key rotation check,fde@northlight.ai,access
+82,08:30,10:00,Sit with Tom Whitfield at intake,fde@northlight.ai;tom.whitfield@caldwellmutual.com,discover
+82,10:00,10:30,Write up: which fields need no model,fde@northlight.ai,decide
+82,10:30,11:00,Correction review with Anne Kessler,fde@northlight.ai;anne.kessler@caldwellmutual.com,pass
+82,11:00,12:00,Shadow feed design: Priya's three questions,fde@northlight.ai;priya.natarajan@caldwellmutual.com,access
+82,13:00,15:30,Focus: deterministic policy-number parser,fde@northlight.ai,build
+82,15:30,16:00,"Update access tracker, send to Daniel Reyes",fde@northlight.ai,access
+82,16:00,16:30,Hours and margin with Laura,fde@northlight.ai;laura.finch@northlight.ai,internal
+82,16:30,17:00,Decision log,fde@northlight.ai,decide
+83,09:00,09:30,Northlight FDE stand-up,fde@northlight.ai;laura.finch@northlight.ai,internal
+83,09:30,12:00,Focus: parser tests on the 47 low-confidence files,fde@northlight.ai,build
+83,13:00,14:00,Claims supervisors: exceptions they see weekly,fde@northlight.ai;anne.kessler@caldwellmutual.com;supervisors@caldwellmutual.com,discover
+83,14:00,16:00,Turn Anne's corrections into evaluation cases,fde@northlight.ai,pass
+83,16:00,17:00,Product feedback: the parser as a product feature,fde@northlight.ai;product@northlight.ai,internal
+84,09:00,10:00,Weekly decisions with Daniel Reyes and Anne Kessler,fde@northlight.ai;daniel.reyes@caldwellmutual.com;anne.kessler@caldwellmutual.com,decide
+84,10:00,12:00,Focus: wire parser into the intake pipeline,fde@northlight.ai,build
+84,13:00,14:00,Log retention for the shadow feed,fde@northlight.ai;priya.natarajan@caldwellmutual.com,access
+84,14:00,14:30,Walk Caldwell on-call through the parser's failure modes,fde@northlight.ai;claims-oncall@caldwellmutual.com,hand over
+84,14:30,16:00,Focus: pipeline integration tests,fde@northlight.ai,build
+84,16:30,18:30,Drive Hartford to Boston,fde@northlight.ai,travel
+85,09:00,10:00,Northlight engagement review,fde@northlight.ai;laura.finch@northlight.ai;graham.lowell@northlight.ai,internal
+85,10:00,12:00,Focus: parser edge cases from Tom's examples,fde@northlight.ai,build
+85,13:00,13:30,Follow-up questions for Tom Whitfield,fde@northlight.ai;tom.whitfield@caldwellmutual.com,discover
+85,13:30,15:00,Friday status and evidence links,fde@northlight.ai,pass
+85,15:00,15:30,Friday status call with Daniel Reyes,fde@northlight.ai;daniel.reyes@caldwellmutual.com,decide

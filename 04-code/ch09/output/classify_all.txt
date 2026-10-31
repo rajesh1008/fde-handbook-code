@@ -1,0 +1,19 @@
+CALDWELL MUTUAL  claims intake, 12 steps
+C01  det      Q1 yes                 receive document and capture text from the intake path
+C02  det      Q1 yes                 read the received date from the stamp, fax header or mail header
+C03  det      Q1 yes                 parse the policy number by pattern and check digit
+C04  det      Q1 yes                 look up the policy and the coverage in force on the loss date
+C05  det      Q1 yes                 match to an existing claim (claim number, or policy and loss date)
+C06  small    Q1 no / Q2 no / Q3 yes classify the document into the four signed types or out of scope
+C07  small    Q1 no / Q2 no / Q3 yes classify the loss cause into Caldwell's loss codes
+C08  det      Q1 yes                 read amounts and dates from the form's fixed zones and validate them
+C09  rules    Q1 no / Q2 yes         apply fast-track and adjuster routing rules
+C10  rules    Q1 no / Q2 yes         apply special-investigation referral indicators
+C11  frontier Q1 no / Q2 no / Q3 no  draft the first-notice summary for the adjuster, every statement cited
+C12  det      Q1 yes                 write the claim record and queue item to the claims system
+
+customer           steps  det rules small front  det % no model %
+Caldwell Mutual       12    7     2     2     1    58%        75%
+Greystone Health      25   16     4     3     2    64%        80%
+Pennant Logistics     15    9     3     2     1    60%        80%
+all three             52   32     9     7     4    62%        79%

@@ -1,0 +1,77 @@
+{
+ "stem": "fig16-01",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch16/fig16_01_ladder.py",
+ "source_sha1": "db12eb040520",
+ "data": "chapter text (access ladder, Chapter 15)",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:28 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 10.0,
+ "label_words": 25,
+ "contrast_pairs": [
+  [
+   "synthetic",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "the plumbing\nruns",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "sampled",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "accuracy on a\nsigned sample",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "shadowed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "agreement on\nlive traffic",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "live",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "outcomes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "each rung licenses one more ki",
+   "#5a6f9c",
+   "#ffffff",
+   5.01
+  ]
+ ],
+ "min_contrast": 5.01
+}

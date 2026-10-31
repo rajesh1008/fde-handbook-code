@@ -1,0 +1,119 @@
+{
+ "stem": "fig03-11",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch03/figures.py",
+ "source_sha1": "6bf27462d7f1",
+ "data": null,
+ "png_px": [
+  1650,
+  1833
+ ],
+ "rendered": "2026-10-31 19:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 6.111,
+ "aspect": 0.9,
+ "min_font_pt": 9.5,
+ "label_words": 31,
+ "contrast_pairs": [
+  [
+   "the FDE",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Daniel Reyes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "chief of staff",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "data platform lead",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "3",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "claims operations",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "privacy office",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "5",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "Priya Natarajan",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "6",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "day 3",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "read on day 4,\nin the review",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no owner,\nno due day,\nat any h",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 5.72
+}

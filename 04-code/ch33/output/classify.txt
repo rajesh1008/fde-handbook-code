@@ -1,0 +1,40 @@
+FAILURE FIRST: the system classified as one thing
+  day 74  caldwell-v0     SYS -> full scope: artificial intelligence, so tier 1
+          request: 14 items, 6 that nobody at Caldwell or Northlight can supply
+  day 76  northlight-v0   SYS -> outside model-risk scope: third-party model, no training on your data
+  the same one question per component on day 153: 4 vendor models in core decisions left untested (C06, C07, C11, EX)
+
+THE COMPONENT TEST under caldwell-mrm-2026
+  day  82: 15 components  registered, not validated 4  registered as a tool 2  not a model 9  plan items 51  register 6a17f180a6a7
+  day 132: 16 components  full scope 1  registered, not validated 4  registered as a tool 2  not a model 9  plan items 61  register c720a968d899
+           changed: RT absent -> full scope
+  day 153: 17 components  full scope 2  registered, not validated 4  registered as a tool 2  not a model 9  plan items 71  register 79392da7492d
+           changed: C06-ft1 absent -> full scope
+
+REGISTER r3 (day 153)
+  C01      code       trained=no  core=no  -> not a model                design choices: -
+  C02      code       trained=no  core=yes -> not a model                design choices: -
+  C03      code       trained=no  core=yes -> not a model                design choices: -
+  C04      code       trained=no  core=yes -> not a model                design choices: -
+  C05      code       trained=no  core=yes -> not a model                design choices: -
+  C06      prompted   trained=no  core=yes -> registered, not validated  design choices: prompt; four signed types; confidence 0.90 or a person
+  C07      prompted   trained=no  core=yes -> registered, not validated  design choices: prompt; loss-code table; confidence 0.85 or a person
+  C08      code       trained=no  core=yes -> not a model                design choices: -
+  C09      rules      trained=no  core=yes -> not a model                design choices: -
+  C10      rules      trained=no  core=yes -> not a model                design choices: -
+  C11      prompted   trained=no  core=yes -> registered, not validated  design choices: prompt; retrieval over the claims manual; citation rule
+  C12      code       trained=no  core=yes -> not a model                design choices: -
+  EX       prompted   trained=no  core=yes -> registered, not validated  design choices: prompt; ten-field schema; gold-set gate
+  EM       retrieval  trained=no  core=no  -> registered as a tool       design choices: index of 6,452 passages; ACL filter
+  JG       judge      trained=no  core=no  -> registered as a tool       design choices: prompt; rubric from Anne's rulings
+  RT       fitted     trained=yes core=yes -> full scope                 design choices: proceed 0.95; floor 0.47
+  C06-ft1  fine-tuned trained=yes core=yes -> full scope                 design choices: training-data record day 138; guard on absent classes
+
+SECOND CUSTOMER: the same components under harbourline-e23-reading (stand-in reading, [VERIFY])
+  full scope 6  registered, not validated 2  not a model 9  plan items 87
+  moved: C06 registered, not validated -> full scope
+  moved: C07 registered, not validated -> full scope
+  moved: C11 registered, not validated -> full scope
+  moved: EX registered, not validated -> full scope
+  moved: EM registered as a tool -> registered, not validated
+  moved: JG registered as a tool -> registered, not validated

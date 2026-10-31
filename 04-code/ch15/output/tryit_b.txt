@@ -1,0 +1,14 @@
+READINESS  caldwell-claims-sample  rows=200  score=0.71  NOT READY
+  FAIL 'policy_number' present and >= 98% filled (97.5%)
+  FAIL OCR confidence >= 0.80 (76.5%)
+  FAIL no do-not-deliver field present (found: bank_account)
+  pass row count >= 150
+  pass key column 'claim_id' present
+  pass key 'claim_id' unique
+  pass 'loss_date' present and >= 98% filled (100.0%)
+  pass 'doc_type' present and >= 98% filled (100.0%)
+  pass 'pages' present and >= 98% filled (100.0%)
+  pass every delivered field registered
+  pass every registered field has a meaning and an owner
+  pass delivery age 6 days <= 30
+blocking: no do-not-deliver field present (found: bank_account)

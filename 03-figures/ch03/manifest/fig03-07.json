@@ -1,0 +1,119 @@
+{
+ "stem": "fig03-07",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch03/figures.py",
+ "source_sha1": "6bf27462d7f1",
+ "data": "04-code/ch03 (Chapter 3 lab)",
+ "png_px": [
+  1650,
+  1405
+ ],
+ "rendered": "2026-10-31 19:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.685,
+ "aspect": 1.174,
+ "min_font_pt": 9.5,
+ "label_words": 14,
+ "contrast_pairs": [
+  [
+   "72%  all ten fields",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "78%  without the two\n        d",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "53%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "67%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "43%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "54%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "promised 95%",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "fields correct, %",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "75",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "email (4)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "fax (3)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "mail (3)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,5 @@
+legibility gate 0.55: held 8.9% (clean held 0), exceptions 256 vs 372 (-31%), awaiting sender 38
+legibility gate 0.60: held 10.0% (clean held 0), exceptions 245 vs 372 (-34%), awaiting sender 44
+legibility gate 0.65: held 11.1% (clean held 0), exceptions 230 vs 372 (-38%), awaiting sender 52
+legibility gate 0.70: held 11.9% (clean held 16), exceptions 226 vs 372 (-39%), awaiting sender 59
+legibility gate 0.75: held 24.4% (clean held 259), exceptions 207 vs 372 (-44%), awaiting sender 128

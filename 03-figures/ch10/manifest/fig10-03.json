@@ -1,0 +1,155 @@
+{
+ "stem": "fig10-03",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch10/fig10_03_layouts.py",
+ "source_sha1": "73beec5f600e",
+ "data": "04-code/ch10 lab fixtures",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 19:59 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.0,
+ "label_words": 35,
+ "contrast_pairs": [
+  [
+   "17 layouts, 221 h",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "9 layouts, 153 h",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "8 layouts, 192 h",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4 layouts, 136 h",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "3 layouts, 108 h",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "25 h per layout (Chapter 2)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "hours per layout (low to high;",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "70",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "90",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "X12 214 status",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "EDIFACT IFTSTA",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "carrier PDF",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "scanned paper",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "photo of a form",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

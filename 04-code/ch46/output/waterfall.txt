@@ -1,0 +1,23 @@
+Caldwell year one, US dollars (deterministic stand-in; days 191 to 365 forecast)
+  revenue                             $  1,800,000
+  - discovery                         $   39,000 -> $  1,761,000  measured
+  - access                            $   64,500 -> $  1,696,500  measured
+  - model                             $  108,000 -> $  1,588,500  measured
+  - gates                             $   93,000 -> $  1,495,500  measured
+  - handover                          $   57,000 -> $  1,438,500  measured
+  - blocked                           $   51,000 -> $  1,387,500  measured
+  - integration: access               $    6,000 -> $  1,381,500  measured
+  - integration: identity             $   13,500 -> $  1,368,000  measured
+  - integration: formats              $   31,500 -> $  1,336,500  measured
+  - integration: exceptions           $   24,000 -> $  1,312,500  measured
+  - integration: environments         $   13,500 -> $  1,299,000  measured
+  - integration: gateways             $   16,500 -> $  1,282,500  measured
+  - sustain 0.5 FTE, days 191 to 365  $   60,450 -> $  1,222,050  forecast
+  - model and hosting                 $   63,123 -> $  1,158,927  measured, then forecast
+  - product support and platform      $  160,000 -> $    998,927  allocated
+  - contract v5 commitments           $  142,000 -> $    856,927  forecast at day 149
+  gross profit                        $    856,927
+  year-one gross margin 47.6%   
+  (target 60%, floor 40%; v5 forecast 48.7%; Chapter 2 field estimate 62.4%)
+  integration tax itemized: 5.8% of revenue; formats + exceptions = 53% of it
+  two-year renewal-weighted gross profit (live month 5.2, renewal 80%): $1,725,727  [forecast]

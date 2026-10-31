@@ -1,0 +1,22 @@
+gold-heldout: 201 documents, 2,010 fields, labels by Lena Ortiz, owner Anne Kessler
+stratum                docs      p7 (day 94)   rc-1 (day 156)   change
+first notice, email      17            94.7%            97.6%    +2.9
+first notice, fax        50            62.8%            74.4%   +11.6
+first notice, mail       49            69.2%            79.4%   +10.2
+police report            17            87.6%            91.8%    +4.1
+repair estimate          17            87.1%            90.6%    +3.5
+medical bill             17            86.5%            89.4%    +2.9
+adjuster note            17            84.1%            88.8%    +4.7
+photo log                17            82.9%            87.6%    +4.7
+all fields                    1,542/2,010 76.7%   1,689/2,010 84.0%   rc-1 interval 82.4% to 85.6%
+critical fields                 460/603 76.3%     506/603 83.9%   rc-1 interval 80.8% to 86.6%
+strata where rc-1 is worse than p7: none
+
+scorecard (draft bars written by Anne Kessler on day 154; the Shadow Exit gate that judges them is Chapter 39's)
+  S-1 field accuracy, gold-heldout           bar 80%        rc-1 84.0%                    Anne's gate, nl-eval CI
+  S-2 critical fields, gold-heldout          bar 80%        rc-1 83.9%                    Anne's gate, nl-eval CI
+  S-3 agreement with keyed claims, shadow    bar 85%        88.0% (shadow_run.txt)        code vs production extract
+  S-4 post-review error, audit-shadow-400    bar 1.2%       1.10% (shadow_run.txt)        Lena Ortiz adjudication
+  S-5 first notices with no intake record    bar 0          9 before day 150, 0 after     Ruth Calloway reconciliation
+  S-6 retention and erasure drill            bar pass       pass (memory.txt)             Priya Natarajan
+  S-7 model spend per routed document        bar $0.05      see tree.txt                  gateway cost lines

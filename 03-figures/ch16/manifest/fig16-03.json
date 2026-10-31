@@ -1,0 +1,215 @@
+{
+ "stem": "fig16-03",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch16/fig16_03_fields.py",
+ "source_sha1": "bfb404e80498",
+ "data": "04-code/ch16/output/failure_no_exceptions.txt",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-10-31 19:28 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 9.0,
+ "label_words": 29,
+ "contrast_pairs": [
+  [
+   "100",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "93",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "92",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "78",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "68",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "76",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "64",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "47",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "47",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "41",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "field accuracy (%)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "70",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "90",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "110",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "intake channel",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "police report ref",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "other party",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "date received",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "loss location",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "policy number",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "loss type",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "claimant name",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "loss date",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "injury reported",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "synthetic v1, 600 documents",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "real sample, 200 documents",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

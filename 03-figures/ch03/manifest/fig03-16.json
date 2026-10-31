@@ -1,0 +1,137 @@
+{
+ "stem": "fig03-16",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch03/figures.py",
+ "source_sha1": "6bf27462d7f1",
+ "data": null,
+ "png_px": [
+  1650,
+  1283
+ ],
+ "rendered": "2026-10-31 19:13 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.278,
+ "aspect": 1.286,
+ "min_font_pt": 9.5,
+ "label_words": 18,
+ "contrast_pairs": [
+  [
+   "100",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "82",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "71",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "63",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "40 never reach production",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "engagements, of 100 signed",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "120",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "signed",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "reached real data",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "passed security review",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "passed model-risk review",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "in production",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

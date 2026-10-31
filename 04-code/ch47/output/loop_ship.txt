@@ -1,0 +1,5 @@
+FR-001 Gateway connections: key read at call time, refresh on 401
+   first field report month 1, triaged month 13, shipped month 14; adopted at 17 engagements; FDE hours per engagement 22 to 2
+FR-002 Document quality gate with request-back
+   first field report month 5, triaged month 13, shipped month 16; adopted at 9 engagements; FDE hours per engagement 64 to 12
+loop: 2 features from the field; median months report to ship 12.0; triage to ship [1, 3]; adopting engagements 17; FDE hours saved 808

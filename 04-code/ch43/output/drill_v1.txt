@@ -1,0 +1,8 @@
+EXIT DRILL  MS-RB-01 TMS feed late or missing  runbooks v1  by Nadia Brooks, Northlight hands off  (deterministic stand-in)
+02:00  feed due; injected: file not delivered
+02:06  step 1: open console.pennant.example and read the feed status for the 02:00 file
+02:15  step 2: open console.pennant.example and read the loader log
+02:17  step 3: set mode off at modectl.pennant.example
+02:42  step 4: ask Kofi Mensah's team to resend the CSV to tms-mft.pennant.example
+03:00  step 5: reconcile counts, then return via shadow at modectl.pennant.example
+result: PASSED, done 03:00, deadline 03:30, 30 min to spare

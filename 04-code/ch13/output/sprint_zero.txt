@@ -1,0 +1,15 @@
+SPRINT ZERO EXIT  Caldwell Mutual  day 28
+  ok  scope and priority                    Daniel Reyes
+  ok  extraction acceptance (gold set)      Anne Kessler
+  ok  architecture and controls             Priya Natarajan
+  ok  operator acceptance (adjuster queue)  Tom Whitfield
+  ok  production change approval            Daniel Reyes
+  GAP Model-Risk Approval gate              (nobody named)
+  ok  Northlight delivery                   Laura Finch
+  ok  Northlight commercial                 Graham Lowell
+golden paths:
+  GP-1  emailed first notice with a PDF attachment          synthetic (60 documents)
+  GP-2  faxed first notice arriving as a multi-page image   synthetic (40 documents)
+  GP-3  mailed paper form, scanned at the mailroom          synthetic (40 documents)
+decision register: 5 records opened by day 28, 3 decided
+counterpart gaps: 1  ->  EXIT WITH RECORDED GAP (D-06)

@@ -1,0 +1,59 @@
+{
+ "stem": "fig16-13",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch16/fig16_13_shadow.py",
+ "source_sha1": "b76cb51a65fd",
+ "data": "04-code/fieldkit/fieldkit/shadow.py",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:28 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 10.0,
+ "label_words": 19,
+ "contrast_pairs": [
+  [
+   "live document",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "extractor",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "adjuster's\nkeyed record",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "kept: keyed id,\nagreement, pro",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not kept: text, values",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "canary scan proves it",
+   "#5a6f9c",
+   "#ffffff",
+   5.01
+  ]
+ ],
+ "min_contrast": 5.01
+}

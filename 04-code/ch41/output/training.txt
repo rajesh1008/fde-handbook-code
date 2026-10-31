@@ -1,0 +1,11 @@
+share of tasks done alone (a), assisted (s), not yet (n)
+operators (14 adjusters)      day 165  alone 0/8 = 0.00  assisted 0
+operators (14 adjusters)      day 170  alone 2/8 = 0.25  assisted 2
+operators (14 adjusters)      day 175  alone 5/8 = 0.62  assisted 3
+operators (14 adjusters)      day 180  alone 8/8 = 1.00  assisted 0
+engineers (platform and QE)   day 165  alone 0/10 = 0.00  assisted 1
+engineers (platform and QE)   day 170  alone 3/10 = 0.30  assisted 2
+engineers (platform and QE)   day 175  alone 6/10 = 0.60  assisted 4
+engineers (platform and QE)   day 180  alone 8/10 = 0.80  assisted 2
+operators (14 adjusters): not yet alone after session 4: none
+engineers (platform and QE): not yet alone after session 4: dry-run a model upgrade, rerun the rollback drill

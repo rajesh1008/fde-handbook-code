@@ -1,0 +1,59 @@
+{
+ "stem": "fig07-06",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch07/fig07_06_gateway.py",
+ "source_sha1": "68fd5299e9a4",
+ "data": "04-code/ch07 lab fixtures",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 19:35 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 10.0,
+ "label_words": 19,
+ "contrast_pairs": [
+  [
+   "adjuster\nTom Whitfield",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "intake\nagent",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "model\ngateway",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "claims-\ncore",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "read log: acting for\nadjuster,",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "weekly audit-table\nsnapshot",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,287 @@
+{
+ "stem": "fig50-08",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch50/fig50_08_classification.py",
+ "source_sha1": "7fa858617680",
+ "data": "04-code/ch50/output/classify.txt",
+ "png_px": [
+  1650,
+  1920
+ ],
+ "rendered": "2026-11-01 00:34 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 6.4,
+ "aspect": 0.859,
+ "min_font_pt": 9.0,
+ "label_words": 129,
+ "contrast_pairs": [
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "registered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "full scope",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "registered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "full scope",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "registered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "full scope",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "registered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "registered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "registered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "full scope",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "registered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "full scope",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "registered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "registered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not a model",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor reading",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "bank's reading",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H01 package intake from the do",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H02 format detection and text ",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H03 statement table capture",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H04 chart-of-accounts mapping ",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H05 unseen-label mapping sugge",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H06 cross-footing and quaranti",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H07 ratio and covenant calcula",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H08 covenant term extraction",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H09 policy and prior-memo retr",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H10 risk-factor summary",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H11 memo narrative drafting",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H12 development judge (offline",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H13 numeric gate and lineage c",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H14 suite add-in surface",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

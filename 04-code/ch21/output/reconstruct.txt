@@ -1,0 +1,12 @@
+without lineage: 7 steps, 7 systems, about 240 min (assumed per-step times); cannot answer: find the EUR/USD rate used that morning
+with lineage: 3 steps, 3 systems, about 4 min (assumed per-step times); answer reproduced exactly
+explain(release):
+  source      c31e4f37a3d1  uri=mail/2026/hls-inv-77310.pdf
+  source      fef59c3dda3a  uri=rates/blue-ridge-hls-2026q3.pdf
+  page        260790a74601  page=4
+  page        d488cc532e49  page=1
+  extraction  2dd78a37dbd7  method=template HLS-INV-03 + OCR 4.1
+  extraction  99b2f36c12ad  method=rate-card parser 1.2
+  calculation 74f596e6b608  function=reconcile.overbilling, value=412.5, refs=fx_rates:fx_rates@1f8a22b1d213
+  claim       b36630c86402  text=HLS invoice 77310 over-billed, value=412.5
+  release     1e9ba6d57b0f  report=freight-audit weekly, day 66, approved_by=Dana Whitaker

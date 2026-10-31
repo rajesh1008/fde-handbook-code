@@ -1,0 +1,221 @@
+{
+ "stem": "fig08-01",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch08/fig08_01_grid.py",
+ "source_sha1": "0f6b3d5f39a5",
+ "data": "04-code/ch08 lab fixtures",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:07 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 45,
+ "contrast_pairs": [
+  [
+   "classify",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "match",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "fields",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "route",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "hold",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Caldwell first-notice form",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4,873 a month",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "agency first-notice form",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2,312 a month",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "first-notice letter or email",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2,521 a month",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "repair estimate",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1,538 a month",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "yes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

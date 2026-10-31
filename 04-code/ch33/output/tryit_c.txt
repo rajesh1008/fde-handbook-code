@@ -1,0 +1,5 @@
+Try 3: classify Caldwell's day-153 design under a bank policy written to OSFI E-23 (stand-in reading).
+  caldwell-mrm-2026        full scope 2 (RT, C06-ft1); plan items 71
+  harbourline-e23-reading  full scope 6 (C06, C07, C11, EX, RT, C06-ft1); plan items 87
+  Under the bank reading no vendor model in a material use is 'registered, not validated': it is
+  validated before use, so V02, V03 and V13 become findings, not boundaries.

@@ -1,0 +1,3 @@
+b: first  50 referrals  patterns  21 entries   patterns+known  47 entries
+b: first 100 referrals  patterns  47 entries   patterns+known  92 entries
+b: first 200 referrals  patterns  95 entries   patterns+known 187 entries

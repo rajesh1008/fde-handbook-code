@@ -1,0 +1,10 @@
+id,opened_day,closed_day,title,owner,tag
+CAL-112,78,82,Gateway key rotation: confirm pipeline picks up new key,priya.natarajan@caldwellmutual.com,access
+CAL-118,80,85,Policy-number parser for the HP###### pattern,fde@northlight.ai,build
+CAL-119,81,83,Parser: handle policy numbers split across two OCR lines,fde@northlight.ai,build
+CAL-121,81,,"Shadow feed: where it runs, under whose identity, who sees the logs",priya.natarajan@caldwellmutual.com,access
+CAL-122,82,84,Log retention for shadow feed,priya.natarajan@caldwellmutual.com,access
+CAL-123,82,85,Evaluation cases from Anne's 20 corrections,anne.kessler@caldwellmutual.com,pass
+CAL-124,83,,Supervisors' weekly exception list,anne.kessler@caldwellmutual.com,discover
+CAL-125,84,84,Decision: parser output is advisory until Anne signs off,daniel.reyes@caldwellmutual.com,decide
+CAL-126,84,,On-call runbook: parser failure modes,fde@northlight.ai,hand over

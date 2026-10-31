@@ -1,0 +1,155 @@
+{
+ "stem": "fig21-07",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch21/fig21_07_exceptions.py",
+ "source_sha1": "283aac9c7147",
+ "data": "04-code/ch21/output/scorer.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:44 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 22,
+ "contrast_pairs": [
+  [
+   "372",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "230",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "downstream exceptions",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "150",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "250",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "300",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "350",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "400",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "450",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "without\nscorer",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "with\nscorer",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "clean document",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "marginal page",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "misread, invisible",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "illegible",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "missing field",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "lines do not sum",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "bad container no.",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

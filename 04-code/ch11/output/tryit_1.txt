@@ -1,0 +1,13 @@
+TRY 1: a kickoff-only map
+Your customer map, day 3, checked day 3: 2 people
+  sponsor   VP who signed
+  operator  (nobody)
+  blocker   (nobody)
+  approver  IT director
+  owner     IT director
+  champion  (nobody)
+  BLOCK no-operator         nobody who will use the system every day is on the map
+  WARN  no-blocker          nobody is listed as able to stop this; find them before they find you
+  WARN  unconfirmed         VP who signed: role 'sponsor' known only from kickoff
+  WARN  unconfirmed         IT director: role 'approver/owner' known only from org chart
+  naive score 0.60   gated score 0.30   verdict NOT USABLE

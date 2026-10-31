@@ -1,0 +1,76 @@
+== Caldwell (retained duties): PASS 14, WARN 0, DEV 0, FLAG 0, N/A 1
+   R01 PASS  exit rule day 141, pilot from day 142
+   R02 PASS  operator Tom Whitfield observed; gated 0.80
+   R03 PASS  every alert route on a Caldwell address since day 177
+   R04 PASS  CA-01 v5 (day 149): Anne Kessler scores a monthly sample
+   R05 PASS  W3 extracts only; totals moved to code step C08
+   R06 PASS  OD-4 logged as an open decision on day 26; it rises only on Anne Kessler's answer
+   R07 PASS  per-class report; fax first notice excluded by name (S-1)
+   R08 PASS  gold set scored by the customer's expert on the customer's documents
+   R09 PASS  key reread on 401 and on rotation
+   R10 PASS  router threshold 0.98 named to Anne Kessler
+   R11 PASS  extract-2026-04 pinned; version printed in every report
+   R12 PASS  map generated from the running system; fields, not document text
+   R13 PASS  runbooks executable by Caldwell; drill 2 passed day 183
+   R14 PASS  26 of 26 packs rebuilt at internal audit (day 214)
+   R15 N/A   no playbook adopted
+   exposed during the engagement and closed: 9 (R03, R04, R05, R06, R07, R08, R09, R10, R14)
+== Greystone (live): PASS 12, WARN 0, DEV 0, FLAG 0, N/A 3
+   R01 PASS  exit rule signed before the shadow run began
+   R02 PASS  operator Keisha Monroe observed; gated 1.00
+   R03 N/A   not handed over
+   R04 PASS  acceptance test (Exhibit A) names the measurer and the bars
+   R05 PASS  rules in code; the model drafts
+   R06 PASS  claims carry status in the decision log
+   R07 PASS  Michael Hart's bars held per slice (day 153)
+   R08 PASS  replay test scored by Greystone's clerks and nurse reviewers
+   R09 PASS  key reread on 401 and on rotation
+   R10 PASS  clinical rule owned by Michael Hart
+   R11 PASS  deployment names a version; auto-upgrade off
+   R12 PASS  14 flows generated; 0 of 1,800 provider entries hold PHI
+   R13 N/A   no runbooks yet
+   R14 PASS  packs pinned by content hash (Chapter 40 model)
+   R15 N/A   no playbook adopted
+   exposed during the engagement and closed: 2 (R02, R12)
+== Pennant (managed service): PASS 12, WARN 1, DEV 1, FLAG 0, N/A 1
+   R01 PASS  shadow exit criteria signed before shadow
+   R02 WARN  4 holdings with no deputy
+   R03 DEV   night alerts forward to Northlight under the managed-service contract; exit drill passed day 283
+   R04 PASS  'matched' signed by Dana Whitaker (day 121)
+   R05 PASS  FX table and two-key match in code; the model reads
+   R06 PASS  'matched' rose from draft to fact on a signature
+   R07 PASS  matched read per queue; 357 exceptions routed by name
+   R08 PASS  83% matched, scored by Pennant's reconciliation team
+   R09 PASS  key reread on 401 and on rotation
+   R10 PASS  two-key linkage signed by Dana Whitaker
+   R11 PASS  extract-2026-01 pinned and recorded for europe-west4
+   R12 PASS  map generated; erasure and retention recorded
+   R13 PASS  8 vendor-only steps in 4 runbooks fell to 0 (v1)
+   R14 PASS  packs pinned by content hash (Chapter 40 model)
+   R15 N/A   no playbook adopted
+   exposed during the engagement and closed: 4 (R02, R11, R13, R15)
+== Harbourline (live): PASS 12, WARN 0, DEV 0, FLAG 0, N/A 3
+   R01 PASS  read-and-draft boundary and shadow exit in the contract
+   R02 PASS  operator Credit officers observed; gated 0.80
+   R03 N/A   not handed over
+   R04 PASS  shadow agreement scored by Harbourline credit review
+   R05 PASS  joins, ratios and thresholds in code; the model drafts
+   R06 PASS  bid claims D-01 and D-05 rewritten after lint
+   R07 PASS  model-risk gate green at the second submission
+   R08 PASS  91% agreement on 600 memos, Harbourline's scoring
+   R09 PASS  key reread on 401 and on rotation
+   R10 PASS  LTV limit set by Harbourline credit policy
+   R11 PASS  model versions pinned for the committee
+   R12 PASS  map generated; bid-stage digest retired
+   R13 N/A   no runbooks yet
+   R14 PASS  packs pinned by content hash (Chapter 40 model)
+   R15 N/A   no playbook adopted
+   exposed during the engagement and closed: 0 (none)
+
+GRID R01 R02 R03 R04 R05 R06 R07 R08 R09 R10 R11 R12 R13 R14 R15
+Cald PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS N/A
+Grey PAS PAS N/A PAS PAS PAS PAS PAS PAS PAS PAS PAS N/A PAS N/A
+Penn PAS WAR DEV PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS PAS N/A
+Harb PAS PAS N/A PAS PAS PAS PAS PAS PAS PAS PAS PAS N/A PAS N/A
+open FLAG findings across four engagements: 0
+open FLAG findings with linter v0: 0

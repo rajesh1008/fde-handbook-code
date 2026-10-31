@@ -1,0 +1,9 @@
+Harbourline Bank, day 171: present 7, partial 1, missing 0; digest b1d14a0845d2; complete False
+  decision record            present  HL gate register, AR to MRA                David Okafor, day 158 
+  lineage                    present  lineage store, Canada region               Martin Shaw, day 171 
+  model and prompt versions  present  model inventory, 7 entries                 Helen Marsh, day 158 
+  evaluation at the time     present  validation report, submission two          Helen Marsh, day 158 
+  human review               present  credit review scores, 600 memos            David Okafor, day 149 
+  authority boundary         present  Schedule D, release one                    David Okafor, day 158 
+  incident history           present  operational risk register, shadow entries  David Okafor, day 150 
+  monitoring                 partial  M1 to M4 defined                           Helen Marsh, day 158 first monthly report due day 201

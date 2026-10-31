@@ -1,0 +1,107 @@
+{
+ "stem": "fig18-05",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch18/fig18_05_errors.py",
+ "source_sha1": "1ddf64c3ade3",
+ "data": "04-code/fieldkit/fieldkit/gateway.py ACTIONS",
+ "png_px": [
+  1650,
+  1380
+ ],
+ "rendered": "2026-10-31 20:25 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.6,
+ "aspect": 1.196,
+ "min_font_pt": 10.0,
+ "label_words": 38,
+ "contrast_pairs": [
+  [
+   "401",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "refresh key, retry once, then ",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "403",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "stop; ticket to network owner",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "429",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "wait Retry-After, retry",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "400 filter",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "no retry; route to a person",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "404/410",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "stop; move to successor",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "other 4xx",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "stop; contract test missed it",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "5xx",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "back off, retry in budget",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

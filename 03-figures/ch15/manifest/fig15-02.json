@@ -1,0 +1,59 @@
+{
+ "stem": "fig15-02",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch15/fig15_02_who_says_yes.py",
+ "source_sha1": "7a2d85e5ed16",
+ "data": "Chapter 3 (sample request, days 9 to 47); 04-code/ch15 histories (day 48)",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-10-31 19:48 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 10.0,
+ "label_words": 29,
+ "contrast_pairs": [
+  [
+   "Anne Kessler\nbusiness need, da",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "privacy office\npurpose and rea",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "claims operations\nextract, ban",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "archive delivered\n200 files, d",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Priya Natarajan\nstorage and de",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "38 days\nof review",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

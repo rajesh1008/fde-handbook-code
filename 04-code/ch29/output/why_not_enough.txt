@@ -1,0 +1,14 @@
+Caldwell QE regression suite against the agent: 312 API tests, 58 UI tests
+  example: POST /intake for GT-0010 (first notice, mail)
+    API test: status 201, schema valid -> PASS
+    gold value for date_received 2026-02-26, agent wrote 2026-03-02 -> WRONG
+
+defect category                                    found layer API/UI
+rule or pure-function bug (dates, V-118 codes)         9    L1      0
+extraction regression on one document class            8    L2      0
+retrieval answer not supported by its citation         5    L2      0
+contract or wiring fault (claims-core, gateway)        7    L3      3
+multi-step scenario (duplicates, page order)           6    L4      0
+drift or live-only behavior (templates, volume)        6    L5      0
+total                                                 41            3
+API and UI tests caught 3 of 41 (7%); every one was a wiring fault with an HTTP error.

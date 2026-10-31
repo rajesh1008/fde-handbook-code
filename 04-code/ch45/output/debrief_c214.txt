@@ -1,0 +1,10 @@
+debrief c214
+  discovery      scores [1, 2]       median 1.5  n 2
+  decomposition  scores [3, 2]       median 2.5  n 2
+  build          scores [4, 4]       median 4.0  n 2
+  judgment       scores [2, 3]       median 2.5  n 2
+  communication  scores [3, 3, 2]    median 3.0  n 3
+  reason: discovery median 1.5 below 3 (must-have)
+  reason: judgment median 2.5 below 3 (must-have)
+  reason: discovery median 1.5 below floor 2
+  decision: no hire

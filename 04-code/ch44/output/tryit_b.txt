@@ -1,0 +1,4 @@
+b) drop E1 (discovery role-play) to save 45 minutes
+   C-1: ('no decision', None, 'not observed: discovery')
+   C-3: ('no decision', None, 'not observed: discovery')
+   C-4: ('no decision', None, 'not observed: discovery')

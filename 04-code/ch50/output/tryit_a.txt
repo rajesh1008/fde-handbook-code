@@ -1,0 +1,5 @@
+correct draft: claim 2 = 'Debt service coverage is 1.27x against a covenant of >= 1.25x.'
+  gate: pass | lineage: holds
+rounded to 1.3x: claim 2 = 'Debt service coverage is 1.3x against a covenant of >= 1.25x.'
+  gate: claim 2: 1.3x matches no recorded calculation (dscr 1.27) | lineage: holds
+question: is a blocked 1.3x a false alarm or a policy? Harbourline's definition table sets two decimals.

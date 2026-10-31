@@ -1,0 +1,137 @@
+{
+ "stem": "fig21-10",
+ "kind": "diagram",
+ "tool": "hand-laid SVG (signature10.py)",
+ "style": "style.md",
+ "source": "03-figures/src/ch21/fig21_10_signature10_broken.py",
+ "source_sha1": "1bac4f65e2bc",
+ "data": "signature10.STATES['ch21-broken']",
+ "png_px": [
+  1650,
+  1483
+ ],
+ "rendered": "2026-10-31 20:44 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.944,
+ "aspect": 1.112,
+ "min_font_pt": 10.0,
+ "label_words": 31,
+ "contrast_pairs": [
+  [
+   "source document",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "hls-inv-77310.pdf",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "sha256 9f2c41d0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "page",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "page 1",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "legibility 0.91",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "extraction method",
+   "#1e2329",
+   "#d2d8df",
+   11.02
+  ],
+  [
+   "HLS-INV-03 + OCR",
+   "#1e2329",
+   "#d2d8df",
+   11.02
+  ],
+  [
+   "EUR 9,870.00",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "calculation",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "reconcile.overbilling",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "claim",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "over-billed USD 412.50",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "release",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "Dana Whitaker, day 66",
+   "#1e2329",
+   "#d8e9db",
+   12.5
+  ],
+  [
+   "weekly freight audit",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "fx_rates.csv",
+   "#1e2329",
+   "#f9deda",
+   12.42
+  ],
+  [
+   "path, overwritten daily",
+   "#1e2329",
+   "#f9deda",
+   12.42
+  ],
+  [
+   "day 81 recompute: 397.70",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 11.02
+}

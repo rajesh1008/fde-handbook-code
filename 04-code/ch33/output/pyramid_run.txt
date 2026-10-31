@@ -1,0 +1,12 @@
+pack v1:
+  layer 1 pack lint                          pass     0 lint problems
+  layer 2 register matches signed r3         pass     register 79392da7492d vs signed 79392da7492d
+  layer 3 metrics computable by Caldwell     fail     needs Northlight: M4, M6
+  layer 4 evidence traces to suite           skipped  earlier layer failed
+  caught at layer: 3
+pack v2:
+  layer 1 pack lint                          pass     0 lint problems
+  layer 2 register matches signed r3         pass     register 79392da7492d vs signed 79392da7492d
+  layer 3 metrics computable by Caldwell     pass     all computable
+  layer 4 evidence traces to suite           pass     pack numbers trace to suite outputs
+  caught at layer: none (all layers pass)

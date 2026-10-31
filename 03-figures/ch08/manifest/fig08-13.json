@@ -1,0 +1,227 @@
+{
+ "stem": "fig08-13",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch08/fig08_13_signature5.py",
+ "source_sha1": "6f7f1cb3d792",
+ "data": "04-code/ch08 caldwell_scope.signed(); signature5.STATES['ch08']",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:07 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 42,
+ "contrast_pairs": [
+  [
+   "scope",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "F2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "R2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "criteria",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "F3",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "R1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "V2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "D2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "volumes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "F1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "R3",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "V1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "D2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "out of scope",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "F2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "R1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "D1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "register",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "D2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "F",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer fact",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "R",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "from an artifact",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "V",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor position",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "P",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "proposed design",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "D",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "decision required",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

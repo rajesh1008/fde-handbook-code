@@ -1,0 +1,13 @@
+HOURS LEDGER  Caldwell Mutual  days 1-47  (reconstructed, not logged)
+bucket        hours   share  deal sheet share
+discovery        88     14%                6%
+access          158     26%                5%
+model           138     23%               56%
+integration      96     16%               22%
+gates            46      8%                6%
+handover          0      0%                5%
+blocked          84     14%                0%
+total           610
+integration tax to date: 0.70 hours per model hour (deal sheet 0.40)
+model work share: 23% of hours (deal sheet 56%)
+blocked hours trace to: claims-core-readonly (42 days, Daniel Reyes); adjuster-sso-group (17 days, Anne Kessler); sample-storage-decision (0 days, Priya Natarajan)

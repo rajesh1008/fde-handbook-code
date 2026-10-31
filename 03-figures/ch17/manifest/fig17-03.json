@@ -1,0 +1,107 @@
+{
+ "stem": "fig17-03",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch17/fig17_03_leaks.py",
+ "source_sha1": "cdc59adb6b31",
+ "data": "04-code/ch17/output/obo_recheck.txt",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 21:11 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.5,
+ "label_words": 17,
+ "contrast_pairs": [
+  [
+   "other unit 83",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "flagged today 22",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "results the adjuster may not r",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "120",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "140",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "delegation +\nrecheck",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "service\naccount",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

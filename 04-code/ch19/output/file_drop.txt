@@ -1,0 +1,10 @@
+night  1 Tue rows 36,840  ACCEPTED 
+night  2 Wed rows 38,733  ACCEPTED 
+night  9 Tue rows 38,729  DUPLICATE same bytes as tms_status_20260908.csv
+night 17 Thu rows 38,571  REFUSED schema drift: added ['leg_status'] removed ['status']
+night 23 Wed rows 18,200  REFUSED volume 18200 is 0.48 of trailing median 38268
+night 26 -   rows      0  ALARM 03:30 no file
+night 30 Wed rows 36,827  ACCEPTED 
+
+connector: accepted 26 nights, refused or flagged 4 events, 0 rows loaded from a bad night
+naive loader: loaded 878,576, null_status_rows 38,571, double_loaded_rows 38,729, partial_nights 1, silent_misses 1

@@ -1,0 +1,23 @@
+PR #212 'extractor prompt p9: three email examples, date received from the letter'
+  changed: ['prompts/extract_p9.txt', 'prompts/examples/email_03.json'] -> kinds ['prompt'], layers [1, 2, 3]
+  L1 rule regression          PASS         412 of 412 rule cases pass
+  L2 extractor slices         FAIL         aggregate 88.3% -> 89.2%; slices not passing: first notice, mail fail, ('first notice, mail', 'date_received') fail
+  L2 retrieval faithfulness   PASS         40 questions, faithfulness 95.0%, superseded citations 0
+  L3 integration replay       SKIPPED      earlier layer failed
+  gate: BLOCK, caught at layer 2
+
+what the Chapter 26 aggregate gate alone says: PASS []
+  correct on both 1746, gained 46, lost 29, wrong on both 189
+
+before/after on gold-set-300 test (201 documents, 2,010 fields), by document class
+class                  fields    p8.3      p9 gained  lost  verdict
+adjuster note             170   94.7%   97.1%      4     0  pass
+first notice, email       170   97.6%   98.8%      2     0  pass
+first notice, fax         500   82.6%   84.0%      7     0  pass
+first notice, mail        490   85.5%   81.6%     10    29  fail
+medical bill              170   89.4%   93.5%      7     0  pass
+photo log                 170   85.9%   90.0%      7     0  pass
+police report             170   94.1%   96.5%      4     0  pass
+repair estimate           170   92.9%   95.9%      5     0  pass
+all classes              2010   88.3%   89.2%     46    29
+slice first notice, mail x date_received: 45 of 49 -> 16 of 49, sign test p = 1.9e-09

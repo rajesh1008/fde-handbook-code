@@ -1,0 +1,17 @@
+def r02(m, gated=True):
+    sm = m.get("smap")
+    if sm is None:
+        return "FLAG", "no sponsor map"
+    if not gated:   # v0: a slide-level check
+        ok = SH.naive_score(sm) >= 0.75 and sm.holders("sponsor")
+        return ("PASS" if ok else "FLAG"), f"naive score {SH.naive_score(sm):.2f}, sponsor named"
+    sponsors = {p.key for p in sm.holders("sponsor")}
+    ops = [p for p in sm.holders("operator") if p.key not in sponsors and p.source == "observed"]
+    if not ops:
+        return "FLAG", f"no observed operator other than the sponsor (gated {SH.gated_score(sm):.2f})"
+    heavy = [p for p in sm.people if len(p.roles) > SH.MAX_ROLES]
+    if heavy:
+        return "FLAG", f"{heavy[0].name} holds {len(heavy[0].roles)} of 5 roles"
+    if m.get("no_deputy"):
+        return "WARN", f"{m['no_deputy']} holdings with no deputy"
+    return "PASS", f"operator {ops[0].name} observed; gated {SH.gated_score(sm):.2f}"

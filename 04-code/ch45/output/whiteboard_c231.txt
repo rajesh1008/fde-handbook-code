@@ -1,0 +1,9 @@
+1 receive request              key deterministic   said deterministic   ok
+2 extract order number         key rules           said rules           ok
+3 look up order                key deterministic   said deterministic   ok
+4 check the window             key rules           said rules           ok
+5 classify free-text reason    key small model     said rules           under
+6 approve refund over $500     key human decision  said human decision  ok
+7 draft the reply              key frontier model  said frontier model  ok
+8 issue the refund             key deterministic   said deterministic   ok
+agree 7 of 8, over-modeled 0, under 1, unsafe 0

@@ -1,0 +1,4 @@
+Review requests to Priya Natarajan, days to a written answer
+  decision record      n=7  median    2 days  max 4
+  diagram with notes   n=6  median  4.0 days  max 6
+  slide deck           n=5  median    9 days  max 12

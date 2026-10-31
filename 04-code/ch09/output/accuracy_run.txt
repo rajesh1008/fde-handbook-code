@@ -1,0 +1,8 @@
+step (class: what)               correct  caught  silent   documents: 400 synthetic, scored by the lab
+det: policy number                   379      21       0
+det: received date                   386      14       0
+small: document type                 374      21       5
+small: loss cause                    361      30       9
+frontier: summary statements         367      16      17
+rules: fast-track routing            400       0       0
+silent errors: code steps 0, model steps 31 (stand-in rates)

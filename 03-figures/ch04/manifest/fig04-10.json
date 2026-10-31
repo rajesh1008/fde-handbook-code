@@ -1,0 +1,155 @@
+{
+ "stem": "fig04-10",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch04/fig04_10_pennant_layouts.py",
+ "source_sha1": "f1772a1ff584",
+ "data": "04-code/ch04/tryit.py PENNANT_LAYOUTS (Pennant layout inventory v1)",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 19:17 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 26,
+ "contrast_pairs": [
+  [
+   "1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "11",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "27",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "layouts",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "35",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "EDI 214 status message",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "driver phone photo",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "free-text email exception",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "customs form",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "carrier proof-of-delivery scan",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "matched by the sales demo",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "uncovered: route to the except",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

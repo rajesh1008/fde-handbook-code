@@ -1,0 +1,137 @@
+{
+ "stem": "fig18-08",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch18/fig18_08_flips.py",
+ "source_sha1": "b83743b75118",
+ "data": "04-code/ch18/output/version_drift.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:25 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 16,
+ "contrast_pairs": [
+  [
+   "172",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "13",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "7",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "aggregate: 89.5% to 92.5%\nthe ",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "both correct",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "gained",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "lost",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "both wrong",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "gold-set items",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "75",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "125",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "150",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "175",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

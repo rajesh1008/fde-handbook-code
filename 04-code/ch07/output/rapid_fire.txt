@@ -1,0 +1,14 @@
+R01   48s confirmed    Which system is the system of record for a claim's first notice?
+R02   48s confirmed    How often is the claims mart refreshed?
+R03   90s contradicted Is the claims mart one row per claim?  -> over a minute: becomes a deep question next time
+R04  108s contradicted Does the claims-core read-only account see every claim?  -> over a minute: becomes a deep question next time
+R05   54s refined      Who may change a claim's loss date after first notice?
+R06   30s confirmed    Can the read-only account run SQL against the mart?
+R07   54s confirmed    Are document IDs in the document store stable once written?
+R08   60s refined      Is every query against claimant fields logged with the querying user?
+R09   66s refined      About how many claims are opened a month?  -> over a minute: becomes a deep question next time
+R10   30s confirmed    Does the acknowledgment clock start on the date received?
+R11  120s contradicted Which field holds the date Caldwell received a first notice?  -> over a minute: becomes a deep question next time
+R12   48s confirmed    Can an adjuster search the policy system by claimant name and address?
+
+round: 12 questions in 12.6 minutes; contradicted 3

@@ -1,0 +1,8 @@
+three records: 1155 recommendations, 1155 outcomes joined by document
+  reviewer verdicts: accepted 989  edited 130  rejected 36
+  recommendation equals final record on all six fields: 1006 (87.1%)  scored by code against the production extract
+  accepted unchanged but final record differs: 30
+  edited and the edit equals final record: 129 of 130
+  median review seconds: accepted 48  edited 94
+one overwritten record: 'agent agrees with final' 1155 of 1155 (100.0%); rubber-stamped errors visible: 0
+  of the accepted-but-different: agent error the reviewer missed 16, production keyer slip 14

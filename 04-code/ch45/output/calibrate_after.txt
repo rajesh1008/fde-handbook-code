@@ -1,0 +1,5 @@
+calibration after: 6 sessions x 5 competencies x 3 interviewers
+Callum Reid    mean offset +0.03  equal to panel median 97%  n 30
+Laura Finch    mean offset +0.00  equal to panel median 100%  n 30
+Sofia Brennan  mean offset -0.03  equal to panel median 97%  n 30
+cells where all three agree exactly: 93%

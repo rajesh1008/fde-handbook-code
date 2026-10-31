@@ -1,0 +1,179 @@
+{
+ "stem": "fig24-14",
+ "kind": "diagram",
+ "tool": "hand-laid SVG (signature7.py)",
+ "style": "style.md",
+ "source": "03-figures/src/ch24/fig24_14_signature7.py",
+ "source_sha1": "945627218b1c",
+ "data": "signature7.STATES['ch24']",
+ "png_px": [
+  1650,
+  2142
+ ],
+ "rendered": "2026-10-31 21:29 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 7.139,
+ "aspect": 0.77,
+ "min_font_pt": 9.5,
+ "label_words": 34,
+ "contrast_pairs": [
+  [
+   "fieldkit 0.1.0: built",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "dashed arrow: imports",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "access.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "readiness.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "fixtures.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "engagement.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "deployment.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "cadence.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "escalation.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "datareadiness.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "histories.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "synthetic.py",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "deid.py",
+   "#1e2329",
+   "#f9deda",
+   12.42
+  ],
+  [
+   "shadow.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "sampling.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "gateway/connectors",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "Ch 18, 19",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "estates.py",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "Ch 20",
+   "#1e2329",
+   "#dee2eb",
+   12.19
+  ],
+  [
+   "quality/lineage",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "Ch 21",
+   "#1e2329",
+   "#f7ebd2",
+   13.38
+  ],
+  [
+   "retrieval.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "Ch 23",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "surface.py",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "v3.1: options, broker",
+   "#1e2329",
+   "#cfe5e6",
+   12.05
+  ],
+  [
+   "labs that import fieldkit",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 12.05
+}

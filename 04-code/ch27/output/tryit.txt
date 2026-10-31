@@ -1,0 +1,10 @@
+== tryit a
+calibration set 100 documents: proceed 0.950, lower bound 98.2% on 396 fields; audit-400 proceed 63.0%, post-review error 1.38%
+calibration set 200 documents: proceed 0.985, lower bound 98.0% on 785 fields; audit-400 proceed 62.3%, post-review error 0.95%
+calibration set 600 documents: proceed 0.950, lower bound 98.9% on 2,267 fields; audit-400 proceed 62.3%, post-review error 0.90%
+== tryit b
+target 98%: proceed threshold 0.950, audit-400 proceed 62.3% of documents, post-review error 0.90%
+target 99%: proceed threshold 0.960, audit-400 proceed 58.0% of documents, post-review error 0.75%
+== tryit c
+gates on : proceed 62.3%, wrong fields proceeding unreviewed 20, post-review error 0.90%
+gates off: proceed 64.0%, wrong fields proceeding unreviewed 23, post-review error 0.97%

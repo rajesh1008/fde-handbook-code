@@ -1,0 +1,5 @@
+--- exercise a
+tolerance  0.1: 3 contradictions (P01, P02, P03)
+tolerance 0.25: 2 contradictions (P01, P03)
+tolerance  0.5: 2 contradictions (P01, P03)
+tolerance  1.0: 0 contradictions (none)

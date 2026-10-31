@@ -1,0 +1,14 @@
+v1: pattern scrub, exact loss date and town
+  known-value leaks 95 of 200 documents   smallest group 1 (k=5)   linkage re-identifications 50   FAIL
+  rows in groups smaller than k: 105 of 105
+  documents leaking each kind: claimant_name 77, policy 16, other_party_name 9, street 8
+  example (D0000, policy HP165562): OPERATOR 1: [NAME]  INS: CALDWELL MUTUAL NP165562
+v2 options for the structured table (k=5): rows suppressed out of 105
+  month    loss date+town+loss type     suppressed 89
+  quarter  loss date+town+loss type     suppressed 47
+  quarter  loss date+loss type          suppressed 31
+  no date  town+loss type               suppressed 21
+  chosen: no date, town + loss type (the regression slice does not need a date)
+v2: known-value scrub plus the chosen table; the attacker generalizes the blotter the same way
+  known-value leaks 0 of 200 documents   smallest group 5 (k=5)   linkage re-identifications 0   PASS
+  rows in groups smaller than k: 0 of 84

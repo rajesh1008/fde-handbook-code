@@ -1,0 +1,38 @@
+ONE CLAUSE, THREE RULES  Caldwell post-review document error, true rate 0.9% (Ch27)
+  rule                                   n    breach at   P(breach) at 0.9%  at 1.0%  at 3.0%
+  point estimate above 1.0%             400    5 errors               29.3%    37.1%    99.3%
+  point estimate above 2.0%             400    9 errors                1.1%     2.1%    84.9%
+  designed: alpha 5%, power 80%         310    7 errors                2.3%     3.8%    82.3%
+
+SAMPLE SIZE FOR THE CALDWELL DESIGN (alpha 5% at 1.0%, power at 3.0%)
+  n  100  breach at  4  power 35.3%  (below 80%)
+  n  200  breach at  6  power 55.7%  (below 80%)
+  n  310  breach at  7  power 82.3%
+  n  400  breach at  9  power 84.9%
+  n  800  breach at 14  power 99.0%
+
+SERVICE LEVELS DESIGNED FOR ALL FOUR CUSTOMERS (alpha 5%, power 80%)
+  customer     bad event                        acceptable  unacceptable  n     breach at   now    P(breach) now  expected breach months / 12
+  Caldwell     post-review document error            1.0%         3.0%    310    7 ( 2.3%)  0.90%          2.3%    0.28   [Ch27: 36 of 4,000]
+  Greystone    draft needs material correction      15.0%        25.0%    110   24 (21.8%)  12.00%          0.3%    0.03   [stand-in]
+  Pennant      shipment not matched                 17.0%        25.0%    170   38 (22.4%)  17.00%          4.3%    0.52   [canon: 83% matched]
+  Pennant      silently wrong match                  0.2%         1.0%    560    4 ( 0.7%)  0.15%          1.1%    0.13   [stand-in]
+  Harbourline  memo disagrees with reviewer         10.0%        20.0%     90   15 (16.7%)  9.00%          1.4%    0.17   [stand-in]
+  scorers: Caldwell: Caldwell claims quality team; Greystone: Greystone clinical reviewers; Pennant: Pennant reconciliation team; Pennant: Pennant reconciliation team; Harbourline: bank credit reviewers
+
+ZERO-TOLERANCE CLAUSE  'no red flag is ever missed' (Greystone, stand-in rates)
+  per-flag miss 1.0%, 60 red-flag referrals a month -> P(breach in a month) 45.3%, in a year 99.9%
+  per-flag miss 0.5%, 60 red-flag referrals a month -> P(breach in a month) 26.0%, in a year 97.3%
+  per-flag miss 0.1%, 60 red-flag referrals a month -> P(breach in a month) 5.8%, in a year 51.3%
+
+REPORTING ONE MONTH  (Caldwell, 310 documents; 95% upper bound, Wilson)
+  3 errors in 310: sampled 0.97%, upper bound 2.81%  -> no breach
+  6 errors in 310: sampled 1.94%, upper bound 4.16%  -> no breach
+  7 errors in 310: sampled 2.26%, upper bound 4.59%  -> breach
+  9 errors in 310: sampled 2.90%, upper bound 5.42%  -> breach
+
+REMEDIES ON A SAMPLED MEASURE  (chronic breach = 3 or more breach months in any 6)
+  true error 0.9%: breach month  2.3%  any breach in 12 months 24.8%  chronic in a 6-month window  0.0%
+  true error 1.0%: breach month  3.8%  any breach in 12 months 37.2%  chronic in a 6-month window  0.1%
+  true error 2.0%: breach month 42.6%  any breach in 12 months 99.9%  chronic in a 6-month window 51.0%
+  true error 3.0%: breach month 82.3%  any breach in 12 months 100.0%  chronic in a 6-month window 98.9%

@@ -1,0 +1,24 @@
+Caldwell map, day 25, checked day 25: 5 people
+  sponsor   Daniel Reyes
+  operator  Tom Whitfield
+  blocker   (nobody)
+  approver  Anne Kessler, Priya Natarajan
+  owner     Anne Kessler, Ruth Calloway
+  champion  Ruth Calloway
+  WARN  no-blocker          nobody is listed as able to stop this; find them before they find you
+  naive score 0.80   gated score 0.80   verdict USABLE
+
+Pennant map, day 28, checked day 28: 3 people
+  sponsor   Jenna Ruiz
+  operator  Jenna Ruiz, Documentation clerks (14)
+  blocker   Compliance manager
+  approver  Jenna Ruiz
+  owner     Jenna Ruiz
+  champion  (nobody)
+  WARN  concentration       Jenna Ruiz holds 4 of 5 roles; one absence stops the work
+  WARN  sponsor-approver    Jenna Ruiz is sponsor and approver; name who carries the asks while Ruiz rules
+  WARN  stale               Compliance manager (blocker): last contact day 16, 12 days ago, limit 10
+  naive score 1.00   gated score 0.90   verdict USABLE
+
+bus factor across the three working maps
+  concentration: Jenna Ruiz (Pennant) holds 4 of 15 capabilities

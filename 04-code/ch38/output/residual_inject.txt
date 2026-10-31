@@ -1,0 +1,15 @@
+RR-01 (F-13) an instruction in a scanned letter changes a draft's summary wording
+   inherent 4x4=16, residual 2x3=6; accepted by Sam Oakley and Michael Hart day 129; vendor owner Sofia Brennan; review day 190
+   controls: draft only, no write tools; coordinator reads and edits every draft before copying; draft label on every copy; output guardrail flags drafts that differ from the source summary
+   void if: a draft with injected wording reaches a payer; a new document channel, such as patient upload; any write tool added; attack success above 1 in 20 on the monthly rerun
+RR-02 (F-21) a westus3 outage stops drafting until a recorded model change runs in centralus
+   inherent 2x3=6, residual 2x2=4; accepted by Sam Oakley and Denise Alvarez day 129; vendor owner Callum Reid; review day 190
+   controls: drafting pauses; referrals continue by hand; outage drill EV-25; recorded model change, owner Erin Walsh
+   void if: a pin offered in centralus; an outage longer than two working days; pilot scope beyond two clinics
+register lint: 0 problems
+first draft of an acceptance, as a vendor would write it:
+   RR-03: accepted by 'Northlight security team', not a named person
+   RR-03: no review day; an acceptance with no end date is a waiver
+   RR-03: no trigger that voids the acceptance
+   RR-03: fewer than two compensating controls
+   RR-03: residual score 12 is high; fix, do not accept

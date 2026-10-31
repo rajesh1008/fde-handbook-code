@@ -1,0 +1,143 @@
+{
+ "stem": "fig07-04",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch07/fig07_04_bank.py",
+ "source_sha1": "d7667c6676ca",
+ "data": "04-code/ch07 lab fixtures",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 19:35 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.0,
+ "label_words": 13,
+ "contrast_pairs": [
+  [
+   "40",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "8",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "questions",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "data owner",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "security lead",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "model-risk officer",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "operator",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "functional",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "technical",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "data",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "identity",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "audit",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

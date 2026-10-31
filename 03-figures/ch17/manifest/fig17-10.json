@@ -1,0 +1,77 @@
+{
+ "stem": "fig17-10",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch17/fig17_10_loglines.py",
+ "source_sha1": "7243d067353c",
+ "data": "04-code/ch17/output/env_doc.txt; chapter text",
+ "png_px": [
+  1650,
+  1290
+ ],
+ "rendered": "2026-10-31 21:11 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.3,
+ "aspect": 1.279,
+ "min_font_pt": 9.5,
+ "label_words": 26,
+ "contrast_pairs": [
+  [
+   "runner",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "runner log\ngroup",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "egress\nlog",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "recheck\nlog",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor tracing",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "provider request log",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "laptop notebook",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "removed: copies Caldwell canno",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Caldwell's archive,\nCaldwell's",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

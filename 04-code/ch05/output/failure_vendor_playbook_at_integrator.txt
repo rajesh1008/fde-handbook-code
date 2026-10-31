@@ -1,0 +1,28 @@
+FAILURE INJECTION
+NORTHLIGHT PLAYBOOK v1  (run by: Systems integrator)
+  BENT    configure-first      no product, use method_library
+  BENT    gap-to-backlog       no product_backlog, use method_library
+  INVERTS defend-roadmap       assumes one more custom feature costs; here it earns
+  BREAKS  absorb-tax           no subscription
+  INVERTS keep-it-short        assumes one more month costs; here it earns
+  BREAKS  release-train        no release_train
+  BENT    handover-support     no support_org, use run_service
+  OK      deterministic-first  assets present
+  OK      in-boundary          assets present
+  OK      price-from-ledger    assets present
+  tally: OK 3  BENT 3  BREAKS 2  INVERTS 2
+  4 of 10 plays fail outright; first to fail in the field: defend-roadmap (assumes one more custom feature costs; here it earns)
+REPAIR: same intents, rewritten for the home that runs them
+INTEGRATOR PLAYBOOK  (run by: Systems integrator)
+  OK      configure-first      assets present
+  OK      gap-to-library       assets present
+  OK      scope-custom         assets present
+  OK      bill-tax             assets present
+  OK      cap-duration         assets present
+  OK      customer-release     assets present
+  OK      handover-run         assets present
+  OK      deterministic-first  assets present
+  OK      in-boundary          assets present
+  OK      price-from-ledger    assets present
+  tally: OK 10  BENT 0  BREAKS 0  INVERTS 0
+  vendor running the integrator's playbook: OK 3  BENT 0  BREAKS 6  INVERTS 1

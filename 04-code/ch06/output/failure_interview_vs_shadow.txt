@@ -1,0 +1,16 @@
+--- step 1: procedure and interviews only, day 11
+naive: 3 of 3 paths answered on all five questions (100%)
+fieldkit: 0 of 3 paths covered; answers stated but not observed: 12
+--- step 2: add the day-12 shadowing session at the intake desk
+paths known: 7; covered: P02, P04, P05
+CONTRADICTION P01 lag_days: stated 0 by intake procedure (2014) (procedure, day 8); Anne Kessler (interview, day 9)
+    observed 1.6 over 26 documents: Tom Whitfield (shadow, day 12)
+    open: path cannot be counted as covered
+--- step 3: Anne Kessler reviews the log with Tom Whitfield on day 14
+P01: covered
+CONTRADICTION P01 lag_days: stated 0 by intake procedure (2014) (procedure, day 8); Anne Kessler (interview, day 9)
+    observed 1.6 over 26 documents: Tom Whitfield (shadow, day 12)
+    resolved day 14 by Anne Kessler: procedure assumes two scan batches; the afternoon batch stopped in 2019
+CONTRADICTION P03 lag_days: stated 0 by intake procedure (2014) (procedure, day 8); Anne Kessler (interview, day 9)
+    observed 0.8 over 22 documents: intake clerk A (shadow, day 14)
+    open: path cannot be counted as covered

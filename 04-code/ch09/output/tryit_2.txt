@@ -1,0 +1,4 @@
+TRY 2: frontier price against the fall, scanned Caldwell document
+  frontier price x0.5  demo 0.0917  pipeline 0.0293  fall 68%
+  frontier price x1.0  demo 0.1774  pipeline 0.0521  fall 71%
+  frontier price x2.0  demo 0.3489  pipeline 0.0977  fall 72%

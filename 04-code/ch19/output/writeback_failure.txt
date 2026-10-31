@@ -1,0 +1,4 @@
+uat      writes 152  accepted 152  rejected  0 
+         claims in system 155  by status {'OPEN': 155}  duplicate claims 3  silently truncated names 1
+preprod  writes 152  accepted 140  rejected 12 {'V-118': 11, 'V-127': 1}
+         claims in system 155  by status {'OPEN': 143, 'SHELL': 12}  duplicate claims 3  silently truncated names 1

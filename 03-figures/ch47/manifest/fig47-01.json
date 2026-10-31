@@ -1,0 +1,293 @@
+{
+ "stem": "fig47-01",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch47/fig47_01_repeats.py",
+ "source_sha1": "bde43dfad4c7",
+ "data": "04-code/ch47/output/repeats.txt",
+ "png_px": [
+  1650,
+  1680
+ ],
+ "rendered": "2026-11-01 01:57 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 5.6,
+ "aspect": 0.982,
+ "min_font_pt": 9.0,
+ "label_words": 80,
+ "contrast_pairs": [
+  [
+   "1 shape",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1 shape",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "3 shapes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1 shape",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2 shapes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2 shapes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "3 shapes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2 shapes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "13 shapes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "3 shapes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1 shape",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1 shape",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "17 shapes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4 shapes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2 shapes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2 shapes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1 shape",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "8 engagements",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "engagements that built it (of ",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "permit rules engine",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "claims-core write-back",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "KYC document review",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "shipment document reconciliati",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "referral packet intake, draft-",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "claims first-notice extraction",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "permission-inheriting retrieva",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "upfront document quality gate",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "sponsor dashboard",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "shadow tap",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "gateway key refresh on 401",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "audit log, hash-chained",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "connector to the system of rec",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "estate adapter per cloud",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "gateway adapter",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "alert routes and runbook",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "evaluation suite runner",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "platform",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "playbook",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "bespoke",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

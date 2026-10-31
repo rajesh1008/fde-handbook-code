@@ -1,0 +1,18 @@
+(a) The clinic routing rules turn out to live in two coordinators' heads, not in binders.
+    tree refuses: E13: rules with no named owner are not rules, they are habits
+    E13 becomes constrained small model; det 16, rules 3, small 4, frontier 2; deterministic 64%
+    effort 82 -> 84 engineer-days; build done day 108 -> 110; pilot day 140 -> 140 (slack 2 days)
+
+(b) The privacy board submission slips two days, past the ten-day cutoff.
+    submitted day 63: board day 75, data day 112, pilot day 140
+    submitted day 65: board day 75, data day 112, pilot day 140
+    submitted day 66: board day 103, data day 121, pilot day 149
+    submitted day 67: board day 103, data day 121, pilot day 149
+
+(c) How much does day 140 depend on the assumed build fraction?
+    build fraction 0.50: build done day 134, pilot day 162, critical path build
+    build fraction 0.55: build done day 124, pilot day 152, critical path build
+    build fraction 0.60: build done day 115, pilot day 143, critical path build
+    build fraction 0.65: build done day 108, pilot day 140, critical path data
+    build fraction 0.70: build done day 102, pilot day 140, critical path data
+    build fraction 0.80: build done day 91, pilot day 140, critical path data

@@ -1,0 +1,7 @@
+RB-01 quality monitor alarm              quality      shadow      owner Anne Kessler    4 steps  ok
+RB-02 reconciliation unexplained count   data         off         owner Ruth Calloway   4 steps  ok
+RB-03 gateway key rotation failure       availability fail-closed owner Priya Natarajan 5 steps  ok
+RB-04 audit log chain break              security     off         owner Priya Natarajan 3 steps  ok
+RB-05 intake backlog or latency          availability fail-closed owner Tom Whitfield   2 steps  ok
+RB-06 pinned model deprecation notice    quality      shadow      owner Priya Natarajan 3 steps  ok
+runbooks: 6   findings: 0

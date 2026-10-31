@@ -1,0 +1,9 @@
+Harbourline Bank, day 118: present 3, partial 2, missing 3; digest cc1074f242ef; complete False
+  decision record            present  HL gate register, AR and BC                David Okafor, day 112 
+  lineage                    present  lineage store, build environment           Martin Shaw, day 112 
+  model and prompt versions  partial  Northlight release notes                   -                    vendor list, not the bank inventory
+  evaluation at the time     partial  Northlight scoring, 200 memos              -                    scored by the vendor
+  human review               missing  -                                          -                    no shadow scoring yet
+  authority boundary         present  Schedule D, release one                    David Okafor, day 61 
+  incident history           missing  -                                          -                    no incident process mapped to the bank register
+  monitoring                 missing  -                                          -                    no metric the bank can compute

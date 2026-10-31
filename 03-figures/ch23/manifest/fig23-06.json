@@ -1,0 +1,113 @@
+{
+ "stem": "fig23-06",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch23/fig23_06_versions.py",
+ "source_sha1": "f270d6ee6b37",
+ "data": "04-code/ch23/caldwell_docs.py (WL) and output/supersession.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 21:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 16,
+ "contrast_pairs": [
+  [
+   "v1 superseded",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v2 superseded",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v3 current, V-118",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "v4 draft, not approved",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "live claim",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "effective from (year)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2019",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2020",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2021",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2022",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2023",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2024",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2025",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2026",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2027",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

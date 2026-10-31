@@ -1,0 +1,125 @@
+{
+ "stem": "fig04-07",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch04/fig04_07_signature2.py",
+ "source_sha1": "8c0d1cb5bb31",
+ "data": "none (concept diagram; the thesis in Section 4.2)",
+ "png_px": [
+  1650,
+  1560
+ ],
+ "rendered": "2026-10-31 19:17 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 5.2,
+ "aspect": 1.058,
+ "min_font_pt": 10.0,
+ "label_words": 36,
+ "contrast_pairs": [
+  [
+   "a demo proves",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "a deployment proves",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "capability",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor's documents",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer's mix,\nexpert-scored",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "workflow",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "one happy path",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "every intake path",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "controls",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor keys",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer's controls",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "ownership",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "a believer",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "named owners\nwith authority",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "reconstructability",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "a recording",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "traceable outputs",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

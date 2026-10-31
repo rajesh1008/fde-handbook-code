@@ -1,0 +1,10 @@
+COVERAGE  joint red team, days 126 and 127  (20 instruction attacks + 7 system probes)
+C1  instructions in documents        11  ###########
+C2  another patient's data            3  ###
+C3  exfiltration through outputs      4  ####
+C4  excessive agency                  5  #####
+C5  evidence and audit integrity      2  ##
+C6  degraded and lifecycle paths      2  ##
+C7  retrieval-store poisoning         0  UNTRIED
+C8  adversarial images                0  UNTRIED
+untried: C7, C8   tried: 6 of 8 classes

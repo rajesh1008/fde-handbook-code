@@ -1,0 +1,14 @@
+six streams on the 163 extracted agent errors (13 untyped faxes never reached extraction)
+  schema and type      caught  16
+  business rules       caught  22
+  system of record     caught  34
+  source grounding     caught  39
+  second extraction    caught  53
+  cross-document       caught   8
+caught by at least one stream: 103 of 163 (63%)
+other agent errors: 103 of 125 caught (82%)
+missed by every stream, by cause: broker template, date received 38, other agent error 22
+pairwise phi between misses on other agent errors: max 0.17, mean -0.00
+  second extraction / cross-document: +0.17
+  business rules / system of record: +0.14
+  system of record / cross-document: +0.13

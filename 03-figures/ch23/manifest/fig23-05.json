@@ -1,0 +1,113 @@
+{
+ "stem": "fig23-05",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch23/fig23_05_drift.py",
+ "source_sha1": "b220d78ca8d4",
+ "data": "04-code/ch23/output/acl_drift.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 21:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.5,
+ "label_words": 25,
+ "contrast_pairs": [
+  [
+   "63 searches, 108 h open",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "7 searches, 12 h open",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0 searches, 1 h open",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0 searches, 0 h open",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "exposed searches after the day",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "80",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "weekly",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "nightly",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "hourly",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "at query time",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

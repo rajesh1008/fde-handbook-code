@@ -1,0 +1,15 @@
+"""Figure 26.7: how a field gets into the gold set: one label, a second on every fifth document, one adjudicator."""
+from _common import S, save, blank
+fig, ax = S.figure(height=4.2)
+blank(ax, (0, 10), (0, 6.6))
+S.box(ax, 0.2, 4.6, 2.4, 1.2, "document\nfrom the draw", role="data")
+S.box(ax, 3.4, 4.6, 2.6, 1.2, "adjuster\nlabels ten fields", role="evidence")
+S.box(ax, 3.4, 2.6, 2.6, 1.2, "every fifth:\nsecond adjuster", role="evidence")
+S.box(ax, 6.9, 2.6, 2.9, 1.2, "Anne decides,\nreason code", role="approval")
+S.box(ax, 6.9, 4.6, 2.9, 1.2, "gold-set-300", role="system")
+S.box(ax, 6.9, 0.4, 2.9, 1.2, "rubric change\nlog", role="blocker")
+S.arrow(ax, 2.6, 5.2, 3.4, 5.2); S.arrow(ax, 6.0, 5.2, 6.9, 5.2)
+S.arrow(ax, 4.7, 4.6, 4.7, 3.8); S.arrow(ax, 6.0, 3.2, 6.9, 3.2)
+S.arrow(ax, 8.35, 3.8, 8.35, 4.6); S.arrow(ax, 8.35, 2.6, 8.35, 1.6)
+S.label(ax, 6.45, 3.55, "disagree", fs=9)
+save(fig, 7, kind="diagram", data="annotation protocol, Chapter 26")

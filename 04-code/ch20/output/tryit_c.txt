@@ -1,0 +1,9 @@
+=== exercise c ===
+--- total cost per scored document by monthly volume ---
+volume      Caldwell   Greystone     Pennant
+  1000        0.4428      0.5777      0.4912
+  2400        0.1949      0.2674      0.2112
+  5000        0.1028      0.1521      0.1072
+ 11244        0.0556      0.0930      0.0539
+ 20000        0.0391      0.0723      0.0352
+ 50000        0.0263      0.0563      0.0208

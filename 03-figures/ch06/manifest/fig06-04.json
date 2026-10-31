@@ -1,0 +1,101 @@
+{
+ "stem": "fig06-04",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch06/fig06_04_tracer.py",
+ "source_sha1": "d203d52b7bef",
+ "data": "04-code/ch06 lab",
+ "png_px": [
+  1650,
+  1110
+ ],
+ "rendered": "2026-10-31 19:38 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.7,
+ "aspect": 1.486,
+ "min_font_pt": 9.0,
+ "label_words": 25,
+ "contrast_pairs": [
+  [
+   "regional assistant, 3 min",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "intake clerk, 4 min",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Tom Whitfield, 9 min",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "hatched: waiting in a queue or",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "hours after the fax was sent",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "\u221210",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "40",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "60",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

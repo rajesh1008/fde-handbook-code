@@ -1,0 +1,3 @@
+gm-n2 without the calibration layer: merge
+  pin    wrong fields auto-proceeded a month at 14,800 documents: 49
+  gm-n2  wrong fields auto-proceeded a month at 14,800 documents: 2319

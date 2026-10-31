@@ -1,0 +1,95 @@
+{
+ "stem": "fig18-07",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch18/fig18_07_allowlist.py",
+ "source_sha1": "c3e340906000",
+ "data": "04-code/ch18/output/allowlist.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:25 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 22,
+ "contrast_pairs": [
+  [
+   "160 (security alert raised)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1 (no alert)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gateway security alert at 100 ",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "requests denied by the allowli",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "50",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "100",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "150",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "200",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "250",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "naive adapter",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "fieldkit adapter",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

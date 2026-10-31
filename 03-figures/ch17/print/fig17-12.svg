@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="396pt" height="334pt" viewBox="0 0 396 334">
+<rect x="0" y="0" width="396" height="334" style="fill:#ffffff;stroke:#ffffff;stroke-width:0"/>
+<rect x="8" y="28" width="290" height="298" style="fill:#ffffff;stroke:#1E2329;stroke-width:1.5" stroke-dasharray="6,3"/>
+<text x="12.0" y="20.0" font-family="Source Sans Pro" font-size="11" font-weight="bold" text-anchor="start" fill="#1E2329">Greystone Health: Azure, centralus</text>
+<rect x="18" y="40" width="86" height="54" style="fill:#d8e9db;stroke:#3A8F4B;stroke-width:1.5"/>
+<text x="61.0" y="64.0" font-family="Source Sans Pro" font-size="10" font-weight="bold" text-anchor="middle" fill="#1E2329">identity</text>
+<text x="61.0" y="77.0" font-family="Source Sans Pro" font-size="10" font-weight="normal" text-anchor="middle" fill="#1E2329">app secret</text>
+<rect x="110" y="40" width="86" height="54" style="fill:#f7ebd2;stroke:#D99A1E;stroke-width:1.5"/>
+<text x="153.0" y="64.0" font-family="Source Sans Pro" font-size="10" font-weight="bold" text-anchor="middle" fill="#1E2329">keys</text>
+<text x="153.0" y="77.0" font-family="Source Sans Pro" font-size="10" font-weight="normal" text-anchor="middle" fill="#1E2329">Key Vault</text>
+<rect x="202" y="40" width="86" height="54" style="fill:#dee2eb;stroke:#5A6F9C;stroke-width:1.5"/>
+<text x="245.0" y="57.5" font-family="Source Sans Pro" font-size="10" font-weight="bold" text-anchor="middle" fill="#1E2329">logs</text>
+<text x="245.0" y="70.5" font-family="Source Sans Pro" font-size="10" font-weight="normal" text-anchor="middle" fill="#1E2329">Greystone</text>
+<text x="245.0" y="83.5" font-family="Source Sans Pro" font-size="10" font-weight="normal" text-anchor="middle" fill="#1E2329">workspace</text>
+<rect x="18" y="104" width="270" height="152" style="fill:#cfe5e6;stroke:#0F7C80;stroke-width:1.5"/>
+<text x="26.0" y="120.0" font-family="Source Sans Pro" font-size="10" font-weight="bold" text-anchor="start" fill="#1E2329">network: VNet, own DNS zone</text>
+<rect x="30" y="160" width="128" height="60" style="fill:#cfe5e6;stroke:#0F7C80;stroke-width:2.5"/>
+<text x="94.0" y="180.5" font-family="Source Sans Pro" font-size="10" font-weight="bold" text-anchor="middle" fill="#1E2329">vendor code</text>
+<text x="94.0" y="193.5" font-family="Source Sans Pro" font-size="10" font-weight="normal" text-anchor="middle" fill="#1E2329">container app</text>
+<text x="94.0" y="206.5" font-family="Source Sans Pro" font-size="10" font-weight="normal" text-anchor="middle" fill="#1E2329">no public IP</text>
+<rect x="186" y="160" width="90" height="60" style="fill:#f9deda;stroke:#E05A47;stroke-width:1.5"/>
+<text x="231.0" y="187.0" font-family="Source Sans Pro" font-size="10" font-weight="bold" text-anchor="middle" fill="#1E2329">gateway</text>
+<text x="231.0" y="200.0" font-family="Source Sans Pro" font-size="10" font-weight="normal" text-anchor="middle" fill="#1E2329">Greystone&#x27;s</text>
+<rect x="18" y="266" width="270" height="50" style="fill:#cfe5e6;stroke:#0F7C80;stroke-width:1.5"/>
+<text x="153.0" y="288.0" font-family="Source Sans Pro" font-size="10" font-weight="bold" text-anchor="middle" fill="#1E2329">tenancy</text>
+<text x="153.0" y="301.0" font-family="Source Sans Pro" font-size="10" font-weight="normal" text-anchor="middle" fill="#1E2329">provider operates</text>
+<rect x="306" y="160" width="82" height="60" style="fill:#d2d8df;stroke:#1F3A5F;stroke-width:1.5"/>
+<text x="347.0" y="187.0" font-family="Source Sans Pro" font-size="10" font-weight="bold" text-anchor="middle" fill="#1E2329">models</text>
+<text x="347.0" y="200.0" font-family="Source Sans Pro" font-size="10" font-weight="normal" text-anchor="middle" fill="#1E2329">via gateway</text>
+<rect x="306" y="266" width="82" height="50" style="fill:#dee2eb;stroke:#5A6F9C;stroke-width:1.5"/>
+<text x="347.0" y="288.0" font-family="Source Sans Pro" font-size="10" font-weight="bold" text-anchor="middle" fill="#1E2329">vendor</text>
+<text x="347.0" y="301.0" font-family="Source Sans Pro" font-size="10" font-weight="normal" text-anchor="middle" fill="#1E2329">no data path</text>
+<rect x="15" y="37" width="92" height="60" style="fill:none;stroke:#E05A47;stroke-width:2.5" stroke-dasharray="5,3"/>
+<rect x="72.2" y="77" width="29.8" height="14" style="fill:#ffffff;stroke:#E05A47;stroke-width:1.0"/>
+<text x="87.1" y="87.5" font-family="Source Sans Pro" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E2329">1, 4</text>
+<rect x="15" y="101" width="276" height="158" style="fill:none;stroke:#E05A47;stroke-width:2.5" stroke-dasharray="5,3"/>
+<rect x="256.2" y="239" width="29.8" height="14" style="fill:#ffffff;stroke:#E05A47;stroke-width:1.0"/>
+<text x="271.1" y="249.5" font-family="Source Sans Pro" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#1E2329">2, 3</text>
+<line x1="158" y1="190" x2="179" y2="190" style="stroke:#1E2329;stroke-width:1.5"/><polygon points="186,190 178,186 178,194" style="fill:#1E2329"/>
+<line x1="276" y1="190" x2="299" y2="190" style="stroke:#1E2329;stroke-width:1.5"/><polygon points="306,190 298,186 298,194" style="fill:#1E2329"/>
+</svg>

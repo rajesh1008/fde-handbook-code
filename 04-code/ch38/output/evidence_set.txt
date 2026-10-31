@@ -1,0 +1,28 @@
+day 129 08:00: evidence check 39 of 41; failing: SQ-02 (EV-04 expired day 129); SQ-24 (EV-04 expired day 129)
+day 129 09:10: egress test rerun by Callum Reid, EV-31 issued; SQ-02 and SQ-24 now cite EV-31
+day 129: 41 answers; link check 41 of 41; evidence check 41 of 41
+claims at pass 1: measured 6, configured 10, documented 24, assumed 1
+claims at pass 2: measured 10, configured 10, documented 21, assumed 0
+claims at pass 3: measured 14, configured 9, documented 18, assumed 0
+evidence items cited: 27 of 31 in the register; uncited: EV-04, EV-07, EV-11, EV-12
+most reused: EV-05 5, EV-03 5, EV-20 5, EV-01 4, EV-23 4, EV-02 3
+evidence owners: Sofia Brennan 9, Marcus Bell 5, Callum Reid 4, Erin Walsh 4, Laura Finch 3, Michael Hart 1, Hannah Price 1
+expiring within 120 days of day 129:
+  day 144 EV-22 Flow reconciliation, declared against observed       -> SQ-02, SQ-18
+  day 158 EV-23 Data map generated from deployed configuration       -> SQ-02, SQ-14, SQ-18, SQ-26
+  day 159 EV-31 Default-deny egress test rerun, morning of pass 3    -> SQ-02, SQ-24
+  day 188 EV-05 Audit log design and hash-chain verification         -> SQ-03, SQ-08, SQ-25, SQ-26, SQ-27
+  day 189 EV-02 Private endpoint and hub DNS link export             -> SQ-01, SQ-11, SQ-16
+  day 189 EV-03 Managed identity and on-behalf-of configuration      -> SQ-04, SQ-12, SQ-19, SQ-20, SQ-21
+  day 190 EV-06 Data flow inventory v1 (14 flows)                    -> SQ-13, SQ-15, SQ-17
+  day 205 EV-26 Role-scoped trace access export                      -> SQ-03
+  day 218 EV-21 Guardrail v3 red-team rerun, 20 attacks              -> SQ-26, SQ-30, SQ-31
+  day 245 EV-08 SOC 2 Type II report, Northlight                     -> SQ-22, SQ-23, SQ-40
+by theme (questions, design-changing, measured at pass 3):
+  data flow and storage       9  7  3
+  access and identity         8  6  2
+  subprocessors and contracts  4  0  0
+  model behavior and output   6  4  3
+  retention and deletion      4  1  1
+  logging and audit           6  4  4
+  incident and breach         4  1  1

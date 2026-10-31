@@ -1,0 +1,19 @@
+claim scope: IK-142-0017 holds 12 items: cause_code, claimant_name, date_received, injury_reported, intake_channel, loss_date, loss_location, loss_type, other_party, police_report_ref, policy_number, route
+  refused: document_text is never stored by the agent; keep a pointer
+  refused: loss_location for IK-142-0017 was read from IK-142-0031: cross-claim write
+operational scope: 3 numbers under sender_orientation
+  refused: operational memory holds numbers only, never text
+  refused: claimant_history is not an operational memory key
+never stored: document_text, page_image, ssn, bank_account, medical_narrative, driver_license
+
+retention job, day 231: {'deleted': 0, 'items': 0, 'held': 0, 'kept': 41}
+retention job, day 232: {'deleted': 40, 'items': 51, 'held': 1, 'kept': 0}
+
+erasure of IK-142-0017 on day 160: 12 items erased from the agent's store; outside the agent's store and routed to Caldwell's privacy process: claim record in claims-core (Caldwell's record retention schedule); original documents in Caldwell's document store
+
+access and deletion log, last 5 of 47
+  day 232  retention job   deleted                      IK-142-0136 1 items
+  day 232  retention job   deleted                      IK-142-0137 1 items
+  day 232  retention job   deleted                      IK-142-0138 1 items
+  day 232  retention job   deleted                      IK-142-0139 1 items
+  day 160  privacy request erased                       IK-142-0017 erasure request PR-0042 (synthetic)

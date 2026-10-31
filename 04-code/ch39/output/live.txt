@@ -1,0 +1,21 @@
+live month: intake days 158 to 188 (23 days), 11,958 in-scope documents
+C-1 broker-template date received, first 10 live intake days: 47 template first notices, review band checked 47, date errors 0 -> closed day 172
+C-2 audit-live-400 (Owen Pryce, days 158 to 167): 33 wrong of 4,000 fields = 0.83% (0.59% to 1.16%) -> upper bound under 1.2%, closed day 170
+blind sample (keyed hash, clerks key before seeing the proposal): 562 of 628 agree = 89.5% (86.8% to 91.7%)
+sighted acceptance on 4,000 non-blind documents: 97.5% (96.9% to 97.9%) -> not an agreement measure
+
+Exhibit E, first scored month (sample drawn by Caldwell's job on day 191, first business day of the month)
+stratum                population  sampled
+first notice, email         2,870       75
+first notice, fax           1,435       37
+first notice, mail          1,674       43
+police report                 957       25
+repair estimate             1,674       43
+medical bill                1,435       37
+adjuster note               1,076       28
+photo log                     837       22
+scorers agree on 307 of 310; 3 split items to the third scorer; rubric gold-v3
+Anne Kessler's team: 4 errors in 310 = 1.29%, upper bound 3.27%; breach line 7 -> no breach, no credit
+Northlight computation, day 192 (script pinned to rubric gold-v2): 5 errors; extra item E161: broker-template date received
+rerun on gold-v3, day 194: 4 errors, same items as Anne's team: True
+result: match on count and on items; no dispute filed; chronic counter 0 of 6 months

@@ -1,0 +1,11 @@
+CHOOSING A HOME  (home scores 0-3 per dimension, weighted by the candidate)
+  product depth | platform variety | frontier model access | stays to production | commercial exposure | work changes the core
+  Callum Reid   vendor 2.15  integrator 2.25  lab 1.55   -> integrator
+  Sofia Brennan vendor 1.95  integrator 1.40  lab 2.25   -> lab
+QUESTIONS FOR A PROSPECTIVE EMPLOYER
+  what does not bend here                                   tests: fixed point
+  who paid for the last overrun, and how much               tests: integration tax
+  show me a field fix that shipped, and how long it took    tests: reuse route
+  what happens to my utilization target in a blocked month  tests: duration incentive
+  who owns the system the day after go-live                 tests: exit
+  what am I measured on in my first review                  tests: rewarded metric

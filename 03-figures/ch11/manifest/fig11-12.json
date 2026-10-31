@@ -1,0 +1,155 @@
+{
+ "stem": "fig11-12",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch11/fig11_12_roles_per_person.py",
+ "source_sha1": "7d515768a6c4",
+ "data": "04-code/ch11 lab",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-10-31 20:09 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 9.5,
+ "label_words": 47,
+ "contrast_pairs": [
+  [
+   "limit",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "roles held of five",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "3",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Jenna Ruiz (Pennant)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Michael Hart (Greystone)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Sam Oakley (Greystone)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Anne Kessler (Caldwell)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Denise Alvarez (Greystone)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Keisha Monroe (Greystone)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Luis Ortega (Greystone)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Marcus Bell (Greystone)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Daniel Reyes (Caldwell)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Priya Natarajan (Caldwell)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Tom Whitfield (Caldwell)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Ruth Calloway (Caldwell)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Documentation clerks (Pennant)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Compliance manager (Pennant)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,6 @@
+C. Blend the three customers two ways, then read each on its own
+  blended by sample: month 7 97.1%, month 10 96.9%, range 96.5 to 98.3
+  blended by volume: month 7 96.8%, month 10 96.4%, range 95.5 to 97.9
+  Caldwell  worst month 10: 6 of 310 against line 7 (upper 0.042)
+  Pennant   worst month 2: 21 of 400 against line 24 (upper 0.079)
+  Greystone worst month 7: 9 of 120 against line 6 (upper 0.136)

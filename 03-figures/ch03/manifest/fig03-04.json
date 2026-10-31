@@ -1,0 +1,89 @@
+{
+ "stem": "fig03-04",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch03/figures.py",
+ "source_sha1": "6bf27462d7f1",
+ "data": null,
+ "png_px": [
+  1650,
+  1527
+ ],
+ "rendered": "2026-10-31 19:12 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 5.093,
+ "aspect": 1.08,
+ "min_font_pt": 10.0,
+ "label_words": 39,
+ "contrast_pairs": [
+  [
+   "kickoff room, sixth floor",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Northlight",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "Caldwell Mutual",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "Graham Lowell\nVP Sales",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "the FDE",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Daniel Reyes\nCTO",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Anne Kessler\nHead of Claims",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Priya Natarajan\nenterprise arc",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not in the room",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "Laura Finch\nHead of FDE",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "Tom Whitfield\nwould use it",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ]
+ ],
+ "min_contrast": 5.72
+}

@@ -1,0 +1,9 @@
+days 141 to 170: 41 pull requests, 200 commits, 39 merged, 2 blocked
+layer             runs    median  cost/run     month
+L1 unit            200      11 s      0.00      0.00
+L2 component        14     8 min      9.52    133.35
+L3 integration      39     3 min      0.48     18.72
+L4 system            4    40 min     96.83    387.33
+L5 operational   daily                         40.41
+blocked: PR #212 day 146 at L2 (mail date received); PR #231 day 153 at L1 (date library)
+PRs that ran L2: 14 of 41; docs-only PRs that ran nothing: 5

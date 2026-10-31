@@ -1,0 +1,14 @@
+ARCHITECTS' REVIEW, DAY 184 (Priya Natarajan and three of Daniel Reyes's architects)
+  Q1   condition     Can Caldwell produce a pack with no Northlight person or credential?  [A2: demonstrate under cw-mrm-monitor]
+  Q2   condition     Where is the chain head anchored, and who can rewrite it?  [A1: daily head to Caldwell's log account, object lock]
+  Q3   evidence      What proves the prompt text sent is the text named?  [sent_sha checked at the gateway; mismatch blocks the call]
+  Q4   evidence      What happens when the provider changes the model behind the pin?  [M5 pin age; weekly fixed-input fingerprint in P3]
+  Q5   evidence      Does the pack copy claim data out of claims-core?  [fields only, by reference to the claim file; CA-07 retention]
+  Q6   evidence      How long does a pack stay reconstructable?  [run records 2,555 days; traces 30 days are not relied on]
+  Q7   evidence      What about the decisions made before day 180?  [backfill from parameter-store history, marked reconstructed]
+  Q8   evidence      Can an adjuster's override be told from an acceptance?  [review record outcome; claims-core audit table cross-check]
+  Q9   evidence      Is a re-run of the model part of the proof?  [no; replay of recorded inputs and outputs, rerun is advisory]
+  Q10  evidence      Who is told when a pack fails to build?  [P1 below 100% pages Caldwell model risk and the FDE]
+  Q11  evidence      Can the parameter store still be edited by hand?  [console write removed; deploy check refuses an override]
+  Q12  out of scope  Should the pack also cover the claims-core rules engine?  [FNOL-2 rules are Caldwell's system of record]
+  answered by evidence 9, conditions 2, out of scope 1; decision: approved with conditions A1, A2 (due day 195, met day 193)

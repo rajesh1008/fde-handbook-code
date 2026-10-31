@@ -1,0 +1,77 @@
+{
+ "stem": "fig18-04",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch18/fig18_04_sunday.py",
+ "source_sha1": "65b230b2e028",
+ "data": "04-code/ch18/output/sunday_rotation.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:25 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 22,
+ "contrast_pairs": [
+  [
+   "rotation 02:00, grace to 03:00",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "runner down 30 h 10 min; 183 m",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "fieldkit: 356 scored, 0 missed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Sat 00:00\nday 72",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Sun 00:00\nday 73",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Mon 00:00\nday 74",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Mon 12:00",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "fieldkit adapter",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "naive adapter",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

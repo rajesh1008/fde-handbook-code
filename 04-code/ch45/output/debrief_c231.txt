@@ -1,0 +1,7 @@
+debrief c231
+  discovery      scores [4, 3]       median 3.5  n 2
+  decomposition  scores [3, 3]       median 3.0  n 2
+  build          scores [3, 3]       median 3.0  n 2
+  judgment       scores [4, 3]       median 3.5  n 2
+  communication  scores [4, 3, 3]    median 3.0  n 3
+  decision: hire

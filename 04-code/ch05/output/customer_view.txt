@@ -1,0 +1,23 @@
+THE CUSTOMER'S VIEW  (risk to the customer: 0 low, 1 medium, 2 high)
+  who answers at 2 a.m.
+      vendor     0  vendor product support
+      integrator 1  run service if bought, else the customer
+      lab        2  the customer's team or a partner
+  who owns what was built
+      vendor     1  vendor owns product; customer owns config
+      integrator 0  customer, by contract
+      lab        1  customer owns the app; lab owns the model
+  what leaving costs
+      vendor     2  re-platform off the product
+      integrator 1  knowledge transfer from the integrator
+      lab        1  re-prompt and re-evaluate on another model
+  whose incentive is duration
+      vendor     0  vendor wants it short
+      integrator 2  integrator earns from length
+      lab        0  lab wants consumption soon
+  who holds acceptance
+      vendor     1  customer's experts, if the contract says so
+      integrator 0  customer, by statement of work
+      lab        2  often the lab's own evals
+  total risk (of 10): vendor 4  integrator 4  lab 6
+  no home is lowest on every question; the buyer picks which risk to carry

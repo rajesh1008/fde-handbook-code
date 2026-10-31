@@ -1,0 +1,17 @@
+Questionnaire pack v1, Greystone, day 100: 41 answers, 19 evidence items
+link check (does every answer cite evidence?): 41 of 41 -> pack sent
+
+day 101, Sam Oakley's analyst checks dates only:
+  SQ-09  EV-07 issued day -310, valid 365 days, expired day 55
+  SQ-31  EV-07 issued day -310, valid 365 days, expired day 55
+  SQ-35  EV-07 issued day -310, valid 365 days, expired day 55
+
+evidence check on day 100 (register, date, scope, owner, claim): 34 of 41 pass
+  SQ-09  EV-07 expired day 55
+  SQ-10  EV-12 owner 'Northlight security team' is not a person
+  SQ-16  EV-11 describes northlight-reference-aws
+  SQ-18  EV-11 describes northlight-reference-aws
+  SQ-31  EV-07 expired day 55
+  SQ-33  claim assumed, not shown
+  SQ-35  EV-07 expired day 55
+by reason: expired 3, describes another deployment 2, owner not a person 1, claim assumed 1

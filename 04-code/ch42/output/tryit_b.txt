@@ -1,0 +1,5 @@
+notice  retire  in freeze  exception  action
+    20      41      False      False  change in a normal window by day 40 (slack 13)
+    30      51       True      False  change in a normal window by day 44 (slack 7)
+    41      62       True       True  freeze exception: evidence by day 48, change before day 62 (slack 13)
+    50      71       True       True  freeze exception: evidence by day 57, change before day 71 (slack 13)

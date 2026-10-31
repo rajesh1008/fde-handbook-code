@@ -1,0 +1,4 @@
+date + town + type     smallest group   1   records alone in their group 128
+month + town + type    smallest group   1   records alone in their group 80
+month + type           smallest group   1   records alone in their group 22
+type + doc             smallest group   3   records alone in their group 0

@@ -1,0 +1,21 @@
+day 52: synthetic v1 (report verdict NOT REPRESENTATIVE), extractor v1
+  slice                 synthetic   real   fields   gap    synthetic results usable for
+  first notice, email      98.3%   78.7%     230  +19.6   plumbing only (report failed)
+  first notice, scan       91.5%   69.5%     190  +22.0   plumbing only (report failed)
+  other document types      none   69.7%    1580      -   untested: no synthetic documents
+  faded scans               none   60.0%     470      -   untested: no synthetic documents
+  all documents            94.1%   70.7%    2000  +23.4   plumbing only (report failed)
+day 58: synthetic v2 (report verdict REPRESENTATIVE), extractor v1
+  slice                 synthetic   real   fields   gap    synthetic results usable for
+  first notice, email      81.2%   78.7%     230   +2.5   regression ok
+  first notice, scan       71.5%   69.5%     190   +2.1   regression ok
+  other document types     69.6%   69.7%    1580   -0.1   regression ok
+  faded scans              62.4%   60.0%     470   +2.4   regression ok
+  all documents            70.8%   70.7%    2000   +0.1   regression ok
+day 58: synthetic v2, extractor v2 (development number on the 200 it was tuned against; not a claim)
+  slice                 synthetic   real   fields   gap    synthetic results usable for
+  first notice, email      96.0%   97.4%     230   -1.4   regression ok
+  first notice, scan       81.5%   77.9%     190   +3.6   regression ok
+  other document types     86.0%   86.1%    1580   -0.0   regression ok
+  faded scans              75.0%   72.8%     470   +2.2   regression ok
+  all documents            86.4%   86.6%    2000   -0.2   regression ok

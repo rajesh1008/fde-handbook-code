@@ -1,0 +1,3 @@
+Caldwell day 176 with gates: 0.60
+Caldwell day 176 without gates (raw credit): 0.825
+the alert that reached Northlight is worth 1 item of 20 without a gate

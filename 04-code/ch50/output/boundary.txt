@@ -1,0 +1,23 @@
+release one, in force from day 171
+read       shadow,production      David Okafor     day 61   read-only service identity; CL-09
+draft      shadow                 David Okafor     day 112  drafts scored, never shown
+draft      production             David Okafor     day 158  after Model-Risk Approval
+write      not granted
+background not granted
+memory     not granted
+refused    write_origination      David Okafor and Helen Marsh, Schedule D: release one reads and drafts only
+refused    submit_to_committee    David Okafor: the credit officer submits, never the system
+refused    draft_recommendation   Helen Marsh: the recommendation is outside the validated use
+  production read_package          allowed: read granted by David Okafor, day 61
+  production draft_memo            allowed: draft granted by David Okafor, day 158
+  production draft_recommendation  REFUSED: Helen Marsh: the recommendation is outside the validated use
+  production submit_to_committee   REFUSED: David Okafor: the credit officer submits, never the system
+  production write_origination     REFUSED: David Okafor and Helen Marsh, Schedule D: release one reads and drafts only
+release two, proposed: write_origination in uat and production, per-write officer approval in the suite; separate submission
+  uat        write_origination     REFUSED: no grant for write_origination in uat (grant has no approver)
+  production write_origination     REFUSED: no grant for write_origination in production (grant has no approver)
+signatures release two needs (none given as of day 171):
+  Helen Marsh    re-run the classification with writes in scope (H11 medium to high)
+  Martin Shaw    architecture review of the write path and its service identity
+  David Okafor   operational risk register entry and Schedule D amendment
+  Claire Dubois  contract amendment reviewed by legal

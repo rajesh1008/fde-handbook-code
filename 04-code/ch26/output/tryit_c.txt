@@ -1,0 +1,4 @@
+lost critical items allowed  0: owner review weighted 76.7% -> 81.3%
+lost critical items allowed  3: owner review weighted 76.7% -> 81.3%
+lost critical items allowed 10: pass         weighted 76.7% -> 81.3%
+no critical fields declared:     pass  (the five lost policy numbers ship without anyone reading them)

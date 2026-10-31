@@ -1,0 +1,7 @@
+demo agent, scanned document: 0.1774
+frontier  det  small   $/doc   fall vs demo
+       0   10      2  0.0065      96%
+       1    9      2  0.0521      71%
+       2    8      2  0.0977      45%
+       3    7      2  0.1433      19%
+       4    6      2  0.1889      -6%

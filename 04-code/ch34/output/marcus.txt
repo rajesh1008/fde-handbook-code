@@ -1,0 +1,24 @@
+greystone amendment 1, procurement redline (Marcus Bell, day 108): 5 vendor commitments, 2 customer obligations
+  GA-02.1  UNCONTROLLED INPUT  abuse-monitoring retention of prompts is the provider's (finding F-10, owner Marcus Bell) (controlled by the model provider)
+  GA-03.1  UNCAPPED            no cap stated
+  GA-03.1  AUTHORITY           REL-1: release boundary: the system drafts only; submit to a payer is refused (Ch25)
+  GA-04.1  CONFLICT            TM-1: time and materials with a $450,000 cap (Ch2): open-ended remediation inside the cap is a fixed price
+  GA-06.1  UNCONTROLLED INPUT  abuse-monitoring retention of prompts is the provider's (finding F-10, owner Marcus Bell) (controlled by the model provider)
+  GA-01    UNDEFINED TRIGGER   acceptance at the customer's satisfaction
+  findings: 6
+
+greystone amendment 1, signed (day 127): 6 vendor commitments, 2 customer obligations
+  GA-01A.1 service level parts: threshold=21.8, window=acceptance window, scorer=Greystone's, sample=110, unit=per referral; remedy: acceptance withheld, re-test at vendor cost; missing: none
+  findings: 0
+
+WHAT ONE MONTH WITHOUT ACCEPTANCE COSTS NORTHLIGHT (Ch2 model, Greystone)
+  deferred subscription $200,000 + FDE burn $31,500 (210 h) + run $4,000 = $235,500
+
+GATES WAITING ON EACH OTHER (Greystone, days)
+  day 104  security review: 29 passed, 12 findings (Ch32)
+  day 108  Marcus Bell's redline: GA-01 to GA-07
+  day 113  FDE sends the engineering exhibit: data map, acceptance test, action list
+  day 120  F-10 closed: provider retention terms confirmed (owner Marcus Bell)
+  day 124  Exhibit A agreed: Michael Hart's reviewers score 110 referrals
+  day 127  amendment signed
+  day 131  pilot starts [CHECK ch38]

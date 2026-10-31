@@ -1,0 +1,8 @@
+pack v2: 17 components, 71 plan items, 22 evidence records, 6 monitoring metrics
+  not a model                 1 items each: C01, C02, C03, C04, C05, C08, C09, C10, C12
+  registered, not validated   9 items each: C06, C07, C11, EX
+  registered as a tool        3 items each: EM, JG
+  full scope                 10 items each: RT, C06-ft1
+  gaps: 0   lint problems: 0
+  evidence measured by: Anne Kessler, Anne Kessler's labelers, Callum Reid, Joan Mercer, Priya Natarajan, Ruth Calloway, Sofia Brennan, Tom Whitfield
+  written: output/pack_v2.md (87 lines)

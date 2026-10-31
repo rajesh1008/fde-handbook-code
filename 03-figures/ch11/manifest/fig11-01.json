@@ -1,0 +1,95 @@
+{
+ "stem": "fig11-01",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch11/fig11_01_kickoff_map.py",
+ "source_sha1": "4d726bd46d13",
+ "data": "04-code/ch11 lab",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 20:09 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 10.0,
+ "label_words": 13,
+ "contrast_pairs": [
+  [
+   "sponsor",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Hart",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "operator",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "nobody",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "blocker",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Oakley",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "approver",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Hart",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "owner",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Bell",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "champion network",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "nobody",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

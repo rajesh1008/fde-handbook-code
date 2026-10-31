@@ -1,0 +1,10 @@
+RESIDUAL RISK  Caldwell Mutual  draft, day 156
+  fax first notices below the 80% bar          Anne Kessler     day 157  review 190  control: route to review
+  mail first notices: interval spans the bar   Anne Kessler     day 157  review 190  control: weekly per-class audit sample
+  S-4 interval upper end 1.47% above 1.2%      the business     day 157  review 190  control: audit sample
+  C06-ft1 unvalidated (R1)                     Catherine Doyle  day 153  review 190  control: component switched off
+  fine-tuned weights retention open            Elaine Porter    day 149  review None  control: -
+lint: 3 problem(s)
+  'S-4 interval upper end 1.47% above 1.2%': no named person accepted it
+  'fine-tuned weights retention open': needs the day accepted and a review day
+  'fine-tuned weights retention open': no control named while it is carried

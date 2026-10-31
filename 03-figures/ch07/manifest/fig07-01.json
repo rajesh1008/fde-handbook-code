@@ -1,0 +1,59 @@
+{
+ "stem": "fig07-01",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch07/fig07_01_chain.py",
+ "source_sha1": "9d62416e5bf7",
+ "data": "04-code/ch07 lab fixtures",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 19:35 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 10.0,
+ "label_words": 20,
+ "contrast_pairs": [
+  [
+   "expected answer\nreceived_at",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "design v0\ndate source",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "date check",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "clock report",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "day 24 data owner:\nnotice_rece",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "synthetic check:\n227 of 400 da",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

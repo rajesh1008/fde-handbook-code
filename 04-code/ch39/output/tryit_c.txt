@@ -1,0 +1,4 @@
+Exercise C: change the clean-day rule for fixed silent causes
+clean days >= 3: G-5 pass       decision for G-5 alone: GO
+clean days >= 4: G-5 condition  decision for G-5 alone: GO WITH CONDITIONS
+clean days >= 5: G-5 condition  decision for G-5 alone: GO WITH CONDITIONS

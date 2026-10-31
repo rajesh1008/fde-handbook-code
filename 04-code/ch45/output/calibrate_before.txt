@@ -1,0 +1,7 @@
+calibration before: 6 sessions x 5 competencies x 3 interviewers
+Callum Reid    mean offset +0.40  equal to panel median 60%  n 30
+  DRIFT Callum Reid on decomposition: +0.83
+  DRIFT Callum Reid on build: +0.83
+Laura Finch    mean offset +0.00  equal to panel median 100%  n 30
+Sofia Brennan  mean offset -0.10  equal to panel median 90%  n 30
+cells where all three agree exactly: 50%

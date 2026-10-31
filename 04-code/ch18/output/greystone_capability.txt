@@ -1,0 +1,5 @@
+documentation page : chat offered; embeddings offered
+live catalog       : chat offered; embeddings MISSING
+lexical only                           recall@5 54/80 = 0.68
+lexical + code lookup                  recall@5 62/80 = 0.78
+lexical + code lookup + synonym table  recall@5 78/80 = 0.97

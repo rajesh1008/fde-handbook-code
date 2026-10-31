@@ -1,0 +1,173 @@
+{
+ "stem": "fig14-02",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch14/fig14_02_rooms.py",
+ "source_sha1": "033ac00d1dad",
+ "data": "04-code/ch14 lab",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-10-31 19:24 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.0,
+ "label_words": 22,
+ "contrast_pairs": [
+  [
+   "11",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "4",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "2",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "13",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "questions",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "2.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "7.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "12.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "17.5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Michael Hart's room\n(clinical,",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Sam Oakley's room\n(controls, 1",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "direct customer fact",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "reconstructed from an artifact",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "vendor position",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "proposed design",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "not answered",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

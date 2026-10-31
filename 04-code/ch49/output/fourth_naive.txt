@@ -1,0 +1,9 @@
+fieldkit gate plan copied from Caldwell to the fourth customer (lab fixture), no check
+  Architecture Review    passed                   day 40   
+  Build Complete         passed                   day 120  
+  Shadow Exit            passed                   day 150  
+  Model-Risk Approval    passed                   day 152  
+  Live Stable            passed                   day 240  
+tracker: 5 of 5 gates passed; Live Stable effective day 240
+nobody at this customer can accept model risk; the signature on Model-Risk Approval is a
+service desk manager's, and the tracker cannot tell

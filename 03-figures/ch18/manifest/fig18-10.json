@@ -1,0 +1,113 @@
+{
+ "stem": "fig18-10",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch18/fig18_10_greystone.py",
+ "source_sha1": "2b6ae8c35b30",
+ "data": "04-code/ch18/output/greystone_capability.txt",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:25 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 13,
+ "contrast_pairs": [
+  [
+   "0.68 (54/80)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0.78 (62/80)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "0.97 (78/80)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "agreed bar 0.90",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "lexical only",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "+ code lookup",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "+ code lookup\n+ synonym table",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "recall@5 (stand-in queries)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.4",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.6",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.8",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1.0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "1.2",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

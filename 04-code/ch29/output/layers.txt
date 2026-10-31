@@ -1,0 +1,15 @@
+layer          check                    verdict   minutes  dollars
+L1 unit        rule regression          pass          0.1     0.00
+L2 component   extractor slices         pass          7.3     8.98
+L2 component   retrieval faithfulness   pass          1.0     0.54
+L3 integration integration replay       pass          3.0     0.48
+L4 system      scenario simulator       pass         40.0    96.83
+L5 operational operational checks       pass          0.0     1.35
+
+L1 unit        every commit                                0.1 min  $   0.00 per run
+L2 component   every pull request that changes behavior    8.3 min  $   9.52 per run
+L3 integration every merge to main, nightly                3.0 min  $   0.48 per run
+L4 system      weekly and before any release              40.0 min  $  96.83 per run
+L5 operational continuous, reviewed weekly                 0.0 min  $   1.35 per run
+
+measured on this box: layer one's 412 rule cases ran in 2 ms of pure Python; the modeled 9 s adds interpreter start and test collection in Caldwell CI

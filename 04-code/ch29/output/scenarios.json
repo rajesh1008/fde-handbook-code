@@ -1,0 +1,12 @@
+{
+ "tri": {
+  "oracle defect": 5,
+  "agent defect": 22,
+  "broken scenario": 2
+ },
+ "n": 1200,
+ "causes": 6,
+ "missing": {
+  "rubric_version": 7
+ }
+}

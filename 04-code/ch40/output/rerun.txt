@@ -1,0 +1,52 @@
+CALLS PER DAY BY PROMPT TEXT ACTUALLY SENT (v0 records name text A for all)
+  day 158: text A 375  text B   0
+  day 159: text A 375  text B   0
+  day 160: text A 375  text B   0
+  day 161: text A 375  text B   0
+  day 162: text A 375  text B   0
+  day 163: text A 375  text B   0
+  day 164: text A 375  text B   0
+  day 165: text A 375  text B   0
+  day 166: text A  34  text B 341
+  day 167: text A   0  text B 375
+  day 168: text A   0  text B 375
+  day 169: text A   0  text B 375
+  day 170: text A   0  text B 375
+  day 171: text A   0  text B 375
+  day 172: text A   0  text B 375
+  day 173: text A   0  text B 375
+  day 174: text A   0  text B 375
+  day 175: text A   0  text B 375
+  day 176: text A   0  text B 375
+  day 177: text A   0  text B 375
+  day 178: text A   0  text B 375
+  day 179: text A   0  text B 375
+
+TOKEN GAP: gateway trace input tokens minus rebuilt (commit text + document), every 25th decision
+  day 158: gaps [0]
+  day 159: gaps [0]
+  day 160: gaps [0]
+  day 161: gaps [0]
+  day 162: gaps [0]
+  day 163: gaps [0]
+  day 164: gaps [0]
+  day 165: gaps [0]
+  day 166: gaps [0, 35]
+  day 167: gaps [35]
+  day 168: gaps [35]
+  day 169: gaps [35]
+  day 170: gaps [35]
+  day 171: gaps [35]
+  day 172: gaps [35]
+  day 173: gaps [35]
+  day 174: gaps [35]
+  day 175: gaps [35]
+  day 176: gaps [35]
+  day 177: gaps [35]
+  day 178: gaps [35]
+  day 179: gaps [35]
+
+RERUN AGREEMENT ON loss_location (400 decisions each, seeded rerun wobble 1.5%)
+  before hotfix, rerun with text A   agree 397 of 400 (99.2%); both addresses present 77
+  after hotfix, rerun with text A    agree 285 of 400 (71.2%); both addresses present 115
+  after hotfix, rerun with text B    agree 398 of 400 (99.5%); both addresses present 88

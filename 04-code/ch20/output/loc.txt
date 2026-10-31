@@ -1,0 +1,8 @@
+core     suite.py                             29 lines
+core     fieldkit/estates.py                 112 lines
+core     fieldkit/gateway.py                 219 lines
+core     adapters.Port (shared plumbing)      19 lines
+adapter  CaldwellAws                          16 lines
+adapter  GreystoneAzure                       11 lines
+adapter  PennantGcp                           10 lines
+shared 379 of 416 lines (91%); largest single adapter 16 lines (4%)

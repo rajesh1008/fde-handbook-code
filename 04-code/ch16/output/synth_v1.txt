@@ -1,0 +1,12 @@
+profile: synthetic v1 (discovery schema, happy path)
+documents 600  channels {'fax': 195, 'email': 227, 'mail': 178}
+document types {'first notice of loss': 600}
+documents with any exception tag: 0
+--- one synthetic document (D0001) ---
+MAY-09-2026 10:57 FROM:FRONT DESK 860 555 0120 P.1/2
+My policy is NP396252. 0n 05/02/2026 I was rear-ended at the light at 417 Maple Ridge Rd, Meriden. The other driver, Emily Pryor, admitted fault. No one was hurt. Police came, report number HPD-26-887628. 
+Hannah Okoro
+--- extractor stand-in v1, scored against the generator's own gold values ---
+field accuracy 94%  (5,645 of 6,000 fields)
+  policy_number 93%  claimant_name 92%  loss_date 92%  date_received 94%  loss_type 91%
+  loss_location 84%  injury_reported 97%  police_report_ref 99%  other_party 99%  intake_channel 100%

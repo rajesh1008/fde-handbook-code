@@ -1,0 +1,32 @@
+Electronic referral path: 25 steps
+  E01 receive referral order from EHR interface queue            det       allowed
+  E02 parse referral message into fields                         det       allowed
+  E03 match patient on medical record number                     det       allowed
+  E04 flag duplicate referral (same patient, specialty, 30 days) det       allowed
+  E05 look up referring provider in directory                    det       allowed
+  E06 map order code to receiving specialty                      det       allowed
+  E07 check insurance eligibility with payer                     det       allowed
+  E08 decide whether prior authorization is required             rules     allowed
+  E09 check required attachments against specialty list          det       allowed
+  E10 request missing attachments (template)                     det       allowed
+  E11 classify reason for referral into intake category          small     draft only
+  E12 extract problems, medications, results from notes          small     draft only
+  E13 apply local clinic routing rules                           rules     allowed
+  E14 carry order priority into the work queue                   det       allowed
+  E15 send red-flag terms to clinician urgency review            rules     allowed
+  E16 draft referral summary for receiving clinician             frontier  draft only
+  E17 draft prior-authorization letter                           frontier  draft only
+  E18 fill payer form fields from structured data                det       allowed
+  E19 check letter against payer criteria checklist              rules     allowed
+  E20 suggest diagnosis codes from notes                         small     draft only
+  E21 write referral status to EHR work queue                    det       allowed
+  E22 notify scheduling queue when ready                         det       allowed
+  E23 track prior-authorization status with payer                det       allowed
+  E24 age the backlog and run service-level timers               det       allowed
+  E25 write the audit record for the referral                    det       allowed
+  deterministic service: 16, rules plus guardrails: 4, constrained small model: 3, frontier model with retrieval: 2
+  deterministic share 64%; model steps 5, all draft only: True
+  Refused by Michael Hart (not built):
+    - submit prior-authorization request to payer without a coordinator: a person submits; the system drafts
+    - set clinical urgency or decline a referral: clinicians decide acuity; the system routes red flags to them
+    - send any message to a patient: out of scope for release 1

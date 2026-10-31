@@ -1,0 +1,31 @@
+--- each estate rendered in the customer's own tool, scanned by the customer's rules (stand-ins) ---
+Caldwell / AWS / Terraform               resources 4  findings 0
+Greystone / Azure / Bicep                resources 4  findings 0
+Pennant EU / Google Cloud / Terraform    resources 4  findings 0
+--- Greystone, first render from Northlight's sandbox template ---
+resource suitereports 'Microsoft.Storage/storageAccounts@2025-01-01' = {
+  location: 'westus3'
+  properties: { publicNetworkAccess: 'Enabled' }
+  tags: {'owner': 'northlight-fde'}
+}
+  finding: public network access disabled           privateEndpoints/pe-openai
+  finding: public network access disabled           storageAccounts/suitereports
+  finding: required tags present                    userAssignedIdentities/suite
+  finding: required tags present                    privateEndpoints/pe-openai
+  finding: required tags present                    storageAccounts/suitereports
+  finding: required tags present                    containerApps/jobs/suite
+--- repair loop, rescan failing rules only ---
+  iteration 1: findings 6  public network access disabled, required tags present
+  iteration 2: findings 0  clean
+  declared clean at iteration 2; full scan of the result: 1 finding(s)
+--- repair loop, rescan every rule ---
+  iteration 1: findings 6  public network access disabled, required tags present
+  iteration 2: findings 1  diagnostics to the customer's log sink
+  iteration 3: findings 0  clean
+  declared clean at iteration 3; full scan of the result: 0 finding(s)
+--- Pennant EU, the pin as the customer reads it ---
+resource "google_compute_forwarding_rule" "psc" {
+  region              = "europe-west4"
+  model_pin           = "extract-2026-01"   # changed only by a recorded model change
+  public_access       = false
+}

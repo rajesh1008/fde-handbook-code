@@ -1,0 +1,3 @@
+MS-RB-02 v1: 0 exit findings
+MS-RB-02 v1 plus one step: MS-RB-02 step 5: grafana.nl-tools.example (unregistered)
+registering the host as Northlight's or Pennant's is a decision someone signs; the lint will not guess

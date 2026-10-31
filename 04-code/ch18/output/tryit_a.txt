@@ -1,0 +1,3 @@
+grace 3600 s, schedule known False: calls needing a second attempt 1, gateway 401s 1, all calls succeeded True
+grace    0 s, schedule known False: calls needing a second attempt 1, gateway 401s 1, all calls succeeded True
+grace    0 s, schedule known True : calls needing a second attempt 1, gateway 401s 1, all calls succeeded True

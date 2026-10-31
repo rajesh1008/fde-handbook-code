@@ -1,0 +1,6 @@
+2000 simulated windows; 1064 releases truly below the 85% bar at the reference mix (53%)
+rule                false go  false hold  median days  p90 days
+fixed 5 days           17.9%        6.9%            5         5
+fixed 10 days          12.7%        4.2%           10        10
+until stable           12.2%        3.0%           14        30
+Shadow Exit rule        4.1%       14.0%           10        28

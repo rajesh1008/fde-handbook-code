@@ -1,0 +1,22 @@
+field accuracy, extract-2026-04 with prompt p6 (3,000 fields per suite)
+  Northlight's 300 cases, Northlight's judge                  90.8%
+  Anne's 300 documents, Northlight's judge                    85.1%  (-5.7 points)
+  Anne's documents, exact match, Northlight's definitions     79.1%  (-6.0 points)
+  Anne's documents, Caldwell's definitions, her adjusters     68.4%  (-10.7 points)
+  unweighted on the gold set (for the record):                67.2%
+
+by field: Northlight's judge on Anne's documents vs Anne's adjusters
+  policy_number      judge  87.5%   adjusters  83.4%   gap   4.0
+  claimant_name      judge  83.6%   adjusters  79.3%   gap   4.3
+  loss_date          judge  84.2%   adjusters  78.4%   gap   5.8
+  date_received      judge  81.5%   adjusters  49.6%   gap  31.9
+  loss_type          judge  84.4%   adjusters  46.0%   gap  38.4
+  loss_location      judge  82.9%   adjusters  54.1%   gap  28.8
+  injury_reported    judge  91.8%   adjusters  61.3%   gap  30.5
+  police_report_ref  judge  87.9%   adjusters  81.0%   gap   6.9
+  other_party        judge  74.9%   adjusters  59.1%   gap  15.8
+  intake_channel     judge  92.7%   adjusters  92.0%   gap   0.7
+
+the same results counted the way an adjuster meets them (300 documents)
+  documents with a routing field wrong (policy, loss date, cause code): 223 (74%)
+  documents with any of ten fields wrong:                           292 (97%)

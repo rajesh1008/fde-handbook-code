@@ -1,0 +1,7 @@
+TRY 1: integrator net on one more month as the bill rate falls
+  bill $240/h  integrator net   15,750  customer pays   42,000
+  bill $200/h  integrator net    8,750  customer pays   35,000
+  bill $180/h  integrator net    5,250  customer pays   31,500
+  bill $150/h  integrator net        0  customer pays   26,250
+  bill $140/h  integrator net   -1,750  customer pays   24,500
+  the duration incentive turns only when the bill rate falls to the loaded cost

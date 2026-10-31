@@ -1,0 +1,4 @@
+=== exercise a ===
+resolve_pin with regions ('europe-west4', 'us-central1') -> us-central1, extract-2026-04
+deployed there: 12/14, failing M1 C1; accuracy 89.3%
+the pin resolved; the residency check (M1) and the policy scan (C1) are what stop it

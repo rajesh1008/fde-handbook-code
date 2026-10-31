@@ -1,0 +1,125 @@
+{
+ "stem": "fig20-10",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch20/fig20_10_cost.py",
+ "source_sha1": "1723d776c4d8",
+ "data": "04-code/ch20/output/cost_estate.txt (stand-in rates and volumes)",
+ "png_px": [
+  1650,
+  1170
+ ],
+ "rendered": "2026-10-31 20:49 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.9,
+ "aspect": 1.41,
+ "min_font_pt": 9.0,
+ "label_words": 20,
+ "contrast_pairs": [
+  [
+   "USD 0.056",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "USD 0.267",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "USD 0.036",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Caldwell\nAWS",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Greystone\nAzure",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "Pennant\nGoogle Cloud",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "USD per scored document",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.00",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.05",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.15",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0.35",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "model calls",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "fixed, spread over volume",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

@@ -1,0 +1,107 @@
+{
+ "stem": "fig11-10",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch11/fig11_10_status_anatomy.py",
+ "source_sha1": "ca2f65a580b9",
+ "data": "04-code/ch11 lab",
+ "png_px": [
+  1650,
+  1380
+ ],
+ "rendered": "2026-10-31 20:09 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.6,
+ "aspect": 1.196,
+ "min_font_pt": 10.0,
+ "label_words": 25,
+ "contrast_pairs": [
+  [
+   "headline",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "slip, cause, date",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "done",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "acceptance only",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "in progress",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "blockers",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "owner, age, date",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "risks",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "trigger",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "decisions needed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "owner, date",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "next week",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "computed color",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gates line",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

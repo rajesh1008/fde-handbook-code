@@ -1,0 +1,31 @@
+REUSE ROUTING, DAY 30  (six field fixes x three homes)
+  layout-family     Pennant Logistics: carrier layout family detector (41 layouts -> 6 families)
+      vendor     product backlog                       open: accepted, not released
+      integrator method library                        open until reused on a second engagement
+      lab        partner or reference implementation   outside the lab
+  referral-form     Greystone Health: new referral form type
+      vendor     product backlog                       closed: released
+      integrator method library                        open until reused on a second engagement
+      lab        partner or reference implementation   outside the lab
+  sso-groups        Greystone Health: map customer directory groups to product roles
+      vendor     product backlog                       open: accepted, not released
+      integrator method library                        open until reused on a second engagement
+      lab        partner or reference implementation   outside the lab
+  handwritten-dates Pennant Logistics: handwritten delivery dates misread
+      vendor     eval set + model choice review        open: no upstream to send it to
+      integrator client deliverable                    closed at hand-over
+      lab        research feedback (eval case)         open until the model team accepts it
+  fax-deskew        Caldwell Mutual: deskew fax pages before extraction
+      vendor     product backlog                       open: not accepted
+      integrator method library                        open until reused on a second engagement
+      lab        partner or reference implementation   outside the lab
+  ledger-export     Greystone Health: export to the managed-service provider's ticket format
+      vendor     engagement repo (custom code)         open: support must carry it
+      integrator client deliverable                    closed at hand-over
+      lab        partner or reference implementation   outside the lab
+NORTHLIGHT (vendor) DAY-30 COUNT
+  closed: released                    1
+  open: accepted, not released        2
+  open: not accepted                  1
+  open: support must carry it         1
+  open: no upstream to send it to     1

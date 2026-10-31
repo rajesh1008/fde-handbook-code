@@ -1,0 +1,15 @@
+ARCHITECTURE AND CONTROL CLINIC  Greystone Health  days 30-40 (4 sessions)
+  day 30  SQ-01  decision (Sam Oakley)           Where do referral documents rest, and under whose key?
+  day 30  SQ-02  decision (Sam Oakley)           Is any protected health information sent outside the Greystone tenant?
+  day 30  SQ-03  action Laura Finch by day 37    Who can read traces that contain protected health information?
+  day 33  SQ-04  decision (Sam Oakley)           Do Northlight engineers get break-glass access to production?
+  day 33  SQ-05  action Marcus Bell by day 44    Does the business associate agreement cover the model service?
+  day 33  SQ-06  decision (Sam Oakley)           Who approves a prompt change on the referral path?
+  day 37  SQ-07  action Michael Hart by day 51   How long are drafts retained after a referral closes?
+  day 37  SQ-08  action Sam Oakley by day 41     Where does the audit log go, and in what format?
+  day 37  SQ-09  action Sam Oakley by day 60     Is there a penetration test before any pilot?
+  day 40  SQ-10  action Marcus Bell by day 47    How fast is Greystone told about an incident?
+  day 40  SQ-11  decision (Sam Oakley)           Which network path does the model call take?
+  day 40  SQ-12  NO OUTCOME                      Is a model draft ever written into the EHR?
+           FLAG  left the room without a decision or a dated owner action
+items 12: decisions 5, dated actions 6, flagged 1; questions from the security list with an outcome: 11 of 41

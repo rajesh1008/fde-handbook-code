@@ -1,0 +1,179 @@
+{
+ "stem": "fig16-10",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch16/fig16_10_allocation.py",
+ "source_sha1": "03ebdca972d1",
+ "data": "04-code/ch16/output/sample_plan.txt",
+ "png_px": [
+  1650,
+  1260
+ ],
+ "rendered": "2026-10-31 19:28 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.2,
+ "aspect": 1.31,
+ "min_font_pt": 9.0,
+ "label_words": 40,
+ "contrast_pairs": [
+  [
+   "20 drawn, weight 0.45",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "29 drawn, weight 0.67",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "34 drawn, weight 1.01",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "40 drawn, weight 1.01",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "44 drawn, weight 1.02",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "45 drawn, weight 1.10",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "44 drawn, weight 1.12",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "44 drawn, weight 1.19",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "share (%)",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "0",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "5",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "10",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "15",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "20",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "25",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "30",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "first notice, mail",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "first notice, fax",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "first notice, email",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "repair estimate",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "police report",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "photo log",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "adjuster note",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "medical bill",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "quarter's files (14,200)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "gold-set draw (300)",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

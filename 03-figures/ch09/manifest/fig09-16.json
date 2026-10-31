@@ -1,0 +1,65 @@
+{
+ "stem": "fig09-16",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch09/fig09_16_slide.py",
+ "source_sha1": "ead54af49b8f",
+ "data": "04-code/ch09 lab",
+ "png_px": [
+  1650,
+  1200
+ ],
+ "rendered": "2026-10-31 19:54 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.0,
+ "aspect": 1.375,
+ "min_font_pt": 10.0,
+ "label_words": 24,
+ "contrast_pairs": [
+  [
+   "the slide as bought",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "the slide as built",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "one agent reads,\ndecides and f",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "claims assistant",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "checks\n9 steps",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "models\n3 steps",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "adjuster decides",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

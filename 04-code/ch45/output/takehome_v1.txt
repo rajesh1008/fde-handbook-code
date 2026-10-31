@@ -1,0 +1,7 @@
+fix the failing ingest                     weight 0.20  agent-solvable
+find the conflict in the constraint memo   weight 0.25  needs the candidate
+the three questions for the customer       weight 0.20  needs the candidate
+decision log: what was not built           weight 0.15  needs the candidate
+30-minute review conversation              weight 0.20  needs the candidate
+agent-only baseline 1.60 against bar 3.0; weight that needs the candidate 0.80
+valid: the bar needs the candidate

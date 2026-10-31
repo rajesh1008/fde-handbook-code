@@ -1,0 +1,4 @@
+1 forwarded suite token:   600/600 turns refused at the brain (audience mismatch)
+2 service role nl-brain-svc: 86 of 3,000 results the adjuster may not read (legal hold 31, siu 55)
+3 on-behalf-of + recheck:   0 results the adjuster may not read; 86 withheld by the sources
+   exchanges 1620, cache hits 1980 (55.0%), added latency per turn mean 45 ms, max 95 ms

@@ -1,0 +1,19 @@
+Sofia Brennan (for Senior FDE, month 12): READY
+  ok  workstream to Build Complete         need 2, have 2
+  ok  discovery session run alone          need 3, have 3
+  ok  gate passed as lead                  need 1, have 1
+  ok  hand-over led (readiness >= 0.80)    need 1, have 1
+  ok  named customer reference             need 1, have 2
+Callum Reid (for Senior FDE, month 12): NOT YET
+  ok  workstream to Build Complete         need 2, have 2
+  ok  discovery session run alone          need 3, have 6
+  ok  gate passed as lead                  need 1, have 1
+  gap hand-over led (readiness >= 0.80)    need 1, have 0
+  ok  named customer reference             need 1, have 1
+packet P-3 (for Senior FDE, failure injection): NOT YET
+  gap workstream to Build Complete         need 2, have 1
+  gap discovery session run alone          need 3, have 0
+  gap gate passed as lead                  need 1, have 0
+  gap hand-over led (readiness >= 0.80)    need 1, have 0
+  gap named customer reference             need 1, have 0
+  not evidence (ignored): commits 412, pull requests 38, demos given 9, hours logged 1860, tickets closed 141

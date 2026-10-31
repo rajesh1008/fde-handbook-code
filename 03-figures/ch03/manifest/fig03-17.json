@@ -1,0 +1,101 @@
+{
+ "stem": "fig03-17",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch03/figures.py",
+ "source_sha1": "6bf27462d7f1",
+ "data": null,
+ "png_px": [
+  1650,
+  1527
+ ],
+ "rendered": "2026-10-31 19:13 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 5.093,
+ "aspect": 1.08,
+ "min_font_pt": 9.5,
+ "label_words": 21,
+ "contrast_pairs": [
+  [
+   "caldwell-repo/",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "  ENGAGEMENT.md",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "customer and layer",
+   "#5f6772",
+   "#ffffff",
+   5.72
+  ],
+  [
+   "  notes/",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "who said what",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "  decisions/",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "owner, due day",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "  access/",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "owner, blocks",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "  evidence/",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "scorer, documents",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "  status/",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "generated",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 5.72
+}

@@ -1,0 +1,59 @@
+{
+ "stem": "fig50-16",
+ "kind": "diagram",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch50/fig50_16_release_two.py",
+ "source_sha1": "9d57e4668d26",
+ "data": "04-code/ch50/output/boundary.txt",
+ "png_px": [
+  1650,
+  1140
+ ],
+ "rendered": "2026-11-01 00:34 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 3.8,
+ "aspect": 1.447,
+ "min_font_pt": 9.5,
+ "label_words": 33,
+ "contrast_pairs": [
+  [
+   "Marsh: reclassify\nwith writes",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Shaw: write path\narchitecture",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Okafor: op risk,\nSchedule D",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "Dubois: contract\namendment",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "write to origination, uat firs",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "dashed: not signed as of day 1",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

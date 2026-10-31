@@ -1,0 +1,24 @@
+live claim CLM-2026-118342 (shadow, day 104): supply line, cause code blank, review screen asks the manual
+query: 'water loss supply line cause code blank desk adjuster before field inspection'
+
+-- before: library ingested as exported, every file treated as current
+  1. CM-WL-07-v2  effective 20220601  Water loss. Cause code for supply line losses: the cause code is optional at first notice of...
+  2. CM-WL-07-v3  effective 20240901  Water loss. A cause code is required on every water loss, supply line losses included, befor...
+  3. CM-WL-07-v1  effective 20190301  Water loss. Cause code for supply line and water heater losses: the desk adjuster selects a ...
+  drafted note: 'cause code may stay blank until field inspection' -> contradicts V-118; Tom Whitfield flagged it
+
+68 documents have more than one version in the folder; 24 of Anne's questions are version-sensitive (+1 live)
+treatment                                    older version above current draft above current
+as exported (no lifecycle)                                      16 of 25             0 of 25
+newest effective date boosted (recency 1.0)                      0 of 25             1 of 25
+lifecycle register, filtered before ranking                      0 of 25             0 of 25
+
+register signed by Joan Mercer day 106: 103 files superseded, 1 draft
+
+-- after: same query, same day
+  1. [CM-WL-07-v3 · water loss CM-WL-07 · effective 2024-09-01]
+  2. [CM-WL00-02-v3 · water loss CM-WL00-02 · effective 2023-03-01]
+  3. [CM-WAH01-07-v1 · wind and hail CM-WAH01-07 · effective 2019-03-01]
+
+-- a reopened 2023 claim asks what applied on its handling date (as_of 2023-08-15)
+  [CM-WL-07-v2 · water loss CM-WL-07 · effective 2022-06-01] SUPERSEDED by CM-WL-07-v3 on 2024-09-01; do not apply to work after that date.

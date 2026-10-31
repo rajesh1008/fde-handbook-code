@@ -1,0 +1,3 @@
+Try 1: rerun the evidence check on the day the pilot would start.
+  day 103: 34 of 41 pass; expired evidence under SQ-09, SQ-31, SQ-35
+  day 131: 32 of 41 pass; expired evidence under SQ-02, SQ-09, SQ-24, SQ-31, SQ-35

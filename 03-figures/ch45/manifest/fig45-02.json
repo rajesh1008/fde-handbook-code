@@ -1,0 +1,161 @@
+{
+ "stem": "fig45-02",
+ "kind": "plot",
+ "tool": "matplotlib",
+ "style": "book.mplstyle",
+ "source": "03-figures/src/ch45/fig45_02_v1coverage.py",
+ "source_sha1": "2d0c6345956b",
+ "data": "04-code/ch45/output/loop_v1.txt",
+ "png_px": [
+  1650,
+  1320
+ ],
+ "rendered": "2026-11-01 00:03 IST",
+ "problems": [],
+ "width_in": 5.5,
+ "height_in": 4.4,
+ "aspect": 1.25,
+ "min_font_pt": 9.0,
+ "label_words": 30,
+ "contrast_pairs": [
+  [
+   "self-report",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "observed",
+   "#1e2329",
+   "#ffffff",
+   15.82
+  ],
+  [
+   "discovery",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "decompo-\nsition",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "build",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "judgment",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "communication",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "S1  30 min",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "T1  60 min",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "S2  45 min",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "D1  60 min",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "H1  45 min",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ],
+  [
+   "C1  45 min",
+   "#1e2329",
+   "#FFFFFF",
+   15.82
+  ]
+ ],
+ "min_contrast": 15.82
+}

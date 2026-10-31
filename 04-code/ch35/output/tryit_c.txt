@@ -1,0 +1,2 @@
+  G3   backups                      cannot erase one subject within 30 days
+c: longest erasure path 35 days

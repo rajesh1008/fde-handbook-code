@@ -1,0 +1,10 @@
+c06-p4: one line added to the prompt (supplement on an existing claim = none), same day, $0 training
+  supplement test set (80): 75 filed as none; Anne's set under the new rule: 796/900
+c06-ft: retrain with k relabeled supplement examples (history supplements relabeled first)
+    k   supplements filed none   Anne new rule
+    0                  1 / 80         831 / 900
+   25                  6 / 80         831 / 900
+   50                 22 / 80         831 / 900
+  100                 58 / 80         832 / 900
+  200                 73 / 80         826 / 900
+each retrain: about 41 minutes and $2.10 of compute, then revalidation on Anne's set before it can ship

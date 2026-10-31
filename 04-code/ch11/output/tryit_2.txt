@@ -1,0 +1,22 @@
+TRY 2: the same map on day 12 and day 33
+Your customer map, day 12, checked day 12: 4 people
+  sponsor   VP who signed
+  operator  AP clerk lead
+  blocker   Internal audit
+  approver  IT director
+  owner     IT director
+  champion  AP clerk lead
+  naive score 1.00   gated score 1.00   verdict USABLE
+
+Your customer map, day 12, checked day 33: 4 people
+  sponsor   VP who signed
+  operator  AP clerk lead
+  blocker   Internal audit
+  approver  IT director
+  owner     IT director
+  champion  AP clerk lead
+  WARN  stale               VP who signed (sponsor): last contact day 10, 23 days ago, limit 14
+  WARN  stale               IT director (approver/owner): last contact day 11, 22 days ago, limit 14
+  WARN  stale               AP clerk lead (operator): last contact day 9, 24 days ago, limit 10
+  WARN  stale               Internal audit (blocker): last contact day 8, 25 days ago, limit 10
+  naive score 1.00   gated score 0.50   verdict USABLE

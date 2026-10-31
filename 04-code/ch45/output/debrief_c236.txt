@@ -1,0 +1,13 @@
+debrief c236
+  discovery      scores [3, 3]       median 3.0  n 2
+  decomposition  scores [3, 3]       median 3.0  n 2
+  build          scores [3, 3]       median 3.0  n 2
+  judgment       scores [3]          median 3.0  n 1
+  communication  scores [2, 4, 3]    median 3.0  n 3
+  REFUSED Sofia Brennan/S2/judgment: no evidence written
+  REFUSED Callum Reid/C1/judgment: round did not probe it
+  THIN judgment: 1 observed score(s)
+  SPLIT communication: [2, 4, 3], read the evidence before discussing
+  LATE communication: 1 score(s) written after discussion began
+  probe: judgment: schedule a 30-minute observed probe
+  decision: more evidence

@@ -1,0 +1,4 @@
+misses caldwell 1.20, greystone 1.32, pennant 1.15, fourth 1.45 -> reserve 45%
+  reserve 35%: priced 2,514 h, reserve line 108 h, fee $270,000
+  reserve 45%: priced 2,545 h, reserve line 140 h, fee $280,000
+  priced at 35%, integration lands at 1.45: margin 59.8%

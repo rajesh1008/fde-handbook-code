@@ -1,0 +1,9 @@
+months 13 to 15, no anchor rule: 7 anchor changes at 5 customers, 5 below 10 overlap days or 30 notice days
+  N08        month 13: Leo Martens to Imogen Clarke, overlap 0 d, notice 3 d
+  N08        month 14: Imogen Clarke to Sofia Brennan, overlap 2 d, notice 5 d
+  N08        month 15: Sofia Brennan to Leo Martens, overlap 0 d, notice 0 d
+  N09        month 14: Leo Martens to Sofia Brennan, overlap 4 d, notice 12 d
+  N10        month 15: Imogen Clarke to Callum Reid, overlap 6 d, notice 9 d
+  most changes: N08 with 3
+months 16 to 18, anchor rule: 3 anchor changes at 3 customers, 0 below 10 overlap days or 30 notice days
+  most changes: N12 with 1

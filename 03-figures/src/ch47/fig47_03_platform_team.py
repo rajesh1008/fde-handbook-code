@@ -1,0 +1,16 @@
+"""Figure 47.3: the platform team sits between the FDE pods and product, with one intake and one registry."""
+from _common import S, save, blank
+fig, ax = S.figure(height=4.4); blank(ax, (0, 10), (0, 7))
+S.box(ax, 0.2, 4.6, 2.6, 1.6, "pod A\ninsurance, banking", role="model", fs=9)
+S.box(ax, 0.2, 0.8, 2.6, 1.6, "pod B\nhealth, logistics", role="model", fs=9)
+S.box(ax, 3.9, 2.4, 2.4, 2.2, "platform team\nintake, registry", role="system", fs=10)
+S.box(ax, 7.4, 4.6, 2.4, 1.6, "product\nroadmap", role="approval", fs=10)
+S.box(ax, 7.4, 0.8, 2.4, 1.6, "twenty\ncustomers", role="evidence", fs=10)
+S.arrow(ax, 2.8, 5.2, 3.9, 4.1); S.arrow(ax, 2.8, 1.8, 3.9, 2.9)
+S.arrow(ax, 6.3, 4.0, 7.4, 5.2, weight="emphasis"); S.arrow(ax, 7.4, 4.9, 6.3, 3.7, ls="--")
+S.arrow(ax, 1.5, 2.4, 1.5, 4.6, ls="--")
+S.arrow(ax, 2.8, 1.2, 7.4, 1.2)
+S.label(ax, 3.5, 6.0, "field reports with code", fs=9)
+S.label(ax, 6.6, 3.0, "releases", fs=9)
+S.label(ax, 4.2, 0.4, "playbooks", fs=9)
+save(fig, 3, kind="diagram", data="04-code/ch47/world.py pods; Chapter 44 pods")
